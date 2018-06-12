@@ -2,15 +2,15 @@
 A simple minecraft pokemon server
 
 * Support version 1.12.2
-* Include pokemonMap with PixelmonAdventureMap
-* Include spigot-1.12.2 server
+* Including pokemonMap with PixelmonAdventureMap
+* Including spigot-1.12.2 server
 
-## Follow the step you will get a pokemon server(macOS)
+## Follow these steps to get your own pokemon server(macOS):
 * Install java8
 * Clone the the resprepository
 * Run `./startPM.sh`
 
-## If you want a spigot server
+## Follow these steps if you want a Spigot server:
 * Install java8
 * Clone the the resprepository
 * Run `./start.sh`
