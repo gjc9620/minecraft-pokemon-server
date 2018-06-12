@@ -14,3 +14,6 @@ A simple minecraft pokemon server
 * Install java8
 * Clone the the resprepository
 * Run `./start.sh`
+
+
+`server1.12.2/mods/Pixelmon-1.12.2-6.3.0-universal.jar`
