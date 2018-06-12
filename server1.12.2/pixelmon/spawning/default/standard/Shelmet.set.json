@@ -1,0 +1,24 @@
+{
+	"id": "Shelmet",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shelmet"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 24,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"cold_beach",
+					"stone_beach"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

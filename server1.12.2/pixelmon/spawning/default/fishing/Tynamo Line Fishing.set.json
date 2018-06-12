@@ -1,0 +1,110 @@
+{
+	"id": "Tynamo Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Tynamo"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Tynamo"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 40
+		},
+		{
+			"spec": {
+				"name": "Eelektrik"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 17,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Eelektrik"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 22,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 45
+		},
+		{
+			"spec": {
+				"name": "Eelektross"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 44,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 10
+		}
+	]
+}

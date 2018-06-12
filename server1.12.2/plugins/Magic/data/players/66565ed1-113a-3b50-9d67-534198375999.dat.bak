@@ -1,0 +1,23 @@
+id: 66565ed1-113a-3b50-9d67-534198375999
+name: mic
+created: 1528567038640
+last_cast: 0
+cooldown_expiration: 0
+last_death_location: 15.394866882677293,74.9375,244.42437043285685,world,358.2009,12.149979
+fall_protection_count: 0
+fall_protection: 0
+brush:
+  map_id: -1
+  material: dirt
+  data: 0
+  schematic: ''
+  scale: 1.0
+  erase: true
+undo: []
+spells: {}
+open_wand: false
+gave_welcome_wand: false
+data: {}
+properties:
+  version: 6
+classes: {}

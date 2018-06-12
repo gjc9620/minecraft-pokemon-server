@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Makuhita",
+  "pokemon": "Makuhita",
+  "stats": {
+    "HP": 72,
+    "Attack": 60,
+    "Defence": 30,
+    "Speed": 25,
+    "SpecialAttack": 20,
+    "SpecialDefence": 30
+  },
+  "catchRate": 180,
+  "malePercent": 75,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 87,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 86.4,
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Hariyama"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "Guts",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Focus Energy"
+    ],
+    "4": [
+      "Sand-Attack"
+    ],
+    "7": [
+      "Arm Thrust"
+    ],
+    "10": [
+      "Fake Out"
+    ],
+    "13": [
+      "Force Palm"
+    ],
+    "16": [
+      "Whirlwind"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "22": [
+      "Vital Throw"
+    ],
+    "25": [
+      "Belly Drum"
+    ],
+    "28": [
+      "SmellingSalt"
+    ],
+    "31": [
+      "Seismic Toss"
+    ],
+    "34": [
+      "Wake-Up Slap"
+    ],
+    "37": [
+      "Endure"
+    ],
+    "40": [
+      "Close Combat"
+    ],
+    "43": [
+      "Reversal"
+    ],
+    "46": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Whirlwind",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Superpower",
+    "Vacuum Wave",
+    "Belly Drum",
+    "Faint Attack",
+    "Fake Out",
+    "Foresight",
+    "Refresh",
+    "Reversal",
+    "Focus Energy",
+    "Tackle",
+    "Refresh"
+  ],
+  "eggMoves": [
+    "Bullet Punch",
+    "Chip Away",
+    "Counter",
+    "Cross Chop",
+    "Detect",
+    "Feint",
+    "Focus Punch",
+    "Foresight",
+    "Helping Hand",
+    "Revenge",
+    "Wake-Up Slap",
+    "Wide Guard",
+    "Faint Attack",
+    "DynamicPunch"
+  ],
+  "forms": {},
+  "form": -1
+}

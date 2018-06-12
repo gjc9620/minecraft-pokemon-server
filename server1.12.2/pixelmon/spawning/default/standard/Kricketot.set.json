@@ -1,0 +1,28 @@
+{
+	"id": "Kricketot",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Kricketot"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "Mudkip",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mudkip"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 2,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

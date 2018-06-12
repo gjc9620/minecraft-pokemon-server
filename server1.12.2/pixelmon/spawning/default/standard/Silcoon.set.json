@@ -1,0 +1,27 @@
+{
+	"id": "Silcoon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Silcoon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 6,
+			"maxLevel": 11,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

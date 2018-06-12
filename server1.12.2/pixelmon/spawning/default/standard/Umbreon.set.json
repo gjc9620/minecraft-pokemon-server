@@ -1,0 +1,25 @@
+{
+	"id": "Umbreon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Umbreon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 45,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"MIDNIGHT"
+				],
+				"stringBiomes": [
+					"minecraft:plains"
+				]
+			},
+			"rarity": 5
+		}
+	]
+}

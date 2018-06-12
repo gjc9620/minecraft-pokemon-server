@@ -1,0 +1,270 @@
+{
+  "pixelmonName": "Blastoise",
+  "pokemon": "Blastoise",
+  "stats": {
+    "HP": 79,
+    "Attack": 83,
+    "Defence": 100,
+    "Speed": 78,
+    "SpecialAttack": 85,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 239,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wartortle",
+    "Squirtle"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.05
+    }
+  },
+  "weight": 85.5,
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flash Cannon",
+      "Tackle",
+      "Tail Whip",
+      "Water Gun",
+      "Withdraw"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Withdraw"
+    ],
+    "13": [
+      "Bubble"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Rapid Spin"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Water Pulse"
+    ],
+    "32": [
+      "Aqua Tail"
+    ],
+    "39": [
+      "Skull Bash"
+    ],
+    "46": [
+      "Iron Defense"
+    ],
+    "53": [
+      "Rain Dance"
+    ],
+    "60": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Dark Pulse",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Focus Punch",
+    "Water Pulse",
+    "Brine",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "False Swipe",
+    "Reflect",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Block",
+    "Hydro Cannon",
+    "Iron Defense",
+    "Outrage",
+    "Signal Beam",
+    "Water Pledge",
+    "Zen Headbutt",
+    "Aqua Ring",
+    "Aura Sphere",
+    "Bite",
+    "Bubble",
+    "Fake Out",
+    "Flail",
+    "Follow Me",
+    "Foresight",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Rapid Spin",
+    "Refresh",
+    "Yawn",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Aura Sphere",
+    "Brine",
+    "Dragon Pulse",
+    "Fake Out",
+    "Flail",
+    "Foresight",
+    "Haze",
+    "Mirror Coat",
+    "Mist",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Water Spout",
+    "Yawn",
+    "Confusion"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 79,
+        "Attack": 103,
+        "Defence": 120,
+        "Speed": 78,
+        "SpecialAttack": 135,
+        "SpecialDefence": 115
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 101.1,
+      "abilities": [
+        "MegaLauncher",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

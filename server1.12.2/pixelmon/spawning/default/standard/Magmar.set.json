@@ -1,0 +1,31 @@
+{
+	"id": "Magmar",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Magmar"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:magmarizer",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Gloom",
+  "pokemon": "Gloom",
+  "stats": {
+    "HP": 60,
+    "Attack": 65,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 29,
+  "baseExp": 132,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.8,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Oddish"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 8.6,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Vileplume"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Bellossom"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Stench"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Sweet Scent",
+      "Acid"
+    ],
+    "5": [
+      "Sweet Scent"
+    ],
+    "9": [
+      "Acid"
+    ],
+    "13": [
+      "Poison Powder"
+    ],
+    "14": [
+      "Stun Spore"
+    ],
+    "15": [
+      "Sleep Powder"
+    ],
+    "19": [
+      "Mega Drain"
+    ],
+    "24": [
+      "Lucky Chant"
+    ],
+    "29": [
+      "Moonlight"
+    ],
+    "34": [
+      "Giga Drain"
+    ],
+    "39": [
+      "Toxic"
+    ],
+    "44": [
+      "Natural Gift"
+    ],
+    "49": [
+      "Petal Blizzard"
+    ],
+    "54": [
+      "Grassy Terrain"
+    ],
+    "59": [
+      "Petal Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle",
+    "Moonblast"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Flail",
+    "Ingrain",
+    "Nature Power",
+    "Razor Leaf",
+    "Secret Power",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

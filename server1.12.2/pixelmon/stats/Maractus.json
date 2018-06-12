@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Maractus",
+  "pokemon": "Maractus",
+  "stats": {
+    "HP": 75,
+    "Attack": 86,
+    "Defence": 67,
+    "Speed": 60,
+    "SpecialAttack": 106,
+    "SpecialDefence": 67
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 14,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "Chlorophyll",
+    "StormDrain"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Spiky Shield",
+      "Cotton Guard",
+      "After You",
+      "Peck",
+      "Absorb"
+    ],
+    "3": [
+      "Sweet Scent"
+    ],
+    "6": [
+      "Growth"
+    ],
+    "10": [
+      "Pin Missile"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "15": [
+      "Synthesis"
+    ],
+    "18": [
+      "Cotton Spore"
+    ],
+    "22": [
+      "Needle Arm"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "29": [
+      "Acupressure"
+    ],
+    "33": [
+      "Ingrain"
+    ],
+    "38": [
+      "Petal Dance"
+    ],
+    "42": [
+      "Sucker Punch"
+    ],
+    "45": [
+      "Sunny Day"
+    ],
+    "48": [
+      "Petal Blizzard"
+    ],
+    "50": [
+      "SolarBeam"
+    ],
+    "55": [
+      "Cotton Guard"
+    ],
+    "57": [
+      "After You"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Mega Drain",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Drain Punch",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Bounce",
+    "Endeavor",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Seed Bomb",
+    "Sucker Punch",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Growth",
+    "Leech Seed",
+    "Petal Dance",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Bounce",
+    "Bullet Seed",
+    "Leech Seed",
+    "Seed Bomb",
+    "Spikes",
+    "Wood Hammer",
+    "Worry Seed",
+    "GrassWhistle",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

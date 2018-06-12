@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Venonat",
+  "pokemon": "Venonat",
+  "stats": {
+    "HP": 60,
+    "Attack": 55,
+    "Defence": 50,
+    "Speed": 45,
+    "SpecialAttack": 40,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 21,
+  "baseExp": 75,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 30.0,
+  "evolutions": [
+    {
+      "level": 31,
+      "to": {
+        "name": "Venomoth"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "CompoundEyes",
+    "TintedLens",
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Disable",
+      "Foresight"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "11": [
+      "Confusion"
+    ],
+    "13": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Leech Life"
+    ],
+    "23": [
+      "Stun Spore"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Sleep Powder"
+    ],
+    "35": [
+      "Signal Beam"
+    ],
+    "37": [
+      "Zen Headbutt"
+    ],
+    "41": [
+      "Poison Fang"
+    ],
+    "47": [
+      "Psychic"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Flash",
+    "Struggle Bug",
+    "Swagger",
+    "Substitute",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Psywave",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Skill Swap",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "String Shot",
+    "Zen Headbutt",
+    "Agility",
+    "Baton Pass",
+    "Foresight",
+    "Morning Sun",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Bug Bite",
+    "Giga Drain",
+    "Morning Sun",
+    "Rage Powder",
+    "Screech",
+    "Secret Power",
+    "Signal Beam",
+    "Skill Swap",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

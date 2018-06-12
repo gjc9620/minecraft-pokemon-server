@@ -1,0 +1,99 @@
+{
+  "pixelmonName": "Combee",
+  "pokemon": "Combee",
+  "stats": {
+    "HP": 30,
+    "Attack": 30,
+    "Defence": 42,
+    "Speed": 70,
+    "SpecialAttack": 30,
+    "SpecialDefence": 42
+  },
+  "catchRate": 120,
+  "malePercent": 87,
+  "spawnLevel": 6,
+  "spawnLevelRange": 10,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "level": 21,
+      "to": {
+        "name": "Vespiquen"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "HoneyGather",
+    null,
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Sweet Scent",
+      "Gust"
+    ],
+    "13": [
+      "Bug Bite"
+    ],
+    "29": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Endeavor",
+    "Ominous Wind",
+    "String Shot",
+    "Tailwind",
+    "Gust"
+  ],
+  "forms": {},
+  "form": -1
+}

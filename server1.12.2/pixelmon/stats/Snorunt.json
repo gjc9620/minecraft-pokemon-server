@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Snorunt",
+  "pokemon": "Snorunt",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 50,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.7,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 50,
+    "passive": 50,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 16.8,
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Glalie"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:dawn_stone"
+      },
+      "to": {
+        "name": "Froslass"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "IceBody",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Powder Snow",
+      "Leer"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Ice Shard"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "23": [
+      "Ice Fang"
+    ],
+    "28": [
+      "Headbutt"
+    ],
+    "32": [
+      "Protect"
+    ],
+    "37": [
+      "Frost Breath"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "46": [
+      "Blizzard"
+    ],
+    "50": [
+      "Hail"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Flash",
+    "Frost Breath",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Spite",
+    "Bite",
+    "Sing",
+    "Weather Ball",
+    "Leer",
+    "Sing"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bide",
+    "Block",
+    "Disable",
+    "Fake Tears",
+    "Hex",
+    "Rollout",
+    "Spikes",
+    "Switcheroo",
+    "Weather Ball"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Glalie",
+  "pokemon": "Glalie",
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snorunt"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 30,
+    "aggressive": 70
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 256.5,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "IceBody",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sheer Cold",
+      "Powder Snow",
+      "Leer",
+      "Double Team",
+      "Ice Shard"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Ice Shard"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "23": [
+      "Ice Fang"
+    ],
+    "28": [
+      "Headbutt"
+    ],
+    "32": [
+      "Protect"
+    ],
+    "37": [
+      "Frost Breath"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "42": [
+      "Freeze-Dry"
+    ],
+    "48": [
+      "Blizzard"
+    ],
+    "54": [
+      "Hail"
+    ],
+    "61": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Gyro Ball",
+    "Bulldoze",
+    "Frost Breath",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Iron Head",
+    "Signal Beam",
+    "Spite",
+    "Super Fang",
+    "Bite",
+    "Sheer Cold",
+    "Sing",
+    "Weather Ball",
+    "Leer",
+    "Sing"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bide",
+    "Block",
+    "Disable",
+    "Fake Tears",
+    "Hex",
+    "Rollout",
+    "Spikes",
+    "Switcheroo",
+    "Weather Ball"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defence": 80,
+        "Speed": 100,
+        "SpecialAttack": 120,
+        "SpecialDefence": 80
+      },
+      "height": 2.1,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 350.2,
+      "abilities": [
+        "Refrigerate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

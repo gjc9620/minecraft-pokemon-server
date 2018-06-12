@@ -1,0 +1,27 @@
+{
+	"id": "Lapras",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lapras"
+			},
+			"stringLocationTypes": [
+				"Surface Water"
+			],
+			"minLevel": 20,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"frozen_ocean",
+					"cold_beach"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

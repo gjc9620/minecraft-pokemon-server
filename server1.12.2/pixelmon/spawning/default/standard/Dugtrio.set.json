@@ -1,0 +1,38 @@
+{
+	"id": "Dugtrio",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dugtrio"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 26,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 80.0
+		},
+		{
+			"spec": {
+				"name": "Dugtrio"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"condition": {
+				"maxY": 50
+			},
+			"minLevel": 26,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"rarity": 80.0
+		}
+	]
+}

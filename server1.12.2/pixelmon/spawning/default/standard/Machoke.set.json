@@ -1,0 +1,25 @@
+{
+	"id": "Machoke",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Machoke"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 28,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 45.0
+		}
+	]
+}

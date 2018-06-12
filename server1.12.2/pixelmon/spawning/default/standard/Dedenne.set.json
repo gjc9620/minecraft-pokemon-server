@@ -1,0 +1,28 @@
+{
+	"id": "Dedenne",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dedenne"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 12,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests",
+					"redwoods",
+					"taigas"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

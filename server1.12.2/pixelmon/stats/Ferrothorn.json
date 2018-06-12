@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Ferrothorn",
+  "pokemon": "Ferrothorn",
+  "stats": {
+    "HP": 74,
+    "Attack": 94,
+    "Defence": 131,
+    "Speed": 20,
+    "SpecialAttack": 54,
+    "SpecialDefence": 116
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 12,
+  "baseExp": 171,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ferroseed"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 110.0,
+  "evolutions": [],
+  "abilities": [
+    "IronBarbs",
+    null,
+    "Anticipation"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rock Climb",
+      "Tackle",
+      "Harden",
+      "Rollout",
+      "Curse"
+    ],
+    "6": [
+      "Rollout"
+    ],
+    "9": [
+      "Curse"
+    ],
+    "14": [
+      "Metal Claw"
+    ],
+    "18": [
+      "Pin Missile"
+    ],
+    "21": [
+      "Gyro Ball"
+    ],
+    "26": [
+      "Iron Defense"
+    ],
+    "30": [
+      "Mirror Shot"
+    ],
+    "35": [
+      "Ingrain"
+    ],
+    "38": [
+      "Selfdestruct"
+    ],
+    "40": [
+      "Power Whip"
+    ],
+    "46": [
+      "Iron Head"
+    ],
+    "53": [
+      "Payback"
+    ],
+    "61": [
+      "Flash Cannon"
+    ],
+    "67": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Selfdestruct",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Stealth Rock",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Magnet Rise",
+    "Seed Bomb",
+    "Worry Seed",
+    "Leech Seed",
+    "Harden",
+    "Tackle",
+    "Block"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Bullet Seed",
+    "Gravity",
+    "Leech Seed",
+    "Rock Climb",
+    "Seed Bomb",
+    "Spikes",
+    "Stealth Rock",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": -1
+}

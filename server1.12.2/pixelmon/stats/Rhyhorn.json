@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Rhyhorn",
+  "pokemon": "Rhyhorn",
+  "stats": {
+    "HP": 80,
+    "Attack": 85,
+    "Defence": 95,
+    "Speed": 25,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 14,
+  "baseExp": 135,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 70,
+    "passive": 0,
+    "aggressive": 30
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 115.0,
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Rhydon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LightningRod",
+    "RockHead",
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Horn Attack",
+      "Tail Whip"
+    ],
+    "5": [
+      "Fury Attack"
+    ],
+    "9": [
+      "Scary Face"
+    ],
+    "13": [
+      "Smack Down"
+    ],
+    "17": [
+      "Stomp"
+    ],
+    "21": [
+      "Bulldoze"
+    ],
+    "25": [
+      "Chip Away"
+    ],
+    "29": [
+      "Rock Blast"
+    ],
+    "33": [
+      "Drill Run"
+    ],
+    "37": [
+      "Take Down"
+    ],
+    "41": [
+      "Stone Edge"
+    ],
+    "45": [
+      "Earthquake"
+    ],
+    "49": [
+      "Megahorn"
+    ],
+    "53": [
+      "Horn Drill"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Horn Drill",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Dragon Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide",
+    "Smack Down"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Drill Run",
+    "Earth Power",
+    "Endeavor",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Crush Claw",
+    "Fury Attack",
+    "Pursuit",
+    "Reversal",
+    "Scary Face",
+    "Thrash",
+    "Stomp",
+    "Horn Attack",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Crunch",
+    "Crush Claw",
+    "Curse",
+    "Dragon Rush",
+    "Fire Fang",
+    "Guard Split",
+    "Ice Fang",
+    "Iron Tail",
+    "Magnitude",
+    "Metal Burst",
+    "Reversal",
+    "Rock Climb",
+    "Skull Bash",
+    "Thunder Fang",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

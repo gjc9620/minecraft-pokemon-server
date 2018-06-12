@@ -1,0 +1,221 @@
+{
+  "pixelmonName": "Flygon",
+  "pokemon": "Flygon",
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 80,
+    "Speed": 100,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 197,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vibrava",
+    "Trapinch"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": 1.0
+    }
+  },
+  "weight": 82.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    "Levitate",
+    "Levitate"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "SonicBoom",
+      "Sand-Attack",
+      "Faint Attack",
+      "Bide"
+    ],
+    "5": [
+      "Mud-Slap"
+    ],
+    "8": [
+      "Bulldoze"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "15": [
+      "Rock Slide"
+    ],
+    "19": [
+      "Supersonic"
+    ],
+    "22": [
+      "Screech"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Dragon Tail"
+    ],
+    "33": [
+      "Earthquake"
+    ],
+    "35": [
+      "DragonBreath"
+    ],
+    "36": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Uproar"
+    ],
+    "43": [
+      "Hyper Beam"
+    ],
+    "45": [
+      "Dragon Claw"
+    ],
+    "47": [
+      "Dragon Rush"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Giga Impact",
+    "Stone Edge",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Body Slam",
+    "Double-Edge",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Steel Wing",
+    "Fire Punch",
+    "Fury Cutter",
+    "Fury Cutter",
+    "Roost",
+    "Dragon Pulse",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Ominous Wind",
+    "Outrage",
+    "Signal Beam",
+    "Superpower",
+    "Tailwind",
+    "Twister",
+    "Bite",
+    "Faint Attack",
+    "Flail",
+    "Gust",
+    "SonicBoom",
+    "Focus Energy",
+    "Screech",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Endure",
+    "Flail",
+    "Focus Energy",
+    "Fury Cutter",
+    "Gust",
+    "Mud Shot",
+    "Quick Attack",
+    "Signal Beam"
+  ],
+  "forms": {},
+  "form": -1
+}

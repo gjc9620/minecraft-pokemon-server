@@ -1,0 +1,151 @@
+{
+  "pixelmonName": "Carbink",
+  "pokemon": "Carbink",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 150,
+    "Speed": 50,
+    "SpecialAttack": 50,
+    "SpecialDefence": 150
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 12,
+  "spawnLevelRange": 11,
+  "baseExp": 100,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 5.7,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden"
+    ],
+    "5": [
+      "Rock Throw"
+    ],
+    "8": [
+      "Sharpen"
+    ],
+    "12": [
+      "Smack Down"
+    ],
+    "18": [
+      "Reflect"
+    ],
+    "21": [
+      "Stealth Rock"
+    ],
+    "27": [
+      "Guard Split"
+    ],
+    "31": [
+      "AncientPower"
+    ],
+    "35": [
+      "Flail"
+    ],
+    "40": [
+      "Skill Swap"
+    ],
+    "46": [
+      "Power Gem"
+    ],
+    "49": [
+      "Stone Edge"
+    ],
+    "50": [
+      "Moonblast"
+    ],
+    "60": [
+      "Light Screen"
+    ],
+    "70": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Skill Swap",
+    "Snore",
+    "Stealth Rock"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Wonder Room"
+  ],
+  "forms": {},
+  "form": -1
+}

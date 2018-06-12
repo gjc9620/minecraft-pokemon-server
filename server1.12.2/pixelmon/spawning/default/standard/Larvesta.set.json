@@ -1,0 +1,25 @@
+{
+	"id": "Larvesta",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Larvesta"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"desert_hills"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

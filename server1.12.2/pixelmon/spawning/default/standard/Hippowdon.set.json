@@ -1,0 +1,25 @@
+{
+	"id": "Hippowdon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hippowdon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

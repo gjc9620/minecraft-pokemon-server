@@ -1,0 +1,25 @@
+{
+	"id": "Tauros",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Tauros"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

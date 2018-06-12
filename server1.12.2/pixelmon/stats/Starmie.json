@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Starmie",
+  "pokemon": "Starmie",
+  "stats": {
+    "HP": 60,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 115,
+    "SpecialAttack": 100,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 207,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Staryu"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 100,
+    "swimSpeed": 1.0,
+    "decayRate": 0.9,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 80.0,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "NaturalCure",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hydro Pump",
+      "Water Gun",
+      "Rapid Spin",
+      "Recover",
+      "Swift"
+    ],
+    "40": [
+      "Confuse Ray"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Water Pulse",
+    "Skill Swap",
+    "Brine",
+    "Recycle",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Twister",
+    "Wonder Room",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Harden",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

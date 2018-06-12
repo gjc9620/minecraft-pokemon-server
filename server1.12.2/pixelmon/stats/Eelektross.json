@@ -1,0 +1,141 @@
+{
+  "pixelmonName": "Eelektross",
+  "pokemon": "Eelektross",
+  "stats": {
+    "HP": 85,
+    "Attack": 115,
+    "Defence": 80,
+    "Speed": 50,
+    "SpecialAttack": 105,
+    "SpecialDefence": 80
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 53,
+  "spawnLevelRange": 11,
+  "baseExp": 232,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eelektrik",
+    "Tynamo"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 80.5,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thrash",
+      "Zap Cannon",
+      "Gastro Acid",
+      "Coil",
+      "Ion Deluge",
+      "Crush Claw",
+      "Headbutt",
+      "Acid",
+      "Discharge",
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Headbutt",
+    "Zap Cannon",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Drain Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Shock Wave",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Gastro Acid",
+    "Knock Off",
+    "Magnet Rise",
+    "Signal Beam",
+    "Super Fang",
+    "Superpower",
+    "Crush Claw",
+    "Thrash",
+    "Tackle",
+    "Dragon Pulse",
+    "Outrage",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

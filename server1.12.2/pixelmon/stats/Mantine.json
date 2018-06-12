@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Mantine",
+  "pokemon": "Mantine",
+  "stats": {
+    "HP": 65,
+    "Attack": 40,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 80,
+    "SpecialDefence": 140
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mantyke"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.7
+    }
+  },
+  "weight": 220.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "WaterAbsorb",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Psybeam",
+      "Bullet Seed",
+      "Signal Beam",
+      "Tackle",
+      "Bubble",
+      "Supersonic",
+      "BubbleBeam"
+    ],
+    "3": [
+      "Supersonic"
+    ],
+    "7": [
+      "BubbleBeam"
+    ],
+    "11": [
+      "Confuse Ray"
+    ],
+    "14": [
+      "Wing Attack"
+    ],
+    "16": [
+      "Headbutt"
+    ],
+    "19": [
+      "Water Pulse"
+    ],
+    "23": [
+      "Wide Guard"
+    ],
+    "27": [
+      "Take Down"
+    ],
+    "32": [
+      "Agility"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "39": [
+      "Aqua Ring"
+    ],
+    "46": [
+      "Bounce"
+    ],
+    "49": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Acrobatics",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Defog",
+    "Whirlpool",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Bullet Seed",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Aqua Tail",
+    "Bounce",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Head",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Agility",
+    "Aqua Ring",
+    "Air Slash",
+    "Amnesia",
+    "Bubble",
+    "Gust",
+    "Haze",
+    "Hydro Pump",
+    "Mud Sport",
+    "Splash",
+    "Water Sport",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Haze",
+    "Hydro Pump",
+    "Mirror Coat",
+    "Mud Sport",
+    "Signal Beam",
+    "Slam",
+    "Splash",
+    "Tailwind",
+    "Twister",
+    "Water Sport",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

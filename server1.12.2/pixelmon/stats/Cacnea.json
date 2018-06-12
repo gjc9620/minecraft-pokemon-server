@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Cacnea",
+  "pokemon": "Cacnea",
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 85,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 5,
+  "baseExp": 97,
+  "baseFriendship": 35,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 51.3,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Cacturne"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandVeil",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "Leer"
+    ],
+    "4": [
+      "Absorb"
+    ],
+    "7": [
+      "Growth"
+    ],
+    "10": [
+      "Leech Seed"
+    ],
+    "13": [
+      "Sand-Attack"
+    ],
+    "16": [
+      "Needle Arm"
+    ],
+    "19": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Ingrain"
+    ],
+    "26": [
+      "Payback"
+    ],
+    "30": [
+      "Spikes"
+    ],
+    "34": [
+      "Sucker Punch"
+    ],
+    "38": [
+      "Pin Missile"
+    ],
+    "42": [
+      "Energy Ball"
+    ],
+    "46": [
+      "Cotton Spore"
+    ],
+    "50": [
+      "Sandstorm"
+    ],
+    "54": [
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Punch",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Bullet Seed",
+    "Drain Punch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Low Kick",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Sucker Punch",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Encore",
+    "Faint Attack",
+    "Growth",
+    "Leech Seed",
+    "Nasty Plot",
+    "Teeter Dance",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Acid",
+    "Block",
+    "Counter",
+    "Disable",
+    "Low Kick",
+    "Magical Leaf",
+    "Nasty Plot",
+    "Seed Bomb",
+    "Switcheroo",
+    "Teeter Dance",
+    "Worry Seed",
+    "DynamicPunch",
+    "GrassWhistle",
+    "SmellingSalt",
+    "Belch",
+    "Fell Stinger",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

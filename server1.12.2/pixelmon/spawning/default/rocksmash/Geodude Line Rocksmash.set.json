@@ -1,0 +1,29 @@
+{
+    "id": "Geodude Line Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Geodude"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 2,
+            "maxLevel": 15,
+            "typeID": "pokemon",
+            "rarity": 150.0
+        },
+        {
+            "spec": {
+                "name": "Graveler"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 18,
+            "maxLevel": 33,
+            "typeID": "pokemon",
+            "rarity": 60.0
+        }
+    ]
+}

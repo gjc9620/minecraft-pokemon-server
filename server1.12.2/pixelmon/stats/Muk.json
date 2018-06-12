@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Muk",
+  "pokemon": "Muk",
+  "stats": {
+    "HP": 105,
+    "Attack": 105,
+    "Defence": 75,
+    "Speed": 50,
+    "SpecialAttack": 65,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 157,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grimer"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 1
+  },
+  "weight": 30.0,
+  "evolutions": [],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Poison Gas",
+      "Harden",
+      "Mud-Slap"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "15": [
+      "Sludge"
+    ],
+    "18": [
+      "Mud Bomb"
+    ],
+    "21": [
+      "Minimize"
+    ],
+    "26": [
+      "Fling"
+    ],
+    "29": [
+      "Sludge Bomb"
+    ],
+    "32": [
+      "Sludge Wave"
+    ],
+    "37": [
+      "Screech"
+    ],
+    "38": [
+      "Venom Drench"
+    ],
+    "40": [
+      "Gunk Shot"
+    ],
+    "46": [
+      "Acid Armor"
+    ],
+    "52": [
+      "Belch"
+    ],
+    "57": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "DynamicPunch",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Gunk Shot",
+    "Helping Hand",
+    "Pain Split",
+    "Haze",
+    "Scary Face",
+    "Harden",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Curse",
+    "Haze",
+    "Imprison",
+    "Lick",
+    "Mean Look",
+    "Scary Face",
+    "Shadow Punch",
+    "Shadow Sneak",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "forms": {},
+  "form": -1
+}

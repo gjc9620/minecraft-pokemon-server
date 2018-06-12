@@ -1,0 +1,273 @@
+{
+  "pixelmonName": "Gallade",
+  "pokemon": "Gallade",
+  "stats": {
+    "HP": 68,
+    "Attack": 125,
+    "Defence": 65,
+    "Speed": 80,
+    "SpecialAttack": 65,
+    "SpecialDefence": 115
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 20,
+  "spawnLevelRange": 45,
+  "baseExp": 208,
+  "baseFriendship": 35,
+  "types": [
+    "Psychic",
+    "Fighting"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Kirlia",
+    "Ralts"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 52.0,
+  "evolutions": [],
+  "abilities": [
+    "Steadfast",
+    null,
+    "Justified"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Stored Power",
+      "Close Combat",
+      "Leaf Blade",
+      "Night Slash",
+      "Leer",
+      "Confusion",
+      "Double Team",
+      "Teleport"
+    ],
+    "4": [
+      "Confusion"
+    ],
+    "6": [
+      "Double Team"
+    ],
+    "9": [
+      "Teleport"
+    ],
+    "11": [
+      "Quick Guard"
+    ],
+    "14": [
+      "Fury Cutter"
+    ],
+    "17": [
+      "Slash"
+    ],
+    "19": [
+      "Heal Pulse"
+    ],
+    "23": [
+      "Wide Guard"
+    ],
+    "26": [
+      "Swords Dance"
+    ],
+    "31": [
+      "Psycho Cut"
+    ],
+    "35": [
+      "Helping Hand"
+    ],
+    "40": [
+      "Feint"
+    ],
+    "44": [
+      "False Swipe"
+    ],
+    "49": [
+      "Protect"
+    ],
+    "53": [
+      "Close Combat"
+    ],
+    "58": [
+      "Stored Power"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Nightmare",
+    "Focus Punch",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Vacuum Wave",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Charm",
+    "Encore",
+    "Heal Pulse",
+    "Hypnosis",
+    "Sing",
+    "Wish",
+    "Slash",
+    "Leer",
+    "Imprison"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Encore",
+    "Grudge",
+    "Mean Look",
+    "Memento",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Synchronoise",
+    "Misty Terrain"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 68,
+        "Attack": 165,
+        "Defence": 95,
+        "Speed": 110,
+        "SpecialAttack": 65,
+        "SpecialDefence": 115
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 56.4,
+      "abilities": [
+        "InnerFocus",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

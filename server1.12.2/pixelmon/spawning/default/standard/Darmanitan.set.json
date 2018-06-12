@@ -1,0 +1,22 @@
+{
+	"id": "Darmanitan",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Darmanitan"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mutated_desert"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

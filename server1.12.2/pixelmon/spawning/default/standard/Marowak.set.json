@@ -1,0 +1,29 @@
+{
+	"id": "Marowak",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Marowak"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 28,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:thick_club",
+					"percentChance": 25
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

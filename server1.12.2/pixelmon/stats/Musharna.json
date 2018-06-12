@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Musharna",
+  "pokemon": "Musharna",
+  "stats": {
+    "HP": 116,
+    "Attack": 55,
+    "Defence": 85,
+    "Speed": 29,
+    "SpecialAttack": 107,
+    "SpecialDefence": 95
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Munna"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 60.5,
+  "evolutions": [],
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Lucky Chant",
+      "Psybeam",
+      "Hypnosis"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Psywave",
+    "Curse",
+    "Snore",
+    "Sleep Talk",
+    "Defense Curl",
+    "Nightmare",
+    "Skill Swap",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Barrier",
+    "Baton Pass",
+    "Hypnosis",
+    "SonicBoom",
+    "Yawn",
+    "Yawn",
+    "Moonlight",
+    "Imprison"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Baton Pass",
+    "Curse",
+    "Healing Wish",
+    "Helping Hand",
+    "Magic Coat",
+    "Secret Power",
+    "Sleep Talk",
+    "Swift",
+    "SonicBoom"
+  ],
+  "forms": {},
+  "form": -1
+}

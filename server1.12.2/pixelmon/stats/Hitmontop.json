@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Hitmontop",
+  "pokemon": "Hitmontop",
+  "stats": {
+    "HP": 50,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 70,
+    "SpecialAttack": 35,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tyrogue"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 48.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "Technician",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Endeavor",
+      "Close Combat",
+      "Revenge",
+      "Rolling Kick"
+    ],
+    "6": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Quick Attack"
+    ],
+    "19": [
+      "Triple Kick"
+    ],
+    "24": [
+      "Rapid Spin"
+    ],
+    "28": [
+      "Counter"
+    ],
+    "33": [
+      "Feint"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "42": [
+      "Gyro Ball"
+    ],
+    "46": [
+      "Wide Guard",
+      "Quick Guard"
+    ],
+    "50": [
+      "Detect"
+    ],
+    "55": [
+      "Close Combat"
+    ],
+    "60": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Retaliate",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Drill Run",
+    "Endeavor",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Sucker Punch",
+    "Twister",
+    "Uproar",
+    "Vacuum Wave",
+    "Agility",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foresight",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Focus Energy",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Bullet Punch",
+    "Counter",
+    "Endure",
+    "Feint",
+    "Helping Hand",
+    "Mach Punch",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Vacuum Wave",
+    "Hi Jump Kick"
+  ],
+  "forms": {},
+  "form": -1
+}

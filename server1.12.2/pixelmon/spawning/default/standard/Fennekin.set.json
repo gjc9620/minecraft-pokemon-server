@@ -1,0 +1,25 @@
+{
+	"id": "Fennekin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Fennekin"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

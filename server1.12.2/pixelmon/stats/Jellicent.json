@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Jellicent",
+  "pokemon": "Jellicent",
+  "stats": {
+    "HP": 100,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 60,
+    "SpecialAttack": 85,
+    "SpecialDefence": 105
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 16,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ghost"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Frillish"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 135.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "CursedBody",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Spout",
+      "Wring Out",
+      "Bubble",
+      "Water Sport",
+      "Absorb",
+      "Night Shade"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Night Shade"
+    ],
+    "13": [
+      "BubbleBeam"
+    ],
+    "17": [
+      "Recover"
+    ],
+    "22": [
+      "Water Pulse"
+    ],
+    "27": [
+      "Ominous Wind"
+    ],
+    "32": [
+      "Brine"
+    ],
+    "37": [
+      "Rain Dance"
+    ],
+    "45": [
+      "Hex"
+    ],
+    "53": [
+      "Hydro Pump"
+    ],
+    "61": [
+      "Wring Out"
+    ],
+    "69": [
+      "Water Spout"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "BubbleBeam",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Dark Pulse",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Water Pulse",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Absorb",
+    "Bubble",
+    "Hydro Pump",
+    "Mist",
+    "Night Shade",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Confuse Ray",
+    "Constrict",
+    "Mist",
+    "Pain Split",
+    "Recover"
+  ],
+  "forms": {},
+  "form": -1
+}

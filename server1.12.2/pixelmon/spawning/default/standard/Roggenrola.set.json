@@ -1,0 +1,40 @@
+{
+	"id": "Roggenrola",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Roggenrola"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 7,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 150.0
+		},
+		{
+			"spec": {
+				"name": "Roggenrola"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 7,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 55
+			},
+			"rarity": 60
+		}
+	]
+}

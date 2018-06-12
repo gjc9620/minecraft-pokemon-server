@@ -1,0 +1,27 @@
+{
+	"id": "Timburr",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Timburr"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 24,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mountainous",
+					"birch_forest",
+					"forests"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

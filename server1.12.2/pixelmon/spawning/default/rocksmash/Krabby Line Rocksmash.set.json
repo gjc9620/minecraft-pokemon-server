@@ -1,0 +1,29 @@
+{
+    "id": "Krabby Line Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Krabby"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 2,
+            "maxLevel": 15,
+            "typeID": "pokemon",
+            "rarity": 90.0
+        },
+        {
+            "spec": {
+                "name": "Kingler"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 18,
+            "maxLevel": 33,
+            "typeID": "pokemon",
+            "rarity": 30.0
+        }
+    ]
+}

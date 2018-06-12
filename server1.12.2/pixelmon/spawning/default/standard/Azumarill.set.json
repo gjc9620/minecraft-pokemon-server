@@ -1,0 +1,39 @@
+{
+	"id": "Azumarill",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Azumarill"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 18,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:sea_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"baseBlocks": [
+					"minecraft:sand"
+				],
+				"neededNearbyBlocks": [
+					"water"
+				],
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"river"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

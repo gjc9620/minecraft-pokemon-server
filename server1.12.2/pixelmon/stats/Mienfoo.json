@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Mienfoo",
+  "pokemon": "Mienfoo",
+  "stats": {
+    "HP": 45,
+    "Attack": 85,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 55,
+    "SpecialDefence": 50
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 11,
+  "baseExp": 70,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Mienshao"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 50,
+      "to": {
+        "name": "Mienshao"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "Regenerator",
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "5": [
+      "Meditate"
+    ],
+    "9": [
+      "Detect"
+    ],
+    "13": [
+      "Fake Out"
+    ],
+    "17": [
+      "DoubleSlap"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "25": [
+      "Calm Mind"
+    ],
+    "29": [
+      "Force Palm"
+    ],
+    "33": [
+      "Drain Punch"
+    ],
+    "37": [
+      "Jump Kick"
+    ],
+    "41": [
+      "U-Turn"
+    ],
+    "45": [
+      "Quick Guard"
+    ],
+    "49": [
+      "Bounce"
+    ],
+    "50": [
+      "Hi Jump Kick"
+    ],
+    "57": [
+      "Reversal"
+    ],
+    "61": [
+      "Aura Sphere"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Ally Switch",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Drain Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Aura Sphere",
+    "Baton Pass",
+    "DoubleSlap",
+    "Fake Out",
+    "Reversal"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Baton Pass",
+    "Endure",
+    "Feint",
+    "Knock Off",
+    "Low Kick",
+    "Me First",
+    "Vital Throw",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

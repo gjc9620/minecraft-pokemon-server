@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Zapdos",
+  "pokemon": "Zapdos",
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defence": 85,
+    "Speed": 100,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 216,
+  "baseFriendship": 35,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.6
+    }
+  },
+  "weight": 52.6,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Static"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Roost",
+      "Zap Cannon",
+      "Drill Peck",
+      "Peck",
+      "ThunderShock"
+    ],
+    "8": [
+      "Thunder Wave"
+    ],
+    "15": [
+      "Detect"
+    ],
+    "22": [
+      "Pluck"
+    ],
+    "29": [
+      "AncientPower"
+    ],
+    "36": [
+      "Charge"
+    ],
+    "43": [
+      "Agility"
+    ],
+    "50": [
+      "Discharge"
+    ],
+    "57": [
+      "Rain Dance"
+    ],
+    "64": [
+      "Light Screen"
+    ],
+    "71": [
+      "Drill Peck"
+    ],
+    "78": [
+      "Thunder"
+    ],
+    "85": [
+      "Roost"
+    ],
+    "92": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Sky Drop",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Shock Wave",
+    "Roost",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Heat Wave",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Baton Pass",
+    "Extrasensory",
+    "Metal Sound",
+    "Peck"
+  ],
+  "forms": {},
+  "form": -1
+}

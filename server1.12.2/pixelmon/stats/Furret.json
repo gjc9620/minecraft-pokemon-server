@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Furret",
+  "pokemon": "Furret",
+  "stats": {
+    "HP": 85,
+    "Attack": 76,
+    "Defence": 64,
+    "Speed": 90,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 116,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sentret"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 32.5,
+  "evolutions": [],
+  "abilities": [
+    "RunAway",
+    "KeenEye",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Foresight",
+      "Defense Curl",
+      "Quick Attack"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "7": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Helping Hand"
+    ],
+    "21": [
+      "Follow Me"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Rest"
+    ],
+    "36": [
+      "Sucker Punch"
+    ],
+    "42": [
+      "Amnesia"
+    ],
+    "46": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Me First"
+    ],
+    "56": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Sucker Punch",
+    "Super Fang",
+    "Trick",
+    "Uproar",
+    "Amnesia",
+    "Baton Pass",
+    "Charm",
+    "Dizzy Punch",
+    "Follow Me",
+    "Foresight",
+    "Pursuit",
+    "Reversal",
+    "Focus Energy",
+    "Tackle",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Double-Edge",
+    "Focus Energy",
+    "Iron Tail",
+    "Last Resort",
+    "Natural Gift",
+    "Pursuit",
+    "Reversal",
+    "Slash",
+    "Trick"
+  ],
+  "forms": {},
+  "form": -1
+}

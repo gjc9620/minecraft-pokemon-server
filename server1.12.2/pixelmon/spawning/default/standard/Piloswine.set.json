@@ -1,0 +1,27 @@
+{
+	"id": "Piloswine",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Piloswine"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 33,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"ice_flats",
+					"ice_mountains",
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

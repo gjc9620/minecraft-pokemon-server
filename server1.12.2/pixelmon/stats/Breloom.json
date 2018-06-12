@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Breloom",
+  "pokemon": "Breloom",
+  "stats": {
+    "HP": 60,
+    "Attack": 130,
+    "Defence": 80,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 42,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Shroomish"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 39.2,
+  "evolutions": [],
+  "abilities": [
+    "EffectSpore",
+    "PoisonHeal",
+    "Technician"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle",
+      "Stun Spore",
+      "Leech Seed",
+      "Tackle"
+    ],
+    "5": [
+      "Stun Spore"
+    ],
+    "8": [
+      "Leech Seed"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "19": [
+      "Feint"
+    ],
+    "22": [
+      "Counter"
+    ],
+    "23": [
+      "Mach Punch"
+    ],
+    "28": [
+      "Force Palm"
+    ],
+    "33": [
+      "Mind Reader"
+    ],
+    "39": [
+      "Sky Uppercut"
+    ],
+    "44": [
+      "Seed Bomb"
+    ],
+    "50": [
+      "DynamicPunch"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Swords Dance",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mega Drain",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Bullet Seed",
+    "Snatch",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Seed Bomb",
+    "Superpower",
+    "Synthesis",
+    "Vacuum Wave",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Growth",
+    "Leech Seed",
+    "Mind Reader",
+    "Refresh",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Charm",
+    "Drain Punch",
+    "Fake Tears",
+    "Focus Punch",
+    "Helping Hand",
+    "Natural Gift",
+    "Seed Bomb",
+    "Wake-Up Slap",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Chimchar",
+  "pokemon": "Chimchar",
+  "stats": {
+    "HP": 44,
+    "Attack": 58,
+    "Defence": 44,
+    "Speed": 61,
+    "SpecialAttack": 58,
+    "SpecialDefence": 44
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 8,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 6.2,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Monferno"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Leer"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Taunt"
+    ],
+    "15": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Flame Wheel"
+    ],
+    "23": [
+      "Nasty Plot"
+    ],
+    "25": [
+      "Torment"
+    ],
+    "31": [
+      "Facade"
+    ],
+    "33": [
+      "Fire Spin"
+    ],
+    "39": [
+      "Acrobatics"
+    ],
+    "41": [
+      "Slack Off"
+    ],
+    "47": [
+      "Flamethrower"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Submission",
+    "Counter",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Fire Pledge",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Uproar",
+    "Vacuum Wave",
+    "Encore",
+    "Fake Out",
+    "Nasty Plot",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Blaze Kick",
+    "Counter",
+    "Double Kick",
+    "Encore",
+    "Fake Out",
+    "Fire Punch",
+    "Focus Energy",
+    "Focus Punch",
+    "Heat Wave",
+    "Helping Hand",
+    "Quick Guard",
+    "Submission",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

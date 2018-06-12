@@ -1,0 +1,33 @@
+{
+	"id": "Yveltal",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Yveltal",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

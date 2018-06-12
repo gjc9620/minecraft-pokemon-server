@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Staryu",
+  "pokemon": "Staryu",
+  "stats": {
+    "HP": 30,
+    "Attack": 45,
+    "Defence": 55,
+    "Speed": 85,
+    "SpecialAttack": 70,
+    "SpecialDefence": 55
+  },
+  "catchRate": 225,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 5,
+  "baseExp": 106,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 100,
+    "swimSpeed": 1.0,
+    "decayRate": 0.9,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 34.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Starmie"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Illuminate",
+    "NaturalCure",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "7": [
+      "Rapid Spin"
+    ],
+    "10": [
+      "Recover"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "16": [
+      "Swift"
+    ],
+    "18": [
+      "BubbleBeam"
+    ],
+    "22": [
+      "Camouflage"
+    ],
+    "24": [
+      "Gyro Ball"
+    ],
+    "28": [
+      "Brine"
+    ],
+    "31": [
+      "Minimize"
+    ],
+    "35": [
+      "Reflect Type"
+    ],
+    "37": [
+      "Power Gem"
+    ],
+    "40": [
+      "Confuse Ray"
+    ],
+    "42": [
+      "Psychic"
+    ],
+    "46": [
+      "Light Screen"
+    ],
+    "49": [
+      "Cosmic Power"
+    ],
+    "53": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Twister",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Harden",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

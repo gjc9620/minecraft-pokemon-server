@@ -1,0 +1,80 @@
+{
+  "pixelmonName": "Kakuna",
+  "pokemon": "Kakuna",
+  "stats": {
+    "HP": 45,
+    "Attack": 25,
+    "Defence": 50,
+    "Speed": 35,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 7,
+  "spawnLevelRange": 3,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.6,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Weedle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 10.0,
+  "evolutions": [
+    {
+      "level": 10,
+      "to": {
+        "name": "Beedrill"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Harden"
+    ],
+    "7": [
+      "Harden"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "String Shot",
+    "Harden"
+  ],
+  "forms": {},
+  "form": -1
+}

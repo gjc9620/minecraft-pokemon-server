@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Baltoy",
+  "pokemon": "Baltoy",
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 55,
+    "Speed": 55,
+    "SpecialAttack": 40,
+    "SpecialDefence": 70
+  },
+  "catchRate": 255,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 5,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 21.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Claydol"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Confusion"
+    ],
+    "4": [
+      "Rapid Spin"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "10": [
+      "Heal Block"
+    ],
+    "13": [
+      "Rock Tomb"
+    ],
+    "16": [
+      "Psybeam"
+    ],
+    "19": [
+      "AncientPower"
+    ],
+    "22": [
+      "Cosmic Power"
+    ],
+    "25": [
+      "Power Trick"
+    ],
+    "28": [
+      "Selfdestruct"
+    ],
+    "31": [
+      "Extrasensory"
+    ],
+    "34": [
+      "Guard Split",
+      "Power Split"
+    ],
+    "37": [
+      "Earth Power"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "43": [
+      "Imprison"
+    ],
+    "46": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Ally Switch",
+    "Charge Beam",
+    "Explosion",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Drill Run",
+    "Earth Power",
+    "Gravity",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Rapid Spin",
+    "Refresh",
+    "Harden",
+    "Refresh"
+  ],
+  "forms": {},
+  "form": -1
+}

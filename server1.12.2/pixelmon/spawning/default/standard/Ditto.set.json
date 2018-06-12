@@ -1,0 +1,35 @@
+{
+	"id": "Ditto",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ditto"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:metal_powder",
+					"percentChance": 12
+				},
+				{
+					"itemID": "pixelmon:quick_powder",
+					"percentChance": 12
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

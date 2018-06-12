@@ -1,0 +1,22 @@
+{
+	"id": "Aggron",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Aggron"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

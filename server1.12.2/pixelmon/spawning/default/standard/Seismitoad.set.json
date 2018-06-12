@@ -1,0 +1,23 @@
+{
+	"id": "Seismitoad",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Seismitoad"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 37,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

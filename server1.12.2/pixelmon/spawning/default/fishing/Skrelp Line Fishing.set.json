@@ -1,0 +1,59 @@
+{
+	"id": "Skrelp Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Skrelp"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 24,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"ocean",
+					"river"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Skrelp"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 24,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"ocean",
+					"river"
+				]
+			},
+			"rarity": 80
+		},
+		{
+			"spec": {
+				"name": "Dragalge"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 36,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"ocean",
+					"river"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

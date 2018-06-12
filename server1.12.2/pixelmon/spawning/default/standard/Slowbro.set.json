@@ -1,0 +1,26 @@
+{
+	"id": "Slowbro",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slowbro"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 37,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"swamps",
+					"river",
+					"beaches",
+					"stone_beach"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

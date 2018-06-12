@@ -1,0 +1,27 @@
+{
+	"id": "Registeel",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Registeel",
+				"level": 40
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"temperature": "MEDIUM",
+				"maxY": 32,
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 4
+		}
+	]
+}

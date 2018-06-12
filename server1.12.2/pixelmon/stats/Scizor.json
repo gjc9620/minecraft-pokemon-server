@@ -1,0 +1,232 @@
+{
+  "pixelmonName": "Scizor",
+  "pokemon": "Scizor",
+  "stats": {
+    "HP": 70,
+    "Attack": 130,
+    "Defence": 100,
+    "Speed": 65,
+    "SpecialAttack": 55,
+    "SpecialDefence": 80
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scyther"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 118.0,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Technician",
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Feint",
+      "Bullet Punch",
+      "Quick Attack",
+      "Leer"
+    ],
+    "5": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Pursuit"
+    ],
+    "13": [
+      "False Swipe"
+    ],
+    "17": [
+      "Agility"
+    ],
+    "21": [
+      "Metal Claw"
+    ],
+    "25": [
+      "Fury Cutter"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "33": [
+      "Razor Wind"
+    ],
+    "37": [
+      "Iron Defense"
+    ],
+    "41": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Night Slash"
+    ],
+    "49": [
+      "Double Hit"
+    ],
+    "50": [
+      "Iron Head"
+    ],
+    "57": [
+      "Swords Dance"
+    ],
+    "61": [
+      "Feint"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Defog",
+    "Razor Wind",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Ominous Wind",
+    "Superpower",
+    "Tailwind",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Morning Sun",
+    "Pursuit",
+    "Reversal",
+    "SonicBoom",
+    "Focus Energy",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bug Buzz",
+    "Counter",
+    "Defog",
+    "Endure",
+    "Night Slash",
+    "Quick Guard",
+    "Razor Wind",
+    "Reversal",
+    "Silver Wind",
+    "Steel Wing"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 150,
+        "Defence": 140,
+        "Speed": 75,
+        "SpecialAttack": 65,
+        "SpecialDefence": 100
+      },
+      "height": 2.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 125.0,
+      "abilities": [
+        "Technician",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

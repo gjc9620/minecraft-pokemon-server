@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Stunky",
+  "pokemon": "Stunky",
+  "stats": {
+    "HP": 63,
+    "Attack": 63,
+    "Defence": 47,
+    "Speed": 74,
+    "SpecialAttack": 41,
+    "SpecialDefence": 41
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 10,
+  "baseExp": 79,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 19.2,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Skuntank"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 34,
+      "to": {
+        "name": "Skuntank"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Stench",
+    "Aftermath",
+    "KeenEye"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Focus Energy"
+    ],
+    "4": [
+      "Poison Gas"
+    ],
+    "7": [
+      "Screech"
+    ],
+    "10": [
+      "Fury Swipes"
+    ],
+    "14": [
+      "SmokeScreen"
+    ],
+    "18": [
+      "Feint"
+    ],
+    "22": [
+      "Slash"
+    ],
+    "27": [
+      "Toxic"
+    ],
+    "32": [
+      "Acid Spray"
+    ],
+    "37": [
+      "Night Slash"
+    ],
+    "43": [
+      "Memento"
+    ],
+    "46": [
+      "Belch"
+    ],
+    "49": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Defog",
+    "Double-Edge",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Sucker Punch",
+    "Haze",
+    "Pursuit",
+    "Scary Face",
+    "Focus Energy",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Crunch",
+    "Double-Edge",
+    "Flame Burst",
+    "Foul Play",
+    "Haze",
+    "Iron Tail",
+    "Leer",
+    "Punishment",
+    "Pursuit",
+    "Scary Face",
+    "Smog",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

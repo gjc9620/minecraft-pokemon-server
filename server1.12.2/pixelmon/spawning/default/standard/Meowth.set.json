@@ -1,0 +1,25 @@
+{
+	"id": "Meowth",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Meowth"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

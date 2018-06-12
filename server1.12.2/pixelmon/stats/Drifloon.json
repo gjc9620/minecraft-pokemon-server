@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Drifloon",
+  "pokemon": "Drifloon",
+  "stats": {
+    "HP": 90,
+    "Attack": 50,
+    "Defence": 34,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 44
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 127,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.2,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Drifblim"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Aftermath",
+    "Unburden",
+    "FlareBoost"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Constrict",
+      "Minimize"
+    ],
+    "4": [
+      "Astonish"
+    ],
+    "8": [
+      "Gust"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "16": [
+      "Payback"
+    ],
+    "20": [
+      "Ominous Wind"
+    ],
+    "25": [
+      "Stockpile"
+    ],
+    "27": [
+      "Hex"
+    ],
+    "32": [
+      "Swallow",
+      "Spit Up"
+    ],
+    "36": [
+      "Shadow Ball"
+    ],
+    "40": [
+      "Amnesia"
+    ],
+    "44": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Defog",
+    "Body Slam",
+    "Swift",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Skill Swap",
+    "Silver Wind",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bind",
+    "Knock Off",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Tailwind",
+    "Trick",
+    "Amnesia",
+    "Baton Pass",
+    "Gust",
+    "Haze",
+    "Hypnosis",
+    "Weather Ball",
+    "Focus Energy"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Clear Smog",
+    "Defog",
+    "Destiny Bond",
+    "Disable",
+    "Haze",
+    "Hypnosis",
+    "Memento",
+    "Tailwind",
+    "Weather Ball"
+  ],
+  "forms": {},
+  "form": -1
+}

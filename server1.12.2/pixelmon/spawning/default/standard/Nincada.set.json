@@ -1,0 +1,26 @@
+{
+	"id": "Nincada",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Nincada"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 18,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

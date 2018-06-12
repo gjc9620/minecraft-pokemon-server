@@ -1,0 +1,240 @@
+{
+  "pixelmonName": "MrMime",
+  "pokemon": "MrMime",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 65,
+    "Speed": 90,
+    "SpecialAttack": 100,
+    "SpecialDefence": 120
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "MimeJr"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 54.5,
+  "evolutions": [],
+  "abilities": [
+    "Soundproof",
+    "Filter",
+    "Technician"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Misty Terrain",
+      "Magical Leaf",
+      "Quick Guard",
+      "Wide Guard",
+      "Power Swap",
+      "Guard Swap",
+      "Barrier",
+      "Confusion"
+    ],
+    "4": [
+      "Copycat"
+    ],
+    "8": [
+      "Meditate"
+    ],
+    "11": [
+      "DoubleSlap"
+    ],
+    "15": [
+      "Mimic",
+      "Psywave"
+    ],
+    "18": [
+      "Encore"
+    ],
+    "22": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Substitute"
+    ],
+    "32": [
+      "Recycle"
+    ],
+    "36": [
+      "Trick"
+    ],
+    "39": [
+      "Psychic"
+    ],
+    "43": [
+      "Role Play"
+    ],
+    "46": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Helping Hand",
+    "Iron Defense",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Baton Pass",
+    "Charm",
+    "DoubleSlap",
+    "Encore",
+    "Fake Out",
+    "Follow Me",
+    "Hypnosis",
+    "Mind Reader",
+    "Nasty Plot",
+    "Teeter Dance",
+    "Tickle",
+    "Foul Play"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Confuse Ray",
+    "Fake Out",
+    "Future Sight",
+    "Healing Wish",
+    "Hypnosis",
+    "Icy Wind",
+    "Magic Room",
+    "Mimic",
+    "Nasty Plot",
+    "Power Split",
+    "Teeter Dance",
+    "Trick",
+    "Wake-Up Slap"
+  ],
+  "forms": {},
+  "form": -1
+}

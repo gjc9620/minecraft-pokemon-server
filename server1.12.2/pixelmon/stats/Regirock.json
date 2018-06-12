@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Regirock",
+  "pokemon": "Regirock",
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 200,
+    "Speed": 50,
+    "SpecialAttack": 50,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 0,
+  "baseExp": 217,
+  "baseFriendship": 35,
+  "types": [
+    "Rock"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "weight": 230.0,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Explosion",
+      "Stomp",
+      "Rock Throw",
+      "Charge Beam",
+      "Bulldoze"
+    ],
+    "7": [
+      "Rock Throw"
+    ],
+    "13": [
+      "Charge Beam"
+    ],
+    "19": [
+      "Bulldoze"
+    ],
+    "25": [
+      "Curse"
+    ],
+    "31": [
+      "AncientPower"
+    ],
+    "37": [
+      "Iron Defense"
+    ],
+    "43": [
+      "Stone Edge"
+    ],
+    "49": [
+      "Hammer Arm"
+    ],
+    "55": [
+      "Lock-On",
+      "Zap Cannon"
+    ],
+    "61": [
+      "Superpower"
+    ],
+    "67": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Selfdestruct",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Drain Punch",
+    "Stealth Rock",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Superpower",
+    "Rock Throw",
+    "Stomp"
+  ],
+  "forms": {},
+  "form": -1
+}

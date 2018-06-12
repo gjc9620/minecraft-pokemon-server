@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Jolteon",
+  "pokemon": "Jolteon",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 60,
+    "Speed": 130,
+    "SpecialAttack": 110,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 24.5,
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    null,
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "ThunderShock"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Double Kick"
+    ],
+    "20": [
+      "Thunder Fang"
+    ],
+    "25": [
+      "Pin Missile"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "33": [
+      "Thunder Wave"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Work Up",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

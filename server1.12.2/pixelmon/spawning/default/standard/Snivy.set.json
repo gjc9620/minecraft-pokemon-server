@@ -1,0 +1,26 @@
+{
+	"id": "Snivy",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Snivy"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"forest_hills"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

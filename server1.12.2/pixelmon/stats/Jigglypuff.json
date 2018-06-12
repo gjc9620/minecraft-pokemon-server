@@ -1,0 +1,249 @@
+{
+  "pixelmonName": "Jigglypuff",
+  "pokemon": "Jigglypuff",
+  "stats": {
+    "HP": 115,
+    "Attack": 45,
+    "Defence": 20,
+    "Speed": 20,
+    "SpecialAttack": 45,
+    "SpecialDefence": 25
+  },
+  "catchRate": 170,
+  "malePercent": 25,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "height": 0.5,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Igglybuff"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Wigglytuff"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Competitive",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sing"
+    ],
+    "3": [
+      "Defense Curl"
+    ],
+    "5": [
+      "Pound"
+    ],
+    "8": [
+      "Play Nice"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "15": [
+      "Disable"
+    ],
+    "18": [
+      "DoubleSlap"
+    ],
+    "21": [
+      "Rollout"
+    ],
+    "24": [
+      "Round"
+    ],
+    "28": [
+      "Wake-Up Slap"
+    ],
+    "32": [
+      "Rest"
+    ],
+    "35": [
+      "Body Slam"
+    ],
+    "37": [
+      "Mimic"
+    ],
+    "40": [
+      "Gyro Ball"
+    ],
+    "44": [
+      "Hyper Voice"
+    ],
+    "49": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Uproar",
+    "Charm",
+    "Dizzy Punch",
+    "DoubleSlap",
+    "Faint Attack",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Covet",
+    "Fake Tears",
+    "Gravity",
+    "Heal Pulse",
+    "Last Resort",
+    "Perish Song",
+    "Present",
+    "Punishment",
+    "Sleep Talk",
+    "Wish",
+    "Faint Attack",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

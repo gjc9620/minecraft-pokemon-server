@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Whiscash",
+  "pokemon": "Whiscash",
+  "stats": {
+    "HP": 110,
+    "Attack": 78,
+    "Defence": 73,
+    "Speed": 60,
+    "SpecialAttack": 76,
+    "SpecialDefence": 71
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Barboach"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 1,
+    "depthRangeEnd": 15,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 23.6,
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "Anticipation",
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tickle",
+      "Mud-Slap",
+      "Mud Sport",
+      "Water Sport",
+      "Water Gun"
+    ],
+    "6": [
+      "Mud Sport",
+      "Water Sport"
+    ],
+    "9": [
+      "Water Gun"
+    ],
+    "13": [
+      "Mud Bomb"
+    ],
+    "15": [
+      "Amnesia"
+    ],
+    "17": [
+      "Water Pulse"
+    ],
+    "20": [
+      "Magnitude"
+    ],
+    "25": [
+      "Rest",
+      "Snore"
+    ],
+    "28": [
+      "Aqua Tail"
+    ],
+    "30": [
+      "Zen Headbutt"
+    ],
+    "34": [
+      "Earthquake"
+    ],
+    "39": [
+      "Muddy Water"
+    ],
+    "45": [
+      "Future Sight"
+    ],
+    "52": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Fissure",
+    "Mimic",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Earth Power",
+    "Zen Headbutt",
+    "Amnesia",
+    "Flail",
+    "Hydro Pump",
+    "Mud Sport",
+    "Thrash",
+    "Tickle",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Dragon Dance",
+    "Earth Power",
+    "Flail",
+    "Hydro Pump",
+    "Mud Shot",
+    "Muddy Water",
+    "Spark",
+    "Take Down",
+    "Thrash",
+    "Whirlpool"
+  ],
+  "forms": {},
+  "form": -1
+}

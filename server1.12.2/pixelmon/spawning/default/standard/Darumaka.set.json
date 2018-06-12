@@ -1,0 +1,22 @@
+{
+	"id": "Darumaka",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Darumaka"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 23,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

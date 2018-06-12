@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Golurk",
+  "pokemon": "Golurk",
+  "stats": {
+    "HP": 89,
+    "Attack": 124,
+    "Defence": 80,
+    "Speed": 55,
+    "SpecialAttack": 55,
+    "SpecialDefence": 80
+  },
+  "catchRate": 90,
+  "malePercent": -1,
+  "spawnLevel": 43,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "height": 2.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Golett"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.75
+    }
+  },
+  "weight": 330.0,
+  "evolutions": [],
+  "abilities": [
+    "IronFist",
+    "Klutz",
+    "NoGuard"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Phantom Force",
+      "Focus Punch",
+      "Pound",
+      "Astonish",
+      "Defense Curl",
+      "Mud-Slap"
+    ],
+    "5": [
+      "Mud-Slap"
+    ],
+    "9": [
+      "Rollout"
+    ],
+    "13": [
+      "Shadow Punch"
+    ],
+    "17": [
+      "Iron Defense"
+    ],
+    "21": [
+      "Mega Punch"
+    ],
+    "25": [
+      "Magnitude"
+    ],
+    "30": [
+      "DynamicPunch"
+    ],
+    "35": [
+      "Night Shade"
+    ],
+    "40": [
+      "Curse"
+    ],
+    "43": [
+      "Heavy Slam"
+    ],
+    "50": [
+      "Earthquake"
+    ],
+    "60": [
+      "Hammer Arm"
+    ],
+    "70": [
+      "Focus Punch"
+    ],
+    "75": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Fly",
+    "Strength",
+    "Mega Punch",
+    "DynamicPunch",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Drain Punch",
+    "Stealth Rock",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Low Kick",
+    "Magic Coat",
+    "Signal Beam",
+    "Superpower",
+    "Zen Headbutt",
+    "Night Shade"
+  ],
+  "forms": {},
+  "form": -1
+}

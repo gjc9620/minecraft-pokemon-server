@@ -1,0 +1,211 @@
+{
+  "pixelmonName": "Scyther",
+  "pokemon": "Scyther",
+  "stats": {
+    "HP": 70,
+    "Attack": 110,
+    "Defence": 80,
+    "Speed": 105,
+    "SpecialAttack": 55,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 56.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Scizor"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:metal_coat"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Technician",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Vacuum Wave",
+      "Quick Attack",
+      "Leer"
+    ],
+    "5": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Pursuit"
+    ],
+    "13": [
+      "False Swipe"
+    ],
+    "17": [
+      "Agility"
+    ],
+    "21": [
+      "Wing Attack"
+    ],
+    "25": [
+      "Fury Cutter"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "33": [
+      "Razor Wind"
+    ],
+    "37": [
+      "Double Team"
+    ],
+    "41": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Night Slash"
+    ],
+    "49": [
+      "Double Hit"
+    ],
+    "50": [
+      "Air Slash"
+    ],
+    "57": [
+      "Swords Dance"
+    ],
+    "61": [
+      "Feint"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Defog",
+    "Razor Wind",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Knock Off",
+    "Ominous Wind",
+    "Tailwind",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Morning Sun",
+    "Pursuit",
+    "Reversal",
+    "SonicBoom",
+    "Focus Energy",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bug Buzz",
+    "Counter",
+    "Defog",
+    "Endure",
+    "Night Slash",
+    "Quick Guard",
+    "Razor Wind",
+    "Reversal",
+    "Silver Wind",
+    "Steel Wing"
+  ],
+  "forms": {},
+  "form": -1
+}

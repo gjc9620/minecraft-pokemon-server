@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Jumpluff",
+  "pokemon": "Jumpluff",
+  "stats": {
+    "HP": 75,
+    "Attack": 55,
+    "Defence": 70,
+    "Speed": 110,
+    "SpecialAttack": 55,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 27,
+  "spawnLevelRange": 28,
+  "baseExp": 176,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Skiploom",
+    "Hoppip"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 3.0,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "LeafGuard",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Synthesis",
+      "Tail Whip",
+      "Tackle"
+    ],
+    "4": [
+      "Synthesis"
+    ],
+    "6": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Tackle"
+    ],
+    "10": [
+      "Fairy Wind"
+    ],
+    "12": [
+      "Poison Powder"
+    ],
+    "14": [
+      "Stun Spore"
+    ],
+    "16": [
+      "Sleep Powder"
+    ],
+    "20": [
+      "Bullet Seed"
+    ],
+    "24": [
+      "Leech Seed"
+    ],
+    "29": [
+      "Mega Drain"
+    ],
+    "34": [
+      "Acrobatics"
+    ],
+    "39": [
+      "Rage Powder"
+    ],
+    "44": [
+      "Cotton Spore"
+    ],
+    "49": [
+      "U-Turn"
+    ],
+    "54": [
+      "Worry Seed"
+    ],
+    "59": [
+      "Giga Drain"
+    ],
+    "64": [
+      "Bounce"
+    ],
+    "69": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Double-Edge",
+    "Pay Day",
+    "Mega Drain",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Bullet Seed",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "False Swipe",
+    "Secret Power",
+    "Infestation",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Amnesia",
+    "Aromatherapy",
+    "Encore",
+    "Leech Seed",
+    "Splash",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aromatherapy",
+    "Confusion",
+    "Cotton Guard",
+    "Double-Edge",
+    "Encore",
+    "Endure",
+    "Helping Hand",
+    "Seed Bomb",
+    "Worry Seed",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

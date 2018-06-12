@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Skrelp",
+  "pokemon": "Skrelp",
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 30,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 14,
+  "baseExp": 64,
+  "baseFriendship": 0,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 7.3,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Dragalge"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "PoisonTouch",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "SmokeScreen",
+      "Water Gun"
+    ],
+    "5": [
+      "Faint Attack"
+    ],
+    "9": [
+      "Tail Whip"
+    ],
+    "12": [
+      "Bubble"
+    ],
+    "15": [
+      "Acid"
+    ],
+    "19": [
+      "Camouflage"
+    ],
+    "23": [
+      "Poison Tail"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "28": [
+      "Double Team"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "38": [
+      "Sludge Bomb"
+    ],
+    "42": [
+      "Hydro Pump"
+    ],
+    "49": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Dragon Pulse",
+    "Icy Wind",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Gunk Shot",
+    "Outrage"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Haze",
+    "Play Rough",
+    "Toxic Spikes",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

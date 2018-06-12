@@ -1,0 +1,25 @@
+{
+	"id": "Grimer",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Grimer"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 38,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 90.0
+		}
+	]
+}

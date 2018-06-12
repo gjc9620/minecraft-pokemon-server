@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Tauros",
+  "pokemon": "Tauros",
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defence": 95,
+    "Speed": 110,
+    "SpecialAttack": 40,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 211,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 88.4,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "AngerPoint",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "5": [
+      "Rage"
+    ],
+    "8": [
+      "Horn Attack"
+    ],
+    "11": [
+      "Scary Face"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "19": [
+      "Rest"
+    ],
+    "24": [
+      "Payback"
+    ],
+    "29": [
+      "Work Up"
+    ],
+    "35": [
+      "Zen Headbutt"
+    ],
+    "41": [
+      "Take Down"
+    ],
+    "48": [
+      "Swagger"
+    ],
+    "50": [
+      "Thrash"
+    ],
+    "63": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Whirlpool",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Iron Head",
+    "Outrage",
+    "Role Play",
+    "Spite",
+    "Uproar",
+    "Zen Headbutt",
+    "Pursuit",
+    "Refresh",
+    "Scary Face",
+    "Thrash",
+    "Stomp",
+    "Horn Attack",
+    "Tackle",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,225 @@
+{
+  "pixelmonName": "Panpour",
+  "pokemon": "Panpour",
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 48,
+    "Speed": 64,
+    "SpecialAttack": 53,
+    "SpecialDefence": 48
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 11,
+  "spawnLevelRange": 12,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 13.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Simipour"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Simipour"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Simipour"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Simipour"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Torrent"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Play Nice"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Lick"
+    ],
+    "10": [
+      "Water Gun"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Water Sport"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "22": [
+      "Scald"
+    ],
+    "25": [
+      "Taunt"
+    ],
+    "28": [
+      "Fling"
+    ],
+    "31": [
+      "Acrobatics"
+    ],
+    "34": [
+      "Brine"
+    ],
+    "37": [
+      "Recycle"
+    ],
+    "40": [
+      "Natural Gift"
+    ],
+    "43": [
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Scald",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Water Gun",
+    "Snore",
+    "Icy Wind",
+    "Iron Tail",
+    "Ice Punch",
+    "Sleep Talk",
+    "Brine",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Confide",
+    "Water Pulse",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Uproar",
+    "Aqua Ring",
+    "Bite",
+    "Hydro Pump",
+    "Mud Sport",
+    "Nasty Plot",
+    "Tickle",
+    "Water Sport",
+    "Leer",
+    "Gastro Acid"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Aqua Tail",
+    "Astonish",
+    "Covet",
+    "Hydro Pump",
+    "Low Kick",
+    "Mud Sport",
+    "Nasty Plot",
+    "Role Play",
+    "Tickle",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

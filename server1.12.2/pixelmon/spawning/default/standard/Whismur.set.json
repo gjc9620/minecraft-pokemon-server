@@ -1,0 +1,25 @@
+{
+	"id": "Whismur",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Whismur"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 160.0
+		}
+	]
+}

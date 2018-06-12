@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Sandshrew",
+  "pokemon": "Sandshrew",
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 40,
+    "SpecialAttack": 20,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 10,
+  "baseExp": 93,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.6,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Sandslash"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandVeil",
+    null,
+    "SandRush"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Defense Curl"
+    ],
+    "3": [
+      "Sand-Attack"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "7": [
+      "Rollout"
+    ],
+    "9": [
+      "Rapid Spin"
+    ],
+    "11": [
+      "Fury Cutter"
+    ],
+    "14": [
+      "Magnitude"
+    ],
+    "17": [
+      "Swift"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "23": [
+      "Sand Tomb"
+    ],
+    "26": [
+      "Slash"
+    ],
+    "30": [
+      "Dig"
+    ],
+    "34": [
+      "Gyro Ball"
+    ],
+    "38": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "46": [
+      "Earthquake"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Shadow Claw",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Fury Cutter",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Earth Power",
+    "Knock Off",
+    "Super Fang",
+    "Crush Claw",
+    "Flail",
+    "Rapid Spin",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Chip Away",
+    "Counter",
+    "Crush Claw",
+    "Endure",
+    "Flail",
+    "Metal Claw",
+    "Mud Shot",
+    "Night Slash",
+    "Rapid Spin",
+    "Rock Climb",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

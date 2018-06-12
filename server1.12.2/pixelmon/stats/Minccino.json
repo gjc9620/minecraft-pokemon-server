@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Minccino",
+  "pokemon": "Minccino",
+  "stats": {
+    "HP": 55,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.8,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Cinccino"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Technician",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "3": [
+      "Baby-Doll Eyes"
+    ],
+    "7": [
+      "Helping Hand"
+    ],
+    "9": [
+      "Tickle"
+    ],
+    "13": [
+      "DoubleSlap"
+    ],
+    "15": [
+      "Encore"
+    ],
+    "19": [
+      "Swift"
+    ],
+    "21": [
+      "Sing"
+    ],
+    "25": [
+      "Tail Slap"
+    ],
+    "27": [
+      "Charm"
+    ],
+    "31": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Echoed Voice"
+    ],
+    "37": [
+      "Slam"
+    ],
+    "39": [
+      "Captivate"
+    ],
+    "43": [
+      "Hyper Voice"
+    ],
+    "45": [
+      "Last Resort"
+    ],
+    "49": [
+      "After You"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Retaliate",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Uproar",
+    "Charm",
+    "DoubleSlap",
+    "Encore",
+    "Flail",
+    "Sing",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Iron Tail",
+    "Knock Off",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Tail Whip"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Exeggcute",
+  "pokemon": "Exeggcute",
+  "stats": {
+    "HP": 60,
+    "Attack": 40,
+    "Defence": 80,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 45
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 5,
+  "baseExp": 98,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 2.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Exeggutor"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Harvest"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Barrage",
+      "Uproar",
+      "Hypnosis"
+    ],
+    "7": [
+      "Reflect"
+    ],
+    "11": [
+      "Leech Seed"
+    ],
+    "17": [
+      "Bullet Seed"
+    ],
+    "19": [
+      "Stun Spore"
+    ],
+    "21": [
+      "Poison Powder"
+    ],
+    "23": [
+      "Sleep Powder"
+    ],
+    "27": [
+      "Confusion"
+    ],
+    "33": [
+      "Worry Seed"
+    ],
+    "37": [
+      "Natural Gift"
+    ],
+    "43": [
+      "SolarBeam"
+    ],
+    "47": [
+      "Extrasensory"
+    ],
+    "50": [
+      "Bestow"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Telekinesis",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Strength",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Egg Bomb",
+    "Psywave",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Bullet Seed",
+    "Skill Swap",
+    "Captivate",
+    "Natural Gift",
+    "Sweet Scent",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Gravity",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Extrasensory",
+    "Hypnosis",
+    "Leech Seed",
+    "Moonlight",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Block",
+    "Curse",
+    "Giga Drain",
+    "Ingrain",
+    "Leaf Storm",
+    "Lucky Chant",
+    "Moonlight",
+    "Natural Gift",
+    "Nature Power",
+    "Power Swap",
+    "Skill Swap",
+    "Synthesis",
+    "AncientPower",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

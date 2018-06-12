@@ -1,0 +1,28 @@
+{
+	"id": "Celebi",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Celebi"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary",
+				"mythical"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

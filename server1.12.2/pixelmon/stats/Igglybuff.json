@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Igglybuff",
+  "pokemon": "Igglybuff",
+  "stats": {
+    "HP": 90,
+    "Attack": 30,
+    "Defence": 15,
+    "Speed": 15,
+    "SpecialAttack": 40,
+    "SpecialDefence": 20
+  },
+  "catchRate": 170,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 42,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Jigglypuff"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Competitive",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sing",
+      "Charm"
+    ],
+    "3": [
+      "Defense Curl"
+    ],
+    "5": [
+      "Pound"
+    ],
+    "9": [
+      "Sweet Kiss"
+    ],
+    "11": [
+      "Copycat"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Uproar",
+    "Charm",
+    "Dizzy Punch",
+    "Faint Attack",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Covet",
+    "Faint Attack",
+    "Fake Tears",
+    "Gravity",
+    "Last Resort",
+    "Perish Song",
+    "Punishment",
+    "Present",
+    "Sleep Talk",
+    "Wish",
+    "Heal Pulse",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

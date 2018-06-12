@@ -1,0 +1,27 @@
+{
+	"id": "Pidgey",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pidgey"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 2,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"minecraft:plains",
+					"extreme_hills",
+					"all forests"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

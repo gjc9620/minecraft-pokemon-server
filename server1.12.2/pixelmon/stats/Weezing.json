@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Weezing",
+  "pokemon": "Weezing",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 120,
+    "Speed": 60,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Koffing"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 9.5,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Gas",
+      "Tackle",
+      "Smog",
+      "SmokeScreen"
+    ],
+    "4": [
+      "Smog"
+    ],
+    "7": [
+      "SmokeScreen"
+    ],
+    "12": [
+      "Assurance"
+    ],
+    "15": [
+      "Clear Smog"
+    ],
+    "18": [
+      "Sludge"
+    ],
+    "23": [
+      "Selfdestruct"
+    ],
+    "26": [
+      "Haze"
+    ],
+    "29": [
+      "Double Hit"
+    ],
+    "34": [
+      "Sludge Bomb"
+    ],
+    "40": [
+      "Explosion"
+    ],
+    "46": [
+      "Destiny Bond"
+    ],
+    "51": [
+      "Belch"
+    ],
+    "57": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Gyro Ball",
+    "Swagger",
+    "Substitute",
+    "Sludge Wave",
+    "Take Down",
+    "Rage",
+    "Bide",
+    "Selfdestruct",
+    "Psywave",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Shock Wave",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Pain Split",
+    "Spite",
+    "Uproar",
+    "Haze",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Destiny Bond",
+    "Grudge",
+    "Pain Split",
+    "Psybeam",
+    "Psywave",
+    "Screech",
+    "Spit Up",
+    "Spite",
+    "Stockpile",
+    "Swallow",
+    "Toxic Spikes"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": -1
+}

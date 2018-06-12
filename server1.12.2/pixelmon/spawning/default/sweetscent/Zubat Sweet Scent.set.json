@@ -1,0 +1,17 @@
+{
+    "id": "Zubat Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Zubat"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 2,
+            "maxLevel": 8,
+            "typeID": "pokemon",
+            "rarity": 120.0
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Glaceon",
+  "pokemon": "Glaceon",
+  "stats": {
+    "HP": 65,
+    "Attack": 60,
+    "Defence": 110,
+    "Speed": 65,
+    "SpecialAttack": 130,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 25.9,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "IceBody"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Icy Wind"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "20": [
+      "Ice Fang"
+    ],
+    "25": [
+      "Ice Shard"
+    ],
+    "29": [
+      "Barrier"
+    ],
+    "33": [
+      "Mirror Coat"
+    ],
+    "37": [
+      "Hail"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Retaliate",
+    "Giga Impact",
+    "Frost Breath",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Signal Beam",
+    "Barrier",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

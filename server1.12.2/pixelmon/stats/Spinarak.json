@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Spinarak",
+  "pokemon": "Spinarak",
+  "stats": {
+    "HP": 40,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 25,
+    "passive": 42,
+    "aggressive": 33
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Ariados"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "String Shot"
+    ],
+    "5": [
+      "Scary Face"
+    ],
+    "8": [
+      "Constrict"
+    ],
+    "12": [
+      "Leech Life"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Fury Swipes"
+    ],
+    "26": [
+      "Sucker Punch"
+    ],
+    "29": [
+      "Spider Web"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "36": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "43": [
+      "Poison Jab"
+    ],
+    "47": [
+      "Cross Poison"
+    ],
+    "50": [
+      "Sticky Web"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Captivate",
+    "Natural Gift",
+    "Swift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Foul Play",
+    "Signal Beam",
+    "String Shot",
+    "Sucker Punch",
+    "Agility",
+    "Baton Pass",
+    "Growth",
+    "Night Shade",
+    "Pursuit",
+    "Refresh",
+    "Scary Face",
+    "SonicBoom",
+    "Screech",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Disable",
+    "Electroweb",
+    "Megahorn",
+    "Night Slash",
+    "Psybeam",
+    "Pursuit",
+    "Rage Powder",
+    "Signal Beam",
+    "Toxic Spikes",
+    "Twineedle",
+    "SonicBoom"
+  ],
+  "forms": {},
+  "form": -1
+}

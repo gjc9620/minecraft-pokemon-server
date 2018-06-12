@@ -1,0 +1,26 @@
+{
+	"id": "Fletchling",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Fletchling"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

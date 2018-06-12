@@ -1,0 +1,27 @@
+{
+	"id": "Pidgeot",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pidgeot"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"minecraft:plains",
+					"extreme_hills",
+					"all forests"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

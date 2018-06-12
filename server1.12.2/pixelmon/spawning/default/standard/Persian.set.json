@@ -1,0 +1,25 @@
+{
+	"id": "Persian",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Persian"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 28,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"minecraft:plains"
+				]
+			},
+			"rarity": 55.0
+		}
+	]
+}

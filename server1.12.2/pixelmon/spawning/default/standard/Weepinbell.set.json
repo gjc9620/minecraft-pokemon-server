@@ -1,0 +1,27 @@
+{
+    "id": "Weepinbell",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Weepinbell"
+            },
+            "stringLocationTypes": [
+                "Land"
+            ],
+            "minLevel": 21,
+            "maxLevel": 50,
+            "typeID": "pokemon",
+            "condition": {
+                "times": [
+                    "DAY"
+                ],
+                "stringBiomes": [
+                    "forests",
+                    "swamps",
+                    "jungles"
+                ]
+            },
+            "rarity": 60.0
+        }
+    ]
+}

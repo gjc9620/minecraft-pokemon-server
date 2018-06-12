@@ -1,0 +1,25 @@
+{
+	"id": "Plusle",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Plusle"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 130.0
+		}
+	]
+}

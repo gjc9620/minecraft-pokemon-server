@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Chinchou",
+  "pokemon": "Chinchou",
+  "stats": {
+    "HP": 75,
+    "Attack": 38,
+    "Defence": 38,
+    "Speed": 67,
+    "SpecialAttack": 56,
+    "SpecialDefence": 56
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 15,
+  "baseExp": 90,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 100,
+    "swimSpeed": 1.5,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 27,
+      "to": {
+        "name": "Lanturn"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "VoltAbsorb",
+    "Illuminate",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Supersonic"
+    ],
+    "6": [
+      "Thunder Wave"
+    ],
+    "9": [
+      "Electro Ball"
+    ],
+    "12": [
+      "Water Gun"
+    ],
+    "17": [
+      "Confuse Ray"
+    ],
+    "20": [
+      "BubbleBeam"
+    ],
+    "23": [
+      "Spark"
+    ],
+    "28": [
+      "Signal Beam"
+    ],
+    "31": [
+      "Flail"
+    ],
+    "34": [
+      "Discharge"
+    ],
+    "39": [
+      "Take Down"
+    ],
+    "42": [
+      "Aqua Ring"
+    ],
+    "45": [
+      "Hydro Pump"
+    ],
+    "47": [
+      "Ion Deluge"
+    ],
+    "50": [
+      "Charge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Shock Wave",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Light Screen",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Heal Bell",
+    "Signal Beam",
+    "Sucker Punch",
+    "Agility",
+    "Aqua Ring",
+    "Amnesia",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Mist",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Amnesia",
+    "Brine",
+    "Flail",
+    "Mist",
+    "Psybeam",
+    "Screech",
+    "Shock Wave",
+    "Soak",
+    "Water Pulse",
+    "Whirlpool"
+  ],
+  "forms": {},
+  "form": -1
+}

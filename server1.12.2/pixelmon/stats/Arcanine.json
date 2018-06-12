@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Arcanine",
+  "pokemon": "Arcanine",
+  "stats": {
+    "HP": 90,
+    "Attack": 110,
+    "Defence": 80,
+    "Speed": 95,
+    "SpecialAttack": 100,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 75,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 213,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.9,
+  "width": 0.5,
+  "length": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Growlithe"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.45
+    }
+  },
+  "weight": 155.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "FlashFire",
+    "Justified"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Fang",
+      "Bite",
+      "Roar",
+      "Odor Sleuth",
+      "Fire Fang"
+    ],
+    "34": [
+      "ExtremeSpeed"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Retaliate",
+    "Giga Impact",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Dragon Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Head",
+    "Outrage",
+    "Agility",
+    "Bite",
+    "Charm",
+    "ExtremeSpeed",
+    "Flare Blitz",
+    "Howl",
+    "Morning Sun",
+    "Reversal",
+    "Thrash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Close Combat",
+    "Covet",
+    "Crunch",
+    "Double-Edge",
+    "Double Kick",
+    "Fire Spin",
+    "Flare Blitz",
+    "Heat Wave",
+    "Howl",
+    "Iron Tail",
+    "Morning Sun",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": -1
+}

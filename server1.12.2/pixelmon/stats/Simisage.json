@@ -1,0 +1,148 @@
+{
+  "pixelmonName": "Simisage",
+  "pokemon": "Simisage",
+  "stats": {
+    "HP": 75,
+    "Attack": 98,
+    "Defence": 63,
+    "Speed": 101,
+    "SpecialAttack": 98,
+    "SpecialDefence": 63
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 27,
+  "spawnLevelRange": 9,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pansage"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 30.5,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Overgrow"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Lick",
+      "Fury Swipes",
+      "Seed Bomb"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Seed Bomb",
+    "Superpower",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Bite",
+    "Leech Seed",
+    "Nasty Plot",
+    "Tickle",
+    "Leer",
+    "Gastro Acid",
+    "Leech Seed",
+    "Bite"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Bullet Seed",
+    "Covet",
+    "Leaf Storm",
+    "Low Kick",
+    "Magical Leaf",
+    "Nasty Plot",
+    "Role Play",
+    "Tickle",
+    "GrassWhistle",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

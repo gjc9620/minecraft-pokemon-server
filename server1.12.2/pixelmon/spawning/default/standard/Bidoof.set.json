@@ -1,0 +1,25 @@
+{
+	"id": "Bidoof",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bidoof"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"river"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

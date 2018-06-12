@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Beartic",
+  "pokemon": "Beartic",
+  "stats": {
+    "HP": 95,
+    "Attack": 110,
+    "Defence": 80,
+    "Speed": 50,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 2.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cubchoo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 260.0,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sheer Cold",
+      "Thrash",
+      "Superpower",
+      "Aqua Jet",
+      "Growl",
+      "Powder Snow",
+      "Bide",
+      "Icy Wind"
+    ],
+    "9": [
+      "Play Nice"
+    ],
+    "13": [
+      "Icy Wind"
+    ],
+    "17": [
+      "Fury Swipes"
+    ],
+    "21": [
+      "Brine"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "29": [
+      "Swagger"
+    ],
+    "33": [
+      "Slash"
+    ],
+    "36": [
+      "Flail"
+    ],
+    "37": [
+      "Icicle Crash"
+    ],
+    "41": [
+      "Rest"
+    ],
+    "45": [
+      "Blizzard"
+    ],
+    "53": [
+      "Hail"
+    ],
+    "59": [
+      "Thrash"
+    ],
+    "66": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Dive",
+    "Bide",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Focus Punch",
+    "Brine",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Low Kick",
+    "Superpower",
+    "Charm",
+    "Encore",
+    "Flail",
+    "Sheer Cold",
+    "Thrash",
+    "Yawn",
+    "Slash",
+    "Charm"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Avalanche",
+    "Encore",
+    "Focus Punch",
+    "Ice Punch",
+    "Night Slash",
+    "Sleep Talk",
+    "Yawn",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

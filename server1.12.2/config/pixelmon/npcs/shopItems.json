@@ -1,0 +1,2334 @@
+{
+  "items": [
+    {
+      "name": "pixelmon:item.Poke_Ball",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Great_Ball",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "pixelmon:item.Ultra_Ball",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "pixelmon:item.Level_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Moon_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Friend_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Love_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Heavy_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Fast_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Repeat_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Timer_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Nest_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Net_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Dive_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Luxury_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Heal_Ball",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:item.Dusk_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Park_Ball"
+    },
+    {
+      "name": "pixelmon:item.Quick_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Lure_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Sport_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Cherish_Ball",
+	  "buy": 2000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Premier_Ball",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Master_Ball"
+    },
+    {
+      "name": "pixelmon:item.GS_Ball"
+    },
+    {
+      "name": "pixelmon:item.Safari_Ball",
+      "buy": 1000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:item.Rare_Candy",
+      "sell": 2400
+    },
+    {
+      "name": "pixelmon:item.Potion",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:item.Super_Potion",
+      "buy": 700,
+      "sell": 350
+    },
+    {
+      "name": "pixelmon:item.Hyper_Potion",
+      "buy": 1200,
+      "sell": 600
+    },
+    {
+      "name": "pixelmon:item.Max_Potion",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:item.Full_Restore",
+      "buy": 3000,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Fresh_Water",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Soda_Pop",
+      "buy": 300,
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:item.Lemonade",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "pixelmon:item.Moomoo_Milk",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "pixelmon:item.Revive",
+      "buy": 1500,
+      "sell": 750
+    },
+    {
+      "name": "pixelmon:item.Max_Revive",
+	  "buy": 3500,
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.Ether",
+	  "buy": 1000,
+      "sell": 600
+    },
+    {
+      "name": "pixelmon:item.Max_Ether",
+	  "buy": 3500,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.Elixir",
+	  "buy": 1500,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Max_Elixir",
+	  "buy": 6500,
+      "sell": 2250
+    },
+    {
+      "name": "pixelmon:item.Antidote",
+      "buy": 100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Paralyze_Heal",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Awakening",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "pixelmon:item.Burn_Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "pixelmon:item.Ice_Heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "pixelmon:item.Full_Heal",
+      "buy": 600,
+      "sell": 300
+    },
+    {
+      "name": "pixelmon:item.HP_Up",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Protein",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Iron",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Calcium",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Zinc",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Carbos",
+      "buy": 9800,
+      "sell": 4900
+    },
+    {
+      "name": "pixelmon:item.Pomeg_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Kelpsy_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Qualot_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Hondew_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Grepa_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Tamato_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Oran_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Rawst_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Leppa_Berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.CheriBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ChestoBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.PechaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.AspearBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.PersimBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.LumBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.SitrusBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.BerryJuice",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.PumkinBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.DrashBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.EggantBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.YagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.TougaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ApicotBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.LiechiBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.GanlonBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.SalacBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.PetayaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.LansatBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.StarfBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.CustapBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.AguavBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.FigBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.IapapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.MagoBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.WikiBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.OccaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.PasshoBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.WacanBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.RindoBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.YacheBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ChopleBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.KebiaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ShucaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.CobaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.PayapaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.TangaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ChartiBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.KasibBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.HabanBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ColburBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.BabiriBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.ChilanBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.HealPowder",
+      "buy": 450,
+      "sell": 225
+    },
+    {
+      "name": "pixelmon:item.EnergyPowder",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "pixelmon:item.EnergyRoot",
+      "buy": 800,
+      "sell": 400
+    },
+    {
+      "name": "pixelmon:item.RevivalHerb",
+      "buy": 2800,
+      "sell": 1400
+    },
+    {
+      "name": "pixelmon:item.Black_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.White_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Pink_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Green_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Blue_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Yellow_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.Red_Apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.HelixFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.DomeFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.OldAmber",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.ClawFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.SkullFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.ArmorFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.CoverFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.PlumeFossil",
+      "sell": 2000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil0",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil1",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil2",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil4",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil5",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil6",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil7",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.coveredFossil8",
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:item.Sun_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Fire_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Water_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Moon_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Thunder_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Leaf_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Dawn_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Dusk_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Shiny_Stone",
+      "buy": 2100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Ever_Stone",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Lucky_Egg",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Exp._Share",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Choice_Band",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Choice_Scarf",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Choice_Specs",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.MuscleBand",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Macho_Brace",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Weight",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Bracer",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Belt",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Lens",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Band",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Power_Anklet",
+	  "buy": 4100,
+      "sell": 1500
+    },
+    {
+      "name": "pixelmon:item.Soothe_Bell",
+	  "buy": 4500,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Smoke_Ball",
+	  "buy": 4500,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.WideLens",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Leftovers",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Shell_Bell",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Cell_Battery",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Metronome",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Dubious_Disc",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Electirizer",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Magmarizer",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.King's_Rock",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Protector",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Up-Grade",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Razor_Fang",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.Dragon_Scale",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.RazorClaw",
+	  "buy": 4100,
+      "sell": 1050
+    },
+    {
+      "name": "pixelmon:item.AbsorbBulb",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Life_Orb",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.FocusSash",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.FocusBand",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ToxicOrb",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.FlameOrb",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.BlackSludge",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ScopeLens",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.AirBalloon",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.RockyHelmet",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ShedShell",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.DampRock",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.HeatRock",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.IcyRock",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.SmoothRock",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Eviolite",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.LightBall",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.LuckyPunch",
+	  "buy": 4100,
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:item.MetalPowder",
+	  "buy": 4100,
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:item.QuickPowder",
+	  "buy": 4100,
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:item.Stick",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ThickClub",
+	  "buy": 4100,
+      "sell": 250
+    },
+    {
+      "name": "pixelmon:item.PowerHerb",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.RedCard",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ExpertBelt",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.LightClay",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.MentalHerb",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.StickyBarb",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.QuickClaw",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.WhiteHerb",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.BigRoot",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.ZoomLens",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.BrightPowder",
+	  "buy": 4100,
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.GinemaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.JabocaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.RowapBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.LaggingTail",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.WiseGlasses",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.EjectButton",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.EnigmaBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.BindingBand",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.IronBall",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.GripClaw",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.FloatStone",
+	  "buy": 4100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.MicleBerry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:item.RingTarget",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Full_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Lax_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Luck_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Odd_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Pure_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Rock_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Rose_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Sea_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Wave_Incense",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Bug_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Dark_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Dragon_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Electric_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Fighting_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Fire_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Flying_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Ghost_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Grass_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Ground_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Ice_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Normal_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Poison_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Psychic_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Rock_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Steel_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Water_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.Fairy_Gem",
+	  "buy": 5100,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:item.BlackBelt",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.BlackGlasses",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Charcoal",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.DragonFang",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.HardStone",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Magnet",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.Metal_Coat",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.MiracleSeed",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.MysticWater",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.NeverMeltIce",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.PoisonBarb",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.SharpBeak",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.SilkScarf",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.SilverPowder",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.SoftSand",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.SpellTag",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.TwistedSpoon",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.destinyKnot",
+	  "buy": 4100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:item.XAttack",
+      "buy": 500,
+      "sell": 250
+    },
+    {
+      "name": "pixelmon:item.XDefence",
+      "buy": 550,
+      "sell": 275
+    },
+    {
+      "name": "pixelmon:item.XSpecialAttack",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "pixelmon:item.XSpecialDefence",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "pixelmon:item.XSpeed",
+      "buy": 350,
+      "sell": 175
+    },
+    {
+      "name": "pixelmon:item.XAccuracy",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:item.DireHit",
+      "buy": 650,
+      "sell": 375
+    },
+    {
+      "name": "pixelmon:TM1_-_Hone_Claws",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM2_-_Dragon_Claw",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM3_-_Psyshock",
+      "buy": 12500,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM4_-_Calm_Mind",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM5_-_Roar",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM6_-_Toxic",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM7_-_Hail",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM8_-_Bulk_Up",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM9_-_Venoshock",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM10_-_Hidden_Power",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM11_-_Sunny_Day",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM12_-_Taunt",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM13_-_Ice_Beam",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM14_-_Blizzard",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM15_-_Hyper_Beam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM16_-_Light_Screen",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM17_-_Protect",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM18_-_Rain_Dance",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM19_-_Telekinesis",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM20_-_Safeguard",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM21_-_Frustration",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM22_-_SolarBeam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM23_-_Smack_Down",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM24_-_Thunderbolt",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM25_-_Thunder",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM26_-_Earthquake",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM27_-_Return",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM28_-_Dig",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM29_-_Psychic",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM30_-_Shadow_Ball",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM31_-_Brick_Break",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM32_-_Double_Team",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM33_-_Reflect",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM34_-_Sludge_Wave",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM35_-_Flamethrower",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM36_-_Sludge_Bomb",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM37_-_Sandstorm",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM38_-_Fire_Blast",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM39_-_Rock_Tomb",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM40_-_Aerial_Ace",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM41_-_Torment",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM42_-_Facade",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM43_-_Flame_Charge",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM44_-_Rest",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM45_-_Attract",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM46_-_Thief",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM47_-_Low_Sweep",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM48_-_Round",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM49_-_Echoed_Voice",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM50_-_Overheat",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM51_-_Ally_Switch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM52_-_Focus_Blast",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM53_-_Energy_Ball",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM54_-_False_Swipe",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM55_-_Scald",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM56_-_Fling",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM57_-_Charge_Beam",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM58_-_Sky_Drop",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM59_-_Incinerate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM60_-_Quash",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM61_-_Will-O-Wisp",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM62_-_Acrobatics",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM63_-_Embargo",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM64_-_Explosion",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM65_-_Shadow_Claw",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM66_-_Payback",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM67_-_Retaliate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM68_-_Giga_Impact",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM69_-_Rock_Polish",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM70_-_Flash",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM71_-_Stone_Edge",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM72_-_Volt_Switch",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM73_-_Thunder_Wave",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM74_-_Gyro_Ball",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM75_-_Swords_Dance",
+      "buy": 15000,
+      "sell": 7500
+    },
+    {
+      "name": "pixelmon:TM76_-_Struggle_Bug",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM77_-_Psych_Up",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM78_-_Bulldoze",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM79_-_Frost_Breath",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM80_-_Rock_Slide",
+      "buy": 10000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:TM81_-_X-Scissor",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM82_-_Dragon_Tail",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM83_-_Work_Up",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM84_-_Poison_Jab",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM85_-_Dream_Eater",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM86_-_Grass_Knot",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM87_-_Swagger",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM88_-_Pluck",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM89_-_U-Turn",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM90_-_Substitute",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM91_-_Flash_Cannon",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM92_-_Trick_Room",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM93_-_Wild_Charge",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM94_-_Rock_Smash",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM95_-_Snarl",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM96_-_Mega_Punch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM97_-_Razor_Wind",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM98_-_Whirlwind",
+      "buy": 10000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:TM99_-_Mega_Kick",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM100_-_Horn_Drill",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM101_-_Body_Slam",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM102_-_Take_Down",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM103_-_Double-Edge",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM104_-_BubbleBeam",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM105_-_Water_Gun",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM106_-_Pay_Day",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM107_-_Submission",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM108_-_Counter",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM109_-_Seismic_Toss",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM110_-_Rage",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM111_-_Mega_Drain",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM112_-_Dragon_Rage",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM113_-_Fissure",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM114_-_Teleport",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM115_-_Mimic",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM116_-_Bide",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM117_-_Metronome",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM118_-_Selfdestruct",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM119_-_Egg_Bomb",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM120_-_Swift",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM121_-_Skull_Bash",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM122_-_Softboiled",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM123_-_Sky_Attack",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM124_-_Psywave",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM125_-_Tri_Attack",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM126_-_DynamicPunch",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM127_-_Headbutt",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM128_-_Curse",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM129_-_Rollout",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM130_-_Zap_Cannon",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM131_-_Sweet_Scent",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM132_-_Snore",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM133_-_Icy_Wind",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM134_-_Giga_Drain",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM135_-_Endure",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM136_-_Iron_Tail",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM137_-_DragonBreath",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM138_-_Mud-Slap",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM139_-_Ice_Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM140_-_Sleep_Talk",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM141_-_Defense_Curl",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM142_-_Thunder_Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM143_-_Detect",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM144_-_Steel_Wing",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM145_-_Fire_Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM146_-_Fury_Cutter",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM147_-_Nightmare",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM148_-_Focus_Punch",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM149_-_Water_Pulse",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM150_-_Bullet_Seed",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM151_-_Shock_Wave",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM152_-_Secret_Power",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM153_-_Skill_Swap",
+      "buy": 5000,
+      "sell": 2500
+    },
+    {
+      "name": "pixelmon:TM154_-_Snatch",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM155_-_Roost",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM156_-_Brine",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM157_-_Dragon_Pulse",
+      "buy": 10000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:TM158_-_Drain_Punch",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM159_-_Silver_Wind",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM160_-_Recycle",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM161_-_Avalanche",
+      "buy": 7500,
+      "sell": 3750
+    },
+    {
+      "name": "pixelmon:TM162_-_Stealth_Rock",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM163_-_Captivate",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:TM164_-_Dark_Pulse",
+      "buy": 12500,
+      "sell": 6250
+    },
+    {
+      "name": "pixelmon:TM165_-_Natural_Gift",
+      "buy": 2500,
+      "sell": 1250
+    },
+    {
+      "name": "pixelmon:HM1_-_Cut",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM2_-_Fly",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM3_-_Surf",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM4_-_Strength",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM5_-_Defog",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM6_-_Rock_Smash",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM7_-_Waterfall",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM8_-_Rock_Climb",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM9_-_Whirlpool",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:HM10_-_Dive",
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:PokeMail-air",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bloom",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-brick",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bridged",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bridgem",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bridges",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bridgev",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-bubble",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-dream",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-fab",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-favored",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-flame",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-glitter",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-grass",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-greet",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-heart",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-inquiry",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-like",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-mech",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-mosaic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-orange",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-reply",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-retro",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-rsvp",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-snow",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-space",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-steel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-thanks",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-wave",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:PokeMail-wood",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:item.hourglasssilver"
+    },
+    {
+      "name": "pixelmon:film"
+    },
+    {
+      "name": "pixelmon:item.AmuletCoin"
+    },
+    {
+      "name": "pixelmon:item.Orb"
+    },
+    {
+      "name": "pixelmon:item.ranchupgrade",
+	  "buy": 9000,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:item.hourglassgold"
+    },
+	{
+      "name": "minecraft:potato",
+      "buy": 60,
+      "sell": 15
+    },
+    {
+      "name": "minecraft:carrot",
+      "buy": 60,
+      "sell": 15
+    },
+    {
+      "name": "minecraft:coal",
+      "buy": 60,
+      "sell": 15
+    },
+    {
+      "name": "minecraft:iron_ingot",
+      "buy": 300,
+      "sell": 15
+    },
+    {
+      "name": "minecraft:diamond",
+      "buy": 800,
+      "sell": 100
+    },
+	{
+      "name": "minecraft:clay",
+      "buy": 80,
+      "sell": 10
+    },
+	{
+      "name": "minecraft:gold_ingot",
+      "buy": 330,
+      "sell": 10
+    }
+  ]
+} 

@@ -1,0 +1,39 @@
+{
+    "id": "Spinarak Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Spinarak"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 9,
+            "maxLevel": 16,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 50.0
+        },
+		{
+            "spec": {
+                "name": "Ariados"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 20,
+            "maxLevel": 32,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 10.0
+        }
+    ]
+}

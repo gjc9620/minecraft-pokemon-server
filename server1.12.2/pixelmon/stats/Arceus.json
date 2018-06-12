@@ -1,0 +1,336 @@
+{
+  "pixelmonName": "Arceus",
+  "pokemon": "Arceus",
+  "stats": {
+    "HP": 120,
+    "Attack": 120,
+    "Defence": 120,
+    "Speed": 120,
+    "SpecialAttack": 120,
+    "SpecialDefence": 120
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 324,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 3.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "weight": 320.0,
+  "evolutions": [],
+  "abilities": [
+    "Multitype",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Seismic Toss",
+      "Cosmic Power",
+      "Natural Gift",
+      "Punishment"
+    ],
+    "10": [
+      "Gravity"
+    ],
+    "20": [
+      "Earth Power"
+    ],
+    "30": [
+      "Hyper Voice"
+    ],
+    "40": [
+      "ExtremeSpeed"
+    ],
+    "50": [
+      "Refresh"
+    ],
+    "60": [
+      "Future Sight"
+    ],
+    "70": [
+      "Recover"
+    ],
+    "80": [
+      "Hyper Beam"
+    ],
+    "90": [
+      "Perish Song"
+    ],
+    "100": [
+      "Judgment"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Charge Beam",
+    "Incinerate",
+    "Quash",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Fly",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Defog",
+    "Rock Climb",
+    "Whirlpool",
+    "Seismic Toss",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Water Pulse",
+    "Bullet Seed",
+    "Shock Wave",
+    "Brine",
+    "Dragon Pulse",
+    "Silver Wind",
+    "Recycle",
+    "Stealth Rock",
+    "Dark Pulse",
+    "Natural Gift",
+    "Dive",
+    "Avalanche",
+    "Secret Power",
+    "Confide",
+    "Dive"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Gravity",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Last Resort",
+    "Magic Coat",
+    "Ominous Wind",
+    "Outrage",
+    "Signal Beam",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Zen Headbutt",
+    "ExtremeSpeed",
+    "Refresh",
+    "Roar of Time",
+    "Blast Burn",
+    "Shadow Force",
+    "Spacial Rend",
+    "Hydro Cannon"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Grass"
+      ],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Fire"
+      ],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Water"
+      ],
+      "form": 3
+    },
+    "4": {
+      "types": [
+        "Flying"
+      ],
+      "form": 4
+    },
+    "5": {
+      "types": [
+        "Bug"
+      ],
+      "form": 5
+    },
+    "6": {
+      "types": [
+        "Poison"
+      ],
+      "form": 6
+    },
+    "7": {
+      "types": [
+        "Electric"
+      ],
+      "form": 7
+    },
+    "8": {
+      "types": [
+        "Psychic"
+      ],
+      "form": 8
+    },
+    "9": {
+      "types": [
+        "Rock"
+      ],
+      "form": 9
+    },
+    "10": {
+      "types": [
+        "Ground"
+      ],
+      "form": 10
+    },
+    "11": {
+      "types": [
+        "Dark"
+      ],
+      "form": 11
+    },
+    "12": {
+      "types": [
+        "Ghost"
+      ],
+      "form": 12
+    },
+    "13": {
+      "types": [
+        "Steel"
+      ],
+      "form": 13
+    },
+    "14": {
+      "types": [
+        "Fighting"
+      ],
+      "form": 14
+    },
+    "15": {
+      "types": [
+        "Ice"
+      ],
+      "form": 15
+    },
+    "16": {
+      "types": [
+        "Dragon"
+      ],
+      "form": 16
+    },
+    "17": {
+      "types": [
+        "Fairy"
+      ],
+      "form": 17
+    }
+  },
+  "form": -1
+}

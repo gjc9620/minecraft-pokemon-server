@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Luxray",
+  "pokemon": "Luxray",
+  "stats": {
+    "HP": 80,
+    "Attack": 120,
+    "Defence": 79,
+    "Speed": 70,
+    "SpecialAttack": 95,
+    "SpecialDefence": 79
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 194,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Luxio",
+    "Shinx"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.3
+    }
+  },
+  "weight": 42.0,
+  "evolutions": [],
+  "abilities": [
+    "Rivalry",
+    "Intimidate",
+    "Guts"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Electric Terrain",
+      "Tackle",
+      "Leer",
+      "Charge"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "9": [
+      "Charge"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "18": [
+      "Bite"
+    ],
+    "23": [
+      "Roar"
+    ],
+    "28": [
+      "Swagger"
+    ],
+    "35": [
+      "Thunder Fang"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "49": [
+      "Scary Face"
+    ],
+    "56": [
+      "Discharge"
+    ],
+    "63": [
+      "Wild Charge"
+    ],
+    "67": [
+      "Electric Terrain"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Snarl",
+    "Strength",
+    "Take Down",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Superpower",
+    "Bite",
+    "Howl",
+    "Scary Face",
+    "Tackle",
+    "Leer",
+    "Helping Hand"
+  ],
+  "eggMoves": [
+    "Double Kick",
+    "Fake Tears",
+    "Fire Fang",
+    "Helping Hand",
+    "Howl",
+    "Ice Fang",
+    "Night Slash",
+    "Quick Attack",
+    "Shock Wave",
+    "Signal Beam",
+    "Swift",
+    "Take Down",
+    "Thunder Fang",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

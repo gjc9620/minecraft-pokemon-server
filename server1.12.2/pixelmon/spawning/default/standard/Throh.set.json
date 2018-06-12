@@ -1,0 +1,22 @@
+{
+	"id": "Throh",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Throh"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 34,
+			"maxLevel": 48,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

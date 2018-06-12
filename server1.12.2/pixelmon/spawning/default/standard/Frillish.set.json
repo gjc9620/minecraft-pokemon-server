@@ -1,0 +1,23 @@
+{
+	"id": "Frillish",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Frillish"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 22,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

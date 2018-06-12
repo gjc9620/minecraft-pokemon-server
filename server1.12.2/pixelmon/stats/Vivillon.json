@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Vivillon",
+  "pokemon": "Vivillon",
+  "stats": {
+    "HP": 80,
+    "Attack": 52,
+    "Defence": 50,
+    "Speed": 89,
+    "SpecialAttack": 90,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 13,
+  "spawnLevelRange": 11,
+  "baseExp": 185,
+  "baseFriendship": 0,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spewpa",
+    "Scatterbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 17.0,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    "CompoundEyes",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Poison Powder",
+      "Stun Spore",
+      "Gust",
+      "Light Screen",
+      "Powder",
+      "Sleep Powder"
+    ],
+    "12": [
+      "Struggle Bug"
+    ],
+    "17": [
+      "Psybeam"
+    ],
+    "21": [
+      "Supersonic"
+    ],
+    "25": [
+      "Draining Kiss"
+    ],
+    "31": [
+      "Aromatherapy"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "41": [
+      "Safeguard"
+    ],
+    "45": [
+      "Quiver Dance"
+    ],
+    "50": [
+      "Hurricane"
+    ],
+    "55": [
+      "Powder"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Giga Drain",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Endeavor",
+    "Signal Beam",
+    "Tailwind",
+    "Tackle",
+    "Harden",
+    "Hold Hands"
+  ],
+  "eggMoves": [
+    "Poison Powder",
+    "Rage Powder",
+    "Stun Spore"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    },
+    "4": {
+      "form": 4
+    },
+    "5": {
+      "form": 5
+    },
+    "6": {
+      "form": 6
+    },
+    "7": {
+      "form": 7
+    },
+    "8": {
+      "form": 8
+    },
+    "9": {
+      "form": 9
+    },
+    "10": {
+      "form": 10
+    },
+    "11": {
+      "form": 11
+    },
+    "12": {
+      "form": 12
+    },
+    "13": {
+      "form": 13
+    },
+    "14": {
+      "form": 14
+    },
+    "15": {
+      "form": 15
+    },
+    "16": {
+      "form": 16
+    },
+    "17": {
+      "form": 17
+    },
+    "18": {
+      "form": 18
+    },
+    "19": {
+      "form": 19
+    }
+  },
+  "form": -1
+}

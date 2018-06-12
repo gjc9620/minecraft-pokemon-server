@@ -1,0 +1,41 @@
+{
+    "id": "Aipom Line Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Aipom"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 3,
+            "maxLevel": 10,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle",
+					"eucalyptus"
+                ]
+            },
+            "rarity": 100.0
+        },
+        {
+            "spec": {
+                "name": "Ambipom"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 18,
+            "maxLevel": 27,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle",
+					"eucalyptus"
+                ]
+            },
+            "rarity": 40.0
+        }
+    ]
+}

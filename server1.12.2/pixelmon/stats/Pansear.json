@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Pansear",
+  "pokemon": "Pansear",
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 48,
+    "Speed": 64,
+    "SpecialAttack": 53,
+    "SpecialDefence": 48
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 11,
+  "spawnLevelRange": 12,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 11.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Simisear"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Blaze"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Play Nice"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Lick"
+    ],
+    "10": [
+      "Incinerate"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Yawn"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "22": [
+      "Flame Burst"
+    ],
+    "25": [
+      "Amnesia"
+    ],
+    "28": [
+      "Fling"
+    ],
+    "31": [
+      "Acrobatics"
+    ],
+    "34": [
+      "Fire Blast"
+    ],
+    "37": [
+      "Recycle"
+    ],
+    "40": [
+      "Natural Gift"
+    ],
+    "43": [
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Fire Punch",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Uproar",
+    "Amnesia",
+    "Bite",
+    "Nasty Plot",
+    "Tickle",
+    "Yawn",
+    "Leer",
+    "Gastro Acid"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Fire Punch",
+    "Fire Spin",
+    "Heat Wave",
+    "Low Kick",
+    "Nasty Plot",
+    "Role Play",
+    "Sleep Talk",
+    "Tickle",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

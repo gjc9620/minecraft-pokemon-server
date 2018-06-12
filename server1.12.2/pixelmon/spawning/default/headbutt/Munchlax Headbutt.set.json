@@ -1,0 +1,26 @@
+{
+    "id": "Munchlax Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Munchlax"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 4,
+            "maxLevel": 18,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "spruce",
+					"ebony",
+					"mahogany",
+					"eucalyptus",
+					"umbran"
+                ]
+            },
+            "rarity": 20.0
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Noibat",
+  "pokemon": "Noibat",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 45,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 16,
+  "baseExp": 49,
+  "baseFriendship": 0,
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Noivern"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Screech",
+      "Supersonic",
+      "Tackle"
+    ],
+    "5": [
+      "Leech Life"
+    ],
+    "11": [
+      "Gust"
+    ],
+    "13": [
+      "Bite"
+    ],
+    "16": [
+      "Wing Attack"
+    ],
+    "18": [
+      "Agility"
+    ],
+    "23": [
+      "Air Cutter"
+    ],
+    "27": [
+      "Roost"
+    ],
+    "31": [
+      "Razor Wind"
+    ],
+    "35": [
+      "Tailwind"
+    ],
+    "40": [
+      "Whirlwind"
+    ],
+    "43": [
+      "Super Fang"
+    ],
+    "48": [
+      "Air Slash"
+    ],
+    "58": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Acrobatics",
+    "Shadow Claw",
+    "X-Scissor",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Fly",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Sky Attack",
+    "Snatch",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Super Fang",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Outrage",
+    "Snatch",
+    "Switcheroo",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": -1
+}

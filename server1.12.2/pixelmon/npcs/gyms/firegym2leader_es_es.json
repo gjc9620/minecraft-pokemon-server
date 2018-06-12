@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kaen" 
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¿Estás preparado para el calor intenso?",
+      "win": "¡Já! Vuelve cuando hayas calentado lo suficiente.",
+      "lose": "¡Has tenido suerte, chaval!"
+    }
+  ]
+}

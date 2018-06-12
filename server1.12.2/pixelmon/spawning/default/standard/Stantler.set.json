@@ -1,0 +1,27 @@
+{
+	"id": "Stantler",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Stantler"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"hills"
+				],
+				"temperature": "MEDIUM"
+			},
+			"rarity": 90.0
+		}
+	]
+}

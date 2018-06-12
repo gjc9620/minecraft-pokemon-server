@@ -1,0 +1,25 @@
+{
+	"id": "Spiritomb",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Spiritomb"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Poliwag",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Poliwag"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 300.0
+		}
+	]
+}

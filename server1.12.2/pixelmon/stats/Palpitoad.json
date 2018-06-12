@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Palpitoad",
+  "pokemon": "Palpitoad",
+  "stats": {
+    "HP": 75,
+    "Attack": 65,
+    "Defence": 55,
+    "Speed": 69,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 134,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tympole"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 17.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Seismitoad"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 36,
+      "to": {
+        "name": "Seismitoad"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Hydration",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Growl",
+      "Supersonic",
+      "Round"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "9": [
+      "Round"
+    ],
+    "12": [
+      "BubbleBeam"
+    ],
+    "16": [
+      "Mud Shot"
+    ],
+    "20": [
+      "Aqua Ring"
+    ],
+    "23": [
+      "Uproar"
+    ],
+    "28": [
+      "Muddy Water"
+    ],
+    "33": [
+      "Rain Dance"
+    ],
+    "37": [
+      "Flail"
+    ],
+    "42": [
+      "Echoed Voice"
+    ],
+    "47": [
+      "Hydro Pump"
+    ],
+    "51": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "BubbleBeam",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Water Pulse",
+    "Stealth Rock",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Gastro Acid",
+    "Hyper Voice",
+    "Uproar",
+    "After You",
+    "Aqua Ring",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Refresh",
+    "After You"
+  ],
+  "eggMoves": [
+    "After You",
+    "Earth Power",
+    "Mist",
+    "Mud Bomb",
+    "Mud Sport",
+    "Refresh",
+    "Sleep Talk",
+    "Snore",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1
+}

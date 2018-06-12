@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Combusken",
+  "pokemon": "Combusken",
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 60,
+    "Speed": 55,
+    "SpecialAttack": 85,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 19,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 0.9,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Torchic"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 19.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Blaziken"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Growl",
+      "Ember",
+      "Sand-Attack"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "10": [
+      "Sand-Attack"
+    ],
+    "14": [
+      "Peck"
+    ],
+    "16": [
+      "Double Kick"
+    ],
+    "20": [
+      "Flame Charge"
+    ],
+    "25": [
+      "Quick Attack"
+    ],
+    "31": [
+      "Bulk Up"
+    ],
+    "36": [
+      "Focus Energy"
+    ],
+    "42": [
+      "Slash"
+    ],
+    "47": [
+      "Mirror Move"
+    ],
+    "53": [
+      "Sky Uppercut"
+    ],
+    "58": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Fire Pledge",
+    "Heat Wave",
+    "Helping Hand",
+    "Last Resort",
+    "Low Kick",
+    "Vacuum Wave",
+    "Agility",
+    "Baton Pass",
+    "Crush Claw",
+    "FeatherDance",
+    "Flare Blitz",
+    "Reversal",
+    "Peck",
+    "Focus Energy",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Counter",
+    "Crush Claw",
+    "Curse",
+    "Endure",
+    "Feint",
+    "Flame Burst",
+    "Last Resort",
+    "Low Kick",
+    "Night Slash",
+    "Reversal",
+    "FeatherDance",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

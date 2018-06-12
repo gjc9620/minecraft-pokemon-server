@@ -1,0 +1,26 @@
+{
+	"id": "Purrloin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Purrloin"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 9,
+			"maxLevel": 19,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"savannas",
+					"plains"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

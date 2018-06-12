@@ -1,0 +1,199 @@
+{
+  "pixelmonName": "Noivern",
+  "pokemon": "Noivern",
+  "stats": {
+    "HP": 85,
+    "Attack": 70,
+    "Defence": 80,
+    "Speed": 123,
+    "SpecialAttack": 97,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 49,
+  "spawnLevelRange": 13,
+  "baseExp": 187,
+  "baseFriendship": 0,
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Noibat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 10,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.7,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.7,
+      "z": -0.1
+    }
+  },
+  "weight": 85.0,
+  "evolutions": [],
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Moonlight",
+      "Boomburst",
+      "Dragon Pulse",
+      "Hurricane",
+      "Screech",
+      "Supersonic",
+      "Tackle"
+    ],
+    "5": [
+      "Leech Life"
+    ],
+    "11": [
+      "Gust"
+    ],
+    "13": [
+      "Bite"
+    ],
+    "16": [
+      "Wing Attack"
+    ],
+    "18": [
+      "Agility"
+    ],
+    "23": [
+      "Air Cutter"
+    ],
+    "27": [
+      "Roost"
+    ],
+    "31": [
+      "Razor Wind"
+    ],
+    "35": [
+      "Tailwind"
+    ],
+    "40": [
+      "Whirlwind"
+    ],
+    "43": [
+      "Super Fang"
+    ],
+    "53": [
+      "Air Slash"
+    ],
+    "62": [
+      "Hurricane"
+    ],
+    "70": [
+      "Dragon Pulse"
+    ],
+    "75": [
+      "Boomburst"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Focus Blast",
+    "Acrobatics",
+    "Shadow Claw",
+    "Giga Impact",
+    "X-Scissor",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Fly",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Sky Attack",
+    "Snatch",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Super Fang",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Outrage",
+    "Snatch",
+    "Switcheroo",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": -1
+}

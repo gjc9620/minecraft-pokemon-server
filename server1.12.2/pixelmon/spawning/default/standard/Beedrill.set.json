@@ -1,0 +1,30 @@
+{
+	"id": "Beedrill",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Beedrill"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 10,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"flowery",
+					"forests"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

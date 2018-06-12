@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Electrode",
+  "pokemon": "Electrode",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 70,
+    "Speed": 140,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Voltorb"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 66.6,
+  "evolutions": [],
+  "abilities": [
+    "Soundproof",
+    "Static",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Magnetic Flux",
+      "Charge",
+      "Tackle",
+      "SonicBoom",
+      "Spark"
+    ],
+    "4": [
+      "SonicBoom"
+    ],
+    "6": [
+      "Eerie Impulse"
+    ],
+    "9": [
+      "Spark"
+    ],
+    "11": [
+      "Rollout"
+    ],
+    "13": [
+      "Screech"
+    ],
+    "16": [
+      "Charge Beam"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "22": [
+      "Electro Ball"
+    ],
+    "26": [
+      "Selfdestruct"
+    ],
+    "29": [
+      "Light Screen"
+    ],
+    "36": [
+      "Magnet Rise"
+    ],
+    "41": [
+      "Discharge"
+    ],
+    "47": [
+      "Explosion"
+    ],
+    "54": [
+      "Gyro Ball"
+    ],
+    "58": [
+      "Mirror Coat"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Take Down",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Shock Wave",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Sucker Punch",
+    "Agility",
+    "Refresh",
+    "SonicBoom",
+    "Tackle",
+    "Screech"
+  ],
+  "forms": {},
+  "form": -1
+}

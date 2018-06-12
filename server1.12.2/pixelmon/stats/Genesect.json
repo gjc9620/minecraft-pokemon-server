@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Genesect",
+  "pokemon": "Genesect",
+  "stats": {
+    "HP": 71,
+    "Attack": 120,
+    "Defence": 95,
+    "Speed": 99,
+    "SpecialAttack": 120,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 82.5,
+  "evolutions": [],
+  "abilities": [
+    "Download",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Fell Stinger",
+      "Techno Blast",
+      "Quick Attack",
+      "Magnet Rise",
+      "Metal Claw",
+      "Screech"
+    ],
+    "7": [
+      "Fury Cutter"
+    ],
+    "11": [
+      "Lock-On"
+    ],
+    "18": [
+      "Flame Charge"
+    ],
+    "22": [
+      "Magnet Bomb"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "33": [
+      "Metal Sound"
+    ],
+    "40": [
+      "Signal Beam"
+    ],
+    "44": [
+      "Tri Attack"
+    ],
+    "51": [
+      "X-Scissor"
+    ],
+    "55": [
+      "Bug Buzz"
+    ],
+    "62": [
+      "Simple Beam"
+    ],
+    "66": [
+      "Zap Cannon"
+    ],
+    "73": [
+      "Hyper Beam"
+    ],
+    "77": [
+      "Selfdestruct"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Explosion",
+    "Shadow Claw",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Fly",
+    "Selfdestruct",
+    "Tri Attack",
+    "Zap Cannon",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Recycle",
+    "Dark Pulse",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Gravity",
+    "Gunk Shot",
+    "Iron Defense",
+    "Iron Head",
+    "Last Resort",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Zen Headbutt",
+    "ExtremeSpeed",
+    "Metal Sound",
+    "Slash",
+    "Shift Gear",
+    "Blaze Kick"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    },
+    "4": {
+      "form": 4
+    }
+  },
+  "form": -1
+}

@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Lileep",
+  "pokemon": "Lileep",
+  "stats": {
+    "HP": 66,
+    "Attack": 41,
+    "Defence": 77,
+    "Speed": 23,
+    "SpecialAttack": 61,
+    "SpecialDefence": 87
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 23.8,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Cradily"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SuctionCups",
+    null,
+    "StormDrain"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Constrict"
+    ],
+    "5": [
+      "Acid"
+    ],
+    "9": [
+      "Ingrain"
+    ],
+    "13": [
+      "Confuse Ray"
+    ],
+    "17": [
+      "AncientPower"
+    ],
+    "21": [
+      "Brine"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "31": [
+      "Gastro Acid"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "41": [
+      "Energy Ball"
+    ],
+    "46": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "52": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Rock Polish",
+    "Flash",
+    "Swords Dance",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mega Drain",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Earth Power",
+    "Gastro Acid",
+    "Pain Split",
+    "Seed Bomb",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Barrier",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Curse",
+    "Endure",
+    "Mega Drain",
+    "Mirror Coat",
+    "Recover",
+    "Stealth Rock",
+    "Tickle",
+    "Wring Out"
+  ],
+  "forms": {},
+  "form": -1
+}

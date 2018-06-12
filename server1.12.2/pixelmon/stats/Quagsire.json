@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Quagsire",
+  "pokemon": "Quagsire",
+  "stats": {
+    "HP": 95,
+    "Attack": 85,
+    "Defence": 85,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 1.4,
+  "width": 0.5,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wooper"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 75.0,
+  "evolutions": [],
+  "abilities": [
+    "Damp",
+    "WaterAbsorb",
+    "Unaware"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun",
+      "Tail Whip",
+      "Mud Sport"
+    ],
+    "5": [
+      "Mud Sport"
+    ],
+    "9": [
+      "Mud Shot"
+    ],
+    "15": [
+      "Slam"
+    ],
+    "19": [
+      "Mud Bomb"
+    ],
+    "24": [
+      "Amnesia"
+    ],
+    "31": [
+      "Yawn"
+    ],
+    "36": [
+      "Earthquake"
+    ],
+    "41": [
+      "Rain Dance"
+    ],
+    "48": [
+      "Mist",
+      "Haze"
+    ],
+    "53": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Focus Punch",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "AncientPower",
+    "Aqua Tail",
+    "Earth Power",
+    "Amnesia",
+    "Belly Drum",
+    "Encore",
+    "Haze",
+    "Mist",
+    "Mud Sport",
+    "Scary Face",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "After You",
+    "Body Slam",
+    "Counter",
+    "Curse",
+    "Double Kick",
+    "Encore",
+    "Guard Swap",
+    "Mud Sport",
+    "Recover",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "AncientPower",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

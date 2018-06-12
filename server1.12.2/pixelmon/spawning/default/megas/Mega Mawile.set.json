@@ -1,0 +1,21 @@
+{
+	"id": "Mega Mawile",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mawile"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"spawnSpecificBossRate": 1,
+			"condition": {
+				"maxLightLevel": 7,
+				"maxY": 50
+			},
+			"interval": "megaBoss",
+			"typeID": "pokemon",
+			"rarity": 10
+		}
+	]
+}

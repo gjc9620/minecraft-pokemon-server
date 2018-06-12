@@ -1,0 +1,25 @@
+{
+	"id": "Minun",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Minun"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 130.0
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Relicanth",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Relicanth"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 30,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"deep_ocean"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

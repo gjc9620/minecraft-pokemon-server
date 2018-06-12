@@ -1,0 +1,165 @@
+{
+    "data": {
+        "trainerType": "Swimmer",
+        "minLevel": 13,
+        "maxLevel": 18,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Squirtle"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Slowpoke"
+        },
+        {
+            "name": "Poliwag"
+        },
+        {
+            "name": "Psyduck"
+        },
+        {
+            "name": "Shellder"
+        }
+    ],
+    "names": [
+        {
+            "name": "Aarón"
+        },
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Alen"
+        },
+        {
+            "name": "Albert"
+        },
+        {
+            "name": "Alex"
+        },
+        {
+            "name": "Arthur"
+        },
+        {
+            "name": "Arnold"
+        },
+        {
+            "name": "Ashton"
+        },
+        {
+            "name": "Brad"
+        },
+        {
+            "name": "Blake"
+        },
+        {
+            "name": "Brendon"
+        },
+        {
+            "name": "Byron"
+        },
+        {
+            "name": "Cameron"
+        },
+        {
+            "name": "Carlos"
+        },
+        {
+            "name": "Carter"
+        },
+        {
+            "name": "Declan"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Derek"
+        },
+        {
+            "name": "Domonic"
+        },
+        {
+            "name": "Elliot"
+        },
+        {
+            "name": "Eric"
+        },
+        {
+            "name": "Gary"
+        },
+        {
+            "name": "Jorge"
+        },
+        {
+            "name": "Gilbert"
+        },
+        {
+            "name": "Glen"
+        },
+        {
+            "name": "Hayden"
+        },
+        {
+            "name": "Harry"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Ian"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Jacob"
+        },
+        {
+            "name": "Jaden"
+        },
+        {
+            "name": "Jeff"
+        },
+        {
+            "name": "Jerry"
+        },
+        {
+            "name": "Jim"
+        },
+        {
+            "name": "Joel"
+        },
+        {
+            "name": "Kai"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡Vamos a probar mis nuevos Pokémon de tipo Agua!",
+            "win": "¡Mis nuevos Pokémon de tipo Agua son geniales!",
+            "lose": "¡Tengo que entrenar más a mis nuevos Pokémon!"
+        },
+        {
+            "opening": "¡Nado cuando yo quiero!",
+            "win": "¡Nadar te hace más fuerte, como yo!",
+            "lose": "¡Iré a nadar para olvidar mi derrota!"
+        },
+        {
+            "opening": "¡Tengo que calentar antes de nadar!",
+            "win": "¡Mi primera victoria!",
+            "lose": "¡Nunca puedo ganar una batalla en el océano!"
+        },
+        {
+            "opening": "¿No son preciosos mis Pokémon de tipo Agua?",
+            "win": "¡Captura Pokémon de tipo Agua si quieres ser fuerte!",
+            "lose": "¡Tus Pokémon son muy fuertes!"
+        }
+    ]
+}

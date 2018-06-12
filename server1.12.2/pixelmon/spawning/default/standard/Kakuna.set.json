@@ -1,0 +1,28 @@
+{
+	"id": "Kakuna",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Kakuna"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 7,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"birches",
+					"flowery"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

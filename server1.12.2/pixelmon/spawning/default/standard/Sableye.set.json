@@ -1,0 +1,40 @@
+{
+	"id": "Sableye",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sableye"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 50.0
+		},
+		{
+			"spec": {
+				"name": "Sableye"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 10,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"maxLightLevel": 7
+			},
+			"rarity": 50.0
+		}
+	]
+}

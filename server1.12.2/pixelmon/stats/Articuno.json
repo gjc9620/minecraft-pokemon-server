@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Articuno",
+  "pokemon": "Articuno",
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defence": 100,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 125
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 35,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 55.4,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "SnowCloak"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Roost",
+      "Hurricane",
+      "Freeze-Dry",
+      "Tailwind",
+      "Sheer Cold",
+      "Gust",
+      "Powder Snow"
+    ],
+    "8": [
+      "Mist"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "22": [
+      "Mind Reader"
+    ],
+    "29": [
+      "AncientPower"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "43": [
+      "Ice Beam"
+    ],
+    "50": [
+      "Reflect"
+    ],
+    "57": [
+      "Hail"
+    ],
+    "64": [
+      "Tailwind"
+    ],
+    "71": [
+      "Blizzard"
+    ],
+    "78": [
+      "Sheer Cold"
+    ],
+    "85": [
+      "Roost"
+    ],
+    "92": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Sky Drop",
+    "Giga Impact",
+    "Frost Breath",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Water Pulse",
+    "Roost",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Twister",
+    "Heal Bell",
+    "Agility",
+    "Extrasensory",
+    "Gust",
+    "Haze",
+    "Hurricane",
+    "Mind Reader",
+    "Mist",
+    "Sheer Cold",
+    "Peck"
+  ],
+  "forms": {},
+  "form": -1
+}

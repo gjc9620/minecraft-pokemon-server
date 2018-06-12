@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "artist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Leonardo"
+        },
+        {
+            "name": "Rafael"
+        },
+        {
+            "name": "Vincent"
+        },
+        {
+            "name": "René"
+        },
+        {
+            "name": "Andy"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, este pueblo es tan inspirador."
+                },
+                {
+                    "text": "Si tuviese mi caballete conmigo. ¡Mi mente está repleta de ideas artísticas!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sólo porque sea aficionado a la pintura tradicional no significa que no me guste Porygon."
+                },
+                {
+                    "text": "Sus bordes puntiagudos me recuerdan al arte cubista."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Estoy orgulloso de que los Pokémon sean de casi cualquier color imaginable."
+                },
+                {
+                    "text": "Vivo o desaturado, oscuro o claro, es como una explosión de tonos de colores."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "He oído sobre la rivalidad entre el Equipo Aqua y el Equipo Magma..."
+                },
+                {
+                    "text": "... y creo que es falta del amarillo. Debería de haber un equipo amarillo."
+                }
+            ]
+        }
+    ]
+}

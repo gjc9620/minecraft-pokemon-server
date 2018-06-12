@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Barbaracle",
+  "pokemon": "Barbaracle",
+  "stats": {
+    "HP": 72,
+    "Attack": 105,
+    "Defence": 115,
+    "Speed": 68,
+    "SpecialAttack": 54,
+    "SpecialDefence": 86
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 14,
+  "baseExp": 175,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "height": 1.3,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Binacle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 96.0,
+  "evolutions": [],
+  "abilities": [
+    "Sniper",
+    "ToughClaws",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Stone Edge",
+      "Skull Bash",
+      "Shell Smash",
+      "Scratch",
+      "Sand-Attack"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "7": [
+      "Withdraw"
+    ],
+    "10": [
+      "Fury Swipes"
+    ],
+    "13": [
+      "Slash"
+    ],
+    "18": [
+      "Mud-Slap"
+    ],
+    "20": [
+      "Clamp"
+    ],
+    "24": [
+      "Rock Polish"
+    ],
+    "28": [
+      "AncientPower"
+    ],
+    "32": [
+      "Hone Claws"
+    ],
+    "37": [
+      "Fury Cutter"
+    ],
+    "44": [
+      "Night Slash"
+    ],
+    "48": [
+      "Razor Shell"
+    ],
+    "55": [
+      "Cross Chop"
+    ],
+    "60": [
+      "Stone Edge"
+    ],
+    "65": [
+      "Skull Bash"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Icy Wind",
+    "Snore",
+    "Stealth Rock",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Earth Power",
+    "Endeavor",
+    "Helping Hand",
+    "Iron Defense",
+    "Low Kick",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Helping Hand",
+    "Switcheroo",
+    "Tickle",
+    "Water Sport"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,244 @@
+{
+  "pixelmonName": "Meowstic",
+  "pokemon": "Meowstic",
+  "stats": {
+    "HP": 74,
+    "Attack": 48,
+    "Defence": 76,
+    "Speed": 104,
+    "SpecialAttack": 83,
+    "SpecialDefence": 81
+  },
+  "catchRate": 75,
+  "malePercent": 100,
+  "spawnLevel": 26,
+  "spawnLevelRange": 12,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Espurr"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 8.5,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "Infiltrator",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Quick Guard",
+      "Mean Look",
+      "Helping Hand",
+      "Scratch",
+      "Leer"
+    ],
+    "5": [
+      "Covet"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "13": [
+      "Light Screen"
+    ],
+    "17": [
+      "Psybeam"
+    ],
+    "19": [
+      "Fake Out"
+    ],
+    "22": [
+      "Disarming Voice"
+    ],
+    "25": [
+      "Psyshock"
+    ],
+    "28": [
+      "Charm"
+    ],
+    "31": [
+      "Miracle Eye"
+    ],
+    "35": [
+      "Reflect"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "43": [
+      "Role Play"
+    ],
+    "45": [
+      "Imprison"
+    ],
+    "48": [
+      "Sucker Punch"
+    ],
+    "50": [
+      "Misty Terrain"
+    ],
+    "53": [
+      "Quick Guard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Iron Tail",
+    "Recycle",
+    "Shock Wave",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Barrier",
+    "Trick",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "malePercent": 0,
+      "abilities": [
+        "KeenEye",
+        "Infiltrator",
+        "Competitive"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Stored Power",
+          "Me First",
+          "Magical Leaf",
+          "Scratch",
+          "Leer"
+        ],
+        "5": [
+          "Covet"
+        ],
+        "9": [
+          "Confusion"
+        ],
+        "13": [
+          "Light Screen"
+        ],
+        "17": [
+          "Psybeam"
+        ],
+        "19": [
+          "Fake Out"
+        ],
+        "22": [
+          "Disarming Voice"
+        ],
+        "25": [
+          "Psyshock"
+        ],
+        "28": [
+          "Charge Beam"
+        ],
+        "31": [
+          "Shadow Ball"
+        ],
+        "35": [
+          "Extrasensory"
+        ],
+        "40": [
+          "Psychic"
+        ],
+        "43": [
+          "Role Play"
+        ],
+        "45": [
+          "Signal Beam"
+        ],
+        "48": [
+          "Sucker Punch"
+        ],
+        "50": [
+          "Future Sight"
+        ],
+        "53": [
+          "Stored Power"
+        ]
+      },
+      "form": 1
+    }
+  },
+  "form": 0
+}

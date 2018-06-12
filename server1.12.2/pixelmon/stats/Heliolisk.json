@@ -1,0 +1,128 @@
+{
+  "pixelmonName": "Heliolisk",
+  "pokemon": "Heliolisk",
+  "stats": {
+    "HP": 62,
+    "Attack": 55,
+    "Defence": 52,
+    "Speed": 109,
+    "SpecialAttack": 109,
+    "SpecialDefence": 94
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 12,
+  "baseExp": 168,
+  "baseFriendship": 0,
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Helioptile"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 21.0,
+  "evolutions": [],
+  "abilities": [
+    "DrySkin",
+    "SandVeil",
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Eerie Impulse",
+      "Electrify",
+      "Razor Wind",
+      "Quick Attack",
+      "Thunder",
+      "Charge",
+      "Parabolic Charge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Dragon Pulse",
+    "Fire Punch",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Hyper Voice",
+    "Low Kick",
+    "Magnet Rise",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Camouflage",
+    "Electric Terrain",
+    "Glare"
+  ],
+  "forms": {},
+  "form": -1
+}

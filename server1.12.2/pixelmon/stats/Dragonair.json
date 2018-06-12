@@ -1,0 +1,204 @@
+{
+  "pixelmonName": "Dragonair",
+  "pokemon": "Dragonair",
+  "stats": {
+    "HP": 61,
+    "Attack": 84,
+    "Defence": 65,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 144,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.0,
+  "width": 2.0,
+  "length": 4.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Dratini"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.5,
+    "decayRate": 0.99,
+    "refreshRate": 80
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 16.5,
+  "evolutions": [
+    {
+      "level": 55,
+      "to": {
+        "name": "Dragonite"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    "MarvelScale"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Wrap",
+      "Leer",
+      "Thunder Wave",
+      "Twister"
+    ],
+    "5": [
+      "Thunder Wave"
+    ],
+    "11": [
+      "Twister"
+    ],
+    "15": [
+      "Dragon Rage"
+    ],
+    "21": [
+      "Slam"
+    ],
+    "25": [
+      "Agility"
+    ],
+    "33": [
+      "Dragon Tail"
+    ],
+    "39": [
+      "Aqua Tail"
+    ],
+    "47": [
+      "Dragon Rush"
+    ],
+    "53": [
+      "Safeguard"
+    ],
+    "61": [
+      "Dragon Dance"
+    ],
+    "67": [
+      "Outrage"
+    ],
+    "75": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Whirlpool",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Sleep Talk",
+    "Detect",
+    "Water Pulse",
+    "Shock Wave",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Draco Meteor",
+    "Outrage",
+    "Twister",
+    "Agility",
+    "ExtremeSpeed",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Haze",
+    "Iron Tail",
+    "Mist",
+    "Supersonic",
+    "Water Pulse",
+    "DragonBreath",
+    "ExtremeSpeed"
+  ],
+  "forms": {},
+  "form": -1
+}

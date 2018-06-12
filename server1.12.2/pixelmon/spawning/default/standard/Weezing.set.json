@@ -1,0 +1,25 @@
+{
+	"id": "Weezing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Weezing"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

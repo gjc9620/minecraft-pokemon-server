@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Munna",
+  "pokemon": "Munna",
+  "stats": {
+    "HP": 76,
+    "Attack": 25,
+    "Defence": 45,
+    "Speed": 24,
+    "SpecialAttack": 67,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 11,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 23.3,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Musharna"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Forewarn",
+    "Synchronize",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Psywave",
+      "Defense Curl"
+    ],
+    "5": [
+      "Lucky Chant"
+    ],
+    "7": [
+      "Yawn"
+    ],
+    "11": [
+      "Psybeam"
+    ],
+    "13": [
+      "Imprison"
+    ],
+    "17": [
+      "Moonlight"
+    ],
+    "19": [
+      "Hypnosis"
+    ],
+    "23": [
+      "Zen Headbutt"
+    ],
+    "25": [
+      "Synchronoise"
+    ],
+    "29": [
+      "Nightmare"
+    ],
+    "31": [
+      "Future Sight"
+    ],
+    "35": [
+      "Calm Mind"
+    ],
+    "37": [
+      "Psychic"
+    ],
+    "41": [
+      "Dream Eater"
+    ],
+    "43": [
+      "Telekinesis"
+    ],
+    "47": [
+      "Stored Power"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Psywave",
+    "Curse",
+    "Snore",
+    "Sleep Talk",
+    "Defense Curl",
+    "Nightmare",
+    "Skill Swap",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Barrier",
+    "Baton Pass",
+    "Hypnosis",
+    "Moonlight",
+    "SonicBoom",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Baton Pass",
+    "Curse",
+    "Healing Wish",
+    "Helping Hand",
+    "Magic Coat",
+    "Secret Power",
+    "Sleep Talk",
+    "Swift",
+    "SonicBoom"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Pancham",
+  "pokemon": "Pancham",
+  "stats": {
+    "HP": 67,
+    "Attack": 82,
+    "Defence": 62,
+    "Speed": 43,
+    "SpecialAttack": 46,
+    "SpecialDefence": 48
+  },
+  "catchRate": 220,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 11,
+  "baseExp": 70,
+  "baseFriendship": 0,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Pangoro"
+      },
+      "conditions": [
+        {
+          "withPokemon": [],
+          "withTypes": [
+            "Dark"
+          ],
+          "evoConditionType": "party"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "IronFist",
+    "MoldBreaker",
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "7": [
+      "Arm Thrust"
+    ],
+    "10": [
+      "Work Up"
+    ],
+    "12": [
+      "Karate Chop"
+    ],
+    "15": [
+      "Comet Punch"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "25": [
+      "Circle Throw"
+    ],
+    "27": [
+      "Vital Throw"
+    ],
+    "33": [
+      "Body Slam"
+    ],
+    "39": [
+      "Crunch"
+    ],
+    "42": [
+      "Entrainment"
+    ],
+    "45": [
+      "Parting Shot"
+    ],
+    "48": [
+      "Sky Uppercut"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "False Swipe",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Ice Punch",
+    "Snatch",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Covet",
+    "Dual Chop",
+    "Endeavor",
+    "Foul Play",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Foul Play",
+    "Me First",
+    "Quash",
+    "Quick Guard",
+    "Storm Throw"
+  ],
+  "forms": {},
+  "form": -1
+}

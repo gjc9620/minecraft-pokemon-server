@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Gabite",
+  "pokemon": "Gabite",
+  "stats": {
+    "HP": 68,
+    "Attack": 90,
+    "Defence": 65,
+    "Speed": 82,
+    "SpecialAttack": 50,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 17,
+  "baseExp": 144,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gible"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 56.0,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Garchomp"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 48,
+      "to": {
+        "name": "Garchomp"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandVeil",
+    null,
+    "RoughSkin"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Sand-Attack"
+    ],
+    "3": [
+      "Sand-Attack"
+    ],
+    "7": [
+      "Dragon Rage"
+    ],
+    "13": [
+      "Sandstorm"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Sand Tomb"
+    ],
+    "24": [
+      "Dual Chop"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "33": [
+      "Dragon Claw"
+    ],
+    "40": [
+      "Dig"
+    ],
+    "49": [
+      "Dragon Rush"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Shadow Claw",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Dragon Rage",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Dragon Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Chop",
+    "Earth Power",
+    "Iron Head",
+    "Outrage",
+    "Twister",
+    "Scary Face",
+    "Thrash",
+    "Tackle",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Double-Edge",
+    "Iron Head",
+    "Iron Tail",
+    "Metal Claw",
+    "Mud Shot",
+    "Outrage",
+    "Rock Climb",
+    "Sand Tomb",
+    "Scary Face",
+    "Thrash",
+    "Twister",
+    "DragonBreath"
+  ],
+  "forms": {},
+  "form": -1
+}

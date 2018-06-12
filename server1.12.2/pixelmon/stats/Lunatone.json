@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Lunatone",
+  "pokemon": "Lunatone",
+  "stats": {
+    "HP": 70,
+    "Attack": 55,
+    "Defence": 65,
+    "Speed": 70,
+    "SpecialAttack": 95,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "height": 1.0,
+  "width": 0.4,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 168.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Moonblast",
+      "Tackle",
+      "Harden",
+      "Confusion",
+      "Rock Throw"
+    ],
+    "5": [
+      "Hypnosis"
+    ],
+    "9": [
+      "Rock Polish"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "17": [
+      "Embargo"
+    ],
+    "21": [
+      "Rock Slide"
+    ],
+    "25": [
+      "Cosmic Power"
+    ],
+    "29": [
+      "Psychic"
+    ],
+    "33": [
+      "Heal Block"
+    ],
+    "37": [
+      "Stone Edge"
+    ],
+    "41": [
+      "Future Sight"
+    ],
+    "45": [
+      "Explosion"
+    ],
+    "49": [
+      "Magic Room"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "Swift",
+    "Psywave",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Gravity",
+    "Helping Hand",
+    "Iron Head",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Hypnosis",
+    "Moonlight",
+    "Rock Throw",
+    "Harden",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

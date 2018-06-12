@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Poliwag",
+  "pokemon": "Poliwag",
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 90,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 12.4,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Poliwhirl"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterAbsorb",
+    "Damp",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "8": [
+      "Hypnosis"
+    ],
+    "11": [
+      "Bubble"
+    ],
+    "15": [
+      "DoubleSlap"
+    ],
+    "18": [
+      "Rain Dance"
+    ],
+    "21": [
+      "Body Slam"
+    ],
+    "25": [
+      "BubbleBeam"
+    ],
+    "28": [
+      "Mud Shot"
+    ],
+    "31": [
+      "Belly Drum"
+    ],
+    "35": [
+      "Wake-Up Slap"
+    ],
+    "38": [
+      "Hydro Pump"
+    ],
+    "41": [
+      "Mud Bomb"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Psywave",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Amnesia",
+    "Belly Drum",
+    "Bubble",
+    "DoubleSlap",
+    "Encore",
+    "Growth",
+    "Haze",
+    "Hydro Pump",
+    "Hypnosis",
+    "Lovely Kiss",
+    "Mind Reader",
+    "Mist",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Haze",
+    "Ice Ball",
+    "Mind Reader",
+    "Mist",
+    "Mud Shot",
+    "Refresh",
+    "Splash",
+    "Water Pulse",
+    "Water Sport",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

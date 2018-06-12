@@ -1,0 +1,25 @@
+{
+	"id": "Miltank",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Miltank"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

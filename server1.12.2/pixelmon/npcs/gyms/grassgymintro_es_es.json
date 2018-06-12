@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "artist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Greg"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Bienvenido al Gimnasio Ivy."
+        },
+        {
+          "text": "¡A nuestro lider de Gimnasio le encanta atar a sus oponentes en nudos!"
+        },
+        {
+          "text": "Intenta no perderte mucho por la hierba alta; nunca se sabe lo que puede haber ahí dentro..."
+        }
+      ]
+    }
+  ]
+}

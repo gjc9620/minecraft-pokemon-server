@@ -1,0 +1,24 @@
+{
+  "attackIndex": 437,
+  "attackName": "Dragon Pulse",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 85,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Pidgeotto",
+  "pokemon": "Pidgeotto",
+  "stats": {
+    "HP": 63,
+    "Attack": 60,
+    "Defence": 55,
+    "Speed": 71,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 122,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.1,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pidgey"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 30.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Pidgeot"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "TangledFeet",
+    "BigPecks"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Sand-Attack",
+      "Gust"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Gust"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Whirlwind"
+    ],
+    "22": [
+      "Twister"
+    ],
+    "27": [
+      "FeatherDance"
+    ],
+    "32": [
+      "Agility"
+    ],
+    "37": [
+      "Wing Attack"
+    ],
+    "42": [
+      "Roost"
+    ],
+    "47": [
+      "Tailwind"
+    ],
+    "52": [
+      "Mirror Move"
+    ],
+    "57": [
+      "Air Slash"
+    ],
+    "62": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Air Slash",
+    "Faint Attack",
+    "FeatherDance",
+    "Foresight",
+    "Gust",
+    "Hurricane",
+    "Pursuit",
+    "Refresh",
+    "Tackle",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Air Slash",
+    "Brave Bird",
+    "Defog",
+    "Foresight",
+    "Pursuit",
+    "Steel Wing",
+    "Uproar",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

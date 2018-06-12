@@ -1,0 +1,41 @@
+{
+	"id": "Jigglypuff",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Jigglypuff"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 50.0
+		},
+		{
+			"spec": {
+				"name": "Jigglypuff"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 10,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 50.0
+		}
+	]
+}

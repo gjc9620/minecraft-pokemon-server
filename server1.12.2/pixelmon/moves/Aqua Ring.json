@@ -1,0 +1,31 @@
+{
+  "attackIndex": 429,
+  "attackName": "Aqua Ring",
+  "attackType": "Water",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "AquaRing",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AquaRing"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

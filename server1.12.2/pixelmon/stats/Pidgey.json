@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Pidgey",
+  "pokemon": "Pidgey",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 56,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 14,
+  "baseExp": 50,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.8,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Pidgeotto"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "TangledFeet",
+    "BigPecks"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Gust"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Whirlwind"
+    ],
+    "21": [
+      "Twister"
+    ],
+    "25": [
+      "FeatherDance"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "33": [
+      "Wing Attack"
+    ],
+    "37": [
+      "Roost"
+    ],
+    "41": [
+      "Tailwind"
+    ],
+    "45": [
+      "Mirror Move"
+    ],
+    "49": [
+      "Air Slash"
+    ],
+    "53": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Air Slash",
+    "Faint Attack",
+    "FeatherDance",
+    "Foresight",
+    "Gust",
+    "Hurricane",
+    "Pursuit",
+    "Tackle",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Air Slash",
+    "Brave Bird",
+    "Defog",
+    "Foresight",
+    "Pursuit",
+    "Steel Wing",
+    "Uproar",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

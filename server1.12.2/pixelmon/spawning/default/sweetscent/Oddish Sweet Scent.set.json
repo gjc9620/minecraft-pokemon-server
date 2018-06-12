@@ -1,0 +1,17 @@
+{
+    "id": "Oddish Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Oddish"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 2,
+            "maxLevel": 8,
+            "typeID": "pokemon",
+            "rarity": 150.0
+        }
+    ]
+}

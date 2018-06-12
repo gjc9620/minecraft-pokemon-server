@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Floatzel",
+  "pokemon": "Floatzel",
+  "stats": {
+    "HP": 85,
+    "Attack": 105,
+    "Defence": 55,
+    "Speed": 115,
+    "SpecialAttack": 85,
+    "SpecialDefence": 50
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Buizel"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 33.5,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ice Fang",
+      "Crunch",
+      "SonicBoom",
+      "Growl",
+      "Water Sport",
+      "Quick Attack"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "11": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Water Gun"
+    ],
+    "18": [
+      "Pursuit"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "24": [
+      "Aqua Jet"
+    ],
+    "29": [
+      "Double Hit"
+    ],
+    "35": [
+      "Whirlpool"
+    ],
+    "41": [
+      "Razor Wind"
+    ],
+    "46": [
+      "Aqua Tail"
+    ],
+    "51": [
+      "Agility"
+    ],
+    "57": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Razor Wind",
+    "Water Gun",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Low Kick",
+    "Agility",
+    "Aqua Ring",
+    "Baton Pass",
+    "DoubleSlap",
+    "Hydro Pump",
+    "Pursuit",
+    "SonicBoom",
+    "Water Sport",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Aqua Tail",
+    "Baton Pass",
+    "Fury Cutter",
+    "Fury Swipes",
+    "Headbutt",
+    "Me First",
+    "Mud-Slap",
+    "Odor Sleuth",
+    "Slash",
+    "Soak",
+    "Switcheroo",
+    "Tail Slap",
+    "DoubleSlap"
+  ],
+  "forms": {},
+  "form": -1
+}

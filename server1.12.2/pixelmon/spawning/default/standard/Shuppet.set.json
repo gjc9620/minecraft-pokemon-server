@@ -1,0 +1,25 @@
+{
+	"id": "Shuppet",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shuppet"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 31,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

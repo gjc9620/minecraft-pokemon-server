@@ -1,0 +1,28 @@
+{
+    "id": "Tornadus",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Tornadus",
+                "level": 70
+            },
+            "stringLocationTypes": [
+                "Land"
+            ],
+            "tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+            "typeID": "pokemon",
+            "condition": {
+				"weathers": [
+                    "RAIN"
+                ],
+                "stringBiomes": [
+                    "savannas"
+                ]
+            },
+            "rarity": 4
+        }
+    ]
+}

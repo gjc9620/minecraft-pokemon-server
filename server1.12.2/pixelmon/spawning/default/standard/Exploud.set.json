@@ -1,0 +1,25 @@
+{
+	"id": "Exploud",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Exploud"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

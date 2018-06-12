@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Chimecho",
+  "pokemon": "Chimecho",
+  "stats": {
+    "HP": 65,
+    "Attack": 50,
+    "Defence": 70,
+    "Speed": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 5,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Chingling"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 1.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Healing Wish",
+      "Synchronoise",
+      "Wrap",
+      "Growl",
+      "Astonish",
+      "Confusion"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "10": [
+      "Confusion"
+    ],
+    "13": [
+      "Yawn"
+    ],
+    "16": [
+      "Psywave"
+    ],
+    "19": [
+      "Take Down"
+    ],
+    "22": [
+      "Extrasensory"
+    ],
+    "27": [
+      "Heal Bell"
+    ],
+    "32": [
+      "Uproar"
+    ],
+    "37": [
+      "Safeguard"
+    ],
+    "42": [
+      "Double-Edge"
+    ],
+    "47": [
+      "Heal Pulse"
+    ],
+    "52": [
+      "Synchronoise"
+    ],
+    "57": [
+      "Healing Wish"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Psywave",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Nightmare",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Heal Pulse",
+    "Hypnosis",
+    "Wish",
+    "Yawn",
+    "Gravity"
+  ],
+  "eggMoves": [
+    "Cosmic Power",
+    "Curse",
+    "Disable",
+    "Future Sight",
+    "Hypnosis",
+    "Recover",
+    "Skill Swap",
+    "Stored Power",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,278 @@
+{
+  "pixelmonName": "Clefairy",
+  "pokemon": "Clefairy",
+  "stats": {
+    "HP": 70,
+    "Attack": 45,
+    "Defence": 48,
+    "Speed": 35,
+    "SpecialAttack": 60,
+    "SpecialDefence": 65
+  },
+  "catchRate": 150,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 68,
+  "baseFriendship": 140,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cleffa"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Clefable"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "MagicGuard",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "After You",
+      "Healing Wish",
+      "Disarming Voice",
+      "Pound",
+      "Growl",
+      "Encore"
+    ],
+    "7": [
+      "Sing"
+    ],
+    "10": [
+      "DoubleSlap"
+    ],
+    "13": [
+      "Defense Curl"
+    ],
+    "16": [
+      "Follow Me"
+    ],
+    "19": [
+      "Bestow"
+    ],
+    "22": [
+      "Wake-Up Slap"
+    ],
+    "25": [
+      "Minimize"
+    ],
+    "28": [
+      "Stored Power"
+    ],
+    "31": [
+      "Metronome"
+    ],
+    "34": [
+      "Cosmic Power"
+    ],
+    "37": [
+      "Lucky Chant"
+    ],
+    "40": [
+      "Body Slam"
+    ],
+    "43": [
+      "Moonlight"
+    ],
+    "46": [
+      "Moonblast"
+    ],
+    "49": [
+      "Gravity"
+    ],
+    "50": [
+      "Meteor Mash"
+    ],
+    "55": [
+      "Healing Wish"
+    ],
+    "58": [
+      "After You"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Softboiled",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Charm",
+    "Dizzy Punch",
+    "DoubleSlap",
+    "Encore",
+    "Follow Me",
+    "Heal Pulse",
+    "Moonlight",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Covet",
+    "Fake Tears",
+    "Heal Pulse",
+    "Metronome",
+    "Mimic",
+    "Present",
+    "Splash",
+    "Stored Power",
+    "Tickle",
+    "Wish",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

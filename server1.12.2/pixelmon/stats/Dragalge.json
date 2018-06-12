@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Dragalge",
+  "pokemon": "Dragalge",
+  "stats": {
+    "HP": 65,
+    "Attack": 75,
+    "Defence": 90,
+    "Speed": 44,
+    "SpecialAttack": 97,
+    "SpecialDefence": 123
+  },
+  "catchRate": 55,
+  "malePercent": 50,
+  "spawnLevel": 49,
+  "spawnLevelRange": 11,
+  "baseExp": 173,
+  "baseFriendship": 0,
+  "types": [
+    "Poison",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "width": 1.8,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Skrelp"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 81.5,
+  "evolutions": [],
+  "abilities": [
+    "PoisonPoint",
+    "PoisonTouch",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Tail",
+      "Twister",
+      "Tackle",
+      "SmokeScreen",
+      "Water Gun"
+    ],
+    "5": [
+      "Faint Attack"
+    ],
+    "9": [
+      "Tail Whip"
+    ],
+    "12": [
+      "Bubble"
+    ],
+    "15": [
+      "Acid"
+    ],
+    "19": [
+      "Camouflage"
+    ],
+    "23": [
+      "Poison Tail"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "28": [
+      "Double Team"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "38": [
+      "Sludge Bomb"
+    ],
+    "42": [
+      "Hydro Pump"
+    ],
+    "53": [
+      "Dragon Pulse"
+    ],
+    "59": [
+      "Dragon Tail"
+    ],
+    "67": [
+      "Twister"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Scald",
+    "Giga Impact",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Dragon Pulse",
+    "Icy Wind",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Draco Meteor",
+    "Gunk Shot",
+    "Outrage"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Haze",
+    "Play Rough",
+    "Toxic Spikes",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

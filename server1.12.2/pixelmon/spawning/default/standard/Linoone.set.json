@@ -1,0 +1,25 @@
+{
+	"id": "Linoone",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Linoone"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 21,
+			"maxLevel": 31,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"minecraft:plains"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

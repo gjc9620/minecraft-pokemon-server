@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Swirlix",
+  "pokemon": "Swirlix",
+  "stats": {
+    "HP": 62,
+    "Attack": 48,
+    "Defence": 66,
+    "Speed": 49,
+    "SpecialAttack": 59,
+    "SpecialDefence": 57
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 68,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 3.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Slurpuff"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:whipped_dream"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "SweetVeil",
+    null,
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sweet Scent",
+      "Tackle"
+    ],
+    "5": [
+      "Fairy Wind"
+    ],
+    "8": [
+      "Play Nice"
+    ],
+    "10": [
+      "Fake Tears"
+    ],
+    "13": [
+      "Round"
+    ],
+    "17": [
+      "Cotton Spore"
+    ],
+    "21": [
+      "Endeavor"
+    ],
+    "26": [
+      "Aromatherapy"
+    ],
+    "31": [
+      "Draining Kiss"
+    ],
+    "36": [
+      "Energy Ball"
+    ],
+    "41": [
+      "Cotton Guard"
+    ],
+    "45": [
+      "Wish"
+    ],
+    "49": [
+      "Play Rough"
+    ],
+    "58": [
+      "Light Screen"
+    ],
+    "67": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Surf",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Gastro Acid",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat"
+  ],
+  "eggMoves": [
+    "After You",
+    "Belly Drum",
+    "Copycat",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

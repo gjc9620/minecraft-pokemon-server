@@ -1,0 +1,28 @@
+{
+	"id": "Abomasnow",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Abomasnow"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"minecraft:taiga_cold",
+					"minecraft:taiga_cold_hills",
+					"minecraft:mutated_taiga_cold"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

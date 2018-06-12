@@ -1,0 +1,166 @@
+{
+  "pixelmonName": "Heatran",
+  "pokemon": "Heatran",
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 106,
+    "Speed": 77,
+    "SpecialAttack": 130,
+    "SpecialDefence": 106
+  },
+  "catchRate": 3,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 100,
+  "types": [
+    "Fire",
+    "Steel"
+  ],
+  "height": 1.3,
+  "width": 1.7,
+  "length": 1.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 430.0,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Magma Storm",
+      "Heat Wave",
+      "Earth Power",
+      "Iron Head",
+      "Fire Spin",
+      "AncientPower"
+    ],
+    "9": [
+      "Leer"
+    ],
+    "17": [
+      "Fire Fang"
+    ],
+    "25": [
+      "Metal Sound"
+    ],
+    "33": [
+      "Crunch"
+    ],
+    "41": [
+      "Scary Face"
+    ],
+    "49": [
+      "Lava Plume"
+    ],
+    "57": [
+      "Fire Spin"
+    ],
+    "65": [
+      "Iron Head"
+    ],
+    "73": [
+      "Earth Power"
+    ],
+    "81": [
+      "Heat Wave"
+    ],
+    "88": [
+      "Stone Edge"
+    ],
+    "96": [
+      "Magma Storm"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Dragon Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bug Bite",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Defense",
+    "Iron Head",
+    "Uproar",
+    "Metal Sound",
+    "Scary Face",
+    "Leer",
+    "Eruption"
+  ],
+  "forms": {},
+  "form": -1
+}

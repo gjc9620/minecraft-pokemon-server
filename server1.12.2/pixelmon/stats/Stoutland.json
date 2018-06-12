@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Stoutland",
+  "pokemon": "Stoutland",
+  "stats": {
+    "HP": 85,
+    "Attack": 110,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 45,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 13,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Herdier",
+    "Lillipup"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 61.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "SandRush",
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Ice Fang",
+      "Fire Fang",
+      "Thunder Fang",
+      "Leer",
+      "Tackle",
+      "Odor Sleuth",
+      "Bite"
+    ],
+    "5": [
+      "Odor Sleuth"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Helping Hand"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "20": [
+      "Work Up"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "29": [
+      "Roar"
+    ],
+    "36": [
+      "Retaliate"
+    ],
+    "42": [
+      "Reversal"
+    ],
+    "51": [
+      "Last Resort"
+    ],
+    "59": [
+      "Giga Impact"
+    ],
+    "63": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Surf",
+    "Strength",
+    "Take Down",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Hyper Voice",
+    "Iron Head",
+    "Last Resort",
+    "Superpower",
+    "Uproar",
+    "After You",
+    "Bite",
+    "Charm",
+    "Howl",
+    "Pursuit",
+    "Reversal",
+    "Yawn",
+    "Tackle",
+    "Leer",
+    "After You"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Endure",
+    "Fire Fang",
+    "Howl",
+    "Ice Fang",
+    "Lick",
+    "Mud-Slap",
+    "Pursuit",
+    "Thunder Fang",
+    "Yawn",
+    "Sand-Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

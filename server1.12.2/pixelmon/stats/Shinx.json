@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Shinx",
+  "pokemon": "Shinx",
+  "stats": {
+    "HP": 45,
+    "Attack": 65,
+    "Defence": 34,
+    "Speed": 45,
+    "SpecialAttack": 40,
+    "SpecialDefence": 34
+  },
+  "catchRate": 235,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 9.5,
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Luxio"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "Intimidate",
+    "Guts"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "9": [
+      "Charge"
+    ],
+    "11": [
+      "Baby-Doll Eyes"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "21": [
+      "Roar"
+    ],
+    "25": [
+      "Swagger"
+    ],
+    "29": [
+      "Thunder Fang"
+    ],
+    "33": [
+      "Crunch"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "41": [
+      "Discharge"
+    ],
+    "45": [
+      "Wild Charge"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Snarl",
+    "Strength",
+    "Take Down",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Bite",
+    "Howl",
+    "Scary Face",
+    "Tackle",
+    "Leer",
+    "Helping Hand"
+  ],
+  "eggMoves": [
+    "Double Kick",
+    "Fake Tears",
+    "Fire Fang",
+    "Helping Hand",
+    "Howl",
+    "Ice Fang",
+    "Night Slash",
+    "Quick Attack",
+    "Shock Wave",
+    "Signal Beam",
+    "Swift",
+    "Take Down",
+    "Thunder Fang",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

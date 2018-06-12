@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Cyndaquil",
+  "pokemon": "Cyndaquil",
+  "stats": {
+    "HP": 39,
+    "Attack": 52,
+    "Defence": 43,
+    "Speed": 65,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 9,
+  "spawnLevelRange": 5,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 7.9,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Quilava"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "FlashFire"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "6": [
+      "SmokeScreen"
+    ],
+    "10": [
+      "Ember"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "19": [
+      "Flame Wheel"
+    ],
+    "22": [
+      "Defense Curl"
+    ],
+    "28": [
+      "Flame Charge"
+    ],
+    "31": [
+      "Swift"
+    ],
+    "37": [
+      "Lava Plume"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "46": [
+      "Inferno"
+    ],
+    "49": [
+      "Rollout"
+    ],
+    "55": [
+      "Double-Edge"
+    ],
+    "58": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Cut",
+    "Body Slam",
+    "Double-Edge",
+    "Submission",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Iron Tail",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Blast Burn",
+    "Covet",
+    "Fire Pledge",
+    "Heat Wave",
+    "Crush Claw",
+    "Extrasensory",
+    "Flare Blitz",
+    "Foresight",
+    "Howl",
+    "Reversal",
+    "Thrash",
+    "Tackle",
+    "Inferno",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Crush Claw",
+    "Double-Edge",
+    "Double Kick",
+    "Extrasensory",
+    "Flame Burst",
+    "Flare Blitz",
+    "Foresight",
+    "Fury Swipes",
+    "Howl",
+    "Nature Power",
+    "Quick Attack",
+    "Reversal",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": -1
+}

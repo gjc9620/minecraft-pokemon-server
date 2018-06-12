@@ -1,0 +1,29 @@
+{
+	"id": "Diancie",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Diancie",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary",
+				"mythical"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 4
+		}
+	]
+}

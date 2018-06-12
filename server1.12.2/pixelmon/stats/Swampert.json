@@ -1,0 +1,260 @@
+{
+  "pixelmonName": "Swampert",
+  "pokemon": "Swampert",
+  "stats": {
+    "HP": 100,
+    "Attack": 110,
+    "Defence": 90,
+    "Speed": 60,
+    "SpecialAttack": 85,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 210,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Marshtomp",
+    "Mudkip"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.4
+    }
+  },
+  "weight": 81.9,
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "Damp"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hammer Arm",
+      "Tackle",
+      "Growl",
+      "Water Gun",
+      "Mud-Slap"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "9": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Foresight"
+    ],
+    "16": [
+      "Mud Shot"
+    ],
+    "18": [
+      "Bide"
+    ],
+    "22": [
+      "Mud Bomb"
+    ],
+    "28": [
+      "Rock Slide"
+    ],
+    "32": [
+      "Protect"
+    ],
+    "39": [
+      "Muddy Water"
+    ],
+    "44": [
+      "Take Down"
+    ],
+    "51": [
+      "Earthquake"
+    ],
+    "56": [
+      "Endeavor"
+    ],
+    "63": [
+      "Hammer Arm"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Focus Punch",
+    "Water Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Earth Power",
+    "Endeavor",
+    "Hydro Cannon",
+    "Low Kick",
+    "Outrage",
+    "Superpower",
+    "Water Pledge",
+    "Barrier",
+    "Bite",
+    "Foresight",
+    "Hydro Pump",
+    "Mud Sport",
+    "Refresh",
+    "Yawn",
+    "Stomp",
+    "Tackle",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Barrier",
+    "Bite",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Ice Ball",
+    "Mirror Coat",
+    "Mud Bomb",
+    "Refresh",
+    "Sludge",
+    "Stomp",
+    "Uproar",
+    "Whirlpool",
+    "Wide Guard",
+    "Yawn",
+    "AncientPower"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 100,
+        "Attack": 150,
+        "Defence": 110,
+        "Speed": 70,
+        "SpecialAttack": 95,
+        "SpecialDefence": 110
+      },
+      "height": 1.9,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 102.0,
+      "abilities": [
+        "Damp",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

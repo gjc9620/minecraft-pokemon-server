@@ -1,0 +1,199 @@
+{
+  "pixelmonName": "Smoochum",
+  "pokemon": "Smoochum",
+  "stats": {
+    "HP": 45,
+    "Attack": 30,
+    "Defence": 15,
+    "Speed": 65,
+    "SpecialAttack": 85,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 87,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Jynx"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Oblivious",
+    "Forewarn",
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "5": [
+      "Lick"
+    ],
+    "8": [
+      "Sweet Kiss"
+    ],
+    "11": [
+      "Powder Snow"
+    ],
+    "15": [
+      "Confusion"
+    ],
+    "18": [
+      "Sing"
+    ],
+    "21": [
+      "Heart Stamp"
+    ],
+    "25": [
+      "Mean Look"
+    ],
+    "28": [
+      "Fake Tears"
+    ],
+    "31": [
+      "Lucky Chant"
+    ],
+    "35": [
+      "Avalanche"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "41": [
+      "Copycat"
+    ],
+    "45": [
+      "Perish Song"
+    ],
+    "48": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Frost Breath",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "DynamicPunch",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Nightmare",
+    "Water Pulse",
+    "Skill Swap",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Dizzy Punch",
+    "Fake Out",
+    "Nasty Plot",
+    "Petal Dance",
+    "Sing",
+    "Sweet Kiss",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Fake Out",
+    "Ice Punch",
+    "Meditate",
+    "Miracle Eye",
+    "Nasty Plot",
+    "Wake-Up Slap",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,27 @@
+{
+	"id": "Snorunt",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Snorunt"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"frozen_river",
+					"ice_flats",
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

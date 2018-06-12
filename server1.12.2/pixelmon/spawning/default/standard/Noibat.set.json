@@ -1,0 +1,26 @@
+{
+	"id": "Noibat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Noibat"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 31,
+			"maxLevel": 47,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

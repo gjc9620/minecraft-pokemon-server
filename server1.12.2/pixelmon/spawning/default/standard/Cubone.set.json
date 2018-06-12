@@ -1,0 +1,29 @@
+{
+	"id": "Cubone",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cubone"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:thick_club",
+					"percentChance": 12
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

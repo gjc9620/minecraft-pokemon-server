@@ -1,0 +1,26 @@
+{
+	"id": "Cofagrigus",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cofagrigus"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Underground"
+			],
+			"minLevel": 35,
+			"maxLevel": 47,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

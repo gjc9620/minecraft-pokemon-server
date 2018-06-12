@@ -1,0 +1,26 @@
+{
+	"id": "Jumpluff",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Jumpluff"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 27,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 45.0
+		}
+	]
+}

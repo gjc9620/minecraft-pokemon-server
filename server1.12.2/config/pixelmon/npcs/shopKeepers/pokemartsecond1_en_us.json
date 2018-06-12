@@ -1,0 +1,721 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain"_-_Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond"_-_Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn"_-_Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Hammersmith"
+    },
+    {
+      "name": "Mrs. Finnegan"
+    },
+    {
+      "name": "Mr. Prendergast"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
+      "goodbye": "Delighted to have met you. Good day."
+    },
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    },
+    {
+      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privilege to do business with you."
+    },
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name_-_reference to the name entry in shopItems.json.
+    multi_-_optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity_-_optional field, from 0_-_1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "pixelmon:TM1_-_Hone_Claws",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM2_-_Dragon_Claw",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM3_-_Psyshock",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM4_-_Calm_Mind",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM5_-_Roar",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM6_-_Toxic",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM7_-_Hail",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM8_-_Bulk_Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM9_-_Venoshock",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM10_-_Hidden_Power",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM11_-_Sunny_Day",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM12_-_Taunt",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM13_-_Ice_Beam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM14_-_Blizzard",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM15_-_Hyper_Beam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM16_-_Light_Screen",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM17_-_Protect",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM18_-_Rain_Dance",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM19_-_Telekinesis",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM20_-_Safeguard",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM21_-_Frustration",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM22_-_SolarBeam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM23_-_Smack_Down",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM24_-_Thunderbolt",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM25_-_Thunder",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM26_-_Earthquake",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM27_-_Return",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM28_-_Dig",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM29_-_Psychic",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM30_-_Shadow_Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM31_-_Brick_Break",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM32_-_Double_Team",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM33_-_Reflect",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM34_-_Sludge_Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM35_-_Flamethrower",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM36_-_Sludge_Bomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM37_-_Sandstorm",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM38_-_Fire_Blast",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM39_-_Rock_Tomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM40_-_Aerial_Ace",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM41_-_Torment",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM42_-_Facade",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM43_-_Flame_Charge",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM44_-_Rest",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM45_-_Attract",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM46_-_Thief",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM47_-_Low_Sweep",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM48_-_Round",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM49_-_Echoed_Voice",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM50_-_Overheat",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM51_-_Ally_Switch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM52_-_Focus_Blast",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM53_-_Energy_Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM54_-_False_Swipe",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM55_-_Scald",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM56_-_Fling",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM57_-_Charge_Beam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM58_-_Sky_Drop",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM59_-_Incinerate",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM60_-_Quash",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM61_-_Will-O-Wisp",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM62_-_Acrobatics",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM63_-_Embargo",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM64_-_Explosion",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM65_-_Shadow_Claw",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM66_-_Payback",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM67_-_Retaliate",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM68_-_Giga_Impact",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM69_-_Rock_Polish",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM70_-_Flash",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM71_-_Stone_Edge",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM72_-_Volt_Switch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM73_-_Thunder_Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM74_-_Gyro_Ball",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM75_-_Swords_Dance",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM76_-_Struggle_Bug",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM77_-_Psych_Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM78_-_Bulldoze",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM79_-_Frost_Breath",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM80_-_Rock_Slide",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM81_-_X-Scissor",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM82_-_Dragon_Tail",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM83_-_Work_Up",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM84_-_Poison_Jab",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM85_-_Dream_Eater",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM86_-_Grass_Knot",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM87_-_Swagger",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM88_-_Pluck",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM89_-_U-Turn",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM90_-_Substitute",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM91_-_Flash_Cannon",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM92_-_Trick_Room",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM93_-_Wild_Charge",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM94_-_Rock_Smash",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM95_-_Snarl",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM96_-_Mega_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM97_-_Razor_Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM98_-_Whirlwind",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM99_-_Mega_Kick",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM100_-_Horn_Drill",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM101_-_Body_Slam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM102_-_Take_Down",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM103_-_Double-Edge",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM104_-_BubbleBeam",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM105_-_Water_Gun",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM106_-_Pay_Day",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM107_-_Submission",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM108_-_Counter",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM109_-_Seismic_Toss",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM110_-_Rage",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM111_-_Mega_Drain",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM112_-_Dragon_Rage",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM113_-_Fissure",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM114_-_Teleport",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM115_-_Mimic",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM116_-_Bide",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM117_-_Metronome",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM118_-_Selfdestruct",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM119_-_Egg_Bomb",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM120_-_Swift",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM121_-_Skull_Bash",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM122_-_Softboiled",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM123_-_Sky_Attack",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM124_-_Psywave",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM125_-_Tri_Attack",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM126_-_DynamicPunch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM127_-_Headbutt",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM128_-_Curse",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM129_-_Rollout",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM130_-_Zap_Cannon",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM131_-_Sweet_Scent",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM132_-_Snore",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM133_-_Icy_Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM134_-_Giga_Drain",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM135_-_Endure",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM136_-_Iron_Tail",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM137_-_DragonBreath",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM138_-_Mud-Slap",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM139_-_Ice_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM140_-_Sleep_Talk",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM141_-_Defense_Curl",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM142_-_Thunder_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM143_-_Detect",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM144_-_Steel_Wing",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM145_-_Fire_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM146_-_Fury_Cutter",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM147_-_Nightmare",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM148_-_Focus_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM149_-_Water_Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM150_-_Bullet_Seed",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM151_-_Shock_Wave",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM152_-_Secret_Power",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM153_-_Skill_Swap",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM154_-_Snatch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM155_-_Roost",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM156_-_Brine",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM157_-_Dragon_Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM158_-_Drain_Punch",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM159_-_Silver_Wind",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM160_-_Recycle",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM161_-_Avalanche",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM162_-_Stealth_Rock",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM163_-_Captivate",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM164_-_Dark_Pulse",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:TM165_-_Natural_Gift",
+      "rarity": 0.05
+    }
+  ]
+}

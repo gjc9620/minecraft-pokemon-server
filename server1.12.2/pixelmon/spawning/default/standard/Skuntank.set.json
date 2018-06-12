@@ -1,0 +1,24 @@
+{
+	"id": "Skuntank",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Skuntank"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 53,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"birches",
+					"forests"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

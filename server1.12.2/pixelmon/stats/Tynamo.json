@@ -1,0 +1,85 @@
+{
+  "pixelmonName": "Tynamo",
+  "pokemon": "Tynamo",
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 45,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 14,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.3,
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Eelektrik"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Eelektrik"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Thunder Wave",
+      "Spark",
+      "Charge Beam"
+    ]
+  },
+  "tmMoves": [
+    "Secret Power"
+  ],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

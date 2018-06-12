@@ -1,0 +1,25 @@
+{
+	"id": "Litwick",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Litwick"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

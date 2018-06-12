@@ -1,0 +1,211 @@
+{
+  "pixelmonName": "Ralts",
+  "pokemon": "Ralts",
+  "stats": {
+    "HP": 28,
+    "Attack": 25,
+    "Defence": 25,
+    "Speed": 40,
+    "SpecialAttack": 45,
+    "SpecialDefence": 35
+  },
+  "catchRate": 235,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 14,
+  "baseExp": 70,
+  "baseFriendship": 35,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.6,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Kirlia"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl"
+    ],
+    "4": [
+      "Confusion"
+    ],
+    "6": [
+      "Double Team"
+    ],
+    "9": [
+      "Teleport"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Lucky Chant"
+    ],
+    "17": [
+      "Magical Leaf"
+    ],
+    "19": [
+      "Heal Pulse"
+    ],
+    "22": [
+      "Draining Kiss"
+    ],
+    "24": [
+      "Calm Mind"
+    ],
+    "27": [
+      "Psychic"
+    ],
+    "29": [
+      "Imprison"
+    ],
+    "32": [
+      "Future Sight"
+    ],
+    "34": [
+      "Charm"
+    ],
+    "37": [
+      "Hypnosis"
+    ],
+    "39": [
+      "Dream Eater"
+    ],
+    "42": [
+      "Stored Power"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Hyper Voice",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Charm",
+    "Encore",
+    "Heal Pulse",
+    "Hypnosis",
+    "Sing",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Encore",
+    "Grudge",
+    "Mean Look",
+    "Memento",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Synchronoise",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,24 @@
+{
+	"id": "Wingull",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Wingull"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 2,
+			"maxLevel": 24,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"stone_beach"
+				]
+			},
+			"rarity": 180.0
+		}
+	]
+}

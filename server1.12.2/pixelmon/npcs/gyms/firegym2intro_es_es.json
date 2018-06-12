@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "firebreather5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Netsu"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Bienvenido al gimnasio Faro."
+        },
+        {
+          "text": "¡Nuestro Lider se está tomando un baño caliente!"
+        }
+      ]
+    }
+  ]
+}

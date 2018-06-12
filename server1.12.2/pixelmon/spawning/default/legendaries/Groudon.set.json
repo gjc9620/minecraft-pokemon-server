@@ -1,0 +1,31 @@
+{
+	"id": "Groudon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Groudon",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"weathers": [
+					"CLEAR"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 4
+		}
+	]
+}

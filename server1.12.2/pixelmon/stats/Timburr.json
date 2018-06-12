@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Timburr",
+  "pokemon": "Timburr",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 55,
+    "Speed": 35,
+    "SpecialAttack": 25,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 75,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 12.5,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Gurdurr"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "to": {
+        "name": "Gurdurr"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    "SheerForce",
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Leer"
+    ],
+    "4": [
+      "Focus Energy"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "12": [
+      "Low Kick"
+    ],
+    "16": [
+      "Rock Throw"
+    ],
+    "20": [
+      "Wake-Up Slap"
+    ],
+    "24": [
+      "Chip Away"
+    ],
+    "28": [
+      "Bulk Up"
+    ],
+    "31": [
+      "Rock Slide"
+    ],
+    "34": [
+      "DynamicPunch"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "40": [
+      "Hammer Arm"
+    ],
+    "43": [
+      "Stone Edge"
+    ],
+    "46": [
+      "Focus Punch"
+    ],
+    "49": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Counter",
+    "Bide",
+    "DynamicPunch",
+    "Snore",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Drain Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Superpower",
+    "Foresight",
+    "Reversal",
+    "Rock Throw",
+    "Scary Face",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Comet Punch",
+    "Counter",
+    "Detect",
+    "Drain Punch",
+    "Endure",
+    "Force Palm",
+    "Foresight",
+    "Mach Punch",
+    "Reversal",
+    "Wide Guard",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

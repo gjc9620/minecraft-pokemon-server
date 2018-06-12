@@ -1,0 +1,66 @@
+﻿{
+    "skins": [
+        { 
+            "filename": "ranger_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Diana"
+        },
+        {
+            "name": "Helena"
+        },
+        {
+            "name": "Sylvia"
+        },
+        {
+            "name": "Jana"
+        },
+        {
+            "name": "Naoma"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wir Förster treffen uns heute mit der Kommunalverwaltung."
+                },
+                {
+                    "text": "Wir müssen die Birkenwaldrodung durch Evoli-Jäger unterbinden."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pflanzen-Pokémon-Trainer grüßen uns immer freundlich. Da freuen wir uns doch."
+                },
+                {
+                    "text": "Sie sind die einzigen, die uns respektieren; Wasser-Pokémon-Trainer schießen uns gelegentlich mit Hydropumpe ab."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wir planen Aktivitäten für den Sommer. Wir entführen Kinder in den Wald um sie über die Natur aufzuklären."
+                },
+                {
+                    "text": "Einige wollten schon zur Pokémon Jagd aufbrechen. Wir greifen sie mit Rattfratz an und sperren sie dann in Pokébälle, damit sie wissen wie sich das anfühlt."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich muss wegen der Uniform mal mit meinem Chef reden."
+                },
+                {
+                    "text": "Der muss schließlich nicht den ganzen Tag mit kurzer Hose durch Brennnesseln laufen."
+                }
+            ]
+        }
+    ]
+}

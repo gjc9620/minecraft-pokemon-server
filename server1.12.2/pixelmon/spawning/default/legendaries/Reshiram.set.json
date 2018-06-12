@@ -1,0 +1,28 @@
+{
+	"id": "Reshiram",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Reshiram",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"redwoods"
+				]
+			},
+			"rarity": 2
+		}
+	]
+}

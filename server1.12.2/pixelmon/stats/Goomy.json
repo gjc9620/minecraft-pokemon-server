@@ -1,0 +1,134 @@
+{
+  "pixelmonName": "Goomy",
+  "pokemon": "Goomy",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 35,
+    "Speed": 40,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 17,
+  "baseExp": 60,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 2.8,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Sliggoo"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Bubble"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Protect"
+    ],
+    "13": [
+      "Bide"
+    ],
+    "18": [
+      "DragonBreath"
+    ],
+    "25": [
+      "Rain Dance"
+    ],
+    "28": [
+      "Flail"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "38": [
+      "Muddy Water"
+    ],
+    "42": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Outrage"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Counter",
+    "Curse",
+    "Endure",
+    "Iron Tail",
+    "Poison Tail"
+  ],
+  "forms": {},
+  "form": -1
+}

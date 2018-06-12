@@ -1,0 +1,25 @@
+{
+	"id": "Blaziken",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Blaziken"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

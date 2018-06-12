@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Regigigas",
+  "pokemon": "Regigigas",
+  "stats": {
+    "HP": 110,
+    "Attack": 160,
+    "Defence": 110,
+    "Speed": 100,
+    "SpecialAttack": 80,
+    "SpecialDefence": 110
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 3.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 420.0,
+  "evolutions": [],
+  "abilities": [
+    "SlowStart",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Heavy Slam",
+      "Crush Grip",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Dizzy Punch",
+      "Knock Off",
+      "Confuse Ray",
+      "Foresight"
+    ],
+    "25": [
+      "Revenge"
+    ],
+    "40": [
+      "Wide Guard"
+    ],
+    "50": [
+      "Zen Headbutt"
+    ],
+    "65": [
+      "Payback"
+    ],
+    "75": [
+      "Crush Grip"
+    ],
+    "90": [
+      "Heavy Slam"
+    ],
+    "100": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Drain Punch",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Head",
+    "Knock Off",
+    "Superpower",
+    "Zen Headbutt",
+    "Dizzy Punch",
+    "Foresight",
+    "Stomp"
+  ],
+  "forms": {},
+  "form": -1
+}

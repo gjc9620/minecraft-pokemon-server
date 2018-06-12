@@ -1,0 +1,27 @@
+{
+	"id": "Glalie",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Glalie"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"frozen_river",
+					"ice_flats",
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

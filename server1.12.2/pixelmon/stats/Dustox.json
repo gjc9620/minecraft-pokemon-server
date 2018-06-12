@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Dustox",
+  "pokemon": "Dustox",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 70,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wurmple",
+    "Cascoon"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 31.6,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    null,
+    "CompoundEyes"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust"
+    ],
+    "10": [
+      "Gust"
+    ],
+    "12": [
+      "Confusion"
+    ],
+    "15": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Moonlight"
+    ],
+    "20": [
+      "Venoshock"
+    ],
+    "22": [
+      "Psybeam"
+    ],
+    "25": [
+      "Silver Wind"
+    ],
+    "27": [
+      "Light Screen"
+    ],
+    "30": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "37": [
+      "Protect"
+    ],
+    "40": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Gust",
+    "Moonlight",
+    "Harden",
+    "Tackle",
+    "Tackle",
+    "Harden"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Teddiursa",
+  "pokemon": "Teddiursa",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 124,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.8,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Ursaring"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "QuickFeet",
+    "HoneyGather"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fling",
+      "Covet",
+      "Scratch",
+      "Baby-Doll Eyes",
+      "Lick",
+      "Fake Tears"
+    ],
+    "8": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Sweet Scent"
+    ],
+    "25": [
+      "Play Nice"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "36": [
+      "Charm"
+    ],
+    "43": [
+      "Rest",
+      "Snore"
+    ],
+    "50": [
+      "Thrash"
+    ],
+    "57": [
+      "Fling"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Sweet Scent",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Last Resort",
+    "Seed Bomb",
+    "Superpower",
+    "Belly Drum",
+    "Charm",
+    "Faint Attack",
+    "Refresh",
+    "Thrash",
+    "Yawn",
+    "Focus Energy",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Chip Away",
+    "Close Combat",
+    "Counter",
+    "Cross Chop",
+    "Crunch",
+    "Double-Edge",
+    "Fake Tears",
+    "Metal Claw",
+    "Night Slash",
+    "Seismic Toss",
+    "Sleep Talk",
+    "Take Down",
+    "Yawn",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

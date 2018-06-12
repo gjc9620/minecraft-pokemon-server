@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Deino",
+  "pokemon": "Deino",
+  "stats": {
+    "HP": 52,
+    "Attack": 65,
+    "Defence": 50,
+    "Speed": 38,
+    "SpecialAttack": 45,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 9,
+  "baseExp": 60,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 17.3,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Zweilous"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 50,
+      "to": {
+        "name": "Zweilous"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Dragon Rage"
+    ],
+    "4": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "17": [
+      "DragonBreath"
+    ],
+    "20": [
+      "Roar"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Dragon Pulse"
+    ],
+    "38": [
+      "Work Up"
+    ],
+    "42": [
+      "Dragon Rush"
+    ],
+    "48": [
+      "Body Slam"
+    ],
+    "50": [
+      "Scary Face"
+    ],
+    "58": [
+      "Hyper Voice"
+    ],
+    "62": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Psych Up",
+    "Dragon Tail",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Dragon Rage",
+    "Headbutt",
+    "Snore",
+    "DragonBreath",
+    "Sleep Talk",
+    "Dragon Pulse",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Astonish",
+    "Dark Pulse",
+    "Double Hit",
+    "Earth Power",
+    "Fire Fang",
+    "Head Smash",
+    "Ice Fang",
+    "Screech",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

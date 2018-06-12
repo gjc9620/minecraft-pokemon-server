@@ -1,0 +1,22 @@
+{
+	"id": "Metagross",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Metagross"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 50,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

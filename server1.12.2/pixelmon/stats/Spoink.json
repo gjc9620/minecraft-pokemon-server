@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Spoink",
+  "pokemon": "Spoink",
+  "stats": {
+    "HP": 60,
+    "Attack": 25,
+    "Defence": 35,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 89,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 30.6,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Grumpig"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "OwnTempo",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "7": [
+      "Psywave"
+    ],
+    "10": [
+      "Odor Sleuth"
+    ],
+    "14": [
+      "Psybeam"
+    ],
+    "15": [
+      "Psych Up"
+    ],
+    "18": [
+      "Confuse Ray"
+    ],
+    "21": [
+      "Magic Coat"
+    ],
+    "26": [
+      "Zen Headbutt"
+    ],
+    "29": [
+      "Power Gem",
+      "Rest"
+    ],
+    "33": [
+      "Snore"
+    ],
+    "38": [
+      "Psyshock"
+    ],
+    "40": [
+      "Payback"
+    ],
+    "44": [
+      "Psychic"
+    ],
+    "50": [
+      "Bounce"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Whirlwind",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Psywave",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Heal Bell",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Zen Headbutt",
+    "Uproar",
+    "Amnesia",
+    "Extrasensory",
+    "Splash"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Endure",
+    "Extrasensory",
+    "Future Sight",
+    "Lucky Chant",
+    "Mirror Coat",
+    "Simple Beam",
+    "Skill Swap",
+    "Trick",
+    "Whirlwind",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

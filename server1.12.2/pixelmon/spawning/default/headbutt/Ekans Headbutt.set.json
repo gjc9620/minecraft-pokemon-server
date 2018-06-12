@@ -1,0 +1,45 @@
+{
+    "id": "Ekans Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Ekans"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 11,
+            "maxLevel": 23,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle",
+					"fir",
+					"mahogany",
+					"sacred_oak"
+                ]
+            },
+            "rarity": 80.0
+        },
+        {
+            "spec": {
+                "name": "Arbok"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 18,
+            "maxLevel": 27,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle",
+					"fir",
+					"mahogany",
+					"sacred_oak"
+                ]
+            },
+            "rarity": 40.0
+        }
+    ]
+}

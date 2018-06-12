@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Deerling",
+  "pokemon": "Deerling",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 50,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 12,
+  "baseExp": 67,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Grass"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 19.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Sawsbuck"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "SapSipper",
+    "SereneGrace"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Camouflage"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Sand-Attack"
+    ],
+    "10": [
+      "Double Kick"
+    ],
+    "13": [
+      "Leech Seed"
+    ],
+    "16": [
+      "Faint Attack"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "24": [
+      "Jump Kick"
+    ],
+    "28": [
+      "Aromatherapy"
+    ],
+    "32": [
+      "Energy Ball"
+    ],
+    "36": [
+      "Charm"
+    ],
+    "41": [
+      "Nature Power"
+    ],
+    "46": [
+      "Double-Edge"
+    ],
+    "51": [
+      "SolarBeam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Take Down",
+    "Double-Edge",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Last Resort",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Aromatherapy",
+    "Baton Pass",
+    "Charm",
+    "Faint Attack",
+    "Leech Seed",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Fake Tears",
+    "Natural Gift",
+    "Odor Sleuth",
+    "Sleep Talk",
+    "Synthesis",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,308 @@
+{
+  "villagers": [
+    {
+      "name": "oldman"
+    },
+    {
+      "name": "artist"
+    },
+    {
+      "name": "baker"
+    },
+    {
+      "name": "battlegirl"
+    },
+    {
+      "name": "blackbelt"
+    },
+    {
+      "name": "doctor"
+    },
+    {
+      "name": "engineer"
+    },
+    {
+      "name": "fisherman"
+    },
+    {
+      "name": "hexmaniac"
+    },
+    {
+      "name": "hiker"
+    },
+    {
+      "name": "lass"
+    },
+    {
+      "name": "littleboy"
+    },
+    {
+      "name": "littlegirl"
+    },
+    {
+      "name": "madame"
+    },
+    {
+      "name": "monsieur"
+    },
+    {
+      "name": "pkmn_breeder_f"
+    },
+    {
+      "name": "mechanic"
+    },
+    {
+      "name": "officerjenny"
+    },
+    {
+      "name": "ornithologist"
+    },
+    {
+      "name": "pokefan_f"
+    },
+    {
+      "name": "pokefan_m"
+    },
+    {
+      "name": "policeman"
+    },
+    {
+      "name": "preschooler_f"
+    },
+    {
+      "name": "psychic"
+    },
+    {
+      "name": "psychic_f"
+    },
+    {
+      "name": "punkgirl"
+    },
+    {
+      "name": "punkguy"
+    },
+    {
+      "name": "rancher"
+    },
+    {
+      "name": "ranger_f"
+    },
+    {
+      "name": "ranger_m"
+    },
+    {
+      "name": "richboy"
+    },
+    {
+      "name": "sailor"
+    },
+    {
+      "name": "scaryman"
+    },
+    {
+      "name": "schoolboy"
+    },
+    {
+      "name": "schoolgirl"
+    },
+    {
+      "name": "scientist_f"
+    },
+    {
+      "name": "scientist_m"
+    },
+    {
+      "name": "shoplady"
+    },
+    {
+      "name": "shopgirl"
+    },
+    {
+      "name": "shopman"
+    },
+    {
+      "name": "supernerd"
+    }
+  ],
+  "trainers": {
+    "types": [
+      {
+        "name": "Steve",
+        "textures": [ "scottish", "santa", "suit", "prisoner", "Custom_RP", "Custom_PN" ]
+      },
+      {
+        "name": "BugCatcher",
+        "textures": [ "bugcatcher1", "bugcatcher2", "bugcatcher3", "bugcatcher4" ]
+      },
+      {
+        "name": "BugManiac",
+        "textures": [ "bugcatchergirl" ]
+      },
+      {
+        "name": "FemaleRocketGrunt",
+        "textures": [ "rocketgruntfemale1", "rocketgruntfemale2", "rocketgruntfemale3", "rocketgruntfemale4", "rocketgruntfemale5", "rocketgruntfemale6" ]
+      },
+      {
+        "name": "FireBreather",
+        "textures": [ "firebreather1", "firebreather2", "firebreather3", "firebreather4", "firebreather5" ]
+      },
+      {
+        "name": "Youngster",
+        "textures": [ "youngster1", "youngster2", "youngster3", "youngster4" ]
+      },
+      {
+        "name": "Lass",
+        "textures": [ "youngstergirl", "youngstergirl2", "lass" ]
+      },
+      {
+        "name": "PkmnBreederWoman",
+        "textures": [ "pkmn_breeder_f", "pkmn_breeder_f2" ]
+      },
+      {
+        "name": "Pokemaniac",
+        "textures": [ "pokemaniac1", "pokemaniac2", "pokemaniac3" ]
+      },
+      {
+        "name": "Pokemaniacgirl",
+        "textures": [ "pokemaniacgirl1", "pokemaniacgirl2" ]
+      },
+      {
+        "name": "Policeman",
+        "textures": [ "policeman" ]
+      },
+      {
+        "name": "PreschoolerGirl",
+        "textures": [ "preschooler_f1" ]
+      },
+      {
+        "name": "Rancher",
+        "textures": [ "rancher" ]
+      },
+      {
+        "name": "RichBoy",
+        "textures": [ "richboy" ]
+      },
+      {
+        "name": "FemaleScientist",
+        "textures": [ "scientist_f" ]
+      },
+      {
+        "name": "MaleScientist",
+        "textures": [ "scientist_m" ]
+      },
+      {
+        "name": "Swimmer",
+        "textures": [ "swimmer_m" ]
+      },
+      {
+        "name": "Fisherman",
+        "textures": [ "fisherman" ]
+      },
+      {
+        "name": "Miner",
+        "textures": [ "miner" ]
+      },
+      {
+        "name": "Blacksmith",
+        "textures": [ "blacksmith" ]
+      } /*,
+            {
+                "name": "Mountaineer",
+                "textures":[ "mountaineer" ]
+            }*/
+    ],
+    "list": [
+      {
+        "name": "bugcatcher"
+      },
+      {
+        "name": "bugmaniac"
+      },
+      {
+        "name": "femalerocketgrunt"
+      },
+      {
+        "name": "firebreather"
+      },
+      {
+        "name": "fisherman"
+      },
+      {
+        "name": "lass"
+      },
+      {
+        "name": "ornithologist"
+      },
+      {
+        "name": "pokemaniac"
+      },
+      {
+        "name": "pkmnbreeder_f"
+      },
+      {
+        "name": "policeman"
+      },
+      {
+        "name": "preschoolergirl"
+      },
+      {
+        "name": "rancher"
+      },
+      {
+        "name": "pokemaniacgirl"
+      },
+      {
+        "name": "richboy"
+      },
+      {
+        "name": "scientistwoman"
+      },
+      {
+        "name": "scientist"
+      },
+      {
+        "name": "swimmer"
+      },
+      {
+        "name": "miner"
+      },
+      {
+        "name": "blacksmith"
+      },
+      {
+        "name": "youngster"
+      },
+      {
+        "name": "steve"
+      }
+    ]
+  },
+  "shopKeepers": [
+    {
+      "name": "pokemartmain1"
+    },
+    {
+      "name": "pokemartmain2"
+    },
+    {
+      "name": "pokemartmain3"
+    },
+    {
+      "name": "pokemartsecond1"
+    },
+    {
+      "name": "pokemartsecond2"
+    }
+  ],
+  "gymnpcs":[
+    {
+      "name": "grassgymintro"
+    },
+    {
+      "name": "grassgymbase"
+    },
+    {
+      "name": "grassgymleader"
+    }
+  ]
+}

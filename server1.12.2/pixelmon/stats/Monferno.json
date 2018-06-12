@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Monferno",
+  "pokemon": "Monferno",
+  "stats": {
+    "HP": 64,
+    "Attack": 78,
+    "Defence": 52,
+    "Speed": 81,
+    "SpecialAttack": 78,
+    "SpecialDefence": 52
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 14,
+  "spawnLevelRange": 16,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Chimchar"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 22.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Infernape"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Leer",
+      "Ember"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Taunt"
+    ],
+    "14": [
+      "Mach Punch"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "19": [
+      "Flame Wheel"
+    ],
+    "26": [
+      "Feint"
+    ],
+    "29": [
+      "Torment"
+    ],
+    "36": [
+      "Close Combat"
+    ],
+    "39": [
+      "Fire Spin"
+    ],
+    "46": [
+      "Acrobatics"
+    ],
+    "49": [
+      "Slack Off"
+    ],
+    "56": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Retaliate",
+    "Swords Dance",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Submission",
+    "Counter",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dual Chop",
+    "Endeavor",
+    "Fire Pledge",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Vacuum Wave",
+    "Encore",
+    "Fake Out",
+    "Flare Blitz",
+    "Nasty Plot",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Blaze Kick",
+    "Counter",
+    "Double Kick",
+    "Encore",
+    "Fake Out",
+    "Fire Punch",
+    "Focus Energy",
+    "Focus Punch",
+    "Heat Wave",
+    "Helping Hand",
+    "Quick Guard",
+    "Submission",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

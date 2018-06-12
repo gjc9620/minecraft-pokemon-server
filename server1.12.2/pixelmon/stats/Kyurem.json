@@ -1,0 +1,311 @@
+{
+  "pixelmonName": "Kyurem",
+  "pokemon": "Kyurem",
+  "stats": {
+    "HP": 125,
+    "Attack": 130,
+    "Defence": 90,
+    "Speed": 95,
+    "SpecialAttack": 130,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 297,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Ice"
+  ],
+  "height": 3.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.6
+    }
+  },
+  "weight": 325.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Icy Wind",
+      "Dragon Rage"
+    ],
+    "8": [
+      "Imprison"
+    ],
+    "15": [
+      "AncientPower"
+    ],
+    "22": [
+      "Ice Beam"
+    ],
+    "29": [
+      "DragonBreath"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "43": [
+      "Scary Face"
+    ],
+    "50": [
+      "Glaciate"
+    ],
+    "57": [
+      "Dragon Pulse"
+    ],
+    "64": [
+      "Imprison"
+    ],
+    "71": [
+      "Endeavor"
+    ],
+    "78": [
+      "Blizzard"
+    ],
+    "85": [
+      "Outrage"
+    ],
+    "92": [
+      "Hyper Voice"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Dragon Rage",
+    "Snore",
+    "Icy Wind",
+    "DragonBreath",
+    "Sleep Talk",
+    "Roost",
+    "Dragon Pulse",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Draco Meteor",
+    "Earth Power",
+    "Endeavor",
+    "Hyper Voice",
+    "Iron Head",
+    "Outrage",
+    "Signal Beam",
+    "Zen Headbutt",
+    "Scary Face",
+    "Slash"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 125,
+        "Attack": 170,
+        "Defence": 100,
+        "Speed": 95,
+        "SpecialAttack": 120,
+        "SpecialDefence": 90
+      },
+      "height": 3.3,
+      "canFly": true,
+      "evYields": {
+        "Attack": 3
+      },
+      "abilities": [
+        "Teravolt",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Icy Wind",
+          "Dragon Rage"
+        ],
+        "8": [
+          "Imprison"
+        ],
+        "15": [
+          "AncientPower"
+        ],
+        "22": [
+          "Ice Beam"
+        ],
+        "29": [
+          "DragonBreath"
+        ],
+        "36": [
+          "Slash"
+        ],
+        "43": [
+          "Fusion Bolt"
+        ],
+        "50": [
+          "Glaciate"
+        ],
+        "57": [
+          "Dragon Pulse"
+        ],
+        "64": [
+          "Imprison"
+        ],
+        "71": [
+          "Endeavor"
+        ],
+        "78": [
+          "Blizzard"
+        ],
+        "85": [
+          "Outrage"
+        ],
+        "92": [
+          "Hyper Voice"
+        ]
+      },
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 125,
+        "Attack": 120,
+        "Defence": 90,
+        "Speed": 95,
+        "SpecialAttack": 170,
+        "SpecialDefence": 100
+      },
+      "height": 3.6,
+      "canFly": true,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "abilities": [
+        "Turboblaze",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Icy Wind",
+          "Dragon Rage"
+        ],
+        "8": [
+          "Imprison"
+        ],
+        "15": [
+          "AncientPower"
+        ],
+        "22": [
+          "Ice Beam"
+        ],
+        "29": [
+          "DragonBreath"
+        ],
+        "36": [
+          "Slash"
+        ],
+        "43": [
+          "Fusion Flare"
+        ],
+        "50": [
+          "Glaciate"
+        ],
+        "57": [
+          "Dragon Pulse"
+        ],
+        "64": [
+          "Imprison"
+        ],
+        "71": [
+          "Endeavor"
+        ],
+        "78": [
+          "Blizzard"
+        ],
+        "85": [
+          "Outrage"
+        ],
+        "92": [
+          "Hyper Voice"
+        ]
+      },
+      "form": 2
+    }
+  },
+  "form": -1
+}

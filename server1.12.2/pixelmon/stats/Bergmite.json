@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Bergmite",
+  "pokemon": "Bergmite",
+  "stats": {
+    "HP": 55,
+    "Attack": 69,
+    "Defence": 85,
+    "Speed": 28,
+    "SpecialAttack": 32,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 13,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 99.5,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Avalugg"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "OwnTempo",
+    "IceBody",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Bite",
+      "Harden"
+    ],
+    "5": [
+      "Powder Snow"
+    ],
+    "10": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "20": [
+      "Sharpen"
+    ],
+    "22": [
+      "Curse"
+    ],
+    "26": [
+      "Ice Fang"
+    ],
+    "30": [
+      "Ice Ball"
+    ],
+    "35": [
+      "Rapid Spin"
+    ],
+    "39": [
+      "Avalanche"
+    ],
+    "43": [
+      "Blizzard"
+    ],
+    "47": [
+      "Recover"
+    ],
+    "49": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Icy Wind",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Iron Defense"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Mirror Coat",
+    "Mist",
+    "Recover"
+  ],
+  "forms": {},
+  "form": -1
+}

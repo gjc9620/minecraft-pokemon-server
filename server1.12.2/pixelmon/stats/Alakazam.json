@@ -1,0 +1,242 @@
+{
+  "pixelmonName": "Alakazam",
+  "pokemon": "Alakazam",
+  "stats": {
+    "HP": 55,
+    "Attack": 50,
+    "Defence": 45,
+    "Speed": 120,
+    "SpecialAttack": 135,
+    "SpecialDefence": 95
+  },
+  "catchRate": 50,
+  "malePercent": 75,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 186,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Kadabra",
+    "Abra"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 48.0,
+  "evolutions": [],
+  "abilities": [
+    "Synchronize",
+    "InnerFocus",
+    "MagicGuard"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Teleport",
+      "Kinesis",
+      "Confusion"
+    ],
+    "16": [
+      "Confusion"
+    ],
+    "18": [
+      "Disable"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "23": [
+      "Miracle Eye"
+    ],
+    "26": [
+      "Reflect"
+    ],
+    "28": [
+      "Psycho Cut"
+    ],
+    "31": [
+      "Recover"
+    ],
+    "33": [
+      "Telekinesis"
+    ],
+    "36": [
+      "Ally Switch"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "41": [
+      "Calm Mind"
+    ],
+    "43": [
+      "Future Sight"
+    ],
+    "46": [
+      "Trick"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Ally Switch",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Embargo",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Dig",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Gravity",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Encore",
+    "Foresight"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Barrier",
+    "Encore",
+    "Fire Punch",
+    "Guard Split",
+    "Guard Swap",
+    "Ice Punch",
+    "Knock Off",
+    "Power Trick",
+    "Psycho Shift",
+    "Skill Swap",
+    "Thunder Punch"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 55,
+        "Attack": 50,
+        "Defence": 65,
+        "Speed": 150,
+        "SpecialAttack": 175,
+        "SpecialDefence": 95
+      },
+      "height": 1.2,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "abilities": [
+        "Trace",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

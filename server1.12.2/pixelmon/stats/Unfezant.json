@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Unfezant",
+  "pokemon": "Unfezant",
+  "stats": {
+    "HP": 80,
+    "Attack": 115,
+    "Defence": 80,
+    "Speed": 93,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 14,
+  "baseExp": 215,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tranquill",
+    "Pidove"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 29.0,
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Growl",
+      "Leer",
+      "Quick Attack"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Leer"
+    ],
+    "11": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Air Cutter"
+    ],
+    "18": [
+      "Roost"
+    ],
+    "23": [
+      "Detect"
+    ],
+    "27": [
+      "Taunt"
+    ],
+    "33": [
+      "Air Slash"
+    ],
+    "38": [
+      "Razor Wind"
+    ],
+    "44": [
+      "FeatherDance"
+    ],
+    "49": [
+      "Swagger"
+    ],
+    "55": [
+      "Facade"
+    ],
+    "60": [
+      "Tailwind"
+    ],
+    "66": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Psych Up",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Razor Wind",
+    "Sky Attack",
+    "Snore",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "FeatherDance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Hypnosis",
+    "Lucky Chant",
+    "Morning Sun",
+    "Night Slash",
+    "Steel Wing",
+    "Uproar",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

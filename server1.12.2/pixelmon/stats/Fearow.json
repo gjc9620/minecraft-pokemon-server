@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Fearow",
+  "pokemon": "Fearow",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 65,
+    "Speed": 100,
+    "SpecialAttack": 61,
+    "SpecialDefence": 61
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 162,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spearow"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 60,
+    "passive": 0,
+    "aggressive": 40
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "hoverHeight": 1.0,
+  "weight": 38.0,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Drill Run",
+      "Pluck",
+      "Peck",
+      "Growl",
+      "Leer",
+      "Fury Attack"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "9": [
+      "Fury Attack"
+    ],
+    "13": [
+      "Pursuit"
+    ],
+    "17": [
+      "Aerial Ace"
+    ],
+    "23": [
+      "Mirror Move"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "35": [
+      "Assurance"
+    ],
+    "41": [
+      "Roost"
+    ],
+    "47": [
+      "Drill Peck"
+    ],
+    "53": [
+      "Drill Run"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "False Swipe",
+    "Giga Impact",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Pay Day",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Tri Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Drill Run",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Baton Pass",
+    "Faint Attack",
+    "FeatherDance",
+    "Fury Attack",
+    "Pursuit",
+    "Scary Face",
+    "SonicBoom",
+    "Peck",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Quick Attack",
+    "Razor Wind",
+    "Scary Face",
+    "Sky Attack",
+    "Steel Wing",
+    "Tri Attack",
+    "Uproar",
+    "Whirlwind",
+    "FeatherDance",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

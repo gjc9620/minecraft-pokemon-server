@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sr. Donut"
+        },
+        {
+            "name": "Sr. Puff"
+        },
+        {
+            "name": "Bob el Panadero"
+        },
+        {
+            "name": "Pieman Pete"
+        },
+        {
+            "name": "Sr. Bakelight"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Si necesitas pan, pásate por mi panadería."
+                },
+                {
+                    "text": "Sólo yo uso la mejor harina de todas."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hola, estamos vendiendo panes frescos y crujientes a mitad de precio durante toda la tarde."
+                },
+                {
+                    "text": "¿Te guardo una docena de los mejores?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Qué mal me siento cuando veo un pastel que no se mantiene en pie."
+                },
+                {
+                    "text": "¡La repostería es un arte exigente! ¡No es para débiles! "
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Necesitas engordar un poco! Ven y llévate algún pastel en nuestra panadería."
+                },
+                {
+                    "text": "¿No te gustan los pasteles? Entonces, ¡más para mí!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quisiera poder parar de comerme todo el pan que hago."
+                },
+                {
+                    "text": "¿Crees que debería de ponerme a dieta?"
+                }
+            ]
+        }
+    ]
+}

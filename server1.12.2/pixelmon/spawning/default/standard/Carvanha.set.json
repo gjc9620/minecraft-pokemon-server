@@ -1,0 +1,25 @@
+{
+	"id": "Carvanha",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Carvanha"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 5,
+			"maxLevel": 29,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"swamps",
+					"river",
+					"jungles"
+				]
+			},
+			"rarity": 225.0
+		}
+	]
+}

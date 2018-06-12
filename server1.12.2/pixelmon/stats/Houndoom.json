@@ -1,0 +1,211 @@
+{
+  "pixelmonName": "Houndoom",
+  "pokemon": "Houndoom",
+  "stats": {
+    "HP": 75,
+    "Attack": 90,
+    "Defence": 50,
+    "Speed": 95,
+    "SpecialAttack": 110,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 26,
+  "baseExp": 175,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "height": 1.4,
+  "width": 0.4,
+  "length": 1.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Houndour"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.5
+    }
+  },
+  "weight": 35.0,
+  "evolutions": [],
+  "abilities": [
+    "EarlyBird",
+    "FlashFire",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Inferno",
+      "Nasty Plot",
+      "Thunder Fang",
+      "Leer",
+      "Ember",
+      "Howl",
+      "Smog"
+    ],
+    "4": [
+      "Howl"
+    ],
+    "8": [
+      "Smog"
+    ],
+    "13": [
+      "Roar"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Odor Sleuth"
+    ],
+    "26": [
+      "Beat Up"
+    ],
+    "30": [
+      "Fire Fang"
+    ],
+    "35": [
+      "Faint Attack"
+    ],
+    "41": [
+      "Embargo"
+    ],
+    "45": [
+      "Foul Play"
+    ],
+    "50": [
+      "Flamethrower"
+    ],
+    "56": [
+      "Crunch"
+    ],
+    "60": [
+      "Nasty Plot"
+    ],
+    "65": [
+      "Inferno"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Nightmare",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Heat Wave",
+    "Hyper Voice",
+    "Role Play",
+    "Spite",
+    "Sucker Punch",
+    "Super Fang",
+    "Uproar",
+    "Beat Up",
+    "Bite",
+    "Charm",
+    "Faint Attack",
+    "Howl",
+    "Nasty Plot",
+    "Pursuit",
+    "Reversal",
+    "Inferno",
+    "Leer",
+    "Spite"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Counter",
+    "Destiny Bond",
+    "Feint",
+    "Fire Fang",
+    "Fire Spin",
+    "Nasty Plot",
+    "Punishment",
+    "Pursuit",
+    "Rage",
+    "Reversal",
+    "Spite",
+    "Sucker Punch",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

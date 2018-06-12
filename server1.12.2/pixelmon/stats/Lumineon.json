@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Lumineon",
+  "pokemon": "Lumineon",
+  "stats": {
+    "HP": 69,
+    "Attack": 69,
+    "Defence": 76,
+    "Speed": 91,
+    "SpecialAttack": 69,
+    "SpecialDefence": 86
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 11,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Finneon"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 24.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "StormDrain",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Soak",
+      "Gust",
+      "Pound",
+      "Water Gun",
+      "Attract"
+    ],
+    "6": [
+      "Water Gun"
+    ],
+    "10": [
+      "Attract"
+    ],
+    "13": [
+      "Rain Dance"
+    ],
+    "17": [
+      "Gust"
+    ],
+    "22": [
+      "Water Pulse"
+    ],
+    "26": [
+      "Captivate"
+    ],
+    "29": [
+      "Safeguard"
+    ],
+    "35": [
+      "Aqua Ring"
+    ],
+    "42": [
+      "Whirlpool"
+    ],
+    "48": [
+      "U-Turn"
+    ],
+    "53": [
+      "Bounce"
+    ],
+    "59": [
+      "Silver Wind"
+    ],
+    "66": [
+      "Soak"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Defog",
+    "Whirlpool",
+    "Water Gun",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Aqua Tail",
+    "Bounce",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Aqua Ring",
+    "Charm",
+    "Flail",
+    "Gust",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Tail",
+    "Aurora Beam",
+    "Brine",
+    "Charm",
+    "Flail",
+    "Psybeam",
+    "Signal Beam",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

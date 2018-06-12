@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Pelipper",
+  "pokemon": "Pelipper",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 100,
+    "Speed": 65,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 164,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wingull"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    null,
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hurricane",
+      "Hydro Pump",
+      "Tailwind",
+      "Soak",
+      "Growl",
+      "Water Gun",
+      "Water Sport",
+      "Wing Attack"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "8": [
+      "Wing Attack"
+    ],
+    "12": [
+      "Mist"
+    ],
+    "15": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Payback"
+    ],
+    "22": [
+      "Roost"
+    ],
+    "25": [
+      "Protect"
+    ],
+    "28": [
+      "Brine"
+    ],
+    "33": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "39": [
+      "Fling"
+    ],
+    "44": [
+      "Tailwind"
+    ],
+    "50": [
+      "Hydro Pump"
+    ],
+    "55": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Sky Drop",
+    "Payback",
+    "Giga Impact",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Surf",
+    "Defog",
+    "Whirlpool",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Gunk Shot",
+    "Knock Off",
+    "Ominous Wind",
+    "Seed Bomb",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Aqua Ring",
+    "Air Slash",
+    "Gust",
+    "Hurricane",
+    "Hydro Pump",
+    "Mist",
+    "Pursuit",
+    "Water Sport",
+    "Water Sport",
+    "Quick Attack",
+    "Quick Attack"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Ring",
+    "Brine",
+    "Gust",
+    "Knock Off",
+    "Mist",
+    "Roost",
+    "Soak",
+    "Twister",
+    "Water Sport",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

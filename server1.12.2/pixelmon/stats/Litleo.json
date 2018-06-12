@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Litleo",
+  "pokemon": "Litleo",
+  "stats": {
+    "HP": 62,
+    "Attack": 50,
+    "Defence": 58,
+    "Speed": 72,
+    "SpecialAttack": 73,
+    "SpecialDefence": 54
+  },
+  "catchRate": 220,
+  "malePercent": 12,
+  "spawnLevel": 21,
+  "spawnLevelRange": 13,
+  "baseExp": 74,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 13.5,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Pyroar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "Unnerve",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Work Up"
+    ],
+    "11": [
+      "Headbutt"
+    ],
+    "15": [
+      "Noble Roar"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "23": [
+      "Fire Fang"
+    ],
+    "28": [
+      "Endeavor"
+    ],
+    "33": [
+      "Echoed Voice"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "39": [
+      "Crunch"
+    ],
+    "43": [
+      "Hyper Voice"
+    ],
+    "46": [
+      "Incinerate"
+    ],
+    "50": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Payback",
+    "Retaliate",
+    "Bulldoze",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide",
+    "Strength",
+    "Rock Smash",
+    "Iron Tail",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice"
+  ],
+  "eggMoves": [
+    "Entrainment",
+    "Fire Spin",
+    "Snatch",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

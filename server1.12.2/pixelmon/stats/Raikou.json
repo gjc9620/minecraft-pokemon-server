@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Raikou",
+  "pokemon": "Raikou",
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defence": 75,
+    "Speed": 115,
+    "SpecialAttack": 115,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 216,
+  "baseFriendship": 35,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    }
+  },
+  "weight": 178.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "VoltAbsorb"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Extrasensory",
+      "Discharge",
+      "Bite",
+      "Leer"
+    ],
+    "8": [
+      "ThunderShock"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "22": [
+      "Quick Attack"
+    ],
+    "29": [
+      "Spark"
+    ],
+    "36": [
+      "Reflect"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "50": [
+      "Thunder Fang"
+    ],
+    "57": [
+      "Discharge"
+    ],
+    "64": [
+      "Extrasensory"
+    ],
+    "71": [
+      "Rain Dance"
+    ],
+    "78": [
+      "Calm Mind"
+    ],
+    "85": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Quash",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Shock Wave",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Magnet Rise",
+    "Signal Beam",
+    "Aura Sphere",
+    "Bite",
+    "Extrasensory",
+    "ExtremeSpeed",
+    "Weather Ball",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

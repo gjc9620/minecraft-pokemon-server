@@ -1,0 +1,54 @@
+{
+    "skins": [
+        { 
+            "filename": "officerjenny.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Officer Jenny"
+        },
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hey, est-ce que tous ces Pokémons sont à vous? Soignez-les bien, d'accord?"
+                },
+                {
+                    "text": "Je retournera bientôt pour que m'assurer que vous avez soignés bien vos Pokémons!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Avez-vous vu le Team Rocket? On ma dit qu'ils etaitent tout près récemment."
+                },
+                {
+                    "text": "Vous avez vu le Team Rocket dans la ville prochaine? Alors, merci! Je pars!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Faites attention des voleurs des Pokémons. On a fait report qu'ils etaitent activent à cette region récemment."
+                },
+                {
+                    "text": "Vous n'êtes pas voleur de Pokémons, vous?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'adore mon emploi! Je cherche les semeurs et je mes tout à droit!"
+                },
+                {
+                    "text": "Voleurs de Pokémons, tous les types d'ecrocs! Faites  attention à moi, Officer Jenny!"
+                }
+            ]
+        }
+    ]
+}

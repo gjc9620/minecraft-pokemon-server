@@ -1,0 +1,214 @@
+{
+  "pixelmonName": "Graveler",
+  "pokemon": "Graveler",
+  "stats": {
+    "HP": 55,
+    "Attack": 95,
+    "Defence": 115,
+    "Speed": 35,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 11,
+  "baseExp": 134,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Geodude"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.7
+    }
+  },
+  "weight": 105.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Golem"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Defense Curl",
+      "Mud Sport",
+      "Rock Polish"
+    ],
+    "4": [
+      "Mud Sport"
+    ],
+    "6": [
+      "Rock Polish"
+    ],
+    "10": [
+      "Rollout"
+    ],
+    "12": [
+      "Magnitude"
+    ],
+    "16": [
+      "Rock Throw"
+    ],
+    "18": [
+      "Smack Down"
+    ],
+    "22": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Selfdestruct"
+    ],
+    "30": [
+      "Stealth Rock"
+    ],
+    "34": [
+      "Rock Blast"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "44": [
+      "Explosion"
+    ],
+    "50": [
+      "Double-Edge"
+    ],
+    "54": [
+      "Stone Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Selfdestruct",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Iron Defense",
+    "Sucker Punch",
+    "Superpower",
+    "Flail",
+    "Mud Sport",
+    "Rapid Spin",
+    "Rock Throw",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Block",
+    "Curse",
+    "Endure",
+    "Flail",
+    "Focus Punch",
+    "Hammer Arm",
+    "Mega Punch",
+    "Rock Climb",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

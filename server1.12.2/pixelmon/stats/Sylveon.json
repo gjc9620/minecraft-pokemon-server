@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Sylveon",
+  "pokemon": "Sylveon",
+  "stats": {
+    "HP": 95,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 60,
+    "SpecialAttack": 110,
+    "SpecialDefence": 130
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 32,
+  "spawnLevelRange": 12,
+  "baseExp": 184,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 23.5,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    null,
+    "Pixilate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Disarming Voice",
+      "Tail Whip",
+      "Tackle",
+      "Helping Hand"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Fairy Wind"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Swift"
+    ],
+    "20": [
+      "Draining Kiss"
+    ],
+    "25": [
+      "Skill Swap"
+    ],
+    "29": [
+      "Misty Terrain"
+    ],
+    "33": [
+      "Light Screen"
+    ],
+    "37": [
+      "Moonblast"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Psych Up"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Cut",
+    "Iron Tail",
+    "Skill Swap",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Bite",
+    "Refresh",
+    "Charm",
+    "Baton Pass",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

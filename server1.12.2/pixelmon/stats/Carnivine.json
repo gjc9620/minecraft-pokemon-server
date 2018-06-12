@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Carnivine",
+  "pokemon": "Carnivine",
+  "stats": {
+    "HP": 74,
+    "Attack": 100,
+    "Defence": 72,
+    "Speed": 46,
+    "SpecialAttack": 90,
+    "SpecialDefence": 72
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 11,
+  "baseExp": 164,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 27.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Growth"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "11": [
+      "Vine Whip"
+    ],
+    "17": [
+      "Sweet Scent"
+    ],
+    "21": [
+      "Ingrain"
+    ],
+    "27": [
+      "Faint Attack"
+    ],
+    "31": [
+      "Leaf Tornado"
+    ],
+    "37": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "47": [
+      "Wring Out"
+    ],
+    "50": [
+      "Power Whip"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Gastro Acid",
+    "Knock Off",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Bite",
+    "Faint Attack",
+    "Growth",
+    "Leech Seed"
+  ],
+  "eggMoves": [
+    "Giga Drain",
+    "Leech Seed",
+    "Magical Leaf",
+    "Rage Powder",
+    "Razor Leaf",
+    "Slam",
+    "Sleep Powder",
+    "Stun Spore",
+    "Synthesis",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

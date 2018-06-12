@@ -1,0 +1,27 @@
+{
+    "id": "Weedle",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Weedle"
+            },
+            "stringLocationTypes": [
+                "Land",
+                "Headbutt"
+            ],
+            "minLevel": 2,
+            "maxLevel": 7,
+            "typeID": "pokemon",
+            "condition": {
+                "times": [
+                    "DAWN",
+                    "DUSK"
+                ],
+                "stringBiomes": [
+                    "birches"
+                ]
+            },
+            "rarity": 200.0
+        }
+    ]
+}

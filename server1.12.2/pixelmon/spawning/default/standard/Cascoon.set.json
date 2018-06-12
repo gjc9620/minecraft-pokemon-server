@@ -1,0 +1,27 @@
+{
+	"id": "Cascoon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cascoon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 6,
+			"maxLevel": 11,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

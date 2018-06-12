@@ -1,0 +1,142 @@
+{
+  "pixelmonName": "Lilligant",
+  "pokemon": "Lilligant",
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defence": 75,
+    "Speed": 90,
+    "SpecialAttack": 110,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 0,
+  "spawnLevel": 28,
+  "spawnLevelRange": 13,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Petilil"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 16.3,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "OwnTempo",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growth",
+      "Leech Seed",
+      "Mega Drain",
+      "Synthesis"
+    ],
+    "10": [
+      "Teeter Dance"
+    ],
+    "28": [
+      "Quiver Dance"
+    ],
+    "46": [
+      "Petal Dance"
+    ],
+    "50": [
+      "Petal Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Drain",
+    "Bide",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Role Play",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Charm",
+    "Growth",
+    "Leech Seed",
+    "Petal Dance",
+    "Teeter Dance",
+    "Absorb",
+    "Aromatherapy"
+  ],
+  "eggMoves": [
+    "Bide",
+    "Charm",
+    "Endure",
+    "Healing Wish",
+    "Ingrain",
+    "Natural Gift",
+    "Sweet Scent",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

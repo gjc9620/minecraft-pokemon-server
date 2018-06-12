@@ -1,0 +1,28 @@
+{
+	"id": "Dustox",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dustox"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"redwoods",
+					"flowery"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

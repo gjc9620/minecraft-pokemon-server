@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Hippowdon",
+  "pokemon": "Hippowdon",
+  "stats": {
+    "HP": 108,
+    "Attack": 112,
+    "Defence": 118,
+    "Speed": 47,
+    "SpecialAttack": 68,
+    "SpecialDefence": 72
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 11,
+  "baseExp": 198,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hippopotas"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 300.0,
+  "evolutions": [],
+  "abilities": [
+    "SandStream",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Ice Fang",
+      "Fire Fang",
+      "Thunder Fang",
+      "Tackle",
+      "Sand-Attack",
+      "Bite",
+      "Yawn"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "13": [
+      "Yawn"
+    ],
+    "19": [
+      "Take Down",
+      "Dig"
+    ],
+    "25": [
+      "Sand Tomb"
+    ],
+    "31": [
+      "Crunch"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "50": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Whirlwind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Fissure",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Iron Head",
+    "Superpower",
+    "Bite",
+    "Yawn",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Revenge",
+    "Sand Tomb",
+    "Slack Off",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": -1
+}

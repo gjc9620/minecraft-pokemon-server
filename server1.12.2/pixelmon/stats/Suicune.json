@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Suicune",
+  "pokemon": "Suicune",
+  "stats": {
+    "HP": 100,
+    "Attack": 75,
+    "Defence": 115,
+    "Speed": 85,
+    "SpecialAttack": 90,
+    "SpecialDefence": 115
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 35,
+  "types": [
+    "Water"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    }
+  },
+  "weight": 187.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Hydro Pump",
+      "Extrasensory",
+      "Tailwind",
+      "Bite",
+      "Leer"
+    ],
+    "8": [
+      "BubbleBeam"
+    ],
+    "15": [
+      "Rain Dance"
+    ],
+    "22": [
+      "Gust"
+    ],
+    "29": [
+      "Aurora Beam"
+    ],
+    "36": [
+      "Mist"
+    ],
+    "43": [
+      "Mirror Coat"
+    ],
+    "50": [
+      "Ice Fang"
+    ],
+    "57": [
+      "Tailwind"
+    ],
+    "64": [
+      "Extrasensory"
+    ],
+    "71": [
+      "Hydro Pump"
+    ],
+    "78": [
+      "Calm Mind"
+    ],
+    "85": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Quash",
+    "Giga Impact",
+    "Psych Up",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Rock Climb",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Water Pulse",
+    "Brine",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Head",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Aqua Ring",
+    "Air Slash",
+    "Bite",
+    "Extrasensory",
+    "ExtremeSpeed",
+    "Gust",
+    "Hydro Pump",
+    "Mist",
+    "Sheer Cold",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

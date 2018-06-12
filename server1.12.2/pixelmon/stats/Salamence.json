@@ -1,0 +1,253 @@
+{
+  "pixelmonName": "Salamence",
+  "pokemon": "Salamence",
+  "stats": {
+    "HP": 95,
+    "Attack": 135,
+    "Defence": 80,
+    "Speed": 100,
+    "SpecialAttack": 110,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 10,
+  "baseExp": 218,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Shelgon",
+    "Bagon"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.2
+    }
+  },
+  "weight": 102.6,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Dragon Tail",
+      "Fire Fang",
+      "Thunder Fang",
+      "Rage",
+      "Ember",
+      "Leer",
+      "Bite"
+    ],
+    "4": [
+      "Ember"
+    ],
+    "7": [
+      "Leer"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "DragonBreath"
+    ],
+    "17": [
+      "Headbutt"
+    ],
+    "21": [
+      "Focus Energy"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "29": [
+      "Dragon Claw"
+    ],
+    "30": [
+      "Protect"
+    ],
+    "35": [
+      "Zen Headbutt"
+    ],
+    "42": [
+      "Scary Face"
+    ],
+    "49": [
+      "Flamethrower"
+    ],
+    "50": [
+      "Fly"
+    ],
+    "63": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Body Slam",
+    "Double-Edge",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Aqua Tail",
+    "Draco Meteor",
+    "Heat Wave",
+    "Hyper Voice",
+    "Ominous Wind",
+    "Outrage",
+    "Tailwind",
+    "Twister",
+    "Zen Headbutt",
+    "Bite",
+    "Hydro Pump",
+    "Refresh",
+    "Scary Face",
+    "Thrash",
+    "Wish",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rage",
+    "Dragon Rush",
+    "Endure",
+    "Fire Fang",
+    "Hydro Pump",
+    "Thrash",
+    "Twister"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 95,
+        "Attack": 145,
+        "Defence": 130,
+        "Speed": 120,
+        "SpecialAttack": 120,
+        "SpecialDefence": 90
+      },
+      "height": 1.8,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.5,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 0.5,
+          "z": -0.6
+        }
+      },
+      "weight": 112.6,
+      "abilities": [
+        "Aerilate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

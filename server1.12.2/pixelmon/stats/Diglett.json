@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Diglett",
+  "pokemon": "Diglett",
+  "stats": {
+    "HP": 10,
+    "Attack": 55,
+    "Defence": 25,
+    "Speed": 95,
+    "SpecialAttack": 35,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 16,
+  "baseExp": 81,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.2,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.8,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Dugtrio"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandVeil",
+    "ArenaTrap",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Sand-Attack"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "15": [
+      "Magnitude"
+    ],
+    "18": [
+      "Bulldoze"
+    ],
+    "23": [
+      "Sucker Punch"
+    ],
+    "26": [
+      "Mud Bomb"
+    ],
+    "29": [
+      "Earth Power"
+    ],
+    "34": [
+      "Dig"
+    ],
+    "37": [
+      "Slash"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "45": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Sucker Punch",
+    "Uproar",
+    "Beat Up",
+    "Faint Attack",
+    "Pursuit",
+    "Reversal",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Beat Up",
+    "Endure",
+    "Final Gambit",
+    "Headbutt",
+    "Memento",
+    "Mud Bomb",
+    "Pursuit",
+    "Reversal",
+    "Screech",
+    "Uproar",
+    "AncientPower",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

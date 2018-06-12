@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Reshiram",
+  "pokemon": "Reshiram",
+  "stats": {
+    "HP": 100,
+    "Attack": 120,
+    "Defence": 100,
+    "Speed": 90,
+    "SpecialAttack": 150,
+    "SpecialDefence": 120
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Fire"
+  ],
+  "height": 3.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.5
+    }
+  },
+  "weight": 330.0,
+  "evolutions": [],
+  "abilities": [
+    "Turboblaze",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Fire Fang",
+      "Dragon Rage"
+    ],
+    "8": [
+      "Imprison"
+    ],
+    "15": [
+      "AncientPower"
+    ],
+    "22": [
+      "Flamethrower"
+    ],
+    "29": [
+      "DragonBreath"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "43": [
+      "Extrasensory"
+    ],
+    "50": [
+      "Fusion Flare"
+    ],
+    "54": [
+      "Dragon Pulse"
+    ],
+    "64": [
+      "Imprison"
+    ],
+    "71": [
+      "Crunch"
+    ],
+    "78": [
+      "Fire Blast"
+    ],
+    "85": [
+      "Outrage"
+    ],
+    "92": [
+      "Hyper Voice"
+    ],
+    "100": [
+      "Blue Flare"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Dragon Rage",
+    "Snore",
+    "DragonBreath",
+    "Sleep Talk",
+    "Roost",
+    "Dragon Pulse",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Tailwind",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Mist",
+    "Slash"
+  ],
+  "form": -1
+}

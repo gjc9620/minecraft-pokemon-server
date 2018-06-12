@@ -1,0 +1,142 @@
+{
+  "pixelmonName": "Delibird",
+  "pokemon": "Delibird",
+  "stats": {
+    "HP": 45,
+    "Attack": 55,
+    "Defence": 45,
+    "Speed": 75,
+    "SpecialAttack": 65,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 45,
+  "baseExp": 183,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 16.0,
+  "evolutions": [],
+  "abilities": [
+    "VitalSpirit",
+    "Hustle",
+    "Insomnia"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Present"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Frost Breath",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Pay Day",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Detect",
+    "Focus Punch",
+    "Water Pulse",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Signal Beam",
+    "Fake Out",
+    "Rapid Spin",
+    "Splash",
+    "Snore",
+    "Happy Hour"
+  ],
+  "eggMoves": [
+    "Aurora Beam",
+    "Bestow",
+    "Destiny Bond",
+    "Fake Out",
+    "Future Sight",
+    "Ice Ball",
+    "Ice Punch",
+    "Ice Shard",
+    "Icy Wind",
+    "Quick Attack",
+    "Rapid Spin",
+    "Spikes",
+    "Splash",
+    "Freeze-Dry"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Garbodor",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Garbodor"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 37,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

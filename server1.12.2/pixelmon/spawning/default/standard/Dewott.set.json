@@ -1,0 +1,26 @@
+{
+	"id": "Dewott",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dewott"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 17,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 15.0
+		}
+	]
+}

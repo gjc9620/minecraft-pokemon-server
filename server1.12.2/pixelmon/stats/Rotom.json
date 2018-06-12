@@ -1,0 +1,223 @@
+{
+  "pixelmonName": "Rotom",
+  "pokemon": "Rotom",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 77,
+    "Speed": 91,
+    "SpecialAttack": 95,
+    "SpecialDefence": 77
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 26,
+  "spawnLevelRange": 8,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Discharge",
+      "Charge",
+      "Trick",
+      "Astonish",
+      "Thunder Wave",
+      "ThunderShock",
+      "Confuse Ray"
+    ],
+    "8": [
+      "Uproar"
+    ],
+    "15": [
+      "Double Team"
+    ],
+    "22": [
+      "Shock Wave"
+    ],
+    "29": [
+      "Ominous Wind"
+    ],
+    "36": [
+      "Substitute"
+    ],
+    "43": [
+      "Electro Ball"
+    ],
+    "50": [
+      "Hex"
+    ],
+    "57": [
+      "Charge"
+    ],
+    "64": [
+      "Discharge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Snatch",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Foul Play",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Air Slash",
+    "Hydro Pump",
+    "Foul Play"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Fire"
+      ],
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Water"
+      ],
+      "form": 2
+    },
+    "3": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Ice"
+      ],
+      "form": 3
+    },
+    "4": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "form": 4
+    },
+    "5": {
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Grass"
+      ],
+      "form": 5
+    }
+  },
+  "form": -1
+}

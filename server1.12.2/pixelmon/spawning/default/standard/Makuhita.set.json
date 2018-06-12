@@ -1,0 +1,25 @@
+{
+	"id": "Makuhita",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Makuhita"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

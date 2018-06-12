@@ -1,0 +1,25 @@
+{
+	"id": "Croagunk",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Croagunk"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

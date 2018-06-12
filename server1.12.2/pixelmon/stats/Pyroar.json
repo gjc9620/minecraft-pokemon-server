@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Pyroar",
+  "pokemon": "Pyroar",
+  "stats": {
+    "HP": 86,
+    "Attack": 68,
+    "Defence": 72,
+    "Speed": 106,
+    "SpecialAttack": 109,
+    "SpecialDefence": 66
+  },
+  "catchRate": 65,
+  "malePercent": 12,
+  "spawnLevel": 36,
+  "spawnLevelRange": 13,
+  "baseExp": 177,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Normal"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Litleo"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 81.5,
+  "evolutions": [],
+  "abilities": [
+    "Rivalry",
+    "Unnerve",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hyper Beam",
+      "Tackle",
+      "Leer"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Work Up"
+    ],
+    "11": [
+      "Headbutt"
+    ],
+    "15": [
+      "Noble Roar"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "23": [
+      "Fire Fang"
+    ],
+    "28": [
+      "Endeavor"
+    ],
+    "33": [
+      "Echoed Voice"
+    ],
+    "38": [
+      "Flamethrower"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "51": [
+      "Incinerate"
+    ],
+    "57": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Bulldoze",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide",
+    "Strength",
+    "Rock Smash",
+    "Iron Tail",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Endeavor",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice"
+  ],
+  "eggMoves": [
+    "Entrainment",
+    "Fire Spin",
+    "Snatch",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

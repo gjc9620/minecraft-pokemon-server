@@ -1,0 +1,26 @@
+{
+	"id": "Pignite",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pignite"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 17,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

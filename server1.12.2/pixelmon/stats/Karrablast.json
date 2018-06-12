@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Karrablast",
+  "pokemon": "Karrablast",
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defence": 45,
+    "Speed": 60,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 5.9,
+  "evolutions": [
+    {
+      "with": "Shelmet",
+      "to": {
+        "name": "Escavalier"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "ShedSkin",
+    "NoGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Peck"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Endure"
+    ],
+    "13": [
+      "Fury Cutter"
+    ],
+    "16": [
+      "Fury Attack"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "25": [
+      "False Swipe"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Take Down"
+    ],
+    "40": [
+      "Scary Face"
+    ],
+    "44": [
+      "X-Scissor"
+    ],
+    "49": [
+      "Flail"
+    ],
+    "52": [
+      "Swords Dance"
+    ],
+    "56": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Iron Defense",
+    "Knock Off",
+    "Signal Beam",
+    "Drill Run",
+    "Faint Attack",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Scary Face",
+    "Peck",
+    "Horn Attack",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Drill Run",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Counter",
+    "Drill Run",
+    "Horn Attack",
+    "Knock Off",
+    "Megahorn",
+    "Pursuit",
+    "Screech",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

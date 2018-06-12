@@ -1,0 +1,92 @@
+{
+  "pixelmonName": "Spewpa",
+  "pokemon": "Spewpa",
+  "stats": {
+    "HP": 45,
+    "Attack": 22,
+    "Defence": 60,
+    "Speed": 29,
+    "SpecialAttack": 27,
+    "SpecialDefence": 30
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 1,
+  "baseExp": 75,
+  "baseFriendship": 0,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scatterbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 8.4,
+  "evolutions": [
+    {
+      "level": 12,
+      "to": {
+        "name": "Vivillon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 12,
+      "to": {
+        "name": "Vivillon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Harden"
+    ],
+    "9": [
+      "Protect"
+    ]
+  },
+  "tmMoves": [
+    "Protect"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Poison Powder",
+    "Rage Powder",
+    "Stun Spore"
+  ],
+  "forms": {},
+  "form": -1
+}

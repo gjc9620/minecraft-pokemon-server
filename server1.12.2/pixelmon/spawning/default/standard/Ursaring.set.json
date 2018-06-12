@@ -1,0 +1,30 @@
+{
+	"id": "Ursaring",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ursaring"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forest_hills",
+					"taiga_hills",
+					"birch_forest_hills",
+					"redwood_taiga_hills",
+					"mutated_taiga",
+					"mutated_birch_forest",
+					"mutated_birch_forest_hills",
+					"mutated_roofed_forest",
+					"mutated_redwood_taiga_hills"
+				]
+			},
+			"rarity": 9.0
+		}
+	]
+}

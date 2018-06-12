@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Leafeon",
+  "pokemon": "Leafeon",
+  "stats": {
+    "HP": 65,
+    "Attack": 110,
+    "Defence": 130,
+    "Speed": 95,
+    "SpecialAttack": 60,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 25.5,
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip",
+      "Helping Hand"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Razor Leaf"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "GrassWhistle"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "25": [
+      "Giga Drain"
+    ],
+    "29": [
+      "Swords Dance"
+    ],
+    "33": [
+      "Synthesis"
+    ],
+    "37": [
+      "Sunny Day"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Leaf Blade"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "X-Scissor",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Knock Off",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

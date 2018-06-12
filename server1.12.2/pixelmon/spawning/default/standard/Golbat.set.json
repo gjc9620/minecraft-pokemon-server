@@ -1,0 +1,43 @@
+{
+	"id": "Golbat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Golbat"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 22,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"weathers": [
+					"CLEAR"
+				],
+				"stringBiomes": [
+					"all forests"
+				]
+			},
+			"rarity": 100.0
+		},
+		{
+			"spec": {
+				"name": "Golbat"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 22,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"maxLightLevel": 10
+			},
+			"rarity": 70
+		}
+	]
+}

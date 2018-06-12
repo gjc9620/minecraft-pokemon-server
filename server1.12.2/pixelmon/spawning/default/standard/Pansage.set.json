@@ -1,0 +1,22 @@
+{
+	"id": "Pansage",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pansage"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 11,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

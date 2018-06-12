@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Mienshao",
+  "pokemon": "Mienshao",
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 95,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 51,
+  "spawnLevelRange": -27,
+  "baseExp": 179,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Mienfoo"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 35.5,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "Regenerator",
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Aura Sphere",
+      "Reversal",
+      "Pound",
+      "Meditate",
+      "Detect",
+      "Fake Out"
+    ],
+    "5": [
+      "Meditate"
+    ],
+    "9": [
+      "Detect"
+    ],
+    "13": [
+      "Fake Out"
+    ],
+    "17": [
+      "DoubleSlap"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "25": [
+      "Calm Mind"
+    ],
+    "29": [
+      "Force Palm"
+    ],
+    "33": [
+      "Drain Punch"
+    ],
+    "37": [
+      "Jump Kick"
+    ],
+    "41": [
+      "U-Turn"
+    ],
+    "45": [
+      "Wide Guard"
+    ],
+    "49": [
+      "Bounce"
+    ],
+    "56": [
+      "Hi Jump Kick"
+    ],
+    "63": [
+      "Reversal"
+    ],
+    "70": [
+      "Aura Sphere"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Ally Switch",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Drain Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Aura Sphere",
+    "Baton Pass",
+    "DoubleSlap",
+    "Fake Out",
+    "Reversal"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Baton Pass",
+    "Endure",
+    "Feint",
+    "Knock Off",
+    "Low Kick",
+    "Me First",
+    "Vital Throw",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

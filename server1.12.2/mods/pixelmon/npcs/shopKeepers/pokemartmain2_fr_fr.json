@@ -1,0 +1,109 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bernice"
+    },
+    {
+      "name": "Sophie"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Salut! Voulez-vous de l'aide? Nous avons des objets cool!",
+      "goodbye": "Ciaou!"
+    },
+    {
+      "hello": "Salût, comment ça va? Bien venu au PokéMart. Juste appelez si vous avez besion d'aide.",
+      "goodbye": "Ciaou. Bonne journée!"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "pixelmon:item.Poke_Ball",
+      "multi": 0.9
+    },
+    {
+      "name": "pixelmon:item.Great_Ball"
+    },
+    {
+      "name": "pixelmon:item.Ultra_Ball",
+      "multi": 1.1,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:item.Friend_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Heal_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Luxury_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Moomoo_Milk",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:item.HealPowder"
+    },
+    {
+      "name": "pixelmon:item.EnergyPowder"
+    },
+    {
+      "name": "pixelmon:item.EnergyRoot"
+    },
+    {
+      "name": "pixelmon:item.RevivalHerb",
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:item.XAttack"
+    },
+    {
+      "name": "pixelmon:item.XDefence"
+    },
+    {
+      "name": "pixelmon:item.XSpecialAttack"
+    },
+    {
+      "name": "pixelmon:item.XSpecialDefence"
+    },
+    {
+      "name": "pixelmon:item.XSpeed"
+    },
+    {
+      "name": "pixelmon:item.XAccuracy"
+    },
+    {
+      "name": "pixelmon:item.DireHit"
+    }
+  ]
+}

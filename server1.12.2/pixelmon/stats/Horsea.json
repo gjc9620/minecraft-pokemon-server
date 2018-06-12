@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Horsea",
+  "pokemon": "Horsea",
+  "stats": {
+    "HP": 30,
+    "Attack": 40,
+    "Defence": 70,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 25
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 22,
+  "baseExp": 83,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 2,
+    "depthRangeEnd": 20,
+    "swimSpeed": 2.0,
+    "decayRate": 0.99,
+    "refreshRate": 120
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Seadra"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Sniper",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble"
+    ],
+    "5": [
+      "SmokeScreen"
+    ],
+    "9": [
+      "Leer"
+    ],
+    "13": [
+      "Water Gun"
+    ],
+    "17": [
+      "Twister"
+    ],
+    "21": [
+      "BubbleBeam"
+    ],
+    "26": [
+      "Focus Energy"
+    ],
+    "31": [
+      "Brine"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "41": [
+      "Dragon Pulse"
+    ],
+    "46": [
+      "Dragon Dance"
+    ],
+    "52": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Razor Wind",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "DragonBreath",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Outrage",
+    "Signal Beam",
+    "Twister",
+    "Agility",
+    "Bubble",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Octazooka",
+    "Splash",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Aurora Beam",
+    "Clear Smog",
+    "Disable",
+    "Dragon Rage",
+    "Flail",
+    "Muddy Water",
+    "Octazooka",
+    "Outrage",
+    "Razor Wind",
+    "Signal Beam",
+    "Splash",
+    "Water Pulse",
+    "DragonBreath"
+  ],
+  "forms": {},
+  "form": -1
+}

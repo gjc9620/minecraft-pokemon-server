@@ -1,0 +1,216 @@
+{
+  "pixelmonName": "Kadabra",
+  "pokemon": "Kadabra",
+  "stats": {
+    "HP": 40,
+    "Attack": 35,
+    "Defence": 30,
+    "Speed": 105,
+    "SpecialAttack": 120,
+    "SpecialDefence": 70
+  },
+  "catchRate": 100,
+  "malePercent": 75,
+  "spawnLevel": 16,
+  "spawnLevelRange": 10,
+  "baseExp": 145,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Abra"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 56.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Alakazam"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "InnerFocus",
+    "MagicGuard"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Teleport",
+      "Kinesis",
+      "Confusion"
+    ],
+    "16": [
+      "Confusion"
+    ],
+    "18": [
+      "Disable"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "23": [
+      "Miracle Eye"
+    ],
+    "26": [
+      "Reflect"
+    ],
+    "28": [
+      "Psycho Cut"
+    ],
+    "31": [
+      "Recover"
+    ],
+    "33": [
+      "Telekinesis"
+    ],
+    "36": [
+      "Ally Switch"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "41": [
+      "Role Play"
+    ],
+    "43": [
+      "Future Sight"
+    ],
+    "46": [
+      "Trick"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Ally Switch",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Embargo",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Dig",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Gravity",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Encore",
+    "Foresight"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Barrier",
+    "Encore",
+    "Fire Punch",
+    "Guard Split",
+    "Guard Swap",
+    "Ice Punch",
+    "Knock Off",
+    "Power Trick",
+    "Psycho Shift",
+    "Skill Swap",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

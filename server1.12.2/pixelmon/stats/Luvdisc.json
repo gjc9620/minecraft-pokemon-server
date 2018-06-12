@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Luvdisc",
+  "pokemon": "Luvdisc",
+  "stats": {
+    "HP": 43,
+    "Attack": 30,
+    "Defence": 55,
+    "Speed": 97,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 225,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 10,
+  "baseExp": 110,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 2,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.4,
+    "decayRate": 0.99,
+    "refreshRate": 120
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.7,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "Hydration"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Charm"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "7": [
+      "Agility"
+    ],
+    "9": [
+      "Draining Kiss"
+    ],
+    "14": [
+      "Lucky Chant"
+    ],
+    "17": [
+      "Water Pulse"
+    ],
+    "22": [
+      "Attract"
+    ],
+    "27": [
+      "Flail"
+    ],
+    "31": [
+      "Sweet Kiss"
+    ],
+    "37": [
+      "Take Down"
+    ],
+    "40": [
+      "Aqua Ring"
+    ],
+    "46": [
+      "Captivate"
+    ],
+    "50": [
+      "Hydro Pump"
+    ],
+    "55": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Agility",
+    "Aqua Ring",
+    "Aqua Ring",
+    "Charm",
+    "Flail",
+    "Heal Pulse",
+    "Hydro Pump",
+    "Mud Sport",
+    "Splash",
+    "Sweet Kiss",
+    "Water Sport",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Brine",
+    "Captivate",
+    "Entrainment",
+    "Heal Pulse",
+    "Mud Sport",
+    "Splash",
+    "Supersonic",
+    "Water Sport"
+  ],
+  "forms": {},
+  "form": -1
+}

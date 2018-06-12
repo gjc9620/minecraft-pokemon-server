@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Seedot",
+  "pokemon": "Seedot",
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 11,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Nuzleaf"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "EarlyBird",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bide"
+    ],
+    "3": [
+      "Harden"
+    ],
+    "9": [
+      "Growth"
+    ],
+    "15": [
+      "Nature Power"
+    ],
+    "21": [
+      "Synthesis"
+    ],
+    "27": [
+      "Sunny Day"
+    ],
+    "33": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Explosion",
+    "Retaliate",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Razor Wind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Beat Up",
+    "Growth",
+    "Leech Seed",
+    "Nasty Plot",
+    "Refresh",
+    "Harden"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Beat Up",
+    "Bullet Seed",
+    "Defog",
+    "Foul Play",
+    "Leech Seed",
+    "Nasty Plot",
+    "Power Swap",
+    "Quick Attack",
+    "Razor Wind",
+    "Take Down",
+    "Worry Seed",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

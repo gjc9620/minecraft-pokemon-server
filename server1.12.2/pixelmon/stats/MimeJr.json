@@ -1,0 +1,211 @@
+{
+  "pixelmonName": "MimeJr",
+  "pokemon": "MimeJr",
+  "stats": {
+    "HP": 20,
+    "Attack": 25,
+    "Defence": 45,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 90
+  },
+  "catchRate": 145,
+  "malePercent": 50,
+  "spawnLevel": 9,
+  "spawnLevelRange": 4,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 13.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "MrMime"
+      },
+      "conditions": [
+        {
+          "attackIndex": 137,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Soundproof",
+    "Filter",
+    "Technician"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tickle",
+      "Barrier",
+      "Confusion"
+    ],
+    "4": [
+      "Copycat"
+    ],
+    "8": [
+      "Meditate"
+    ],
+    "11": [
+      "DoubleSlap"
+    ],
+    "15": [
+      "Mimic"
+    ],
+    "18": [
+      "Encore"
+    ],
+    "22": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Substitute"
+    ],
+    "32": [
+      "Recycle"
+    ],
+    "36": [
+      "Trick"
+    ],
+    "39": [
+      "Psychic"
+    ],
+    "43": [
+      "Role Play"
+    ],
+    "46": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mimic",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Focus Punch",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Barrier",
+    "Baton Pass",
+    "Charm",
+    "DoubleSlap",
+    "Encore",
+    "Fake Out",
+    "Hypnosis",
+    "Nasty Plot",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Confuse Ray",
+    "Fake Out",
+    "Future Sight",
+    "Healing Wish",
+    "Hypnosis",
+    "Icy Wind",
+    "Magic Room",
+    "Mimic",
+    "Nasty Plot",
+    "Power Split",
+    "Teeter Dance",
+    "Trick",
+    "Wake-Up Slap"
+  ],
+  "forms": {},
+  "form": -1
+}

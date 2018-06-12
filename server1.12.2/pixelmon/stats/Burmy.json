@@ -1,0 +1,109 @@
+{
+  "pixelmonName": "Burmy",
+  "pokemon": "Burmy",
+  "stats": {
+    "HP": 40,
+    "Attack": 29,
+    "Defence": 45,
+    "Speed": 36,
+    "SpecialAttack": 29,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 45,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 3.4,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Wormadam"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 20,
+      "to": {
+        "name": "Mothim"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Male"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Protect"
+    ],
+    "10": [
+      "Tackle"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Hidden Power"
+    ]
+  },
+  "tmMoves": [
+    "Snore",
+    "Sleep Talk"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "String Shot",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

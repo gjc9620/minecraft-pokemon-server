@@ -1,0 +1,26 @@
+{
+	"id": "Mienshao",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mienshao"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 24,
+			"maxLevel": 51,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous",
+					"taigas"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

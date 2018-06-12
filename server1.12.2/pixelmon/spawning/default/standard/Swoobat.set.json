@@ -1,0 +1,41 @@
+{
+	"id": "Swoobat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Swoobat"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 27,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Swoobat"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 27,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50,
+				"maxLightLevel": 10
+			},
+			"rarity": 10
+		}
+	]
+}

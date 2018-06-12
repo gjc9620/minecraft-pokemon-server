@@ -1,0 +1,26 @@
+{
+	"id": "Magcargo",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 38,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

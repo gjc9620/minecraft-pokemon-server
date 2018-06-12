@@ -1,0 +1,28 @@
+{
+	"id": "Lotad",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lotad"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 3,
+			"maxLevel": 14,
+			"typeID": "pokemon",
+			"condition": {
+				"baseBlocks": [
+					"minecraft:waterlily"
+				],
+				"weathers": [
+					"RAIN"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Gothorita",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gothorita"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 33,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps",
+					"forests"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "Wurmple",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Wurmple"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 4,
+			"maxLevel": 8,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"birches",
+					"flowery"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

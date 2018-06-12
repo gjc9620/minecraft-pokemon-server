@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Girafarig",
+  "pokemon": "Girafarig",
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 65,
+    "Speed": 85,
+    "SpecialAttack": 90,
+    "SpecialDefence": 65
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 149,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 0.6,
+  "length": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 41.5,
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "EarlyBird",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Power Swap",
+      "Guard Swap",
+      "Astonish",
+      "Tackle",
+      "Growl",
+      "Confusion"
+    ],
+    "5": [
+      "Odor Sleuth"
+    ],
+    "10": [
+      "Assurance"
+    ],
+    "14": [
+      "Stomp"
+    ],
+    "19": [
+      "Psybeam"
+    ],
+    "23": [
+      "Agility"
+    ],
+    "28": [
+      "Double Hit"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "37": [
+      "Crunch"
+    ],
+    "41": [
+      "Baton Pass"
+    ],
+    "46": [
+      "Nasty Plot"
+    ],
+    "50": [
+      "Psychic"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Rock Smash",
+    "Strength",
+    "Razor Wind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Gravity",
+    "Hyper Voice",
+    "Magic Coat",
+    "Signal Beam",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Amnesia",
+    "Baton Pass",
+    "Beat Up",
+    "Foresight",
+    "Wish",
+    "Stomp",
+    "Tackle",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Beat Up",
+    "Double Kick",
+    "Foresight",
+    "Future Sight",
+    "Magic Coat",
+    "Mean Look",
+    "Mirror Coat",
+    "Razor Wind",
+    "Secret Power",
+    "Skill Swap",
+    "Take Down",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

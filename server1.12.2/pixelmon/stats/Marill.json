@@ -1,0 +1,227 @@
+{
+  "pixelmonName": "Marill",
+  "pokemon": "Marill",
+  "stats": {
+    "HP": 70,
+    "Attack": 20,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 20,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Azurill"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 1,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Azumarill"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "HugePower",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Water Gun"
+    ],
+    "2": [
+      "Tail Whip"
+    ],
+    "5": [
+      "Water Sport"
+    ],
+    "7": [
+      "Bubble"
+    ],
+    "10": [
+      "Defense Curl",
+      "Rollout"
+    ],
+    "13": [
+      "BubbleBeam"
+    ],
+    "16": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Aqua Tail"
+    ],
+    "23": [
+      "Play Rough"
+    ],
+    "28": [
+      "Aqua Ring"
+    ],
+    "31": [
+      "Rain Dance"
+    ],
+    "37": [
+      "Double-Edge"
+    ],
+    "40": [
+      "Superpower"
+    ],
+    "47": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Fling",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Focus Punch",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Covet",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Superpower",
+    "Uproar",
+    "Aqua Ring",
+    "Amnesia",
+    "Belly Drum",
+    "Bubble",
+    "Charm",
+    "Dizzy Punch",
+    "Encore",
+    "Foresight",
+    "Hydro Pump",
+    "Refresh",
+    "Scary Face",
+    "Sing",
+    "Splash",
+    "Tickle",
+    "Water Sport",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aqua Jet",
+    "Belly Drum",
+    "Body Slam",
+    "Camouflage",
+    "Copycat",
+    "Encore",
+    "Fake Tears",
+    "Future Sight",
+    "Muddy Water",
+    "Perish Song",
+    "Present",
+    "Refresh",
+    "Sing",
+    "Slam",
+    "Soak",
+    "Superpower",
+    "Supersonic",
+    "Tickle",
+    "Water Sport",
+    "Foresight"
+  ],
+  "forms": {},
+  "form": -1
+}

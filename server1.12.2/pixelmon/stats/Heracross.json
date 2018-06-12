@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Heracross",
+  "pokemon": "Heracross",
+  "stats": {
+    "HP": 80,
+    "Attack": 125,
+    "Defence": 75,
+    "Speed": 85,
+    "SpecialAttack": 40,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 50,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 54.0,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Guts",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Arm Thrust",
+      "Bullet Seed",
+      "Night Slash",
+      "Tackle",
+      "Leer",
+      "Horn Attack",
+      "Endure"
+    ],
+    "7": [
+      "Feint"
+    ],
+    "10": [
+      "Aerial Ace"
+    ],
+    "16": [
+      "Chip Away"
+    ],
+    "19": [
+      "Counter"
+    ],
+    "25": [
+      "Fury Attack"
+    ],
+    "28": [
+      "Brick Break"
+    ],
+    "31": [
+      "Pin Missile"
+    ],
+    "34": [
+      "Take Down"
+    ],
+    "37": [
+      "Megahorn"
+    ],
+    "43": [
+      "Close Combat"
+    ],
+    "46": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Fury Cutter",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide",
+    "Bullet Seed"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Helping Hand",
+    "Iron Defense",
+    "Knock Off",
+    "Low Kick",
+    "Vacuum Wave",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Reversal",
+    "Harden",
+    "Horn Attack",
+    "Tackle",
+    "Leer",
+    "Low Kick"
+  ],
+  "eggMoves": [
+    "Bide",
+    "Double-Edge",
+    "Flail",
+    "Focus Punch",
+    "Harden",
+    "Megahorn",
+    "Pursuit",
+    "Revenge",
+    "Rock Blast",
+    "Seismic Toss"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 185,
+        "Defence": 115,
+        "Speed": 75,
+        "SpecialAttack": 40,
+        "SpecialDefence": 105
+      },
+      "height": 1.7,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 62.5,
+      "abilities": [
+        "SkillLink",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

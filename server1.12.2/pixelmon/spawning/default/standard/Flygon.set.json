@@ -1,0 +1,22 @@
+{
+	"id": "Flygon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Flygon"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 45,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 10
+		}
+	]
+}

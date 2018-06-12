@@ -1,0 +1,29 @@
+{
+	"id": "Skorupi",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Skorupi"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"swamps",
+					"mesas"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

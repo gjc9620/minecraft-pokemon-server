@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Tepig",
+  "pokemon": "Tepig",
+  "stats": {
+    "HP": 65,
+    "Attack": 63,
+    "Defence": 45,
+    "Speed": 45,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 28,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 0.4,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 9.9,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Pignite"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Odor Sleuth"
+    ],
+    "13": [
+      "Defense Curl"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "19": [
+      "Smog"
+    ],
+    "21": [
+      "Rollout"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "27": [
+      "Heat Crash"
+    ],
+    "31": [
+      "Assurance"
+    ],
+    "33": [
+      "Flamethrower"
+    ],
+    "37": [
+      "Head Smash"
+    ],
+    "39": [
+      "Roar"
+    ],
+    "43": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Gyro Ball",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Fire Pledge",
+    "Heat Wave",
+    "Helping Hand",
+    "Sucker Punch",
+    "Superpower",
+    "Flare Blitz",
+    "Thrash",
+    "Yawn",
+    "Tackle",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Covet",
+    "Curse",
+    "Endeavor",
+    "Heavy Slam",
+    "Magnitude",
+    "Sleep Talk",
+    "Sucker Punch",
+    "Superpower",
+    "Thrash",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

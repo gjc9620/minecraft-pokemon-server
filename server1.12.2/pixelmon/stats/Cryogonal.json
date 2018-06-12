@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Cryogonal",
+  "pokemon": "Cryogonal",
+  "stats": {
+    "HP": 70,
+    "Attack": 50,
+    "Defence": 30,
+    "Speed": 105,
+    "SpecialAttack": 95,
+    "SpecialDefence": 135
+  },
+  "catchRate": 25,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 148.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Sheer Cold",
+      "Night Slash",
+      "Ice Shard",
+      "Mist",
+      "Haze",
+      "Bind"
+    ],
+    "5": [
+      "Ice Shard"
+    ],
+    "9": [
+      "Sharpen"
+    ],
+    "13": [
+      "Rapid Spin"
+    ],
+    "17": [
+      "Icy Wind"
+    ],
+    "21": [
+      "Mist",
+      "Haze"
+    ],
+    "25": [
+      "Aurora Beam"
+    ],
+    "29": [
+      "Acid Armor"
+    ],
+    "33": [
+      "Ice Beam"
+    ],
+    "37": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "41": [
+      "Slash"
+    ],
+    "45": [
+      "Confuse Ray"
+    ],
+    "49": [
+      "Recover"
+    ],
+    "50": [
+      "Freeze-Dry"
+    ],
+    "53": [
+      "SolarBeam"
+    ],
+    "57": [
+      "Night Slash"
+    ],
+    "61": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Acrobatics",
+    "Explosion",
+    "Frost Breath",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Secret Power",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Signal Beam",
+    "Haze",
+    "Mist",
+    "Rapid Spin",
+    "Sharpen",
+    "Sheer Cold",
+    "Slash"
+  ],
+  "forms": {},
+  "form": -1
+}

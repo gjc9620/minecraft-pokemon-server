@@ -1,0 +1,22 @@
+{
+	"id": "Chinchou",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Chinchou"
+			},
+			"stringLocationTypes": [
+				"Seafloor"
+			],
+			"minLevel": 12,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"deep_ocean"
+				]
+			},
+			"rarity": 450.0
+		}
+	]
+}

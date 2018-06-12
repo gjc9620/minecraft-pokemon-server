@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+ 
+  "skins": [
+    {
+      "filename": "psychic_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Médium"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¡Nunca llegarás a la cima!",
+      "win": "¡Vaya! ¿Qué pasa? ¿No puedes ganarme?",
+      "lose": "¡Has ganado de pura suerte!"
+    }
+  ]
+}

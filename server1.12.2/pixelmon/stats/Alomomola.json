@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Alomomola",
+  "pokemon": "Alomomola",
+  "stats": {
+    "HP": 165,
+    "Attack": 75,
+    "Defence": 80,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 17,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 31.6,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Hydration",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Hydro Pump",
+      "Wide Guard",
+      "Healing Wish",
+      "Pound",
+      "Water Sport"
+    ],
+    "5": [
+      "Aqua Ring"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "13": [
+      "DoubleSlap"
+    ],
+    "17": [
+      "Heal Pulse"
+    ],
+    "21": [
+      "Protect"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "29": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Soak"
+    ],
+    "37": [
+      "Wish"
+    ],
+    "41": [
+      "Brine"
+    ],
+    "45": [
+      "Safeguard"
+    ],
+    "49": [
+      "Helping Hand"
+    ],
+    "53": [
+      "Wide Guard"
+    ],
+    "57": [
+      "Healing Wish"
+    ],
+    "61": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Secret Power",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Pain Split",
+    "Aqua Ring",
+    "DoubleSlap",
+    "Heal Pulse",
+    "Hydro Pump",
+    "Mist",
+    "Refresh",
+    "Tickle",
+    "Water Sport",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Mirror Coat",
+    "Mist",
+    "Pain Split",
+    "Refresh",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

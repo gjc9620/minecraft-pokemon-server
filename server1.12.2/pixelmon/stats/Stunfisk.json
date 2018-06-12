@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Stunfisk",
+  "pokemon": "Stunfisk",
+  "stats": {
+    "HP": 109,
+    "Attack": 66,
+    "Defence": 84,
+    "Speed": 32,
+    "SpecialAttack": 81,
+    "SpecialDefence": 99
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Electric"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 11.0,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    "Limber",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fissure",
+      "Flail",
+      "Tackle",
+      "Water Gun",
+      "Mud-Slap",
+      "Mud Sport"
+    ],
+    "5": [
+      "Bide"
+    ],
+    "9": [
+      "ThunderShock"
+    ],
+    "13": [
+      "Mud Shot"
+    ],
+    "17": [
+      "Camouflage"
+    ],
+    "21": [
+      "Mud Bomb"
+    ],
+    "25": [
+      "Discharge"
+    ],
+    "30": [
+      "Endure"
+    ],
+    "35": [
+      "Bounce"
+    ],
+    "40": [
+      "Muddy Water"
+    ],
+    "45": [
+      "Thunderbolt"
+    ],
+    "50": [
+      "Revenge"
+    ],
+    "55": [
+      "Flail"
+    ],
+    "61": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Water Gun",
+    "Fissure",
+    "Bide",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Stealth Rock",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Earth Power",
+    "Electroweb",
+    "Endeavor",
+    "Foul Play",
+    "Magnet Rise",
+    "Pain Split",
+    "Spite",
+    "Uproar",
+    "Flail",
+    "Mud Sport",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Curse",
+    "Earth Power",
+    "Me First",
+    "Pain Split",
+    "Reflect Type",
+    "Shock Wave",
+    "Sleep Talk",
+    "Spark",
+    "Spite",
+    "Yawn",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

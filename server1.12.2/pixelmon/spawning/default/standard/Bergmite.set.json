@@ -1,0 +1,26 @@
+{
+	"id": "Bergmite",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bergmite"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 23,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"ice_flats",
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

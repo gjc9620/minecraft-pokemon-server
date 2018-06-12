@@ -1,0 +1,41 @@
+{
+	"id": "Boldore",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Boldore"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 25,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 100.0
+		},
+		{
+			"spec": {
+				"name": "Boldore"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 25,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 100.0
+		}
+	]
+}

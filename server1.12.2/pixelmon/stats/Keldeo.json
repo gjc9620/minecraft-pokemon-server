@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Keldeo",
+  "pokemon": "Keldeo",
+  "stats": {
+    "HP": 91,
+    "Attack": 72,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 129,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.4
+    }
+  },
+  "weight": 48.5,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Leer"
+    ],
+    "7": [
+      "Double Kick"
+    ],
+    "13": [
+      "BubbleBeam"
+    ],
+    "19": [
+      "Take Down"
+    ],
+    "25": [
+      "Helping Hand"
+    ],
+    "31": [
+      "Retaliate"
+    ],
+    "37": [
+      "Aqua Tail"
+    ],
+    "43": [
+      "Sacred Sword"
+    ],
+    "49": [
+      "Swords Dance"
+    ],
+    "55": [
+      "Quick Guard"
+    ],
+    "61": [
+      "Work Up"
+    ],
+    "67": [
+      "Hydro Pump"
+    ],
+    "73": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Take Down",
+    "BubbleBeam",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Secret Power",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Last Resort",
+    "Superpower",
+    "Hydro Pump",
+    "Leer",
+    "Secret Sword"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": -1
+}

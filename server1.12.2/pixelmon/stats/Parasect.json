@@ -1,0 +1,204 @@
+{
+  "pixelmonName": "Parasect",
+  "pokemon": "Parasect",
+  "stats": {
+    "HP": 60,
+    "Attack": 95,
+    "Defence": 80,
+    "Speed": 30,
+    "SpecialAttack": 60,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 26,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 1.0,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Paras"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.3
+    }
+  },
+  "weight": 29.5,
+  "evolutions": [],
+  "abilities": [
+    "EffectSpore",
+    "DrySkin",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Cross Poison",
+      "Scratch",
+      "Stun Spore",
+      "Poison Powder",
+      "Leech Life"
+    ],
+    "6": [
+      "Stun Spore",
+      "Poison Powder"
+    ],
+    "11": [
+      "Leech Life"
+    ],
+    "17": [
+      "Fury Cutter"
+    ],
+    "22": [
+      "Spore"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "37": [
+      "Growth"
+    ],
+    "44": [
+      "Giga Drain"
+    ],
+    "51": [
+      "Aromatherapy"
+    ],
+    "59": [
+      "Rage Powder"
+    ],
+    "66": [
+      "X-Scissor"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Bug Bite",
+    "Knock Off",
+    "Seed Bomb",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Aromatherapy",
+    "Flail",
+    "Growth",
+    "Leech Seed",
+    "Pursuit",
+    "Refresh",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Bug Bite",
+    "Counter",
+    "Cross Poison",
+    "Endure",
+    "Flail",
+    "Leech Seed",
+    "Metal Claw",
+    "Natural Gift",
+    "Psybeam",
+    "Pursuit",
+    "Screech",
+    "Sweet Scent",
+    "Wide Guard",
+    "Fell Stinger",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

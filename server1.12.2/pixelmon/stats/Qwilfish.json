@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Qwilfish",
+  "pokemon": "Qwilfish",
+  "stats": {
+    "HP": 65,
+    "Attack": 95,
+    "Defence": 75,
+    "Speed": 85,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 100,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 25,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 3.9,
+  "evolutions": [],
+  "abilities": [
+    "PoisonPoint",
+    "SwiftSwim",
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fell Stinger",
+      "Hydro Pump",
+      "Destiny Bond",
+      "Water Gun",
+      "Spikes",
+      "Tackle",
+      "Poison Sting"
+    ],
+    "9": [
+      "Harden",
+      "Minimize"
+    ],
+    "13": [
+      "Bubble"
+    ],
+    "17": [
+      "Rollout"
+    ],
+    "21": [
+      "Toxic Spikes"
+    ],
+    "25": [
+      "Stockpile",
+      "Spit Up"
+    ],
+    "29": [
+      "Revenge"
+    ],
+    "33": [
+      "Brine"
+    ],
+    "37": [
+      "Pin Missile"
+    ],
+    "41": [
+      "Take Down"
+    ],
+    "45": [
+      "Aqua Tail"
+    ],
+    "49": [
+      "Poison Jab"
+    ],
+    "53": [
+      "Destiny Bond"
+    ],
+    "57": [
+      "Hydro Pump"
+    ],
+    "60": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Explosion",
+    "Payback",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Swords Dance",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Selfdestruct",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Shock Wave",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Pain Split",
+    "Signal Beam",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Aqua Jet",
+    "Astonish",
+    "Brine",
+    "Flail",
+    "Haze",
+    "Signal Beam",
+    "Supersonic",
+    "Water Pulse",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

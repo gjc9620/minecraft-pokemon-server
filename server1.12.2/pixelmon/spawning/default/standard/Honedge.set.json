@@ -1,0 +1,25 @@
+{
+	"id": "Honedge",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Honedge"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 21,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Simisear",
+  "pokemon": "Simisear",
+  "stats": {
+    "HP": 75,
+    "Attack": 98,
+    "Defence": 63,
+    "Speed": 101,
+    "SpecialAttack": 98,
+    "SpecialDefence": 63
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 27,
+  "spawnLevelRange": 9,
+  "baseExp": 174,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pansear"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Blaze"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Lick",
+      "Fury Swipes",
+      "Flame Burst"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Fire Punch",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Superpower",
+    "Uproar",
+    "Amnesia",
+    "Bite",
+    "Nasty Plot",
+    "Tickle",
+    "Yawn",
+    "Leer",
+    "Gastro Acid",
+    "Yawn",
+    "Bite",
+    "Amnesia"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Fire Punch",
+    "Fire Spin",
+    "Heat Wave",
+    "Low Kick",
+    "Nasty Plot",
+    "Role Play",
+    "Sleep Talk",
+    "Tickle",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

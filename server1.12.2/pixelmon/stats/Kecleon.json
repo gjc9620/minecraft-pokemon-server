@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Kecleon",
+  "pokemon": "Kecleon",
+  "stats": {
+    "HP": 60,
+    "Attack": 90,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 120
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 132,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 22.0,
+  "evolutions": [],
+  "abilities": [
+    "ColorChange",
+    null,
+    "Protean"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thief",
+      "Tail Whip",
+      "Astonish",
+      "Lick",
+      "Scratch"
+    ],
+    "4": [
+      "Bind"
+    ],
+    "7": [
+      "Shadow Sneak"
+    ],
+    "10": [
+      "Feint"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Faint Attack"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "21": [
+      "AncientPower"
+    ],
+    "25": [
+      "Slash"
+    ],
+    "30": [
+      "Camouflage"
+    ],
+    "33": [
+      "Shadow Claw"
+    ],
+    "38": [
+      "Screech"
+    ],
+    "42": [
+      "Substitute"
+    ],
+    "46": [
+      "Sucker Punch"
+    ],
+    "50": [
+      "Synchronoise"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Shadow Claw",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "AncientPower",
+    "Aqua Tail",
+    "Bind",
+    "Foul Play",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Magic Coat",
+    "Role Play",
+    "Sucker Punch",
+    "Trick",
+    "Wonder Room",
+    "Dizzy Punch",
+    "Faint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Disable",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foul Play",
+    "Magic Coat",
+    "Nasty Plot",
+    "Recover",
+    "Skill Swap",
+    "Snatch",
+    "Trick"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "richboy.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Niño Bien"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¡Con todas estas interferencias, no hay forma de que pierda!",
+      "win": "Vuelve con algo más chocante.",
+      "lose": "¡Es imposible!"
+    }
+  ]
+}

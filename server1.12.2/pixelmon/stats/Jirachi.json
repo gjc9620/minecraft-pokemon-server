@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Jirachi",
+  "pokemon": "Jirachi",
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 100,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 1.1,
+  "evolutions": [],
+  "abilities": [
+    "SereneGrace",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Wish",
+      "Confusion"
+    ],
+    "5": [
+      "Rest"
+    ],
+    "10": [
+      "Swift"
+    ],
+    "15": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Psychic"
+    ],
+    "25": [
+      "Refresh"
+    ],
+    "30": [
+      "Rest"
+    ],
+    "35": [
+      "Zen Headbutt"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "45": [
+      "Gravity"
+    ],
+    "50": [
+      "Healing Wish"
+    ],
+    "55": [
+      "Future Sight"
+    ],
+    "60": [
+      "Cosmic Power"
+    ],
+    "65": [
+      "Last Resort"
+    ],
+    "70": [
+      "Doom Desire"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Drain Punch",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Draco Meteor",
+    "Gravity",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Follow Me",
+    "Refresh",
+    "Wish",
+    "Zen Headbutt",
+    "Meteor Mash",
+    "Play Rough",
+    "Happy Hour",
+    "Heart Stamp",
+    "Moonblast"
+  ],
+  "forms": {},
+  "form": -1
+}

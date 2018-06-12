@@ -1,0 +1,26 @@
+{
+	"id": "Pancham",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pancham"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 31,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"roofed_forest",
+					"mutated_roofed_forest"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

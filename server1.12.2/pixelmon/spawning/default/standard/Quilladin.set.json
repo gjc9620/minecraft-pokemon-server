@@ -1,0 +1,28 @@
+{
+	"id": "Quilladin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Quilladin"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 16,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"roofed_forest",
+					"mutated_roofed_forest",
+					"minecraft:plains",
+					"flowery"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

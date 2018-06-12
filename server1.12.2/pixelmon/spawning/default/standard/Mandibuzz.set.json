@@ -1,0 +1,25 @@
+{
+	"id": "Mandibuzz",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mandibuzz"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 55,
+			"maxLevel": 63,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

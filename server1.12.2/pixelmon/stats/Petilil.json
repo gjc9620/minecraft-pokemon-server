@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Petilil",
+  "pokemon": "Petilil",
+  "stats": {
+    "HP": 45,
+    "Attack": 35,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 0,
+  "spawnLevel": 13,
+  "spawnLevelRange": 14,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.6,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Lilligant"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "OwnTempo",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "8": [
+      "Leech Seed"
+    ],
+    "10": [
+      "Sleep Powder"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "17": [
+      "Synthesis"
+    ],
+    "19": [
+      "Magical Leaf"
+    ],
+    "22": [
+      "Stun Spore"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "28": [
+      "Aromatherapy"
+    ],
+    "31": [
+      "Helping Hand"
+    ],
+    "35": [
+      "Energy Ball"
+    ],
+    "37": [
+      "Entrainment"
+    ],
+    "40": [
+      "Sunny Day"
+    ],
+    "44": [
+      "After You"
+    ],
+    "46": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Drain",
+    "Bide",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Charm",
+    "Growth",
+    "Leech Seed"
+  ],
+  "eggMoves": [
+    "Bide",
+    "Charm",
+    "Endure",
+    "Healing Wish",
+    "Ingrain",
+    "Natural Gift",
+    "Sweet Scent",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

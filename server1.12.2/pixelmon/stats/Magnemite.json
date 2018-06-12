@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Magnemite",
+  "pokemon": "Magnemite",
+  "stats": {
+    "HP": 25,
+    "Attack": 35,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 95,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 89,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Magneton"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "MagnetPull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "7": [
+      "ThunderShock"
+    ],
+    "11": [
+      "SonicBoom"
+    ],
+    "13": [
+      "Thunder Wave"
+    ],
+    "17": [
+      "Magnet Bomb"
+    ],
+    "19": [
+      "Spark"
+    ],
+    "23": [
+      "Mirror Shot"
+    ],
+    "25": [
+      "Metal Sound"
+    ],
+    "29": [
+      "Electro Ball"
+    ],
+    "31": [
+      "Flash Cannon"
+    ],
+    "35": [
+      "Screech"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "41": [
+      "Lock-On"
+    ],
+    "43": [
+      "Magnet Rise"
+    ],
+    "47": [
+      "Gyro Ball"
+    ],
+    "49": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Shock Wave",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Metal Sound",
+    "SonicBoom",
+    "Tackle",
+    "Screech"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Stoutland",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Stoutland"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 33,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"forest"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

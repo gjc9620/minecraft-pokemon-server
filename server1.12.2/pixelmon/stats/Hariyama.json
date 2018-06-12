@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Hariyama",
+  "pokemon": "Hariyama",
+  "stats": {
+    "HP": 144,
+    "Attack": 120,
+    "Defence": 60,
+    "Speed": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 200,
+  "malePercent": 75,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 2.3,
+  "width": 1.4,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Makuhita"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 253.8,
+  "evolutions": [],
+  "abilities": [
+    "ThickFat",
+    "Guts",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Brine",
+      "Tackle",
+      "Focus Energy",
+      "Sand-Attack",
+      "Arm Thrust"
+    ],
+    "4": [
+      "Sand-Attack"
+    ],
+    "7": [
+      "Arm Thrust"
+    ],
+    "10": [
+      "Fake Out"
+    ],
+    "13": [
+      "Force Palm"
+    ],
+    "16": [
+      "Whirlwind"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "22": [
+      "Vital Throw"
+    ],
+    "26": [
+      "Belly Drum"
+    ],
+    "30": [
+      "SmellingSalt"
+    ],
+    "34": [
+      "Seismic Toss"
+    ],
+    "38": [
+      "Wake-Up Slap"
+    ],
+    "42": [
+      "Endure"
+    ],
+    "46": [
+      "Close Combat"
+    ],
+    "50": [
+      "Reversal"
+    ],
+    "54": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Whirlwind",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Superpower",
+    "Vacuum Wave",
+    "Belly Drum",
+    "Faint Attack",
+    "Fake Out",
+    "Foresight",
+    "Refresh",
+    "Reversal",
+    "Focus Energy",
+    "Tackle",
+    "Refresh"
+  ],
+  "eggMoves": [
+    "Bullet Punch",
+    "Chip Away",
+    "Counter",
+    "Cross Chop",
+    "Detect",
+    "Feint",
+    "Focus Punch",
+    "Foresight",
+    "Helping Hand",
+    "Revenge",
+    "Wake-Up Slap",
+    "Wide Guard",
+    "Faint Attack",
+    "DynamicPunch"
+  ],
+  "forms": {},
+  "form": -1
+}

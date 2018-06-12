@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Mareep",
+  "pokemon": "Mareep",
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 45
+  },
+  "catchRate": 235,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 7.8,
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Flaaffy"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "Plus"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "8": [
+      "ThunderShock"
+    ],
+    "11": [
+      "Cotton Spore"
+    ],
+    "15": [
+      "Charge"
+    ],
+    "18": [
+      "Take Down"
+    ],
+    "22": [
+      "Electro Ball"
+    ],
+    "25": [
+      "Confuse Ray"
+    ],
+    "29": [
+      "Power Gem"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Cotton Guard"
+    ],
+    "39": [
+      "Signal Beam"
+    ],
+    "43": [
+      "Light Screen"
+    ],
+    "46": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide",
+    "Reflect"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Heal Bell",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Tackle",
+    "Screech",
+    "Electroweb",
+    "Hold Back"
+  ],
+  "eggMoves": [
+    "After You",
+    "Agility",
+    "Body Slam",
+    "Charge",
+    "Flatter",
+    "Iron Tail",
+    "Odor Sleuth",
+    "Screech",
+    "Take Down",
+    "Sand-Attack",
+    "Eerie Impulse",
+    "Electric Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Vigoroth",
+  "pokemon": "Vigoroth",
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 80,
+    "Speed": 90,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Slakoth"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 46.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Slaking"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "VitalSpirit",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Reversal",
+      "Scratch",
+      "Focus Energy",
+      "Encore",
+      "Uproar"
+    ],
+    "6": [
+      "Encore"
+    ],
+    "9": [
+      "Uproar"
+    ],
+    "14": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Endure"
+    ],
+    "23": [
+      "Slash"
+    ],
+    "27": [
+      "Chip Away"
+    ],
+    "33": [
+      "Counter"
+    ],
+    "37": [
+      "Focus Punch"
+    ],
+    "43": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Shadow Claw",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Gunk Shot",
+    "Low Kick",
+    "Sucker Punch",
+    "Uproar",
+    "Crush Claw",
+    "Encore",
+    "Pursuit",
+    "Reversal",
+    "Tickle",
+    "Focus Energy",
+    "Slash",
+    "Slash",
+    "Snore",
+    "Yawn",
+    "Amnesia",
+    "Flail",
+    "Play Rough"
+  ],
+  "eggMoves": [
+    "After You",
+    "Body Slam",
+    "Crush Claw",
+    "Curse",
+    "Hammer Arm",
+    "Night Slash",
+    "Pursuit",
+    "Slash",
+    "Sleep Talk",
+    "Snore",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

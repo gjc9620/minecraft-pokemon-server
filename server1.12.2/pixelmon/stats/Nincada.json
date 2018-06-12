@@ -1,0 +1,151 @@
+{
+  "pixelmonName": "Nincada",
+  "pokemon": "Nincada",
+  "stats": {
+    "HP": 31,
+    "Attack": 45,
+    "Defence": 90,
+    "Speed": 40,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 13,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Ground"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 5.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Ninjask"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "CompoundEyes",
+    null,
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Harden"
+    ],
+    "5": [
+      "Leech Life"
+    ],
+    "9": [
+      "Sand-Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Mud-Slap"
+    ],
+    "21": [
+      "Metal Claw"
+    ],
+    "25": [
+      "Mind Reader"
+    ],
+    "29": [
+      "Bide"
+    ],
+    "33": [
+      "False Swipe"
+    ],
+    "37": [
+      "Dig"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "False Swipe",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Double-Edge",
+    "Mimic",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Spite",
+    "String Shot",
+    "Faint Attack",
+    "Gust",
+    "Mind Reader",
+    "Harden"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Bug Buzz",
+    "Endure",
+    "Final Gambit",
+    "Gust",
+    "Night Slash",
+    "Silver Wind",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

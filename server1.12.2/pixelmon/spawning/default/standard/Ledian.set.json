@@ -1,0 +1,30 @@
+{
+	"id": "Ledian",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ledian"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 18,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"birches",
+					"flowery"
+				]
+			},
+			"rarity": 90.0
+		}
+	]
+}

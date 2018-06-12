@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Vespiquen",
+  "pokemon": "Vespiquen",
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 102,
+    "Speed": 40,
+    "SpecialAttack": 80,
+    "SpecialDefence": 102
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 26,
+  "spawnLevelRange": 18,
+  "baseExp": 188,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Combee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 38.5,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Fell Stinger",
+      "Destiny Bond",
+      "Sweet Scent",
+      "Gust",
+      "Poison Sting",
+      "Confuse Ray"
+    ],
+    "5": [
+      "Fury Cutter"
+    ],
+    "9": [
+      "Pursuit"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Defend Order"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "25": [
+      "Power Gem"
+    ],
+    "29": [
+      "Heal Order"
+    ],
+    "33": [
+      "Toxic"
+    ],
+    "37": [
+      "Air Slash"
+    ],
+    "41": [
+      "Captivate"
+    ],
+    "45": [
+      "Attack Order"
+    ],
+    "49": [
+      "Swagger"
+    ],
+    "53": [
+      "Destiny Bond"
+    ],
+    "57": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Quash",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Cut",
+    "Defog",
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Endeavor",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Air Slash",
+    "Gust",
+    "Pursuit",
+    "Slash"
+  ],
+  "forms": {},
+  "form": -1
+}

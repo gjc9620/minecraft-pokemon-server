@@ -1,0 +1,119 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain"_-_Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond"_-_Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn"_-_Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartResource"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Hammersmith"
+    },
+    {
+      "name": "Mrs. Finnegan"
+    },
+    {
+      "name": "Mr. Prendergast"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
+      "goodbye": "Delighted to have met you. Good day."
+    },
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    },
+    {
+      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privilege to do business with you."
+    },
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name_-_reference to the name entry in shopItems.json.
+    multi_-_optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity_-_optional field, from 0_-_1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "minecraft:potato",
+      "rarity": 1
+    },
+    {
+      "name": "minecraft:carrot",
+      "rarity": 1
+    },
+    {
+      "name": "minecraft:coal",
+      "rarity": 1
+    },
+    {
+      "name": "minecraft:iron_ingot",
+      "rarity": 1
+    },
+    {
+      "name": "minecraft:diamond",
+      "rarity": 1
+    },
+	 {
+      "name": "minecraft:clay",
+      "rarity": 1
+    },
+	{
+      "name": "minecraft:gold_ingot",
+      "rarity": 1
+    },
+	{
+      "name": "minecraft:redstone",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Amethyst",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Ruby",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Sapphire",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Aluminium_Ingot",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Crystal",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:Silicon",
+      "rarity": 1
+    }
+  ]
+}
+
+

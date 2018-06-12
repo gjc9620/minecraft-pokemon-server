@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Milotic",
+  "pokemon": "Milotic",
+  "stats": {
+    "HP": 95,
+    "Attack": 60,
+    "Defence": 79,
+    "Speed": 81,
+    "SpecialAttack": 100,
+    "SpecialDefence": 125
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 213,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 6.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Feebas"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 20,
+    "depthRangeEnd": 100,
+    "swimSpeed": 2.2,
+    "decayRate": 0.99,
+    "refreshRate": 80
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 162.0,
+  "evolutions": [],
+  "abilities": [
+    "MarvelScale",
+    "Competitive",
+    "CuteCharm"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Wrap",
+      "Water Gun"
+    ],
+    "4": [
+      "Water Sport"
+    ],
+    "7": [
+      "Refresh"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Twister"
+    ],
+    "17": [
+      "Water Pulse"
+    ],
+    "21": [
+      "Aqua Ring"
+    ],
+    "24": [
+      "Captivate"
+    ],
+    "27": [
+      "Dragon Tail"
+    ],
+    "31": [
+      "Recover"
+    ],
+    "34": [
+      "Aqua Tail"
+    ],
+    "37": [
+      "Attract"
+    ],
+    "41": [
+      "Safeguard"
+    ],
+    "44": [
+      "Coil"
+    ],
+    "47": [
+      "Hydro Pump"
+    ],
+    "51": [
+      "Rain Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Psych Up",
+    "Bulldoze",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Iron Head",
+    "Magic Coat",
+    "Twister",
+    "Aqua Ring",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Hypnosis",
+    "Mist",
+    "Mud Sport",
+    "Refresh",
+    "Splash",
+    "Tickle",
+    "Water Sport",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Brine",
+    "Captivate",
+    "Confuse Ray",
+    "Dragon Pulse",
+    "Haze",
+    "Hypnosis",
+    "Iron Tail",
+    "Mirror Coat",
+    "Mist",
+    "Mud Sport",
+    "Tickle",
+    "DragonBreath"
+  ],
+  "forms": {},
+  "form": -1
+}

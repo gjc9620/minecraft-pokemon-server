@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Riolu",
+  "pokemon": "Riolu",
+  "stats": {
+    "HP": 40,
+    "Attack": 70,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 35,
+    "SpecialDefence": 40
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 20.2,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Lucario"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Steadfast",
+    "InnerFocus",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Foresight",
+      "Quick Attack",
+      "Endure"
+    ],
+    "6": [
+      "Counter"
+    ],
+    "11": [
+      "Feint"
+    ],
+    "15": [
+      "Force Palm"
+    ],
+    "19": [
+      "Copycat"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "29": [
+      "Reversal"
+    ],
+    "47": [
+      "Nasty Plot"
+    ],
+    "50": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Counter",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fury Cutter",
+    "Focus Punch",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Helping Hand",
+    "Iron Defense",
+    "Low Kick",
+    "Magnet Rise",
+    "Role Play",
+    "Vacuum Wave",
+    "Zen Headbutt",
+    "Agility",
+    "Aura Sphere",
+    "Bite",
+    "Follow Me",
+    "Foresight",
+    "Mind Reader",
+    "Nasty Plot",
+    "Reversal",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Bite",
+    "Blaze Kick",
+    "Bullet Punch",
+    "Circle Throw",
+    "Cross Chop",
+    "Crunch",
+    "Detect",
+    "Follow Me",
+    "Hi Jump Kick",
+    "Iron Defense",
+    "Low Kick",
+    "Mind Reader",
+    "Sky Uppercut",
+    "Vacuum Wave"
+  ],
+  "forms": {},
+  "form": -1
+}

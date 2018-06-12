@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Cherubi",
+  "pokemon": "Cherubi",
+  "stats": {
+    "HP": 45,
+    "Attack": 35,
+    "Defence": 45,
+    "Speed": 35,
+    "SpecialAttack": 62,
+    "SpecialDefence": 53
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 3.3,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Cherrim"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 25,
+      "to": {
+        "name": "Cherrim"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Morning Sun",
+      "Tackle"
+    ],
+    "7": [
+      "Growth"
+    ],
+    "10": [
+      "Leech Seed"
+    ],
+    "13": [
+      "Helping Hand"
+    ],
+    "19": [
+      "Magical Leaf"
+    ],
+    "22": [
+      "Sunny Day"
+    ],
+    "28": [
+      "Worry Seed"
+    ],
+    "31": [
+      "Take Down"
+    ],
+    "37": [
+      "SolarBeam"
+    ],
+    "40": [
+      "Lucky Chant"
+    ],
+    "47": [
+      "Petal Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Take Down",
+    "Rollout",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Aromatherapy",
+    "Growth",
+    "Heal Pulse",
+    "Leech Seed",
+    "Morning Sun",
+    "Tickle",
+    "Weather Ball",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Defense Curl",
+    "Heal Pulse",
+    "Healing Wish",
+    "Natural Gift",
+    "Nature Power",
+    "Razor Leaf",
+    "Rollout",
+    "Seed Bomb",
+    "Sweet Scent",
+    "Tickle",
+    "Weather Ball",
+    "GrassWhistle",
+    "Flower Shield"
+  ],
+  "forms": {},
+  "form": -1
+}

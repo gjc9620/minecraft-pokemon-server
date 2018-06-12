@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Helioptile",
+  "pokemon": "Helioptile",
+  "stats": {
+    "HP": 44,
+    "Attack": 38,
+    "Defence": 33,
+    "Speed": 70,
+    "SpecialAttack": 61,
+    "SpecialDefence": 43
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 58,
+  "baseFriendship": 0,
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Heliolisk"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "DrySkin",
+    "SandVeil",
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Tail Whip"
+    ],
+    "6": [
+      "ThunderShock"
+    ],
+    "11": [
+      "Charge"
+    ],
+    "13": [
+      "Mud-Slap"
+    ],
+    "17": [
+      "Quick Attack"
+    ],
+    "22": [
+      "Razor Wind"
+    ],
+    "25": [
+      "Parabolic Charge"
+    ],
+    "31": [
+      "Thunder Wave"
+    ],
+    "35": [
+      "Bulldoze"
+    ],
+    "40": [
+      "Volt Switch"
+    ],
+    "45": [
+      "Electrify"
+    ],
+    "49": [
+      "Thunderbolt"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Magnet Rise",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Camouflage",
+    "Electric Terrain",
+    "Glare"
+  ],
+  "forms": {},
+  "form": -1
+}

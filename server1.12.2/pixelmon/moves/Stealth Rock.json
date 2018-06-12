@@ -1,0 +1,32 @@
+{
+  "attackIndex": 285,
+  "attackName": "Stealth Rock",
+  "attackType": "Rock",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -2,
+  "makesContact": false,
+  "effects": [
+    {
+      "maxLayers": 1,
+      "type": "StealthRock",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StealthRock"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

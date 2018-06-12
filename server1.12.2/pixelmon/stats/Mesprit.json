@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Mesprit",
+  "pokemon": "Mesprit",
+  "stats": {
+    "HP": 80,
+    "Attack": 105,
+    "Defence": 105,
+    "Speed": 80,
+    "SpecialAttack": 105,
+    "SpecialDefence": 105
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 210,
+  "baseFriendship": 140,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Healing Wish",
+      "Natural Gift",
+      "Copycat",
+      "Rest",
+      "Confusion"
+    ],
+    "6": [
+      "Imprison"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "31": [
+      "Lucky Chant"
+    ],
+    "36": [
+      "Future Sight"
+    ],
+    "46": [
+      "Charm"
+    ],
+    "50": [
+      "Extrasensory"
+    ],
+    "61": [
+      "Copycat"
+    ],
+    "66": [
+      "Natural Gift"
+    ],
+    "76": [
+      "Healing Wish"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Charm",
+    "Extrasensory"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,56 @@
+{
+    "skins": [
+        {
+            "filename": "lass.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amy"
+        },
+        {
+            "name": "Jade"
+        },
+        {
+            "name": "Hermione"
+        },
+        {
+            "name": "Carolina"
+        },
+        {
+            "name": "Usagi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "He capturado un Pidgey otra vez. Creo que voy a empezar una colección."
+                },
+                {
+                    "text": "Puede que los enseñe a todos en clase al mismo tiempo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "He visto un documental sobre la Sabana y ahora quiero un Shinx."
+                },
+                {
+                    "text": "Pero un Ranger me dijo que sería \"irresponsabe con el medio ambiente\". Eso es injusto."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Mi mamá me llevó al circo la semana pasada!"
+                },
+                {
+                    "text": "He visto a dos Spheal haciendo malabares con otro Spheal. No sé como podían hacer eso."
+                }
+            ]
+        }
+    ]
+}

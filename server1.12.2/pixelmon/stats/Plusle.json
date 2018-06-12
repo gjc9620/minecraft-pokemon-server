@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Plusle",
+  "pokemon": "Plusle",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 95,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.4,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.2,
+  "evolutions": [],
+  "abilities": [
+    "Plus",
+    null,
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Nuzzle",
+      "Play Nice",
+      "Growl",
+      "Thunder Wave",
+      "Quick Attack"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "7": [
+      "Spark"
+    ],
+    "10": [
+      "Encore"
+    ],
+    "13": [
+      "Bestow"
+    ],
+    "16": [
+      "Swift"
+    ],
+    "19": [
+      "Electro Ball"
+    ],
+    "22": [
+      "Copycat"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "28": [
+      "Charge"
+    ],
+    "31": [
+      "Discharge"
+    ],
+    "34": [
+      "Baton Pass"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "40": [
+      "Last Resort"
+    ],
+    "43": [
+      "Thunder"
+    ],
+    "46": [
+      "Nasty Plot"
+    ],
+    "49": [
+      "Entrainment"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Last Resort",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Agility",
+    "Baton Pass",
+    "Encore",
+    "Nasty Plot",
+    "Sing",
+    "Sweet Kiss",
+    "Water Sport",
+    "Wish",
+    "Electroweb"
+  ],
+  "eggMoves": [
+    "Discharge",
+    "Lucky Chant",
+    "Sing",
+    "Sweet Kiss",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

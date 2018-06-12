@@ -1,0 +1,157 @@
+{
+	"id": "Slugma Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 75
+		},
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 15,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 50
+		},
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 90
+		},
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 40
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 15,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"rarity": 15,
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			}
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 70
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarity": 55
+		}
+	]
+}

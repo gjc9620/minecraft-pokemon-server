@@ -1,0 +1,25 @@
+{
+	"id": "Infernape",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Infernape"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

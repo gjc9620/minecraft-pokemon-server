@@ -1,0 +1,24 @@
+{
+	"id": "Blastoise",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Blastoise"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"river",
+					"beaches"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

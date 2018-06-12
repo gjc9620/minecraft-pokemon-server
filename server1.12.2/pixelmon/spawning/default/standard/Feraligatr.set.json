@@ -1,0 +1,26 @@
+{
+	"id": "Feraligatr",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Feraligatr"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"river",
+					"beaches"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

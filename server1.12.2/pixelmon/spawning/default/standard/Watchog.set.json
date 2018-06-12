@@ -1,0 +1,27 @@
+{
+	"id": "Watchog",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Watchog"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 21,
+			"maxLevel": 33,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"savannas",
+					"forests",
+					"plains"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

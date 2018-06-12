@@ -1,0 +1,31 @@
+{
+	"id": "Roselia",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Roselia"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 12,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:rose_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

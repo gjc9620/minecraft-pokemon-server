@@ -1,0 +1,26 @@
+{
+	"id": "Axew",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Axew"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"river",
+					"mountainous"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

@@ -1,0 +1,230 @@
+{
+  "pixelmonName": "Onix",
+  "pokemon": "Onix",
+  "stats": {
+    "HP": 35,
+    "Attack": 45,
+    "Defence": 160,
+    "Speed": 70,
+    "SpecialAttack": 30,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 108,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 5.0,
+  "width": 2.0,
+  "length": 3.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 1.0
+    }
+  },
+  "weight": 210.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Steelix"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:metal_coat"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Mud Sport",
+      "Tackle",
+      "Harden",
+      "Bind"
+    ],
+    "4": [
+      "Curse"
+    ],
+    "7": [
+      "Rock Throw"
+    ],
+    "10": [
+      "Rock Tomb"
+    ],
+    "13": [
+      "Rage"
+    ],
+    "16": [
+      "Stealth Rock"
+    ],
+    "19": [
+      "Rock Polish"
+    ],
+    "20": [
+      "Gyro Ball"
+    ],
+    "22": [
+      "Smack Down"
+    ],
+    "25": [
+      "DragonBreath"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "31": [
+      "Screech"
+    ],
+    "34": [
+      "Rock Slide"
+    ],
+    "37": [
+      "Sand Tomb"
+    ],
+    "40": [
+      "Iron Tail"
+    ],
+    "43": [
+      "Dig"
+    ],
+    "46": [
+      "Stone Edge"
+    ],
+    "49": [
+      "Double-Edge"
+    ],
+    "52": [
+      "Sandstorm"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Dragon Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Block",
+    "Earth Power",
+    "Iron Head",
+    "Twister",
+    "Flail",
+    "Mud Sport",
+    "Rock Throw",
+    "Sharpen",
+    "Harden",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Block",
+    "Defense Curl",
+    "Flail",
+    "Heavy Slam",
+    "Rock Blast",
+    "Rock Climb",
+    "Rollout",
+    "Stealth Rock",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

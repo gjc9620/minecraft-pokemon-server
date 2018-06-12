@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Diggersby",
+  "pokemon": "Diggersby",
+  "stats": {
+    "HP": 85,
+    "Attack": 56,
+    "Defence": 77,
+    "Speed": 78,
+    "SpecialAttack": 50,
+    "SpecialDefence": 77
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 14,
+  "baseExp": 148,
+  "baseFriendship": 0,
+  "types": [
+    "Normal",
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bunnelby"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 42.4,
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "CheekPouch",
+    "HugePower"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Hammer Arm",
+      "Rototiller",
+      "Bulldoze",
+      "Swords Dance",
+      "Tackle",
+      "Agility",
+      "Leer"
+    ],
+    "7": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Mud-Slap"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "18": [
+      "Mud Shot"
+    ],
+    "20": [
+      "Double Kick"
+    ],
+    "26": [
+      "Odor Sleuth"
+    ],
+    "31": [
+      "Flail"
+    ],
+    "37": [
+      "Dig"
+    ],
+    "42": [
+      "Bounce"
+    ],
+    "48": [
+      "Super Fang"
+    ],
+    "53": [
+      "Facade"
+    ],
+    "57": [
+      "Earthquake"
+    ],
+    "60": [
+      "Hammer Arm"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Fire Punch",
+    "Focus Punch",
+    "Ice Punch",
+    "Iron Tail",
+    "Recycle",
+    "Snatch",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Foul Play",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Iron Head",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Super Fang",
+    "Superpower",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Rollout",
+    "Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

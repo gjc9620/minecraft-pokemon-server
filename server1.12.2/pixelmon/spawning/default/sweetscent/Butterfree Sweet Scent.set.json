@@ -1,0 +1,22 @@
+{
+    "id": "Butterfree Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Butterfree"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 13,
+            "maxLevel": 23,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 110.0
+        }
+    ]
+}

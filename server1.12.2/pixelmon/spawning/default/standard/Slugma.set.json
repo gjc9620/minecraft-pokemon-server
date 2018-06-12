@@ -1,0 +1,30 @@
+{
+	"id": "Slugma",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 5,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"lava"
+				],
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

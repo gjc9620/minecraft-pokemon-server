@@ -1,0 +1,22 @@
+{
+	"id": "Sawk",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sawk"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 34,
+			"maxLevel": 48,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"id": "Bellsprout",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bellsprout"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 2,
+			"maxLevel": 21,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"swamps",
+					"jungles"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

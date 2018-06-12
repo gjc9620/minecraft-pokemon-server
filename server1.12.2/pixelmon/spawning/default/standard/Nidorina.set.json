@@ -1,0 +1,25 @@
+{
+	"id": "Nidorina",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Nidorina"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 16,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Dodrio",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dodrio"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 31,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

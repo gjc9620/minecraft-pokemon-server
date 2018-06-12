@@ -1,0 +1,216 @@
+{
+  "pixelmonName": "Persian",
+  "pokemon": "Persian",
+  "stats": {
+    "HP": 65,
+    "Attack": 70,
+    "Defence": 60,
+    "Speed": 115,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 22,
+  "baseExp": 148,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 0.4,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meowth"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 32.0,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Technician",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Play Rough",
+      "Switcheroo",
+      "Scratch",
+      "Growl",
+      "Bite",
+      "Fake Out"
+    ],
+    "6": [
+      "Bite"
+    ],
+    "9": [
+      "Fake Out"
+    ],
+    "14": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Screech"
+    ],
+    "22": [
+      "Faint Attack"
+    ],
+    "25": [
+      "Taunt"
+    ],
+    "28": [
+      "Swift"
+    ],
+    "32": [
+      "Power Gem"
+    ],
+    "37": [
+      "Slash"
+    ],
+    "44": [
+      "Nasty Plot"
+    ],
+    "49": [
+      "Assurance"
+    ],
+    "56": [
+      "Captivate"
+    ],
+    "61": [
+      "Night Slash"
+    ],
+    "65": [
+      "Feint"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Spite",
+    "Uproar",
+    "Amnesia",
+    "Bite",
+    "Charm",
+    "Faint Attack",
+    "Fake Out",
+    "Flail",
+    "Hypnosis",
+    "Nasty Plot",
+    "Petal Dance",
+    "Sing",
+    "Slash",
+    "Screech",
+    "Happy Hour"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Assist",
+    "Charm",
+    "Flail",
+    "Foul Play",
+    "Hypnosis",
+    "Iron Tail",
+    "Last Resort",
+    "Odor Sleuth",
+    "Punishment",
+    "Snatch",
+    "Spite",
+    "Tail Whip"
+  ],
+  "forms": {},
+  "form": -1
+}

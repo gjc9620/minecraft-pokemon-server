@@ -1,0 +1,25 @@
+{
+	"id": "Panpour",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Panpour"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 11,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"id": "Basculin Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Basculin"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 22,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"jungles",
+					"oceanic"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Basculin"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 22,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"jungles",
+					"oceanic"
+				]
+			},
+			"rarity": 80
+		}
+	]
+}

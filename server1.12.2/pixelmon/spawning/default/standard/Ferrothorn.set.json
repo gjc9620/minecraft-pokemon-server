@@ -1,0 +1,28 @@
+{
+	"id": "Ferrothorn",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ferrothorn"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 41,
+			"maxLevel": 53,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"hills"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"freezing"
+				]
+			},
+			"rarity": 10
+		}
+	]
+}

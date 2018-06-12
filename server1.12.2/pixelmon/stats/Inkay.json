@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Inkay",
+  "pokemon": "Inkay",
+  "stats": {
+    "HP": 53,
+    "Attack": 54,
+    "Defence": 53,
+    "Speed": 45,
+    "SpecialAttack": 37,
+    "SpecialDefence": 46
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 11,
+  "baseExp": 58,
+  "baseFriendship": 0,
+  "types": [
+    "Dark",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 3.5,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Malamar"
+      },
+      "conditions": [
+        {
+          "minAltitude": 127.0,
+          "evoConditionType": "highAltitude"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SuctionCups",
+    "Contrary",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Peck",
+      "Constrict"
+    ],
+    "4": [
+      "Reflect"
+    ],
+    "8": [
+      "Foul Play"
+    ],
+    "12": [
+      "Swagger"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "15": [
+      "Topsy-Turvy"
+    ],
+    "18": [
+      "Hypnosis"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "23": [
+      "Switcheroo"
+    ],
+    "27": [
+      "Payback"
+    ],
+    "31": [
+      "Light Screen"
+    ],
+    "35": [
+      "Pluck"
+    ],
+    "39": [
+      "Psycho Cut"
+    ],
+    "43": [
+      "Slash"
+    ],
+    "46": [
+      "Night Slash"
+    ],
+    "48": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Foul Play",
+    "Knock Off",
+    "Role Play",
+    "Spite",
+    "Superpower",
+    "Happy Hour"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Destiny Bond",
+    "Flatter",
+    "Power Split",
+    "Simple Beam"
+  ],
+  "forms": {},
+  "form": -1
+}

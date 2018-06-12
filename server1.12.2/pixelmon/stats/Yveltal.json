@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Yveltal",
+  "pokemon": "Yveltal",
+  "stats": {
+    "HP": 126,
+    "Attack": 131,
+    "Defence": 95,
+    "Speed": 99,
+    "SpecialAttack": 131,
+    "SpecialDefence": 98
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 2.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 203.0,
+  "evolutions": [],
+  "abilities": [
+    "DarkAura",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Hurricane",
+      "Razor Wind",
+      "Taunt",
+      "Roost"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Air Slash"
+    ],
+    "18": [
+      "Snarl"
+    ],
+    "26": [
+      "Oblivion Wing"
+    ],
+    "35": [
+      "Disable"
+    ],
+    "44": [
+      "Dark Pulse"
+    ],
+    "51": [
+      "Foul Play"
+    ],
+    "55": [
+      "Phantom Force"
+    ],
+    "59": [
+      "Psychic"
+    ],
+    "63": [
+      "Dragon Rush"
+    ],
+    "72": [
+      "Focus Blast"
+    ],
+    "80": [
+      "Sucker Punch"
+    ],
+    "88": [
+      "Hyper Beam"
+    ],
+    "93": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Focus Blast",
+    "Sky Drop",
+    "Acrobatics",
+    "Embargo",
+    "Shadow Claw",
+    "Giga Impact",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Fly",
+    "Sky Attack",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Foul Play",
+    "Heat Wave",
+    "Hyper Voice",
+    "Knock Off",
+    "Tailwind",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

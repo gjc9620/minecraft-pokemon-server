@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Forretress",
+  "pokemon": "Forretress",
+  "stats": {
+    "HP": 75,
+    "Attack": 90,
+    "Defence": 140,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 24,
+  "baseExp": 118,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.2,
+  "width": 1.3,
+  "length": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pineco"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 125.8,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    null,
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Heavy Slam",
+      "Zap Cannon",
+      "Magnet Rise",
+      "Toxic Spikes",
+      "Tackle",
+      "Protect",
+      "Selfdestruct",
+      "Bug Bite"
+    ],
+    "12": [
+      "Take Down"
+    ],
+    "17": [
+      "Rapid Spin"
+    ],
+    "20": [
+      "Bide"
+    ],
+    "23": [
+      "Natural Gift"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "31": [
+      "Mirror Shot"
+    ],
+    "32": [
+      "Autotomize"
+    ],
+    "36": [
+      "Payback"
+    ],
+    "42": [
+      "Explosion"
+    ],
+    "46": [
+      "Iron Defense"
+    ],
+    "50": [
+      "Gyro Ball"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Magnet Rise"
+    ],
+    "64": [
+      "Zap Cannon"
+    ],
+    "70": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Volt Switch",
+    "Gyro Ball",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bug Bite",
+    "Drill Run",
+    "Gravity",
+    "Iron Defense",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "String Shot",
+    "Flail",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Double-Edge",
+    "Endure",
+    "Flail",
+    "Pin Missile",
+    "Power Trick",
+    "Revenge",
+    "Sand Tomb",
+    "Stealth Rock",
+    "Swift",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

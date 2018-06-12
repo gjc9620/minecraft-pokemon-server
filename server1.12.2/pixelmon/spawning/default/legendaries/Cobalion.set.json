@@ -1,0 +1,30 @@
+{
+	"id": "Cobalion",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cobalion",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"temperature": "MEDIUM",
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"hills"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

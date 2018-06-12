@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Skitty",
+  "pokemon": "Skitty",
+  "stats": {
+    "HP": 50,
+    "Attack": 45,
+    "Defence": 45,
+    "Speed": 50,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 2,
+  "spawnLevelRange": 28,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 11.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Delcatty"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Normalize",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Growl",
+      "Tail Whip",
+      "Tackle"
+    ],
+    "4": [
+      "Foresight"
+    ],
+    "7": [
+      "Sing"
+    ],
+    "10": [
+      "Attract"
+    ],
+    "13": [
+      "Disarming Voice"
+    ],
+    "16": [
+      "DoubleSlap"
+    ],
+    "19": [
+      "Copycat"
+    ],
+    "22": [
+      "Faint Attack"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "28": [
+      "Wake-Up Slap"
+    ],
+    "31": [
+      "Assist"
+    ],
+    "34": [
+      "Covet"
+    ],
+    "37": [
+      "Heal Bell"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "43": [
+      "Captivate"
+    ],
+    "46": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Body Slam",
+    "Double-Edge",
+    "Pay Day",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Sucker Punch",
+    "Uproar",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Charm",
+    "DoubleSlap",
+    "Faint Attack",
+    "Fake Out",
+    "Foresight",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Captivate",
+    "Cosmic Power",
+    "Fake Out",
+    "Fake Tears",
+    "Helping Hand",
+    "Last Resort",
+    "Mud Bomb",
+    "Simple Beam",
+    "Sucker Punch",
+    "Tickle",
+    "Uproar",
+    "Wish",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

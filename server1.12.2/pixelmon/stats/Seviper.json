@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Seviper",
+  "pokemon": "Seviper",
+  "stats": {
+    "HP": 73,
+    "Attack": 100,
+    "Defence": 60,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 60
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 60,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 2.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 52.5,
+  "evolutions": [],
+  "abilities": [
+    "ShedSkin",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Wrap",
+      "Swagger"
+    ],
+    "4": [
+      "Bite"
+    ],
+    "7": [
+      "Lick"
+    ],
+    "10": [
+      "Poison Tail"
+    ],
+    "13": [
+      "Screech"
+    ],
+    "16": [
+      "Venoshock"
+    ],
+    "19": [
+      "Glare"
+    ],
+    "22": [
+      "Poison Fang"
+    ],
+    "25": [
+      "Venom Drench"
+    ],
+    "28": [
+      "Night Slash"
+    ],
+    "31": [
+      "Gastro Acid"
+    ],
+    "34": [
+      "Poison Jab"
+    ],
+    "37": [
+      "Haze"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "43": [
+      "Belch"
+    ],
+    "46": [
+      "Coil"
+    ],
+    "49": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Bulldoze",
+    "X-Scissor",
+    "Dragon Tail",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Gastro Acid",
+    "Knock Off",
+    "Sucker Punch",
+    "Bite",
+    "Haze",
+    "Scary Face",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Body Slam",
+    "Final Gambit",
+    "Iron Tail",
+    "Night Slash",
+    "Punishment",
+    "Scary Face",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Switcheroo",
+    "Wring Out"
+  ],
+  "forms": {},
+  "form": -1
+}

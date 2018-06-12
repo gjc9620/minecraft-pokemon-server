@@ -1,0 +1,31 @@
+{
+	"id": "Spheal",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Spheal"
+			},
+			"stringLocationTypes": [
+				"Water",
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"water"
+				],
+				"minY": 50,
+				"maxY": 70,
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 300
+		}
+	]
+}

@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Psyduck",
+  "pokemon": "Psyduck",
+  "stats": {
+    "HP": 50,
+    "Attack": 52,
+    "Defence": 48,
+    "Speed": 55,
+    "SpecialAttack": 65,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 28,
+  "baseExp": 80,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 19.6,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Golduck"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Damp",
+    "CloudNine",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport",
+      "Scratch"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Water Gun"
+    ],
+    "11": [
+      "Confusion"
+    ],
+    "15": [
+      "Fury Swipes"
+    ],
+    "18": [
+      "Water Pulse"
+    ],
+    "22": [
+      "Disable"
+    ],
+    "25": [
+      "Screech"
+    ],
+    "29": [
+      "Aqua Tail"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Soak"
+    ],
+    "39": [
+      "Psych Up"
+    ],
+    "43": [
+      "Amnesia"
+    ],
+    "46": [
+      "Hydro Pump"
+    ],
+    "50": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Fling",
+    "Shadow Claw",
+    "Flash",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Focus Punch",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Role Play",
+    "Signal Beam",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Amnesia",
+    "Encore",
+    "Foresight",
+    "Hydro Pump",
+    "Hypnosis",
+    "Mud Sport",
+    "Petal Dance",
+    "Refresh",
+    "Water Sport",
+    "Yawn",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Clear Smog",
+    "Confuse Ray",
+    "Cross Chop",
+    "Encore",
+    "Foresight",
+    "Future Sight",
+    "Hypnosis",
+    "Mud Bomb",
+    "Psybeam",
+    "Refresh",
+    "Secret Power",
+    "Simple Beam",
+    "Sleep Talk",
+    "Synchronoise",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

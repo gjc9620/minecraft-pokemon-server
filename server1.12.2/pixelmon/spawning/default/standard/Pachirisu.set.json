@@ -1,0 +1,28 @@
+{
+	"id": "Pachirisu",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pachirisu"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"taiga",
+					"hills",
+					"birches"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

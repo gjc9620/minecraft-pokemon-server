@@ -1,0 +1,215 @@
+{
+  "pixelmonName": "Corsola",
+  "pokemon": "Corsola",
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defence": 85,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 45,
+  "baseExp": 113,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Rock"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 15,
+    "depthRangeEnd": 40,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "Hustle",
+    "NaturalCure",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden"
+    ],
+    "4": [
+      "Bubble"
+    ],
+    "8": [
+      "Recover"
+    ],
+    "10": [
+      "BubbleBeam"
+    ],
+    "13": [
+      "Refresh"
+    ],
+    "17": [
+      "AncientPower"
+    ],
+    "20": [
+      "Spike Cannon"
+    ],
+    "23": [
+      "Lucky Chant"
+    ],
+    "27": [
+      "Brine"
+    ],
+    "29": [
+      "Iron Defense"
+    ],
+    "31": [
+      "Rock Blast"
+    ],
+    "35": [
+      "Endure"
+    ],
+    "38": [
+      "Aqua Ring"
+    ],
+    "41": [
+      "Power Gem"
+    ],
+    "45": [
+      "Mirror Coat"
+    ],
+    "47": [
+      "Earth Power"
+    ],
+    "50": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Brine",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Endeavor",
+    "Iron Defense",
+    "Magic Coat",
+    "Sucker Punch",
+    "Aqua Ring",
+    "Amnesia",
+    "Barrier",
+    "Bubble",
+    "Flail",
+    "Mist",
+    "Mud Sport",
+    "Refresh",
+    "Harden",
+    "Tackle",
+    "Spike Cannon",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aqua Ring",
+    "Barrier",
+    "Bide",
+    "Camouflage",
+    "Confuse Ray",
+    "Curse",
+    "Head Smash",
+    "Icicle Spear",
+    "Ingrain",
+    "Mist",
+    "Nature Power",
+    "Screech",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1
+}

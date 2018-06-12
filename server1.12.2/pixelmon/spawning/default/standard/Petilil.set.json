@@ -1,0 +1,25 @@
+{
+	"id": "Petilil",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Petilil"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 13,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

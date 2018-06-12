@@ -1,0 +1,204 @@
+{
+  "pixelmonName": "Loudred",
+  "pokemon": "Loudred",
+  "stats": {
+    "HP": 84,
+    "Attack": 71,
+    "Defence": 43,
+    "Speed": 48,
+    "SpecialAttack": 71,
+    "SpecialDefence": 43
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Whismur"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 40.5,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Exploud"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Soundproof",
+    null,
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Echoed Voice",
+      "Astonish",
+      "Howl"
+    ],
+    "4": [
+      "Echoed Voice"
+    ],
+    "9": [
+      "Astonish"
+    ],
+    "11": [
+      "Howl"
+    ],
+    "15": [
+      "Screech"
+    ],
+    "18": [
+      "Supersonic"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "23": [
+      "Stomp"
+    ],
+    "27": [
+      "Uproar"
+    ],
+    "32": [
+      "Roar"
+    ],
+    "36": [
+      "Rest"
+    ],
+    "41": [
+      "Sleep Talk"
+    ],
+    "45": [
+      "Hyper Voice"
+    ],
+    "50": [
+      "Synchronoise"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Hyper Voice",
+    "Low Kick",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Extrasensory",
+    "Howl",
+    "Teeter Dance",
+    "Stomp",
+    "Screech",
+    "Icy Wind"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Endeavor",
+    "Extrasensory",
+    "Fake Tears",
+    "Hammer Arm",
+    "SmokeScreen",
+    "Snore",
+    "Take Down",
+    "SmellingSalt",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

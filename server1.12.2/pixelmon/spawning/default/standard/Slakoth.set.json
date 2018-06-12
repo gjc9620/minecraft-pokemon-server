@@ -1,0 +1,26 @@
+{
+	"id": "Slakoth",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slakoth"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

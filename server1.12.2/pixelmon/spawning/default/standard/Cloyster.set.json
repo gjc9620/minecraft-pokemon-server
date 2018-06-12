@@ -1,0 +1,23 @@
+{
+	"id": "Cloyster",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cloyster"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 35,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"cold_beach"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Mightyena",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mightyena"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 18,
+			"maxLevel": 65,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

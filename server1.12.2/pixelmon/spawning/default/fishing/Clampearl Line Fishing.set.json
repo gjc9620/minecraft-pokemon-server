@@ -1,0 +1,93 @@
+{
+	"id": "Clampearl Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Clampearl"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:deep_sea_tooth",
+					"percentChance": 5
+				},
+				{
+					"itemID": "pixelmon:deep_sea_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Clampearl"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:deep_sea_tooth",
+					"percentChance": 5
+				},
+				{
+					"itemID": "pixelmon:deep_sea_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 100
+		},
+		{
+			"spec": {
+				"name": "Huntail"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Gorebyss"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

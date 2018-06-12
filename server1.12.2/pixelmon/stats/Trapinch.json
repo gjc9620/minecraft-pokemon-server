@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Trapinch",
+  "pokemon": "Trapinch",
+  "stats": {
+    "HP": 45,
+    "Attack": 100,
+    "Defence": 45,
+    "Speed": 10,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 30,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Vibrava"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "ArenaTrap",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sand-Attack",
+      "Bite",
+      "Faint Attack",
+      "Bide"
+    ],
+    "5": [
+      "Mud-Slap"
+    ],
+    "8": [
+      "Bulldoze"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "15": [
+      "Rock Slide"
+    ],
+    "19": [
+      "Dig"
+    ],
+    "22": [
+      "Crunch"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Feint"
+    ],
+    "33": [
+      "Earthquake"
+    ],
+    "36": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Superpower"
+    ],
+    "43": [
+      "Hyper Beam"
+    ],
+    "47": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Fury Cutter",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Signal Beam",
+    "Superpower",
+    "Bite",
+    "Faint Attack",
+    "Flail",
+    "Gust",
+    "Focus Energy"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Earth Power",
+    "Endure",
+    "Flail",
+    "Focus Energy",
+    "Fury Cutter",
+    "Gust",
+    "Mud Shot",
+    "Quick Attack",
+    "Signal Beam"
+  ],
+  "forms": {},
+  "form": -1
+}

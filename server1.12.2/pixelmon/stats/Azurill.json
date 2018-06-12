@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Azurill",
+  "pokemon": "Azurill",
+  "stats": {
+    "HP": 50,
+    "Attack": 20,
+    "Defence": 40,
+    "Speed": 20,
+    "SpecialAttack": 20,
+    "SpecialDefence": 40
+  },
+  "catchRate": 150,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 3,
+  "baseExp": 38,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Marill"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "HugePower",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Water Gun"
+    ],
+    "2": [
+      "Tail Whip"
+    ],
+    "5": [
+      "Water Sport"
+    ],
+    "7": [
+      "Bubble"
+    ],
+    "10": [
+      "Charm"
+    ],
+    "13": [
+      "BubbleBeam"
+    ],
+    "16": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Slam"
+    ],
+    "23": [
+      "Bounce"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Uproar",
+    "Bubble",
+    "Charm",
+    "Encore",
+    "Refresh",
+    "Sing",
+    "Splash",
+    "Tickle",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Encore",
+    "Fake Tears",
+    "Muddy Water",
+    "Refresh",
+    "Sing",
+    "Slam",
+    "Soak",
+    "Tickle",
+    "Water Sport"
+  ],
+  "forms": {},
+  "form": -1
+}

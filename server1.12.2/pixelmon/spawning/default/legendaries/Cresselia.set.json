@@ -1,0 +1,29 @@
+{
+	"id": "Cresselia",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cresselia",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mushroom"
+				],
+				"moonPhase": 6
+			},
+			"rarity": 5
+		}
+	]
+}

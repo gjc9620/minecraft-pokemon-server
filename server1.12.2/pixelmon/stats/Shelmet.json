@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Shelmet",
+  "pokemon": "Shelmet",
+  "stats": {
+    "HP": 50,
+    "Attack": 40,
+    "Defence": 85,
+    "Speed": 25,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.7,
+  "evolutions": [
+    {
+      "with": "Karrablast",
+      "to": {
+        "name": "Accelgor"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Hydration",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Leech Life"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "13": [
+      "Curse"
+    ],
+    "16": [
+      "Struggle Bug"
+    ],
+    "20": [
+      "Mega Drain"
+    ],
+    "25": [
+      "Yawn"
+    ],
+    "28": [
+      "Protect"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "37": [
+      "Giga Drain"
+    ],
+    "40": [
+      "Body Slam"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "49": [
+      "Recover"
+    ],
+    "50": [
+      "Guard Swap"
+    ],
+    "56": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Struggle Bug",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mega Drain",
+    "Bide",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Gastro Acid",
+    "Signal Beam",
+    "Baton Pass",
+    "Encore",
+    "Mind Reader",
+    "Pursuit",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Double-Edge",
+    "Encore",
+    "Endure",
+    "Feint",
+    "Guard Split",
+    "Mind Reader",
+    "Mud-Slap",
+    "Pursuit",
+    "Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

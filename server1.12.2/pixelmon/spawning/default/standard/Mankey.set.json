@@ -1,0 +1,25 @@
+{
+	"id": "Mankey",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mankey"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 175.0
+		}
+	]
+}

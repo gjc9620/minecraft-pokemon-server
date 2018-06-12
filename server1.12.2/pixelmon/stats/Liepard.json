@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Liepard",
+  "pokemon": "Liepard",
+  "stats": {
+    "HP": 64,
+    "Attack": 88,
+    "Defence": 50,
+    "Speed": 106,
+    "SpecialAttack": 88,
+    "SpecialDefence": 50
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 13,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Purrloin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 37.5,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Growl",
+      "Assist",
+      "Sand-Attack"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "6": [
+      "Assist"
+    ],
+    "10": [
+      "Sand-Attack"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "19": [
+      "Torment"
+    ],
+    "22": [
+      "Fake Out"
+    ],
+    "26": [
+      "Hone Claws"
+    ],
+    "31": [
+      "Assurance"
+    ],
+    "34": [
+      "Slash"
+    ],
+    "38": [
+      "Taunt"
+    ],
+    "43": [
+      "Night Slash"
+    ],
+    "47": [
+      "Snatch"
+    ],
+    "50": [
+      "Nasty Plot"
+    ],
+    "55": [
+      "Sucker Punch"
+    ],
+    "58": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Pay Day",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Snatch",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Knock Off",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Charm",
+    "Encore",
+    "Faint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit",
+    "Yawn",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Copycat",
+    "Covet",
+    "Encore",
+    "Fake Tears",
+    "Foul Play",
+    "Pay Day",
+    "Yawn",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

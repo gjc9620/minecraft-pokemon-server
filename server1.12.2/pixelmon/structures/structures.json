@@ -1,0 +1,194 @@
+{
+  "towns": [
+    {
+      "id": "towncenter1",
+      "filename": "pokecenter1.snapshot",
+      "weighting": 20,
+      "depth": 2,
+      "maxnum": 1,
+      "npcs": [
+        {
+          "type": "NurseJoy",
+          "x": 9,
+          "y": 3,
+          "z": 7
+        }
+      ]
+    },
+    {
+      "id": "townmart1",
+      "filename": "pokemart1.snapshot",
+      "weighting": 20,
+      "maxnum": 1,
+      "depth": 1,
+      "npcs": [
+        {
+          "type": "Shopkeeper",
+          "data": "Main",
+          "x": 10,
+          "y": 3,
+          "z": 5
+        },
+        {
+          "type": "Shopkeeper",
+          "data": "Secondary",
+          "x": 10,
+          "y": 3,
+          "z": 4
+        }
+      ]
+    }
+  ],
+  "gyms": [
+    {
+      "id": "electricgym",
+      "filename": "electricgym.snapshot",
+      "npcdata": "electricgym.json",
+      "depth": 2
+    },
+    {
+      "id": "firegym",
+      "filename": "firegym.snapshot",
+      "npcdata": "firegym.json",
+      "depth": 7
+    },
+    {
+      "id": "firegym2",
+      "filename": "firegym2.snapshot",
+      "npcdata": "firegym2.json",
+      "depth": 2
+    },
+    {
+      "id": "flyinggym",
+      "filename": "flyinggym.snapshot",
+      "npcdata": "flyinggym.json",
+      "depth": 2
+    },
+    {
+      "id": "grassgym",
+      "filename": "grassgym.snapshot",
+      "npcdata": "grassgym.json",
+      "depth": 8
+    },
+    {
+      "id": "grassbuggym",
+      "filename": "grassbuggym.snapshot",
+      "npcdata": "grassbuggym.json",
+      "depth": 2
+    },
+    {
+      "id": "groundgym",
+      "filename": "groundgym.snapshot",
+      "npcdata": "groundgym.json",
+      "depth": 2
+    },
+    {
+      "id": "icegym",
+      "filename": "icegym.snapshot",
+      "npcdata": "icegym.json",
+      "depth": 3
+    },
+    {
+      "id": "icegym2",
+      "filename": "icegym2.snapshot",
+      "npcdata": "icegym2.json",
+      "depth": 4
+    },
+    {
+      "id": "psychicgym",
+      "filename": "psychicgym.snapshot",
+      "npcdata": "psychicgym.json",
+      "depth": 2
+    },
+    {
+      "id": "rockgym",
+      "filename": "rockgym.snapshot",
+      "npcdata": "rockgym.json",
+      "depth": 2
+    },
+    {
+      "id": "steelgym",
+      "filename": "steelgym.snapshot",
+      "npcdata": "steelgym.json",
+      "depth": 2
+    },
+    {
+      "id": "watergym",
+      "filename": "watergym.snapshot",
+      "npcdata": "watergym.json",
+      "depth": 3
+    },
+    {
+      "id": "watergym2",
+      "filename": "watergym2.snapshot",
+      "npcdata": "watergym2.json",
+      "depth": 3
+    }
+    
+  ],
+  "standalone":[
+    {
+      "id": "center1",
+      "filename": "pokecenter1.snapshot",
+      "biomes": [ "plains", "forest", "taiga", "birch_forest", "roofed_forest", "redwood_taiga", "savanna" ],
+      "rarity": 20,
+      "depth": 2
+    },
+    {
+      "id": "center2",
+      "filename": "pokecenter2.snapshot",
+      "biomes": [ "ice_flats", "taiga_cold", "mutated_ice_flats" ],
+      "rarity": 20,
+      "depth": 1
+    },
+    {
+      "id": "center3",
+      "filename": "pokecenter3.snapshot",
+      "biomes": [ "forest", "taiga", "birch_forest", "roofed_forest", "redwood_taiga" ],
+      "rarity": 20,
+      "depth": 1
+    },
+    {
+      "id": "iceshrine",
+      "filename": "shrine1.snapshot",
+      "biomes": [ "mutated_ice_flats",	"ice_flats",	"ice_mountains",	"mutated_taiga_cold" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "lightningshrine",
+      "filename": "shrine2.snapshot",
+      "biomes": [ "savanna_rock", "mutated_savanna",	"mutated_savanna_rock" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "fireshrine",
+      "filename": "shrine3.snapshot",
+      "biomes": [ "mutated_mesa_clear_rock", "mutated_mesa_rock", "mesa_rock", "mesa_clear_rock" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "hauntedtower",
+      "filename": "hauntedtower.snapshot",
+      "biomes": [ "forest", "birch_forest", "roofed_forest", "swampland" ],
+      "rarity": 20,
+      "depth": 1
+    },
+	{
+	  "id": "spearpillar",
+	  "filename": "spearpillar.snapshot",
+	  "biomes": [ "ice_mountains", "smaller_extreme_hills", "mutated_extreme_hills", "mutated_extreme_hills_with_trees", "extreme_hills_with_trees", "extreme_hills" ],
+	  "rarity": 20,
+	  "depth": 2
+	},
+	{
+	  "id": "chalice",
+	  "filename": "chalice.snapshot",
+	  "biomes": [ "desert_hills", "mutated_desert" ],
+	  "rarity": 20,
+	  "depth": 2
+	}
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Magneton",
+  "pokemon": "Magneton",
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 95,
+    "Speed": 70,
+    "SpecialAttack": 120,
+    "SpecialDefence": 70
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Magnemite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 60.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Magnezone"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:extreme_hills",
+            "minecraft:smaller_extreme_hills",
+            "minecraft:extreme_hills_with_trees",
+            "minecraft:mutated_extreme_hills",
+            "minecraft:mutated_extreme_hills_with_trees"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "MagnetPull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Zap Cannon",
+      "Electric Terrain",
+      "Tackle",
+      "Supersonic",
+      "ThunderShock",
+      "SonicBoom"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "7": [
+      "ThunderShock"
+    ],
+    "11": [
+      "SonicBoom"
+    ],
+    "13": [
+      "Thunder Wave"
+    ],
+    "17": [
+      "Magnet Bomb"
+    ],
+    "19": [
+      "Spark"
+    ],
+    "23": [
+      "Mirror Shot"
+    ],
+    "25": [
+      "Metal Sound"
+    ],
+    "29": [
+      "Electro Ball"
+    ],
+    "30": [
+      "Tri Attack"
+    ],
+    "33": [
+      "Flash Cannon"
+    ],
+    "39": [
+      "Screech"
+    ],
+    "43": [
+      "Discharge"
+    ],
+    "49": [
+      "Lock-On"
+    ],
+    "53": [
+      "Magnet Rise"
+    ],
+    "59": [
+      "Gyro Ball"
+    ],
+    "63": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Tri Attack",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Shock Wave",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Metal Sound",
+    "Refresh",
+    "SonicBoom",
+    "Tackle",
+    "Screech"
+  ],
+  "forms": {},
+  "form": -1
+}

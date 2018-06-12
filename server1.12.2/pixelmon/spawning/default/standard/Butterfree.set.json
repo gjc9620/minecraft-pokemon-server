@@ -1,0 +1,28 @@
+{
+	"id": "Butterfree",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Butterfree"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 10,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Drifblim",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Drifblim"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains",
+					"swamps"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

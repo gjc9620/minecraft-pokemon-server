@@ -1,0 +1,199 @@
+{
+  "pixelmonName": "Giratina",
+  "pokemon": "Giratina",
+  "stats": {
+    "HP": 150,
+    "Attack": 100,
+    "Defence": 120,
+    "Speed": 90,
+    "SpecialAttack": 100,
+    "SpecialDefence": 120
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Ghost",
+    "Dragon"
+  ],
+  "height": 2.5,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 750.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "DragonBreath",
+      "Scary Face"
+    ],
+    "6": [
+      "Ominous Wind"
+    ],
+    "10": [
+      "AncientPower"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "24": [
+      "Destiny Bond"
+    ],
+    "28": [
+      "Dragon Claw"
+    ],
+    "33": [
+      "Earth Power"
+    ],
+    "37": [
+      "Aura Sphere"
+    ],
+    "42": [
+      "Shadow Claw"
+    ],
+    "46": [
+      "Shadow Force"
+    ],
+    "50": [
+      "Hex"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Dragon Tail",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Rock Climb",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Fury Cutter",
+    "Shock Wave",
+    "Dragon Pulse",
+    "Silver Wind",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Gravity",
+    "Hyper Voice",
+    "Iron Head",
+    "Magic Coat",
+    "Ominous Wind",
+    "Outrage",
+    "Pain Split",
+    "Spite",
+    "Tailwind",
+    "Twister",
+    "Aura Sphere",
+    "Scary Face",
+    "Slash"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 150,
+        "Attack": 120,
+        "Defence": 100,
+        "Speed": 90,
+        "SpecialAttack": 120,
+        "SpecialDefence": 100
+      },
+      "isRideable": true,
+      "canFly": true,
+      "hoverHeight": 1.0,
+      "weight": 650.0,
+      "abilities": [
+        "Levitate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

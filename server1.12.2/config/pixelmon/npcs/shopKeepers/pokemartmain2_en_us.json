@@ -1,0 +1,114 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
+      "goodbye": "Bye then. Visit us again soon."
+    },
+    {
+      "hello": "Hi, how are you? Welcome to the Poké Mart. Just call out if you need any help.",
+      "goodbye": "Nice to see you. Have a great day!"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
+  */
+  "items": [
+    {
+      "name": "pixelmon:item.Potion"
+    },
+    {
+      "name": "pixelmon:item.Super_Potion",
+      "multi": 1.1
+    },
+    {
+      "name": "pixelmon:item.Hyper_Potion"
+    },
+    {
+      "name": "pixelmon:item.Max_potion",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:item.Full_Restore",
+      "rarity": 1
+    },
+	{
+      "name": "pixelmon:item.Fresh_Water"
+    },
+    {
+      "name": "pixelmon:item.Soda_Pop",
+      "multi": 1.1
+    },
+    {
+      "name": "pixelmon:item.Lemonade"
+    },
+    {
+      "name": "pixelmon:item.Moomoo_Milk",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Revive",
+      "rarity": 1
+    },
+	{
+      "name": "pixelmon:item.Max_Revive",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Ether",
+      "rarity": 1
+    },
+	{
+      "name": "pixelmon:item.Max_Ether"
+    },
+    {
+      "name": "pixelmon:item.Elixir",
+      "multi": 1.1
+    },
+    {
+      "name": "pixelmon:item.Max_Elixir"
+    },
+    {
+      "name": "pixelmon:item.Antidote",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:item.Full_Heal",
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:item.Paralyze_Heal",
+      "rarity": 1
+    }
+  ]
+}

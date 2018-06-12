@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Gliscor",
+  "pokemon": "Gliscor",
+  "stats": {
+    "HP": 75,
+    "Attack": 95,
+    "Defence": 125,
+    "Speed": 95,
+    "SpecialAttack": 45,
+    "SpecialDefence": 75
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 192,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gligar"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 42.5,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "SandVeil",
+    "PoisonHeal"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Guillotine",
+      "Thunder Fang",
+      "Ice Fang",
+      "Fire Fang",
+      "Poison Jab",
+      "Sand-Attack",
+      "Harden",
+      "Knock Off"
+    ],
+    "4": [
+      "Sand-Attack"
+    ],
+    "7": [
+      "Harden"
+    ],
+    "10": [
+      "Knock Off"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Fury Cutter"
+    ],
+    "19": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Acrobatics"
+    ],
+    "27": [
+      "Night Slash"
+    ],
+    "30": [
+      "U-Turn"
+    ],
+    "35": [
+      "Screech"
+    ],
+    "40": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Sky Uppercut"
+    ],
+    "50": [
+      "Swords Dance"
+    ],
+    "55": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Defog",
+    "Rock Climb",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Stealth Rock",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bug Bite",
+    "Earth Power",
+    "Knock Off",
+    "Tailwind",
+    "Agility",
+    "Baton Pass",
+    "Faint Attack",
+    "Harden",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Counter",
+    "Cross Poison",
+    "Double-Edge",
+    "Feint",
+    "Metal Claw",
+    "Night Slash",
+    "Poison Tail",
+    "Power Trick",
+    "Razor Wind",
+    "Rock Climb",
+    "Sand Tomb",
+    "Wing Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

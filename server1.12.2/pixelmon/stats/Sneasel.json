@@ -1,0 +1,224 @@
+{
+  "pixelmonName": "Sneasel",
+  "pokemon": "Sneasel",
+  "stats": {
+    "HP": 55,
+    "Attack": 95,
+    "Defence": 55,
+    "Speed": 115,
+    "SpecialAttack": 35,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 30,
+  "baseExp": 132,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Weavile"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:razor_claw"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "KeenEye",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Leer",
+      "Taunt"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Faint Attack"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "22": [
+      "Metal Claw"
+    ],
+    "25": [
+      "Hone Claws"
+    ],
+    "28": [
+      "Beat Up"
+    ],
+    "32": [
+      "Screech"
+    ],
+    "35": [
+      "Slash"
+    ],
+    "40": [
+      "Snatch"
+    ],
+    "44": [
+      "Punishment"
+    ],
+    "47": [
+      "Ice Shard"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Fury Cutter",
+    "Nightmare",
+    "Focus Punch",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Low Kick",
+    "Spite",
+    "Agility",
+    "Beat Up",
+    "Bite",
+    "Crush Claw",
+    "Faint Attack",
+    "Fake Out",
+    "Foresight",
+    "Moonlight",
+    "Pursuit",
+    "Slash",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Avalanche",
+    "Bite",
+    "Counter",
+    "Crush Claw",
+    "Double Hit",
+    "Fake Out",
+    "Feint",
+    "Foresight",
+    "Ice Punch",
+    "Ice Shard",
+    "Icicle Crash",
+    "Punishment",
+    "Pursuit",
+    "Spite"
+  ],
+  "forms": {},
+  "form": -1
+}

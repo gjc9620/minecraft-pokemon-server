@@ -1,0 +1,25 @@
+{
+	"id": "Trubbish",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Trubbish"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 23,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

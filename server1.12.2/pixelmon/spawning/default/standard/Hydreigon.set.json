@@ -1,0 +1,25 @@
+{
+	"id": "Hydreigon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hydreigon"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 65,
+			"maxLevel": 71,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DUSK"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 5
+		}
+	]
+}

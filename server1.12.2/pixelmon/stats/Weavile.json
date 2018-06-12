@@ -1,0 +1,218 @@
+{
+  "pixelmonName": "Weavile",
+  "pokemon": "Weavile",
+  "stats": {
+    "HP": 70,
+    "Attack": 120,
+    "Defence": 65,
+    "Speed": 125,
+    "SpecialAttack": 45,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 199,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sneasel"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "weight": 34.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Embargo",
+      "Revenge",
+      "Assurance",
+      "Scratch",
+      "Leer",
+      "Taunt",
+      "Quick Attack"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Faint Attack"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Nasty Plot"
+    ],
+    "22": [
+      "Metal Claw"
+    ],
+    "25": [
+      "Hone Claws"
+    ],
+    "28": [
+      "Fling"
+    ],
+    "32": [
+      "Screech"
+    ],
+    "35": [
+      "Night Slash"
+    ],
+    "40": [
+      "Snatch"
+    ],
+    "44": [
+      "Punishment"
+    ],
+    "47": [
+      "Dark Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Nightmare",
+    "Focus Punch",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Low Kick",
+    "Spite",
+    "Agility",
+    "Beat Up",
+    "Bite",
+    "Crush Claw",
+    "Faint Attack",
+    "Fake Out",
+    "Foresight",
+    "Moonlight",
+    "Nasty Plot",
+    "Pursuit",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Avalanche",
+    "Bite",
+    "Counter",
+    "Crush Claw",
+    "Double Hit",
+    "Fake Out",
+    "Feint",
+    "Foresight",
+    "Ice Punch",
+    "Ice Shard",
+    "Icicle Crash",
+    "Punishment",
+    "Pursuit",
+    "Spite"
+  ],
+  "forms": {},
+  "form": -1
+}

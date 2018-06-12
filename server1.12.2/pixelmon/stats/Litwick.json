@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Litwick",
+  "pokemon": "Litwick",
+  "stats": {
+    "HP": 50,
+    "Attack": 30,
+    "Defence": 55,
+    "Speed": 20,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Fire"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 3.1,
+  "evolutions": [
+    {
+      "level": 41,
+      "to": {
+        "name": "Lampent"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "FlashFire",
+    "FlameBody",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Astonish"
+    ],
+    "3": [
+      "Minimize"
+    ],
+    "5": [
+      "Smog"
+    ],
+    "7": [
+      "Fire Spin"
+    ],
+    "10": [
+      "Confuse Ray"
+    ],
+    "13": [
+      "Night Shade"
+    ],
+    "16": [
+      "Will-O-Wisp"
+    ],
+    "20": [
+      "Flame Burst"
+    ],
+    "24": [
+      "Imprison"
+    ],
+    "28": [
+      "Hex"
+    ],
+    "33": [
+      "Memento"
+    ],
+    "38": [
+      "Inferno"
+    ],
+    "43": [
+      "Curse"
+    ],
+    "49": [
+      "Shadow Ball"
+    ],
+    "55": [
+      "Pain Split"
+    ],
+    "61": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Energy Ball",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Dark Pulse",
+    "Captivate",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Haze",
+    "Night Shade",
+    "Inferno"
+  ],
+  "eggMoves": [
+    "Acid",
+    "Acid Armor",
+    "Captivate",
+    "Clear Smog",
+    "Endure",
+    "Haze",
+    "Heat Wave",
+    "Power Split"
+  ],
+  "forms": {},
+  "form": -1
+}

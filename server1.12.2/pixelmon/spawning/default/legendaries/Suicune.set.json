@@ -1,0 +1,28 @@
+{
+	"id": "Suicune",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Suicune",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"beaches"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

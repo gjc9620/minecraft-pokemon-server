@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Hawlucha",
+  "pokemon": "Hawlucha",
+  "stats": {
+    "HP": 78,
+    "Attack": 92,
+    "Defence": 75,
+    "Speed": 118,
+    "SpecialAttack": 74,
+    "SpecialDefence": 63
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 16,
+  "baseExp": 175,
+  "baseFriendship": 0,
+  "types": [
+    "Fighting",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 21.5,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Detect",
+      "Tackle",
+      "Hone Claws"
+    ],
+    "4": [
+      "Karate Chop"
+    ],
+    "8": [
+      "Wing Attack"
+    ],
+    "12": [
+      "Roost"
+    ],
+    "16": [
+      "Aerial Ace"
+    ],
+    "20": [
+      "Encore"
+    ],
+    "24": [
+      "Fling"
+    ],
+    "28": [
+      "Flying Press"
+    ],
+    "32": [
+      "Bounce"
+    ],
+    "36": [
+      "Endeavor"
+    ],
+    "40": [
+      "FeatherDance"
+    ],
+    "44": [
+      "Hi Jump Kick"
+    ],
+    "48": [
+      "Sky Attack"
+    ],
+    "55": [
+      "Sky Drop"
+    ],
+    "60": [
+      "Swords Dance"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Steel Wing",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Sky Drop",
+    "Acrobatics",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Rock Smash",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Sky Attack",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Endeavor",
+    "Helping Hand",
+    "Iron Head",
+    "Last Resort",
+    "Low Kick",
+    "Superpower",
+    "Tailwind",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Ally Switch",
+    "Baton Pass",
+    "Entrainment",
+    "Me First",
+    "Mud Sport",
+    "Quick Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

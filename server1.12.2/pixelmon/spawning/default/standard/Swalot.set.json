@@ -1,0 +1,22 @@
+{
+	"id": "Swalot",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Swalot"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

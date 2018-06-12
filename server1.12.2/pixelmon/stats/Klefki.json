@@ -1,0 +1,151 @@
+{
+  "pixelmonName": "Klefki",
+  "pokemon": "Klefki",
+  "stats": {
+    "HP": 57,
+    "Attack": 80,
+    "Defence": 91,
+    "Speed": 75,
+    "SpecialAttack": 80,
+    "SpecialDefence": 87
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 12,
+  "baseExp": 165,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 3.0,
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    null,
+    "Magician"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fairy Lock",
+      "Tackle"
+    ],
+    "5": [
+      "Fairy Wind"
+    ],
+    "8": [
+      "Astonish"
+    ],
+    "12": [
+      "Metal Sound"
+    ],
+    "15": [
+      "Spikes"
+    ],
+    "18": [
+      "Draining Kiss"
+    ],
+    "23": [
+      "Crafty Shield"
+    ],
+    "27": [
+      "Foul Play"
+    ],
+    "32": [
+      "Torment"
+    ],
+    "34": [
+      "Mirror Shot"
+    ],
+    "36": [
+      "Imprison"
+    ],
+    "40": [
+      "Recycle"
+    ],
+    "43": [
+      "Play Rough"
+    ],
+    "44": [
+      "Magic Room"
+    ],
+    "50": [
+      "Heal Block"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Cut",
+    "Recycle",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Iron Defense",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Magnet Rise"
+  ],
+  "eggMoves": [
+    "Iron Defense",
+    "Lock-On",
+    "Switcheroo",
+    "Thief"
+  ],
+  "forms": {},
+  "form": -1
+}

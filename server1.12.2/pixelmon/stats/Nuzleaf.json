@@ -1,0 +1,205 @@
+{
+  "pixelmonName": "Nuzleaf",
+  "pokemon": "Nuzleaf",
+  "stats": {
+    "HP": 70,
+    "Attack": 70,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 60,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 14,
+  "spawnLevelRange": 36,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Seedot"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Shiftry"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "EarlyBird",
+    "Pickpocket"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "3": [
+      "Harden"
+    ],
+    "6": [
+      "Growth"
+    ],
+    "9": [
+      "Nature Power"
+    ],
+    "12": [
+      "Fake Out"
+    ],
+    "14": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Torment"
+    ],
+    "20": [
+      "Razor Wind"
+    ],
+    "24": [
+      "Faint Attack"
+    ],
+    "28": [
+      "Leaf Blade"
+    ],
+    "32": [
+      "Swagger"
+    ],
+    "36": [
+      "Extrasensory"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Strength",
+    "Razor Wind",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Bide",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Low Kick",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Beat Up",
+    "Extrasensory",
+    "Faint Attack",
+    "Fake Out",
+    "Growth",
+    "Leech Seed",
+    "Nasty Plot",
+    "Refresh",
+    "Harden"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Beat Up",
+    "Bullet Seed",
+    "Defog",
+    "Foul Play",
+    "Leech Seed",
+    "Nasty Plot",
+    "Power Swap",
+    "Quick Attack",
+    "Razor Wind",
+    "Take Down",
+    "Worry Seed",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

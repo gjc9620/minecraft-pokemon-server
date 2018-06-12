@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Torkoal",
+  "pokemon": "Torkoal",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 140,
+    "Speed": 20,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    }
+  },
+  "weight": 80.4,
+  "evolutions": [],
+  "abilities": [
+    "WhiteSmoke",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember"
+    ],
+    "4": [
+      "Smog"
+    ],
+    "7": [
+      "Withdraw"
+    ],
+    "10": [
+      "Rapid Spin"
+    ],
+    "13": [
+      "Fire Spin"
+    ],
+    "15": [
+      "SmokeScreen"
+    ],
+    "18": [
+      "Flame Wheel"
+    ],
+    "22": [
+      "Curse"
+    ],
+    "25": [
+      "Lava Plume"
+    ],
+    "27": [
+      "Body Slam"
+    ],
+    "30": [
+      "Protect"
+    ],
+    "34": [
+      "Flamethrower"
+    ],
+    "38": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Amnesia"
+    ],
+    "42": [
+      "Flail"
+    ],
+    "45": [
+      "Heat Wave"
+    ],
+    "47": [
+      "Shell Smash"
+    ],
+    "50": [
+      "Inferno"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Fissure",
+    "Mimic",
+    "Selfdestruct",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Defense",
+    "Superpower",
+    "Amnesia",
+    "Flail",
+    "Rapid Spin",
+    "Yawn",
+    "Inferno",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Clear Smog",
+    "Endure",
+    "Eruption",
+    "Fissure",
+    "Flame Burst",
+    "Skull Bash",
+    "Sleep Talk",
+    "Superpower",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

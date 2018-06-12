@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Cradily",
+  "pokemon": "Cradily",
+  "stats": {
+    "HP": 86,
+    "Attack": 81,
+    "Defence": 97,
+    "Speed": 43,
+    "SpecialAttack": 81,
+    "SpecialDefence": 107
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 199,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Grass"
+  ],
+  "height": 1.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Lileep"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 60.4,
+  "evolutions": [],
+  "abilities": [
+    "SuctionCups",
+    null,
+    "StormDrain"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Wring Out",
+      "Astonish",
+      "Constrict",
+      "Acid",
+      "Ingrain"
+    ],
+    "5": [
+      "Acid"
+    ],
+    "9": [
+      "Ingrain"
+    ],
+    "13": [
+      "Confuse Ray"
+    ],
+    "17": [
+      "AncientPower"
+    ],
+    "21": [
+      "Brine"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "31": [
+      "Gastro Acid"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "44": [
+      "Energy Ball"
+    ],
+    "52": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "61": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mega Drain",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Block",
+    "Earth Power",
+    "Gastro Acid",
+    "Pain Split",
+    "Seed Bomb",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Barrier",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Curse",
+    "Endure",
+    "Mega Drain",
+    "Mirror Coat",
+    "Recover",
+    "Stealth Rock",
+    "Tickle",
+    "Wring Out"
+  ],
+  "forms": {},
+  "form": -1
+}

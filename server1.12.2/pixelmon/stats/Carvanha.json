@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Carvanha",
+  "pokemon": "Carvanha",
+  "stats": {
+    "HP": 45,
+    "Attack": 90,
+    "Defence": 20,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 20
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 88,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 0.8,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 1,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 20.8,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Sharpedo"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RoughSkin",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Bite"
+    ],
+    "4": [
+      "Rage"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "11": [
+      "Aqua Jet"
+    ],
+    "15": [
+      "Assurance"
+    ],
+    "18": [
+      "Screech"
+    ],
+    "22": [
+      "Swagger"
+    ],
+    "25": [
+      "Ice Fang"
+    ],
+    "29": [
+      "Scary Face"
+    ],
+    "32": [
+      "Poison Fang"
+    ],
+    "36": [
+      "Crunch"
+    ],
+    "39": [
+      "Agility"
+    ],
+    "43": [
+      "Take Down"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Snarl",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bounce",
+    "Spite",
+    "Super Fang",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Bite",
+    "Hydro Pump",
+    "Refresh",
+    "Scary Face",
+    "Thrash",
+    "Focus Energy",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Brine",
+    "Destiny Bond",
+    "Double-Edge",
+    "Hydro Pump",
+    "Swift",
+    "Thrash",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

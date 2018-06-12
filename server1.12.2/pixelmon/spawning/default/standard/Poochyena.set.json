@@ -1,0 +1,25 @@
+{
+	"id": "Poochyena",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Poochyena"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 180.0
+		}
+	]
+}

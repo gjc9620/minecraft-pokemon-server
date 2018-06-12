@@ -1,0 +1,29 @@
+{
+	"id": "Sewaddle",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sewaddle"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"forest_hills",
+					"flowery"
+				]
+			},
+			"rarity": 180.0
+		}
+	]
+}

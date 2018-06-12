@@ -1,0 +1,23 @@
+{
+	"id": "Swampert",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Swampert"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 3.0
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Gourgeist",
+  "pokemon": "Gourgeist",
+  "stats": {
+    "HP": 55,
+    "Attack": 85,
+    "Defence": 122,
+    "Speed": 99,
+    "SpecialAttack": 58,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 0,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pumpkaboo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 9.5,
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "Frisk",
+    "Insomnia"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Explosion",
+      "Phantom Force",
+      "Trick",
+      "Astonish",
+      "Confuse Ray"
+    ],
+    "4": [
+      "Scary Face"
+    ],
+    "6": [
+      "Trick-or-Treat"
+    ],
+    "11": [
+      "Worry Seed"
+    ],
+    "16": [
+      "Razor Leaf"
+    ],
+    "20": [
+      "Leech Seed"
+    ],
+    "23": [
+      "Trick-or-Treat"
+    ],
+    "26": [
+      "Bullet Seed"
+    ],
+    "30": [
+      "Shadow Sneak"
+    ],
+    "36": [
+      "Shadow Ball"
+    ],
+    "40": [
+      "Trick-or-Treat"
+    ],
+    "42": [
+      "Pain Split"
+    ],
+    "48": [
+      "Seed Bomb"
+    ],
+    "57": [
+      "Phantom Force"
+    ],
+    "63": [
+      "Trick-or-Treat"
+    ],
+    "70": [
+      "Shadow Ball"
+    ],
+    "75": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Charge Beam",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Gyro Ball",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide",
+    "Rock Smash",
+    "Giga Drain",
+    "Skill Swap"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Synthesis",
+    "Trick",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Destiny Bond",
+    "Disable"
+  ],
+  "forms": {},
+  "form": -1
+}

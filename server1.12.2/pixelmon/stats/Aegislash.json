@@ -1,0 +1,142 @@
+{
+  "pixelmonName": "Aegislash",
+  "pokemon": "Aegislash",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 150,
+    "Speed": 60,
+    "SpecialAttack": 50,
+    "SpecialDefence": 150
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 12,
+  "baseExp": 234,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 1.7,
+  "width": 1.7,
+  "length": 1.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Doublade",
+    "Honedge"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2,
+    "SpecialDefence": 1
+  },
+  "weight": 53.0,
+  "evolutions": [],
+  "abilities": [
+    "StanceChange",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Pursuit",
+      "Autotomize",
+      "Shadow Sneak",
+      "Slash",
+      "Iron Defense",
+      "Night Slash",
+      "Power Trick",
+      "Iron Head",
+      "Head Smash",
+      "Swords Dance",
+      "Aerial Ace",
+      "King\u0027s Shield",
+      "Sacred Sword"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Rock Smash",
+    "Shock Wave",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite",
+    "Tackle",
+    "Metal Sound"
+  ],
+  "eggMoves": [
+    "Destiny Bond",
+    "Metal Sound",
+    "Shadow Sneak",
+    "Wide Guard"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defence": 123,
+        "Speed": 80,
+        "SpecialAttack": 122,
+        "SpecialDefence": 120
+      },
+      "evYields": {
+        "Attack": 2,
+        "SpecialAttack": 1
+      },
+      "form": 1
+    }
+  },
+  "form": 0
+}

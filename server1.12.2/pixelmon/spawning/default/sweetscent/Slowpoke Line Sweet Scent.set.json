@@ -1,0 +1,56 @@
+{
+	"id": "Slowpoke Line Sweet Scent",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slowpoke"
+			},
+			"stringLocationTypes": [
+				"Sweet Scent"
+			],
+			"minLevel": 3,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beach"
+				]
+			},
+			"rarity": 60.0
+		},
+		{
+			"spec": {
+				"name": "Slowbro"
+			},
+			"stringLocationTypes": [
+				"Sweet Scent"
+			],
+			"minLevel": 37,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beach"
+				]
+			},
+			"rarity": 20.0
+		},
+		{
+			"spec": {
+				"name": "Slowking"
+			},
+			"stringLocationTypes": [
+				"Sweet Scent"
+			],
+			"minLevel": 37,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beach"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

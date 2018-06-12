@@ -1,0 +1,327 @@
+{
+  "pixelmonName": "Charizard",
+  "pokemon": "Charizard",
+  "stats": {
+    "HP": 78,
+    "Attack": 84,
+    "Defence": 78,
+    "Speed": 100,
+    "SpecialAttack": 109,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 240,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 1.7,
+  "width": 0.9,
+  "length": 0.9,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Charmeleon",
+    "Charmander"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": 0.3
+    }
+  },
+  "weight": 90.5,
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flare Blitz",
+      "Heat Wave",
+      "Dragon Claw",
+      "Shadow Claw",
+      "Air Slash",
+      "Scratch",
+      "Growl",
+      "Ember",
+      "SmokeScreen"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "10": [
+      "SmokeScreen"
+    ],
+    "17": [
+      "Dragon Rage"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "28": [
+      "Fire Fang"
+    ],
+    "32": [
+      "Flame Burst"
+    ],
+    "36": [
+      "Wing Attack"
+    ],
+    "41": [
+      "Slash"
+    ],
+    "47": [
+      "Flamethrower"
+    ],
+    "56": [
+      "Fire Spin"
+    ],
+    "62": [
+      "Inferno"
+    ],
+    "71": [
+      "Heat Wave"
+    ],
+    "77": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Steel Wing",
+    "Focus Blast",
+    "Fling",
+    "Sky Drop",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Dragon Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Steel Wing",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Roost",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Acrobatics",
+    "False Swipe",
+    "Reflect",
+    "Sandstorm",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Blast Burn",
+    "Block",
+    "Fire Pledge",
+    "Heat Wave",
+    "Ominous Wind",
+    "Outrage",
+    "Tailwind",
+    "Twister",
+    "Air Cutter",
+    "Air Slash",
+    "Beat Up",
+    "Belly Drum",
+    "Bite",
+    "Flare Blitz",
+    "Howl",
+    "Scary Face",
+    "Slash",
+    "Inferno",
+    "Leer",
+    "Hold Hands",
+    "Quick Attack",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Beat Up",
+    "Belly Drum",
+    "Bite",
+    "Counter",
+    "Crunch",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Flare Blitz",
+    "Focus Punch",
+    "Metal Claw",
+    "Outrage",
+    "AncientPower"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 78,
+        "Attack": 130,
+        "Defence": 111,
+        "Speed": 100,
+        "SpecialAttack": 130,
+        "SpecialDefence": 85
+      },
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.1,
+          "z": -0.6
+        }
+      },
+      "weight": 110.5,
+      "abilities": [
+        "ToughClaws",
+        null,
+        null
+      ],
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 78,
+        "Attack": 104,
+        "Defence": 78,
+        "Speed": 100,
+        "SpecialAttack": 159,
+        "SpecialDefence": 115
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.4,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.4,
+          "z": -0.6
+        }
+      },
+      "weight": 100.5,
+      "abilities": [
+        "Drought",
+        null,
+        null
+      ],
+      "form": 2
+    }
+  },
+  "form": -1
+}

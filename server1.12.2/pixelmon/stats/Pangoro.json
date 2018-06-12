@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Pangoro",
+  "pokemon": "Pangoro",
+  "stats": {
+    "HP": 95,
+    "Attack": 124,
+    "Defence": 78,
+    "Speed": 58,
+    "SpecialAttack": 69,
+    "SpecialDefence": 71
+  },
+  "catchRate": 65,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 16,
+  "baseExp": 173,
+  "baseFriendship": 0,
+  "types": [
+    "Fighting",
+    "Dark"
+  ],
+  "height": 2.1,
+  "width": 2.1,
+  "length": 2.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pancham"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 136.0,
+  "evolutions": [],
+  "abilities": [
+    "IronFist",
+    "MoldBreaker",
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Entrainment",
+      "Hammer Arm",
+      "Tackle",
+      "Leer"
+    ],
+    "7": [
+      "Arm Thrust"
+    ],
+    "10": [
+      "Work Up"
+    ],
+    "12": [
+      "Karate Chop"
+    ],
+    "15": [
+      "Comet Punch"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "25": [
+      "Circle Throw"
+    ],
+    "27": [
+      "Vital Throw"
+    ],
+    "35": [
+      "Body Slam"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "45": [
+      "Entrainment"
+    ],
+    "48": [
+      "Parting Shot"
+    ],
+    "52": [
+      "Sky Uppercut"
+    ],
+    "57": [
+      "Hammer Arm"
+    ],
+    "65": [
+      "Taunt"
+    ],
+    "70": [
+      "Low Sweep"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Quash",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Ice Punch",
+    "Snatch",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Covet",
+    "Dual Chop",
+    "Endeavor",
+    "Foul Play",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Foul Play",
+    "Me First",
+    "Quash",
+    "Quick Guard",
+    "Storm Throw"
+  ],
+  "forms": {},
+  "form": -1
+}

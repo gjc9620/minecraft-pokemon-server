@@ -1,0 +1,168 @@
+{
+  "pixelmonName": "Cobalion",
+  "pokemon": "Cobalion",
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 129,
+    "Speed": 108,
+    "SpecialAttack": 90,
+    "SpecialDefence": 72
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Fighting"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.5
+    }
+  },
+  "weight": 250.0,
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Close Combat",
+      "Metal Burst",
+      "Work Up",
+      "Quick Guard",
+      "Quick Attack",
+      "Leer"
+    ],
+    "7": [
+      "Double Kick"
+    ],
+    "13": [
+      "Metal Claw"
+    ],
+    "19": [
+      "Take Down"
+    ],
+    "25": [
+      "Helping Hand"
+    ],
+    "31": [
+      "Retaliate"
+    ],
+    "37": [
+      "Iron Head"
+    ],
+    "42": [
+      "Sacred Sword"
+    ],
+    "49": [
+      "Swords Dance"
+    ],
+    "55": [
+      "Quick Guard"
+    ],
+    "61": [
+      "Work Up"
+    ],
+    "67": [
+      "Metal Burst"
+    ],
+    "73": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Take Down",
+    "Snore",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bounce",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Superpower",
+    "Zen Headbutt",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

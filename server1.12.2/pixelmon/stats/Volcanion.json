@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Volcanion",
+  "pokemon": "Volcanion",
+  "stats": {
+    "HP": 80,
+    "Attack": 110,
+    "Defence": 120,
+    "Speed": 70,
+    "SpecialAttack": 130,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Water"
+  ],
+  "height": 1.7,
+  "width": 1.7,
+  "length": 1.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 195.0,
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Steam Eruption",
+      "Flare Blitz",
+      "Take Down"
+    ],
+    "8": [
+      "Mist"
+    ],
+    "11": [
+      "Haze"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "21": [
+      "Water Pulse"
+    ],
+    "28": [
+      "Stomp"
+    ],
+    "32": [
+      "Scald"
+    ],
+    "40": [
+      "Weather Ball"
+    ],
+    "46": [
+      "Body Slam"
+    ],
+    "50": [
+      "Hydro Pump"
+    ],
+    "58": [
+      "Flare Blitz"
+    ],
+    "65": [
+      "Overheat"
+    ],
+    "76": [
+      "Explosion"
+    ],
+    "85": [
+      "Steam Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Strength",
+    "Rock Smash",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Heat Wave",
+    "Superpower"
+  ],
+  "forms": {},
+  "form": -1
+}

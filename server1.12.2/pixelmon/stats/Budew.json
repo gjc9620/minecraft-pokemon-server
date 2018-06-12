@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Budew",
+  "pokemon": "Budew",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 50,
+    "SpecialDefence": 70
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Roselia"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "PoisonPoint",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "10": [
+      "Stun Spore"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Worry Seed"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Drain",
+    "Swift",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Extrasensory",
+    "Growth",
+    "Mind Reader",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Cotton Spore",
+    "Extrasensory",
+    "Giga Drain",
+    "GrassWhistle",
+    "Leaf Storm",
+    "Mind Reader",
+    "Natural Gift",
+    "Pin Missile",
+    "Razor Leaf",
+    "Seed Bomb",
+    "Sleep Powder",
+    "Spikes",
+    "Synthesis"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Beheeyem",
+  "pokemon": "Beheeyem",
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 75,
+    "Speed": 40,
+    "SpecialAttack": 125,
+    "SpecialDefence": 95
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 43,
+  "spawnLevelRange": 11,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Elgyem"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 34.5,
+  "evolutions": [],
+  "abilities": [
+    "Telepathy",
+    "Synchronize",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Wonder Room",
+      "Synchronoise",
+      "Confusion",
+      "Growl",
+      "Heal Block",
+      "Miracle Eye"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Heal Block"
+    ],
+    "11": [
+      "Miracle Eye"
+    ],
+    "15": [
+      "Psybeam"
+    ],
+    "18": [
+      "Headbutt"
+    ],
+    "22": [
+      "Hidden Power"
+    ],
+    "25": [
+      "Imprison"
+    ],
+    "29": [
+      "Simple Beam"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Psych Up"
+    ],
+    "39": [
+      "Psychic"
+    ],
+    "45": [
+      "Calm Mind"
+    ],
+    "50": [
+      "Recover"
+    ],
+    "56": [
+      "Guard Split"
+    ],
+    "58": [
+      "Power Split"
+    ],
+    "63": [
+      "Synchronoise"
+    ],
+    "68": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Energy Ball",
+    "Charge Beam",
+    "Embargo",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Teleport",
+    "Headbutt",
+    "Snore",
+    "Sleep Talk",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Dark Pulse",
+    "Steel Wing",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Barrier",
+    "Nasty Plot"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Astonish",
+    "Barrier",
+    "Cosmic Power",
+    "Disable",
+    "Guard Swap",
+    "Nasty Plot",
+    "Power Swap",
+    "Skill Swap",
+    "Teleport"
+  ],
+  "forms": {},
+  "form": -1
+}

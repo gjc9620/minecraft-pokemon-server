@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Fletchinder",
+  "pokemon": "Fletchinder",
+  "stats": {
+    "HP": 62,
+    "Attack": 73,
+    "Defence": 55,
+    "Speed": 84,
+    "SpecialAttack": 56,
+    "SpecialDefence": 52
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 16,
+  "baseExp": 134,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Fletchling"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 16.0,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Talonflame"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "FlameBody",
+    null,
+    "GaleWings"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Peck"
+    ],
+    "13": [
+      "Agility"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "17": [
+      "Ember"
+    ],
+    "25": [
+      "Roost"
+    ],
+    "27": [
+      "Razor Wind"
+    ],
+    "31": [
+      "Natural Gift"
+    ],
+    "38": [
+      "Flame Charge"
+    ],
+    "42": [
+      "Acrobatics"
+    ],
+    "46": [
+      "Me First"
+    ],
+    "51": [
+      "Tailwind"
+    ],
+    "55": [
+      "Steel Wing"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Steel Wing",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Fly",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Tailwind"
+  ],
+  "eggMoves": [
+    "Quick Guard",
+    "Snatch",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": -1
+}

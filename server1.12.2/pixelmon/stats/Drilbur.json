@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Drilbur",
+  "pokemon": "Drilbur",
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 40,
+    "Speed": 68,
+    "SpecialAttack": 30,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 7,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 31,
+      "to": {
+        "name": "Excadrill"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 31,
+      "to": {
+        "name": "Excadrill"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandRush",
+    "SandForce",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Mud Sport"
+    ],
+    "5": [
+      "Rapid Spin"
+    ],
+    "8": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Metal Claw"
+    ],
+    "19": [
+      "Dig"
+    ],
+    "22": [
+      "Hone Claws"
+    ],
+    "26": [
+      "Slash"
+    ],
+    "29": [
+      "Rock Slide"
+    ],
+    "33": [
+      "Earthquake"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "43": [
+      "Drill Run"
+    ],
+    "47": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Shadow Claw",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Submission",
+    "Fissure",
+    "Skull Bash",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drill Run",
+    "Earth Power",
+    "Iron Defense",
+    "Crush Claw",
+    "Metal Sound",
+    "Mud Sport",
+    "Rapid Spin",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Earth Power",
+    "Iron Defense",
+    "Metal Sound",
+    "Rapid Spin",
+    "Rock Climb",
+    "Skull Bash",
+    "Submission"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,29 @@
+{
+	"id": "Hoothoot",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hoothoot"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 19,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"taigas",
+					"birches",
+					"redwoods"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

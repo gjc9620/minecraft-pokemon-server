@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Seaking",
+  "pokemon": "Seaking",
+  "stats": {
+    "HP": 80,
+    "Attack": 92,
+    "Defence": 65,
+    "Speed": 68,
+    "SpecialAttack": 65,
+    "SpecialDefence": 80
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 5,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Goldeen"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.8,
+    "decayRate": 0.99,
+    "refreshRate": 180
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    }
+  },
+  "weight": 39.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "WaterVeil",
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Megahorn",
+      "Poison Jab",
+      "Peck",
+      "Tail Whip",
+      "Water Sport",
+      "Supersonic"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "8": [
+      "Horn Attack"
+    ],
+    "13": [
+      "Flail"
+    ],
+    "16": [
+      "Water Pulse"
+    ],
+    "21": [
+      "Aqua Ring"
+    ],
+    "24": [
+      "Fury Attack"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "32": [
+      "Waterfall"
+    ],
+    "40": [
+      "Horn Drill"
+    ],
+    "46": [
+      "Soak"
+    ],
+    "54": [
+      "Megahorn"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Swords Dance",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Drill Run",
+    "Knock Off",
+    "Signal Beam",
+    "Agility",
+    "Aqua Ring",
+    "Flail",
+    "Fury Attack",
+    "Haze",
+    "Hydro Pump",
+    "Mud Sport",
+    "Water Sport",
+    "Peck",
+    "Horn Attack"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Body Slam",
+    "Haze",
+    "Hydro Pump",
+    "Mud Shot",
+    "Mud-Slap",
+    "Mud Sport",
+    "Psybeam",
+    "Signal Beam",
+    "Skull Bash",
+    "Sleep Talk"
+  ],
+  "forms": {},
+  "form": -1
+}

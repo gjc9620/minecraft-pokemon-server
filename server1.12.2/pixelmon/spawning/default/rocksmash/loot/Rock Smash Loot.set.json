@@ -1,0 +1,170 @@
+{
+	"id": "Rock Smash Loot",
+	"spawnInfos": [
+		{
+			"stringLocationTypes": [
+				"Rock Smash"
+			],
+			"typeID": "collection",
+			"collectionLabel": "spawning.collections.items",
+			"collection": [
+				{
+					"itemID": "pixelmon:armor_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:claw_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:cover_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:dome_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:helix_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:jaw_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:old_amber",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:plume_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:root_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:sail_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				},
+				{
+					"itemID": "pixelmon:skull_fossil",
+					"stringLocationTypes": [
+						"Rock Smash"
+					],
+					"condition": {
+						"maxY": 32,
+						"seesSky": false
+					},
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"typeID": "item",
+					"rarity": 40
+				}
+			],
+			"requiredSpace": 2,
+			"percentage": 10
+		}
+	]
+}

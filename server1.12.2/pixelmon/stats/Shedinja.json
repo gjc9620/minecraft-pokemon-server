@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Shedinja",
+  "pokemon": "Shedinja",
+  "stats": {
+    "HP": 1,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 40,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Ghost"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 1.2,
+  "evolutions": [],
+  "abilities": [
+    "WonderGuard",
+    null,
+    "WonderGuard"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Harden"
+    ],
+    "5": [
+      "Leech Life"
+    ],
+    "9": [
+      "Sand-Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Spite"
+    ],
+    "21": [
+      "Shadow Sneak"
+    ],
+    "25": [
+      "Mind Reader"
+    ],
+    "29": [
+      "Confuse Ray"
+    ],
+    "33": [
+      "Shadow Ball"
+    ],
+    "37": [
+      "Grudge"
+    ],
+    "41": [
+      "Heal Block"
+    ],
+    "45": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Telekinesis",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Double-Edge",
+    "Mimic",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Nightmare",
+    "Natural Gift",
+    "Secret Power",
+    "Swords Dance",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Spite",
+    "String Shot",
+    "Sucker Punch",
+    "Trick",
+    "Faint Attack",
+    "Gust",
+    "Mind Reader",
+    "Harden",
+    "Screech",
+    "Agility",
+    "Baton Pass"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Bug Buzz",
+    "Endure",
+    "Final Gambit",
+    "Gust",
+    "Night Slash",
+    "Silver Wind",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

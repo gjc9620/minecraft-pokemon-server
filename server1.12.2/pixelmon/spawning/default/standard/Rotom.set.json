@@ -1,0 +1,25 @@
+{
+	"id": "Rotom",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Rotom"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 13,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

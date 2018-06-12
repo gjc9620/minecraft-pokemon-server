@@ -1,0 +1,26 @@
+{
+	"id": "Elgyem",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Elgyem"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 41,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"freezing mountains",
+					"redwoods"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

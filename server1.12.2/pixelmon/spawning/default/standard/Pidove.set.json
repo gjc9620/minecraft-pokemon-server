@@ -1,0 +1,27 @@
+{
+	"id": "Pidove",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pidove"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 6,
+			"maxLevel": 18,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"birches",
+					"minecraft:plains"
+				]
+			},
+			"rarity": 90.0
+		}
+	]
+}

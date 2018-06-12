@@ -1,0 +1,40 @@
+{
+	"id": "Geodude",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Geodude"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 10,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"mountainous",
+					"mesas"
+				]
+			},
+			"rarity": 200.0
+		},
+		{
+			"spec": {
+				"name": "Geodude"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 10,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 200.0
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Duskull",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Duskull"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 33,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

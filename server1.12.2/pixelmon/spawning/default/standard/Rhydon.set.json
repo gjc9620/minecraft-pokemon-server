@@ -1,0 +1,31 @@
+{
+	"id": "Rhydon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Rhydon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 42,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:protector",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Wailmer",
+  "pokemon": "Wailmer",
+  "stats": {
+    "HP": 130,
+    "Attack": 70,
+    "Defence": 35,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 35
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 24,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 50,
+    "passive": 50,
+    "aggressive": 0
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 60,
+    "swimSpeed": 2.0,
+    "decayRate": 0.9,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 130.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Wailord"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterVeil",
+    "Oblivious",
+    "Pressure"
+  ],
+  "eggGroups": [
+    "Field",
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Rollout"
+    ],
+    "13": [
+      "Whirlpool"
+    ],
+    "16": [
+      "Astonish"
+    ],
+    "19": [
+      "Water Pulse"
+    ],
+    "22": [
+      "Mist"
+    ],
+    "25": [
+      "Brine"
+    ],
+    "29": [
+      "Rest"
+    ],
+    "33": [
+      "Dive"
+    ],
+    "37": [
+      "Amnesia"
+    ],
+    "41": [
+      "Water Spout"
+    ],
+    "45": [
+      "Bounce"
+    ],
+    "49": [
+      "Hydro Pump"
+    ],
+    "53": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Fissure",
+    "Mimic",
+    "Selfdestruct",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Hyper Voice",
+    "Zen Headbutt",
+    "Aqua Ring",
+    "Amnesia",
+    "Hydro Pump",
+    "Mist",
+    "Splash",
+    "Thrash",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Body Slam",
+    "Clear Smog",
+    "Curse",
+    "Defense Curl",
+    "Double-Edge",
+    "Fissure",
+    "Sleep Talk",
+    "Snore",
+    "Soak",
+    "Thrash",
+    "Tickle",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

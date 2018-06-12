@@ -1,0 +1,28 @@
+{
+	"id": "Cherubi",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cherubi"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

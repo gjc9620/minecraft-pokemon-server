@@ -1,0 +1,24 @@
+{
+	"id": "Audino",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Audino"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 28,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"savannas",
+					"forests",
+					"plains"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

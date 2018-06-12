@@ -1,0 +1,25 @@
+{
+	"id": "Swablu",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Swablu"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

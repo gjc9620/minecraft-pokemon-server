@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Watchog",
+  "pokemon": "Watchog",
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 69,
+    "Speed": 77,
+    "SpecialAttack": 60,
+    "SpecialDefence": 69
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 12,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Patrat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 27.0,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "KeenEye",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Rototiller",
+      "Tackle",
+      "Leer",
+      "Bite",
+      "Low Kick"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "6": [
+      "Bite"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "11": [
+      "Detect"
+    ],
+    "13": [
+      "Sand-Attack"
+    ],
+    "16": [
+      "Crunch"
+    ],
+    "18": [
+      "Hypnosis"
+    ],
+    "20": [
+      "Confuse Ray"
+    ],
+    "22": [
+      "Super Fang"
+    ],
+    "25": [
+      "After You"
+    ],
+    "29": [
+      "Psych Up"
+    ],
+    "32": [
+      "Hyper Fang"
+    ],
+    "36": [
+      "Mean Look"
+    ],
+    "39": [
+      "Baton Pass"
+    ],
+    "43": [
+      "Slam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Bide",
+    "Snore",
+    "Iron Tail",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Shock Wave",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Seed Bomb",
+    "Signal Beam",
+    "Super Fang",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Bite",
+    "Flail",
+    "Foresight",
+    "Hypnosis",
+    "Pursuit",
+    "Tackle",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Flail",
+    "Foresight",
+    "Iron Tail",
+    "Pursuit",
+    "Revenge",
+    "Screech"
+  ],
+  "forms": {},
+  "form": -1
+}

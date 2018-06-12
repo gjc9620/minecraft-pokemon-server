@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Shuckle",
+  "pokemon": "Shuckle",
+  "stats": {
+    "HP": 20,
+    "Attack": 10,
+    "Defence": 230,
+    "Speed": 5,
+    "SpecialAttack": 10,
+    "SpecialDefence": 230
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 80,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 20.5,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "Gluttony",
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sticky Web",
+      "Withdraw",
+      "Constrict",
+      "Bide",
+      "Rollout"
+    ],
+    "5": [
+      "Encore"
+    ],
+    "9": [
+      "Wrap"
+    ],
+    "12": [
+      "Struggle Bug"
+    ],
+    "16": [
+      "Safeguard"
+    ],
+    "20": [
+      "Rest"
+    ],
+    "23": [
+      "Rock Throw"
+    ],
+    "27": [
+      "Gastro Acid"
+    ],
+    "31": [
+      "Power Trick"
+    ],
+    "34": [
+      "Shell Smash"
+    ],
+    "38": [
+      "Rock Slide"
+    ],
+    "42": [
+      "Bug Bite"
+    ],
+    "45": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "49": [
+      "Stone Edge"
+    ],
+    "53": [
+      "Sticky Web"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "AncientPower",
+    "Bind",
+    "Bug Bite",
+    "Earth Power",
+    "Gastro Acid",
+    "Helping Hand",
+    "Knock Off",
+    "String Shot",
+    "Encore",
+    "Rock Throw"
+  ],
+  "eggMoves": [
+    "Acid",
+    "Acupressure",
+    "Final Gambit",
+    "Helping Hand",
+    "Knock Off",
+    "Mud-Slap",
+    "Rock Blast",
+    "Sand Tomb",
+    "Sweet Scent"
+  ],
+  "forms": {},
+  "form": -1
+}

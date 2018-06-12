@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Starly",
+  "pokemon": "Starly",
+  "stats": {
+    "HP": 40,
+    "Attack": 55,
+    "Defence": 30,
+    "Speed": 60,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 8,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 8,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Staravia"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 14,
+      "to": {
+        "name": "Staravia"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    null,
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Wing Attack"
+    ],
+    "13": [
+      "Double Team"
+    ],
+    "17": [
+      "Endeavor"
+    ],
+    "21": [
+      "Whirlwind"
+    ],
+    "25": [
+      "Aerial Ace"
+    ],
+    "29": [
+      "Take Down"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "37": [
+      "Brave Bird"
+    ],
+    "41": [
+      "Final Gambit"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Endeavor",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "FeatherDance",
+    "Foresight",
+    "Fury Attack",
+    "Pursuit",
+    "Tackle",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Detect",
+    "Double-Edge",
+    "Foresight",
+    "Fury Attack",
+    "Mirror Move",
+    "Pursuit",
+    "Revenge",
+    "Roost",
+    "Steel Wing",
+    "Uproar",
+    "FeatherDance",
+    "Sand-Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

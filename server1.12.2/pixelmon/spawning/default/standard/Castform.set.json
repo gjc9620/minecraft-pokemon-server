@@ -1,0 +1,92 @@
+{
+	"id": "Castform",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Castform",
+				"form": 0
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"CLEAR"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 15.0
+		},
+		{
+			"spec": {
+				"name": "Castform",
+				"form": 1
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"RAIN"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 50.0
+		},
+		{
+			"spec": {
+				"name": "Castform",
+				"form": 2
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"RAIN"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"freezing"
+				]
+			},
+			"rarity": 50
+		},
+		{
+			"spec": {
+				"name": "Castform",
+				"form": 3
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 50
+		}
+	]
+}

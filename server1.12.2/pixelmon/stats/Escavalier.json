@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Escavalier",
+  "pokemon": "Escavalier",
+  "stats": {
+    "HP": 70,
+    "Attack": 135,
+    "Defence": 105,
+    "Speed": 20,
+    "SpecialAttack": 60,
+    "SpecialDefence": 105
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Karrablast"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 33.0,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Double-Edge",
+      "Fell Stinger",
+      "Peck",
+      "Leer",
+      "Quick Guard",
+      "Twineedle"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Quick Guard"
+    ],
+    "13": [
+      "Twineedle"
+    ],
+    "16": [
+      "Fury Attack"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "25": [
+      "False Swipe"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Iron Head"
+    ],
+    "40": [
+      "Iron Defense"
+    ],
+    "44": [
+      "X-Scissor"
+    ],
+    "49": [
+      "Reversal"
+    ],
+    "52": [
+      "Swords Dance"
+    ],
+    "56": [
+      "Giga Impact"
+    ],
+    "60": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Signal Beam",
+    "Drill Run",
+    "Faint Attack",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Reversal",
+    "Scary Face",
+    "Peck",
+    "Horn Attack",
+    "Slash",
+    "Leer",
+    "Screech",
+    "Drill Run",
+    "Signal Beam",
+    "Scary Face",
+    "Flail"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Counter",
+    "Drill Run",
+    "Horn Attack",
+    "Knock Off",
+    "Megahorn",
+    "Pursuit",
+    "Screech",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,27 @@
+{
+	"id": "Scatterbug",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Scatterbug"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 3,
+			"maxLevel": 8,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests",
+					"plains"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

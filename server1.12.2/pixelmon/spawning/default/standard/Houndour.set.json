@@ -1,0 +1,26 @@
+{
+	"id": "Houndour",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Houndour"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

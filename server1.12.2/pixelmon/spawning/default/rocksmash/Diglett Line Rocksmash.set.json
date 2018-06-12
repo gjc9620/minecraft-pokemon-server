@@ -1,0 +1,29 @@
+{
+    "id": "Diglett Line Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Diglett"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 6,
+            "maxLevel": 18,
+            "typeID": "pokemon",
+            "rarity": 130.0
+        },
+        {
+            "spec": {
+                "name": "Dugtrio"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 18,
+            "maxLevel": 33,
+            "typeID": "pokemon",
+            "rarity": 50.0
+        }
+    ]
+}

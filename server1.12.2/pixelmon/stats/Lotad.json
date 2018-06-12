@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Lotad",
+  "pokemon": "Lotad",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 30,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 3,
+  "spawnLevelRange": 11,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 2.6,
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Lombre"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "RainDish",
+    "OwnTempo"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Astonish"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "6": [
+      "Absorb"
+    ],
+    "9": [
+      "Bubble"
+    ],
+    "12": [
+      "Natural Gift"
+    ],
+    "15": [
+      "Mist"
+    ],
+    "18": [
+      "Mega Drain"
+    ],
+    "21": [
+      "BubbleBeam"
+    ],
+    "24": [
+      "Nature Power"
+    ],
+    "27": [
+      "Rain Dance"
+    ],
+    "30": [
+      "Giga Drain"
+    ],
+    "33": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Energy Ball"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Scald",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Counter",
+    "Mega Drain",
+    "Mimic",
+    "Headbutt",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Zen Headbutt",
+    "Absorb",
+    "Flail",
+    "Leech Seed",
+    "Mist",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Flail",
+    "Giga Drain",
+    "Leech Seed",
+    "Razor Leaf",
+    "Sweet Scent",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle",
+    "Water Gun"
+  ],
+  "forms": {},
+  "form": -1
+}

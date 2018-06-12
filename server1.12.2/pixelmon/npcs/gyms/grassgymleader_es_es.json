@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "grassleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Rex"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Has llegado hasta mi. ¿No creerás que te lo voy a dejar fácil?",
+      "win": "¡Já! No vulevas.",
+      "lose": "¡Has tenido suerte, chico!"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Empoleon",
+  "pokemon": "Empoleon",
+  "stats": {
+    "HP": 84,
+    "Attack": 86,
+    "Defence": 88,
+    "Speed": 60,
+    "SpecialAttack": 111,
+    "SpecialDefence": 101
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 210,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Steel"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Prinplup",
+    "Piplup"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 84.5,
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Bubble"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Bubble"
+    ],
+    "11": [
+      "Swords Dance"
+    ],
+    "15": [
+      "Peck"
+    ],
+    "16": [
+      "Metal Claw"
+    ],
+    "19": [
+      "BubbleBeam"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "28": [
+      "Fury Attack"
+    ],
+    "33": [
+      "Brine"
+    ],
+    "36": [
+      "Aqua Jet"
+    ],
+    "39": [
+      "Whirlpool"
+    ],
+    "46": [
+      "Mist"
+    ],
+    "52": [
+      "Drill Peck"
+    ],
+    "59": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Quash",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Defog",
+    "Rock Climb",
+    "Whirlpool",
+    "BubbleBeam",
+    "Bide",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Fury Cutter",
+    "Water Pulse",
+    "Brine",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Hydro Cannon",
+    "Iron Defense",
+    "Knock Off",
+    "Signal Beam",
+    "Water Pledge",
+    "Agility",
+    "Aqua Ring",
+    "Bubble",
+    "FeatherDance",
+    "Flail",
+    "Fury Attack",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Sing",
+    "Water Sport",
+    "Yawn",
+    "Peck",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Ring",
+    "Bide",
+    "Double Hit",
+    "Flail",
+    "Hydro Pump",
+    "Icy Wind",
+    "Mud-Slap",
+    "Mud Sport",
+    "Snore",
+    "Supersonic",
+    "Yawn",
+    "FeatherDance"
+  ],
+  "forms": {},
+  "form": -1
+}

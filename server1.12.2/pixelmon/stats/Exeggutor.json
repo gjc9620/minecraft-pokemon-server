@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Exeggutor",
+  "pokemon": "Exeggutor",
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 125,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 212,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Exeggcute"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Harvest"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Seed Bomb",
+      "Barrage",
+      "Hypnosis",
+      "Confusion",
+      "Stomp"
+    ],
+    "17": [
+      "Psyshock"
+    ],
+    "27": [
+      "Egg Bomb"
+    ],
+    "37": [
+      "Wood Hammer"
+    ],
+    "47": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Telekinesis",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Strength",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Egg Bomb",
+    "Psywave",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Bullet Seed",
+    "Skill Swap",
+    "Captivate",
+    "Natural Gift",
+    "Sweet Scent",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Gravity",
+    "Low Kick",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Hypnosis",
+    "Leech Seed",
+    "Moonlight",
+    "Refresh",
+    "Wish",
+    "Stomp"
+  ],
+  "eggMoves": [
+    "Block",
+    "Curse",
+    "Giga Drain",
+    "Ingrain",
+    "Leaf Storm",
+    "Lucky Chant",
+    "Moonlight",
+    "Natural Gift",
+    "Nature Power",
+    "Power Swap",
+    "Skill Swap",
+    "Synthesis",
+    "AncientPower",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Celebi",
+  "pokemon": "Celebi",
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 100,
+  "types": [
+    "Psychic",
+    "Grass"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 100,
+    "passive": -20,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "NaturalCure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Leech Seed",
+      "Confusion",
+      "Recover",
+      "Heal Bell"
+    ],
+    "10": [
+      "Safeguard"
+    ],
+    "19": [
+      "Magical Leaf"
+    ],
+    "28": [
+      "AncientPower"
+    ],
+    "37": [
+      "Baton Pass"
+    ],
+    "46": [
+      "Natural Gift"
+    ],
+    "55": [
+      "Heal Block"
+    ],
+    "64": [
+      "Future Sight"
+    ],
+    "73": [
+      "Healing Wish"
+    ],
+    "82": [
+      "Leaf Storm"
+    ],
+    "91": [
+      "Perish Song"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Cut",
+    "Double-Edge",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Silver Wind",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Heal Bell",
+    "Helping Hand",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Seed Bomb",
+    "Signal Beam",
+    "Sucker Punch",
+    "Synthesis",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Worry Seed",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Leech Seed",
+    "Nasty Plot",
+    "Hold Back"
+  ],
+  "forms": {},
+  "form": -1
+}

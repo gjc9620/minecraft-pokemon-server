@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Ninjask",
+  "pokemon": "Ninjask",
+  "stats": {
+    "HP": 61,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 160,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 155,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nincada"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 12.0,
+  "evolutions": [],
+  "abilities": [
+    "SpeedBoost",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bug Bite",
+      "Scratch",
+      "Harden",
+      "Leech Life",
+      "Sand-Attack"
+    ],
+    "5": [
+      "Leech Life"
+    ],
+    "9": [
+      "Sand-Attack"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Agility"
+    ],
+    "20": [
+      "Double Team",
+      "Fury Cutter",
+      "Screech"
+    ],
+    "23": [
+      "Slash"
+    ],
+    "29": [
+      "Mind Reader"
+    ],
+    "35": [
+      "Baton Pass"
+    ],
+    "41": [
+      "Swords Dance"
+    ],
+    "47": [
+      "X-Scissor"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Cut",
+    "Defog",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Ominous Wind",
+    "Spite",
+    "String Shot",
+    "Uproar",
+    "Agility",
+    "Baton Pass",
+    "Faint Attack",
+    "Gust",
+    "Mind Reader",
+    "Harden",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Bug Buzz",
+    "Endure",
+    "Final Gambit",
+    "Gust",
+    "Night Slash",
+    "Silver Wind",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

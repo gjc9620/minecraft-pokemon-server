@@ -1,0 +1,224 @@
+{
+  "pixelmonName": "Wartortle",
+  "pokemon": "Wartortle",
+  "stats": {
+    "HP": 59,
+    "Attack": 63,
+    "Defence": 80,
+    "Speed": 58,
+    "SpecialAttack": 65,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Squirtle"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 22.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Blastoise"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip",
+      "Water Gun"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "10": [
+      "Withdraw"
+    ],
+    "13": [
+      "Bubble"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Rapid Spin"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Water Pulse"
+    ],
+    "32": [
+      "Aqua Tail"
+    ],
+    "36": [
+      "Skull Bash"
+    ],
+    "40": [
+      "Iron Defense"
+    ],
+    "44": [
+      "Rain Dance"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Fling",
+    "Gyro Ball",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Focus Punch",
+    "Water Pulse",
+    "Brine",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "False Swipe",
+    "Reflect",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Block",
+    "Hydro Cannon",
+    "Iron Defense",
+    "Water Pledge",
+    "Zen Headbutt",
+    "Aqua Ring",
+    "Aura Sphere",
+    "Bite",
+    "Bubble",
+    "Fake Out",
+    "Flail",
+    "Follow Me",
+    "Foresight",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Mud Sport",
+    "Rapid Spin",
+    "Refresh",
+    "Yawn",
+    "Tackle",
+    "Dragon Pulse",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Aqua Ring",
+    "Aura Sphere",
+    "Brine",
+    "Dragon Pulse",
+    "Fake Out",
+    "Flail",
+    "Foresight",
+    "Haze",
+    "Mirror Coat",
+    "Mist",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Water Spout",
+    "Yawn",
+    "Confusion"
+  ],
+  "forms": {},
+  "form": -1
+}

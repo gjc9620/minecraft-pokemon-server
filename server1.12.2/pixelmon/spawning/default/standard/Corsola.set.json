@@ -1,0 +1,26 @@
+{
+	"id": "Corsola",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Corsola"
+			},
+			"stringLocationTypes": [
+				"Seafloor"
+			],
+			"minLevel": 5,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"baseBlocks": [
+					"beach"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 45.0
+		}
+	]
+}

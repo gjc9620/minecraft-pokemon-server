@@ -1,0 +1,23 @@
+{
+	"id": "Talonflame",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Talonflame"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 36,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas",
+					"savannas"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

@@ -1,0 +1,230 @@
+{
+  "pixelmonName": "Darmanitan",
+  "pokemon": "Darmanitan",
+  "stats": {
+    "HP": 105,
+    "Attack": 140,
+    "Defence": 55,
+    "Speed": 95,
+    "SpecialAttack": 30,
+    "SpecialDefence": 55
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Darumaka"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 92.9,
+  "evolutions": [],
+  "abilities": [
+    "SheerForce",
+    null,
+    "ZenMode"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Rollout",
+      "Incinerate",
+      "Rage"
+    ],
+    "3": [
+      "Rollout"
+    ],
+    "6": [
+      "Incinerate"
+    ],
+    "9": [
+      "Rage"
+    ],
+    "11": [
+      "Fire Fang"
+    ],
+    "14": [
+      "Headbutt"
+    ],
+    "17": [
+      "Swagger"
+    ],
+    "19": [
+      "Facade"
+    ],
+    "22": [
+      "Fire Punch"
+    ],
+    "25": [
+      "Work Up"
+    ],
+    "27": [
+      "Thrash"
+    ],
+    "30": [
+      "Belly Drum"
+    ],
+    "33": [
+      "Flare Blitz"
+    ],
+    "35": [
+      "Hammer Arm"
+    ],
+    "39": [
+      "Taunt"
+    ],
+    "47": [
+      "Superpower"
+    ],
+    "54": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Take Down",
+    "Rage",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Fire Punch",
+    "Focus Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Heat Wave",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Belly Drum",
+    "Encore",
+    "Flare Blitz",
+    "Thrash",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endure",
+    "Flame Wheel",
+    "Focus Energy",
+    "Focus Punch",
+    "Hammer Arm",
+    "Sleep Talk",
+    "Snatch",
+    "Take Down",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 105,
+        "Attack": 30,
+        "Defence": 105,
+        "Speed": 55,
+        "SpecialAttack": 140,
+        "SpecialDefence": 105
+      },
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "abilities": [
+        "ZenMode",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

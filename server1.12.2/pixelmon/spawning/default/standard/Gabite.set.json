@@ -1,0 +1,22 @@
+{
+	"id": "Gabite",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gabite"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 42,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

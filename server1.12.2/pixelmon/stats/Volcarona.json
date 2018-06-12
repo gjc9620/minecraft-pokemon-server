@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Volcarona",
+  "pokemon": "Volcarona",
+  "stats": {
+    "HP": 85,
+    "Attack": 60,
+    "Defence": 65,
+    "Speed": 100,
+    "SpecialAttack": 135,
+    "SpecialDefence": 105
+  },
+  "catchRate": 15,
+  "malePercent": 50,
+  "spawnLevel": 59,
+  "spawnLevelRange": 6,
+  "baseExp": 248,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fire"
+  ],
+  "height": 1.6,
+  "width": 1.6,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Larvesta"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 46.0,
+  "evolutions": [],
+  "abilities": [
+    "FlameBody",
+    null,
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Fiery Dance",
+      "Hurricane",
+      "Rage Powder",
+      "Heat Wave",
+      "Quiver Dance",
+      "Flare Blitz",
+      "Thrash",
+      "Amnesia",
+      "Bug Buzz",
+      "Flame Wheel",
+      "Ember",
+      "String Shot",
+      "Leech Life",
+      "Gust"
+    ],
+    "10": [
+      "Leech Life"
+    ],
+    "20": [
+      "Gust"
+    ],
+    "30": [
+      "Fire Spin"
+    ],
+    "40": [
+      "Whirlwind"
+    ],
+    "50": [
+      "Silver Wind"
+    ],
+    "59": [
+      "Quiver Dance"
+    ],
+    "60": [
+      "Heat Wave"
+    ],
+    "70": [
+      "Bug Buzz"
+    ],
+    "80": [
+      "Rage Powder"
+    ],
+    "90": [
+      "Hurricane"
+    ],
+    "100": [
+      "Fiery Dance"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Giga Impact",
+    "Struggle Bug",
+    "Poison Jab",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Fly",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Roost",
+    "Silver Wind",
+    "Roost",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Heat Wave",
+    "Magnet Rise",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Zen Headbutt",
+    "Amnesia",
+    "Flare Blitz",
+    "Foresight",
+    "Gust",
+    "Hurricane",
+    "Morning Sun",
+    "Thrash",
+    "Harden",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Foresight",
+    "Harden",
+    "Magnet Rise",
+    "Morning Sun",
+    "String Shot",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

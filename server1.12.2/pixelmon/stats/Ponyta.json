@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Ponyta",
+  "pokemon": "Ponyta",
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defence": 55,
+    "Speed": 90,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 30,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    }
+  },
+  "weight": 30.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Rapidash"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "FlashFire",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Ember"
+    ],
+    "13": [
+      "Flame Wheel"
+    ],
+    "17": [
+      "Stomp"
+    ],
+    "21": [
+      "Flame Charge"
+    ],
+    "25": [
+      "Fire Spin"
+    ],
+    "29": [
+      "Take Down"
+    ],
+    "33": [
+      "Inferno"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "41": [
+      "Fire Blast"
+    ],
+    "45": [
+      "Bounce"
+    ],
+    "49": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Strength",
+    "Ally Switch",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Heat Wave",
+    "Low Kick",
+    "Agility",
+    "Charm",
+    "Flare Blitz",
+    "Hypnosis",
+    "Morning Sun",
+    "Thrash",
+    "Stomp",
+    "Tackle",
+    "Inferno"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Captivate",
+    "Charm",
+    "Double-Edge",
+    "Double Kick",
+    "Flame Wheel",
+    "Horn Drill",
+    "Hypnosis",
+    "Low Kick",
+    "Morning Sun",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": -1
+}

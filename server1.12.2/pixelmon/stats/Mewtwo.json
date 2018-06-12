@@ -1,0 +1,311 @@
+{
+  "pixelmonName": "Mewtwo",
+  "pokemon": "Mewtwo",
+  "stats": {
+    "HP": 106,
+    "Attack": 110,
+    "Defence": 90,
+    "Speed": 130,
+    "SpecialAttack": 154,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 80,
+  "spawnLevelRange": 0,
+  "baseExp": 220,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 122.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Disable",
+      "Safeguard"
+    ],
+    "8": [
+      "Swift"
+    ],
+    "15": [
+      "Future Sight"
+    ],
+    "22": [
+      "Psych Up"
+    ],
+    "29": [
+      "Miracle Eye"
+    ],
+    "36": [
+      "Psycho Cut"
+    ],
+    "43": [
+      "Power Swap",
+      "Guard Swap"
+    ],
+    "50": [
+      "Recover"
+    ],
+    "57": [
+      "Psychic"
+    ],
+    "64": [
+      "Barrier"
+    ],
+    "70": [
+      "Aura Sphere"
+    ],
+    "79": [
+      "Amnesia"
+    ],
+    "86": [
+      "Mist"
+    ],
+    "93": [
+      "Me First"
+    ],
+    "100": [
+      "Psystrike"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Rock Tomb",
+    "Fire Blast",
+    "Sandstorm",
+    "Flamethrower",
+    "Reflect",
+    "Double Team",
+    "Brick Break",
+    "Shadow Ball",
+    "Psychic",
+    "Return",
+    "Earthquake",
+    "Thunder",
+    "Thunderbolt",
+    "SolarBeam",
+    "Frustration",
+    "Safeguard",
+    "Telekinesis",
+    "Rain Dance",
+    "Protect",
+    "Light Screen",
+    "Hyper Beam",
+    "Blizzard",
+    "Ice Beam",
+    "Taunt",
+    "Sunny Day",
+    "Hidden Power",
+    "Bulk Up",
+    "Hail",
+    "Toxic",
+    "Calm Mind",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Trick Room",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Selfdestruct",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Dive"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Foul Play",
+    "Gravity",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aura Sphere",
+    "Barrier",
+    "Heal Pulse",
+    "Hurricane",
+    "Mist",
+    "Electro Ball"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 106,
+        "Attack": 190,
+        "Defence": 100,
+        "Speed": 130,
+        "SpecialAttack": 154,
+        "SpecialDefence": 100
+      },
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "height": 2.3,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 127.0,
+      "abilities": [
+        "Steadfast",
+        null,
+        null
+      ],
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 106,
+        "Attack": 150,
+        "Defence": 70,
+        "Speed": 140,
+        "SpecialAttack": 194,
+        "SpecialDefence": 120
+      },
+      "height": 1.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 430.0,
+      "abilities": [
+        "Insomnia",
+        null,
+        null
+      ],
+      "form": 2
+    }
+  },
+  "form": -1
+}

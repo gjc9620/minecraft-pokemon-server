@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Hitmonlee",
+  "pokemon": "Hitmonlee",
+  "stats": {
+    "HP": 50,
+    "Attack": 120,
+    "Defence": 53,
+    "Speed": 87,
+    "SpecialAttack": 35,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 139,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tyrogue"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 49.8,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    "Reckless",
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Reversal",
+      "Close Combat",
+      "Mega Kick",
+      "Revenge",
+      "Double Kick"
+    ],
+    "5": [
+      "Meditate"
+    ],
+    "9": [
+      "Rolling Kick"
+    ],
+    "13": [
+      "Jump Kick"
+    ],
+    "17": [
+      "Brick Break"
+    ],
+    "21": [
+      "Focus Energy"
+    ],
+    "25": [
+      "Feint"
+    ],
+    "29": [
+      "Hi Jump Kick"
+    ],
+    "33": [
+      "Mind Reader"
+    ],
+    "37": [
+      "Foresight"
+    ],
+    "41": [
+      "Wide Guard"
+    ],
+    "45": [
+      "Blaze Kick"
+    ],
+    "49": [
+      "Endure"
+    ],
+    "53": [
+      "Mega Kick"
+    ],
+    "57": [
+      "Close Combat"
+    ],
+    "61": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Sucker Punch",
+    "Superpower",
+    "Uproar",
+    "Vacuum Wave",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foresight",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Refresh",
+    "Reversal",
+    "Focus Energy",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Bullet Punch",
+    "Counter",
+    "Endure",
+    "Feint",
+    "Helping Hand",
+    "Mach Punch",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Vacuum Wave",
+    "Hi Jump Kick"
+  ],
+  "forms": {},
+  "form": -1
+}

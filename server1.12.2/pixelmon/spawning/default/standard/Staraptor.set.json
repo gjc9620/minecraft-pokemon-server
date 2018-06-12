@@ -1,0 +1,26 @@
+{
+	"id": "Staraptor",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Staraptor"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 35,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"mountainous"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

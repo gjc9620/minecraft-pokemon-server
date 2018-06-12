@@ -1,0 +1,38 @@
+# Snoopy locale file
+
+# Colors:
+#   c1: White (§f)
+#   c2: Dark Aqua (§3)
+#   c3: Gray (§7)
+#   c4: Red (§c)
+
+# Messages
+snoopy:
+  message_prefix: "<c3>[</c3><c2>Snoopy</c2><c3>]</c3> "
+
+  # Available parameters: {prefix}
+  reload_message_format: "{prefix}<c1>Configuration reloaded!</c1>"
+
+  # Available parameters: {prefix} {version}
+  version_message_format: "{prefix}<c1>Running version {version}</c1>"
+
+  # Available parameters: {prefix} {name} {amount} {type} {friendly name} {locX} {locY} {locZ} {light level}
+  notify_message_format: "{prefix}<c2>{name} found {amount} {friendly name} at (x: {locX}, y: {locY}, z: {locZ}) (LL: {light level})</c2>"
+
+  # Available parameters: {prefix}
+  reload_lang_error: "{prefix}<c4>There was an error reloading the language file. Please ensure it's valid and try again.</c4>"
+
+# Command related
+# Available parameters are: {commandprefix} {command} {parameters} {separator} {description}
+# And for help searches: {search}
+# A space will automatically be added after {parameters} if there are any, to avoid unnecessary whitespace.
+acf-core:
+  help_header: "<c1>---</c1> <c2>Showing help for</c2> <c3>{commandprefix}{command}</c3> <c1>---</c1>"
+  help_search_header: "<c1>---</c1> <c2>Showing help for</c2> <c3>{commandprefix}{command}</c3> <c1>---</c1>"
+  help_detailed_header: "<c1>---</c1> <c2>Showing help for</c2> <c3>{commandprefix}{command}</c3> <c1>---</c1>"
+  help_format: "<c3>{command}</c3> <c1>{parameters}</c1><c3>{separator}</c3> <c2>{description}</c2>"
+  help_detailed_command_format: "<c3>{commandprefix}{command}</c3> <c1>{parameters}</c1><c3>{separator}</c3> <c2>{description}</c2>"
+  help_detailed_parameter_format: "<c1>{syntax}</c1>: <c2>{description}</c2>"
+  permission_denied: "<c3>[</c3><c2>Snoopy</c2><c3>]</c3> <c1>You don't have access to that command.</c1>"
+  no_command_matched_search: "<c4>No command matched</c4> <c3>{search}</c3><c4>.</c4>"
+  help_no_results: "<c4>No more results.</c4>"

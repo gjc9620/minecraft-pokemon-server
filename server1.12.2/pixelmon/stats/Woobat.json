@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Woobat",
+  "pokemon": "Woobat",
+  "stats": {
+    "HP": 55,
+    "Attack": 45,
+    "Defence": 43,
+    "Speed": 72,
+    "SpecialAttack": 55,
+    "SpecialDefence": 43
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.1,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Swoobat"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Unaware",
+    "Klutz",
+    "Simple"
+  ],
+  "eggGroups": [
+    "Field",
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Confusion"
+    ],
+    "4": [
+      "Odor Sleuth"
+    ],
+    "8": [
+      "Gust"
+    ],
+    "12": [
+      "Assurance"
+    ],
+    "15": [
+      "Heart Stamp"
+    ],
+    "19": [
+      "Imprison"
+    ],
+    "21": [
+      "Air Cutter"
+    ],
+    "25": [
+      "Attract"
+    ],
+    "29": [
+      "Amnesia",
+      "Calm Mind"
+    ],
+    "32": [
+      "Air Slash"
+    ],
+    "36": [
+      "Future Sight"
+    ],
+    "41": [
+      "Psychic"
+    ],
+    "47": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Acrobatics",
+    "Embargo",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Fly",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Skill Swap",
+    "Roost",
+    "Captivate",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Air Cutter",
+    "Endeavor",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Signal Beam",
+    "Super Fang",
+    "Tailwind",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Air Slash",
+    "Amnesia",
+    "Charm",
+    "Gust"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Fake Tears",
+    "Flatter",
+    "Helping Hand",
+    "Knock Off",
+    "Psycho Shift",
+    "Roost",
+    "Stored Power",
+    "Supersonic",
+    "Synchronoise",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

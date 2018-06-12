@@ -1,0 +1,289 @@
+{
+  "pixelmonName": "Eevee",
+  "pokemon": "Eevee",
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defence": 50,
+    "Speed": 55,
+    "SpecialAttack": 45,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 5,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 6.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Sylveon"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "type": "Fairy",
+          "evoConditionType": "moveType"
+        },
+        {
+          "biomes": [
+            "minecraft:mutated_plains",
+            "minecraft:mutated_forest"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Vaporeon"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "to": {
+        "name": "Jolteon"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Flareon"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "to": {
+        "name": "Glaceon"
+      },
+      "conditions": [
+        {
+          "evolutionRock": "IcyRock",
+          "maxRangeSquared": 100,
+          "evoConditionType": "evolutionRock"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "to": {
+        "name": "Leafeon"
+      },
+      "conditions": [
+        {
+          "evolutionRock": "MossyRock",
+          "maxRangeSquared": 100,
+          "evoConditionType": "evolutionRock"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "to": {
+        "name": "Espeon"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "to": {
+        "name": "Umbreon"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        },
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Adaptability",
+    "Anticipation"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Growl",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Baby-Doll Eyes"
+    ],
+    "10": [
+      "Swift"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "20": [
+      "Refresh"
+    ],
+    "23": [
+      "Covet"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "29": [
+      "Charm"
+    ],
+    "33": [
+      "Baton Pass"
+    ],
+    "37": [
+      "Double-Edge"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Trump Card"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Work Up",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Growth",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

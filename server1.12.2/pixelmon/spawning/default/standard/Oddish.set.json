@@ -1,0 +1,28 @@
+{
+	"id": "Oddish",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Oddish"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 21,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"swamps",
+					"jungles",
+					"flowery"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

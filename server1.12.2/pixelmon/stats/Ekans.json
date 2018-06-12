@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Ekans",
+  "pokemon": "Ekans",
+  "stats": {
+    "HP": 35,
+    "Attack": 60,
+    "Defence": 44,
+    "Speed": 55,
+    "SpecialAttack": 40,
+    "SpecialDefence": 54
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 12,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 70,
+    "passive": 0,
+    "aggressive": 30
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.9,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Arbok"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "ShedSkin",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Wrap",
+      "Leer"
+    ],
+    "4": [
+      "Poison Sting"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "12": [
+      "Glare"
+    ],
+    "17": [
+      "Screech"
+    ],
+    "20": [
+      "Acid"
+    ],
+    "25": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up"
+    ],
+    "28": [
+      "Acid Spray"
+    ],
+    "33": [
+      "Mud Bomb"
+    ],
+    "36": [
+      "Gastro Acid"
+    ],
+    "38": [
+      "Belch"
+    ],
+    "41": [
+      "Haze"
+    ],
+    "44": [
+      "Coil"
+    ],
+    "49": [
+      "Gunk Shot"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Payback",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Spite",
+    "Sucker Punch",
+    "Beat Up",
+    "Bite",
+    "Haze",
+    "Pursuit",
+    "Scary Face",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Disable",
+    "Iron Tail",
+    "Poison Fang",
+    "Poison Tail",
+    "Pursuit",
+    "Scary Face",
+    "Slam",
+    "Snatch",
+    "Spite",
+    "Sucker Punch",
+    "Switcheroo",
+    "Crunch"
+  ],
+  "forms": {},
+  "form": -1
+}

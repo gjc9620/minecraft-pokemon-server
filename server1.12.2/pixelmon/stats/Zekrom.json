@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Zekrom",
+  "pokemon": "Zekrom",
+  "stats": {
+    "HP": 100,
+    "Attack": 150,
+    "Defence": 120,
+    "Speed": 90,
+    "SpecialAttack": 120,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Electric"
+  ],
+  "height": 2.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.5
+    }
+  },
+  "weight": 345.0,
+  "evolutions": [],
+  "abilities": [
+    "Teravolt",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Thunder Fang",
+      "Dragon Rage"
+    ],
+    "8": [
+      "Imprison"
+    ],
+    "15": [
+      "AncientPower"
+    ],
+    "22": [
+      "Thunderbolt"
+    ],
+    "29": [
+      "DragonBreath"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "43": [
+      "Zen Headbutt"
+    ],
+    "50": [
+      "Fusion Bolt"
+    ],
+    "54": [
+      "Dragon Claw"
+    ],
+    "64": [
+      "Imprison"
+    ],
+    "71": [
+      "Crunch"
+    ],
+    "78": [
+      "Thunder"
+    ],
+    "85": [
+      "Outrage"
+    ],
+    "92": [
+      "Hyper Voice"
+    ],
+    "100": [
+      "Bolt Strike"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Volt Switch",
+    "Thunder Wave",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Dragon Rage",
+    "Snore",
+    "DragonBreath",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Roost",
+    "Dragon Pulse",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Magnet Rise",
+    "Outrage",
+    "Signal Beam",
+    "Tailwind",
+    "Zen Headbutt",
+    "Haze",
+    "Slash"
+  ],
+  "forms": {},
+  "form": -1
+}

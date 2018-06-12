@@ -1,0 +1,142 @@
+{
+  "pixelmonName": "Furfrou",
+  "pokemon": "Furfrou",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 60,
+    "Speed": 102,
+    "SpecialAttack": 65,
+    "SpecialDefence": 90
+  },
+  "catchRate": 160,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.2,
+  "length": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 28.0,
+  "evolutions": [],
+  "abilities": [
+    "FurCoat",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Baby-Doll Eyes"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Tail Whip"
+    ],
+    "22": [
+      "Bite"
+    ],
+    "27": [
+      "Odor Sleuth"
+    ],
+    "33": [
+      "Retaliate"
+    ],
+    "35": [
+      "Take Down"
+    ],
+    "38": [
+      "Charm"
+    ],
+    "42": [
+      "Sucker Punch"
+    ],
+    "48": [
+      "Cotton Guard"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide",
+    "Surf",
+    "Rock Smash",
+    "Iron Tail",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Role Play",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Mimic",
+    "Refresh",
+    "Role Play",
+    "Work Up"
+  ],
+  "forms": {},
+  "form": -1
+}

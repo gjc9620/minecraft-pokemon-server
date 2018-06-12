@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Mightyena",
+  "pokemon": "Mightyena",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 47,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poochyena"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 37.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "QuickFeet",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Crunch",
+      "Thief",
+      "Tackle",
+      "Howl",
+      "Sand-Attack",
+      "Bite"
+    ],
+    "4": [
+      "Howl"
+    ],
+    "7": [
+      "Sand-Attack"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "16": [
+      "Roar"
+    ],
+    "18": [
+      "Snarl"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "28": [
+      "Scary Face"
+    ],
+    "32": [
+      "Embargo"
+    ],
+    "36": [
+      "Taunt"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "44": [
+      "Crunch"
+    ],
+    "48": [
+      "Sucker Punch"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Spite",
+    "Sucker Punch",
+    "Super Fang",
+    "Uproar",
+    "Heal Bell",
+    "Bite",
+    "Howl",
+    "Scary Face",
+    "Yawn",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Fire Fang",
+    "Ice Fang",
+    "Leer",
+    "Me First",
+    "Poison Fang",
+    "Sleep Talk",
+    "Snatch",
+    "Sucker Punch",
+    "Thunder Fang",
+    "Yawn",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

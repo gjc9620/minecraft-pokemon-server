@@ -1,0 +1,222 @@
+{
+  "pixelmonName": "Jynx",
+  "pokemon": "Jynx",
+  "stats": {
+    "HP": 65,
+    "Attack": 50,
+    "Defence": 35,
+    "Speed": 95,
+    "SpecialAttack": 115,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Smoochum"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 40.6,
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "Forewarn",
+    "DrySkin"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Draining Kiss",
+      "Perish Song",
+      "Pound",
+      "Lick",
+      "Lovely Kiss",
+      "Powder Snow"
+    ],
+    "5": [
+      "Lick"
+    ],
+    "8": [
+      "Lovely Kiss"
+    ],
+    "11": [
+      "Powder Snow"
+    ],
+    "15": [
+      "DoubleSlap"
+    ],
+    "18": [
+      "Ice Punch"
+    ],
+    "21": [
+      "Heart Stamp"
+    ],
+    "25": [
+      "Mean Look"
+    ],
+    "28": [
+      "Fake Tears"
+    ],
+    "33": [
+      "Wake-Up Slap"
+    ],
+    "39": [
+      "Avalanche"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "49": [
+      "Wring Out"
+    ],
+    "55": [
+      "Perish Song"
+    ],
+    "60": [
+      "Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Frost Breath",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Skill Swap",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Dizzy Punch",
+    "DoubleSlap",
+    "Fake Out",
+    "Lovely Kiss",
+    "Nasty Plot",
+    "Petal Dance",
+    "Sing",
+    "Sweet Kiss",
+    "Thrash",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Fake Out",
+    "Ice Punch",
+    "Meditate",
+    "Miracle Eye",
+    "Nasty Plot",
+    "Wake-Up Slap",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

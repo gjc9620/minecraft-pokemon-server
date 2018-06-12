@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Shellder",
+  "pokemon": "Shellder",
+  "stats": {
+    "HP": 30,
+    "Attack": 65,
+    "Defence": 100,
+    "Speed": 40,
+    "SpecialAttack": 45,
+    "SpecialDefence": 25
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 97,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 4.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Cloyster"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "ShellArmour",
+    "SkillLink",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Supersonic"
+    ],
+    "13": [
+      "Icicle Spear"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "20": [
+      "Leer"
+    ],
+    "25": [
+      "Clamp"
+    ],
+    "28": [
+      "Ice Shard"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "37": [
+      "Aurora Beam"
+    ],
+    "40": [
+      "Whirlpool"
+    ],
+    "44": [
+      "Brine"
+    ],
+    "49": [
+      "Iron Defense"
+    ],
+    "52": [
+      "Ice Beam"
+    ],
+    "56": [
+      "Shell Smash"
+    ],
+    "61": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Swift",
+    "Tri Attack",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Avalanche",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Aqua Ring",
+    "Barrier",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Avalanche",
+    "Barrier",
+    "Icicle Spear",
+    "Mud Shot",
+    "Rapid Spin",
+    "Rock Blast",
+    "Screech",
+    "Take Down",
+    "Twineedle",
+    "Water Pulse",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

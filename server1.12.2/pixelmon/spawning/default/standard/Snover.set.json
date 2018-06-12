@@ -1,0 +1,26 @@
+{
+	"id": "Snover",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Snover"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"freezing forests"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

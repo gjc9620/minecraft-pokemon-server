@@ -1,0 +1,22 @@
+{
+	"id": "Fearow",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Fearow"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 20,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				]
+			},
+			"rarity": 35
+		}
+	]
+}

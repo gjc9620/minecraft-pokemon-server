@@ -1,0 +1,228 @@
+{
+  "pixelmonName": "Lickitung",
+  "pokemon": "Lickitung",
+  "stats": {
+    "HP": 90,
+    "Attack": 55,
+    "Defence": 75,
+    "Speed": 30,
+    "SpecialAttack": 60,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 127,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 65.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Lickilicky"
+      },
+      "conditions": [
+        {
+          "attackIndex": 282,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "OwnTempo",
+    "Oblivious",
+    "CloudNine"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Lick"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "9": [
+      "Defense Curl"
+    ],
+    "13": [
+      "Knock Off"
+    ],
+    "17": [
+      "Wrap"
+    ],
+    "21": [
+      "Stomp"
+    ],
+    "25": [
+      "Disable"
+    ],
+    "29": [
+      "Slam"
+    ],
+    "33": [
+      "Rollout"
+    ],
+    "37": [
+      "Chip Away"
+    ],
+    "41": [
+      "Me First"
+    ],
+    "45": [
+      "Refresh"
+    ],
+    "49": [
+      "Screech"
+    ],
+    "53": [
+      "Power Whip"
+    ],
+    "57": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Helping Hand",
+    "Knock Off",
+    "Zen Headbutt",
+    "Heal Bell",
+    "Amnesia",
+    "Belly Drum",
+    "DoubleSlap",
+    "Refresh",
+    "Wish",
+    "Stomp",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Belly Drum",
+    "Body Slam",
+    "Curse",
+    "Hammer Arm",
+    "Magnitude",
+    "Muddy Water",
+    "Sleep Talk",
+    "Snore",
+    "Zen Headbutt",
+    "SmellingSalt",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

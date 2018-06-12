@@ -1,0 +1,26 @@
+{
+	"id": "Ivysaur",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ivysaur"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 16,
+			"maxLevel": 32,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

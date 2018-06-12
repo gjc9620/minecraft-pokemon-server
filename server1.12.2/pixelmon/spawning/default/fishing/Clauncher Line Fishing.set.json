@@ -1,0 +1,59 @@
+{
+	"id": "Clauncher Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Clauncher"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 24,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beaches",
+					"river"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Clauncher"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 24,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beaches",
+					"river"
+				]
+			},
+			"rarity": 80
+		},
+		{
+			"spec": {
+				"name": "Clawitzer"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 36,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"beaches",
+					"river"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

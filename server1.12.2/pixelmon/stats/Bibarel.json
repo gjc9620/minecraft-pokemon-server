@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Bibarel",
+  "pokemon": "Bibarel",
+  "stats": {
+    "HP": 79,
+    "Attack": 85,
+    "Defence": 60,
+    "Speed": 71,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 116,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bidoof"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 31.5,
+  "evolutions": [],
+  "abilities": [
+    "Simple",
+    "Unaware",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Rototiller",
+      "Tackle",
+      "Growl"
+    ],
+    "5": [
+      "Growl"
+    ],
+    "9": [
+      "Defense Curl"
+    ],
+    "13": [
+      "Rollout"
+    ],
+    "15": [
+      "Water Gun"
+    ],
+    "18": [
+      "Headbutt"
+    ],
+    "23": [
+      "Hyper Fang"
+    ],
+    "28": [
+      "Yawn"
+    ],
+    "33": [
+      "Amnesia"
+    ],
+    "38": [
+      "Take Down"
+    ],
+    "43": [
+      "Super Fang"
+    ],
+    "48": [
+      "Superpower"
+    ],
+    "53": [
+      "Curse"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Bulldoze",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Rock Climb",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Last Resort",
+    "Super Fang",
+    "Superpower",
+    "Amnesia",
+    "Water Sport",
+    "Yawn",
+    "Tackle",
+    "Icy Wind"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Fury Swipes",
+    "Odor Sleuth",
+    "Quick Attack",
+    "Rock Climb",
+    "Rollout",
+    "Skull Bash",
+    "Sleep Talk",
+    "Water Sport"
+  ],
+  "forms": {},
+  "form": -1
+}

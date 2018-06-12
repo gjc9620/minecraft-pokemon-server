@@ -1,0 +1,22 @@
+{
+	"id": "Alomomola",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Alomomola"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 18,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 450.0
+		}
+	]
+}

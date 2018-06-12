@@ -1,0 +1,151 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Sr. Benson"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "¡Hola, bienvenido a la Poké Tienda! ¡Hoy tenemos muchos especiales!",
+      "goodbye": "Volverémos a vernos, ¿verdad?"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "pixelmon:item.Poke_Ball"
+    },
+    {
+      "name": "pixelmon:item.Great_Ball",
+      "multi": 1.1
+    },
+    {
+      "name": "pixelmon:item.Dive_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Dusk_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Fast_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Friend_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Heal_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Heavy_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Level_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Love_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Lure_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Moon_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Nest_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Net_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Quick_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Repeat_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Sport_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Timer_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Fresh_Water"
+    },
+    {  
+      "name": "pixelmon:item.Soda_Pop"   
+    },
+    {
+      "name": "pixelmon:item.Lemonade"
+    },
+    {
+      "name": "pixelmon:item.Moomoo_Milk"
+    },
+    {
+      "name": "pixelmon:item.Full_Restore",
+      "rarity": 0.1
+    },
+    {
+      "name": "pixelmon:item.Full_Heal"
+    },
+    {
+      "name": "pixelmon:item.Antidote",
+      "rarity": 0.5      
+    },
+    {
+      "name": "pixelmon:item.Awakening",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:item.Burn_Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:item.Ice_Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:item.Paralyze_Heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:item.Revive",
+      "rarity": 0.5     
+    }
+  ]
+}

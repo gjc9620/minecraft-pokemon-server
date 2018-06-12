@@ -1,0 +1,233 @@
+{
+  "pixelmonName": "Snorlax",
+  "pokemon": "Snorlax",
+  "stats": {
+    "HP": 160,
+    "Attack": 110,
+    "Defence": 65,
+    "Speed": 30,
+    "SpecialAttack": 65,
+    "SpecialDefence": 110
+  },
+  "catchRate": 25,
+  "malePercent": 87,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Munchlax"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 460.0,
+  "evolutions": [],
+  "abilities": [
+    "Immunity",
+    "ThickFat",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "9": [
+      "Amnesia"
+    ],
+    "12": [
+      "Lick"
+    ],
+    "17": [
+      "Chip Away"
+    ],
+    "20": [
+      "Yawn"
+    ],
+    "25": [
+      "Body Slam"
+    ],
+    "28": [
+      "Rest",
+      "Snore"
+    ],
+    "33": [
+      "Sleep Talk"
+    ],
+    "36": [
+      "Rollout"
+    ],
+    "41": [
+      "Block"
+    ],
+    "44": [
+      "Belly Drum"
+    ],
+    "49": [
+      "Crunch"
+    ],
+    "50": [
+      "Heavy Slam"
+    ],
+    "57": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Whirlpool",
+    "Mega Punch",
+    "Whirlwind",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Selfdestruct",
+    "Skull Bash",
+    "Psywave",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Reflect",
+    "Psych Up",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Covet",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Iron Head",
+    "Last Resort",
+    "Outrage",
+    "Seed Bomb",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Amnesia",
+    "Belly Drum",
+    "Charm",
+    "Lovely Kiss",
+    "Pursuit",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Yawn",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Fissure",
+    "Lick",
+    "Natural Gift",
+    "Pursuit",
+    "Whirlwind",
+    "Belch",
+    "Selfdestruct",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

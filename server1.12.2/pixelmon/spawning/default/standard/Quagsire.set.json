@@ -1,0 +1,26 @@
+{
+	"id": "Quagsire",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Quagsire"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 45.0
+		}
+	]
+}

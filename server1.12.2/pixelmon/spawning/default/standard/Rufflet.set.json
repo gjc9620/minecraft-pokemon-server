@@ -1,0 +1,26 @@
+{
+	"id": "Rufflet",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Rufflet"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 54,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mesas",
+					"mountainous"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

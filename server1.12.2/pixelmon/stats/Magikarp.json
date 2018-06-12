@@ -1,0 +1,95 @@
+{
+  "pixelmonName": "Magikarp",
+  "pokemon": "Magikarp",
+  "stats": {
+    "HP": 20,
+    "Attack": 10,
+    "Defence": 55,
+    "Speed": 80,
+    "SpecialAttack": 15,
+    "SpecialDefence": 20
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 20,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Gyarados"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Water2",
+    "Dragon"
+  ],
+  "eggCycles": 6,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "15": [
+      "Tackle"
+    ],
+    "30": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Dragon Rage"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Reversal",
+    "Splash",
+    "Tackle",
+    "Celebrate",
+    "Happy Hour"
+  ],
+  "forms": {},
+  "form": -1
+}

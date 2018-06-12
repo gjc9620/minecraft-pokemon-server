@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Yamask",
+  "pokemon": "Yamask",
+  "stats": {
+    "HP": 38,
+    "Attack": 30,
+    "Defence": 85,
+    "Speed": 30,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 0,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Cofagrigus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 34,
+      "to": {
+        "name": "Cofagrigus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Mummy",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Protect"
+    ],
+    "5": [
+      "Disable"
+    ],
+    "9": [
+      "Haze"
+    ],
+    "13": [
+      "Night Shade"
+    ],
+    "17": [
+      "Hex"
+    ],
+    "21": [
+      "Will-O-Wisp"
+    ],
+    "25": [
+      "Ominous Wind"
+    ],
+    "29": [
+      "Curse"
+    ],
+    "33": [
+      "Power Split",
+      "Guard Split"
+    ],
+    "37": [
+      "Shadow Ball"
+    ],
+    "41": [
+      "Grudge"
+    ],
+    "45": [
+      "Mean Look"
+    ],
+    "49": [
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Ally Switch",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Skill Swap",
+    "Snatch",
+    "Dark Pulse",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Trick",
+    "Wonder Room",
+    "Haze",
+    "Nasty Plot",
+    "Night Shade",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Disable",
+    "Endure",
+    "Fake Tears",
+    "Heal Block",
+    "Imprison",
+    "Memento",
+    "Nasty Plot",
+    "Nightmare",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

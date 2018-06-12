@@ -1,0 +1,27 @@
+{
+	"id": "Sharpedo",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sharpedo"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 30,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"stone_beach"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

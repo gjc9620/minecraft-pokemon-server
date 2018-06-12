@@ -1,0 +1,25 @@
+{
+	"id": "Kirlia",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Kirlia"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 29,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 90.0
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+  "pixelmonName": "Ditto",
+  "pokemon": "Ditto",
+  "stats": {
+    "HP": 48,
+    "Attack": 48,
+    "Defence": 48,
+    "Speed": 48,
+    "SpecialAttack": 48,
+    "SpecialDefence": 48
+  },
+  "catchRate": 35,
+  "malePercent": -1,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 4.0,
+  "evolutions": [],
+  "abilities": [
+    "Limber",
+    null,
+    "Imposter"
+  ],
+  "eggGroups": [
+    "Ditto"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Transform"
+    ]
+  },
+  "forms": {},
+  "form": -1
+}

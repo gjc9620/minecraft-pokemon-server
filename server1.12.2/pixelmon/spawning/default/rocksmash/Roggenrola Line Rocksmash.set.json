@@ -1,0 +1,29 @@
+{
+    "id": "Roggenrola Line Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Roggenrola"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 4,
+            "maxLevel": 18,
+            "typeID": "pokemon",
+            "rarity": 150.0
+        },
+		{
+            "spec": {
+                "name": "Boldore"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 25,
+            "maxLevel": 37,
+            "typeID": "pokemon",
+            "rarity": 80.0
+        }
+    ]
+}

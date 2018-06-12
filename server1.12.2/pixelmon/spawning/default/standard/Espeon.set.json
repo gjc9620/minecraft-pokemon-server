@@ -1,0 +1,25 @@
+{
+	"id": "Espeon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Espeon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 5
+		}
+	]
+}

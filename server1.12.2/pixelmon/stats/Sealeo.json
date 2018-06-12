@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Sealeo",
+  "pokemon": "Sealeo",
+  "stats": {
+    "HP": 90,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 75,
+    "SpecialDefence": 70
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 11,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Water"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Spheal"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 87.6,
+  "evolutions": [
+    {
+      "level": 44,
+      "to": {
+        "name": "Walrein"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "IceBody",
+    "Oblivious"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Powder Snow",
+      "Growl",
+      "Water Gun"
+    ],
+    "5": [
+      "Rollout"
+    ],
+    "9": [
+      "Encore"
+    ],
+    "13": [
+      "Ice Ball"
+    ],
+    "17": [
+      "Brine"
+    ],
+    "21": [
+      "Aurora Beam"
+    ],
+    "26": [
+      "Body Slam"
+    ],
+    "31": [
+      "Rest",
+      "Snore"
+    ],
+    "32": [
+      "Swagger"
+    ],
+    "38": [
+      "Hail"
+    ],
+    "45": [
+      "Blizzard"
+    ],
+    "52": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Fissure",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Signal Beam",
+    "Super Fang",
+    "Aqua Ring",
+    "Charm",
+    "Encore",
+    "Sheer Cold",
+    "Water Sport",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Belly Drum",
+    "Curse",
+    "Fissure",
+    "Rollout",
+    "Signal Beam",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Water Pulse",
+    "Water Sport",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

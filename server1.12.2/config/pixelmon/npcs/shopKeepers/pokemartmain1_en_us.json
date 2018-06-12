@@ -1,0 +1,280 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
+      "goodbye": "Bye then. Visit us again soon."
+    },
+    {
+      "hello": "Hi, how are you? Welcome to the Poké Mart. Just call out if you need any help.",
+      "goodbye": "Nice to see you. Have a great day!"
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
+  */
+  "items": [
+    {
+      "name": "pixelmon:item.Lucky_Egg",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Exp._Share",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Choice_Band",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Choice_Scarf",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Choice_Specs",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.MuscleBand",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Macho_Brace",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Soothe_Bell",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Smoke_Ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.WideLens",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Leftovers",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Shell_Bell",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Cell_Battery",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Metronome",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Dubious_Disc",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Electirizer",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Magmarizer",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.King's_Rock",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Protector",
+      "rarity": 0.3
+    },
+	{
+      "name": "pixelmon:item.Up-Grade",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Razor_Fang",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Dragon_Scale",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.RazorClaw",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.AbsorbBulb",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Life_Orb",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.FocusSash",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.FocusBand",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ToxicOrb",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.FlameOrb",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.BlackSludge",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ScopeLens",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ShedShell",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.RockyHelmet",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.DampRock",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.AirBalloon",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.HeatRock",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.IcyRock",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.SmoothRock",
+      "rarity": 0.3
+    },
+	{
+      "name": "pixelmon:item.Eviolite",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.LightBall",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.LuckyPunch",
+	  "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.MetalPowder",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.QuickPowder",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.Stick",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ThickClub",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.RedCard",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ExpertBelt",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.LightClay",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.QuickClaw",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.BigRoot",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.ZoomLens",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.BrightPowder",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.WiseGlasses",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:EjectButton",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.BindingBand",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.IronBall",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.GripClaw",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:item.FloatStone",
+      "rarity": 0.3
+    }
+  ]
+}

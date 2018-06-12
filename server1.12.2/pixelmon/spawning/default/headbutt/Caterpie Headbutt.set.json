@@ -1,0 +1,68 @@
+{
+    "id": "Caterpie Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Caterpie"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 3,
+            "maxLevel": 12,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "birch",
+					"ebony",
+					"ethereal",
+					"willow",
+					"palm"
+                ]
+			},
+            "rarity": 150.0
+        },
+        {
+            "spec": {
+                "name": "Metapod"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 9,
+            "maxLevel": 12,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "birch",
+					"ebony",
+					"ethereal",
+					"willow",
+					"palm"
+                ]
+            },
+            "rarity": 100.0
+        },
+        {
+            "spec": {
+                "name": "Butterfree"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 18,
+            "maxLevel": 27,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "birch",
+					"ebony",
+					"ethereal",
+					"willow",
+					"palm"
+                ]
+            },
+            "rarity": 40.0
+        }
+    ]
+}

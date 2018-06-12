@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Victreebel",
+  "pokemon": "Victreebel",
+  "stats": {
+    "HP": 80,
+    "Attack": 105,
+    "Defence": 65,
+    "Speed": 70,
+    "SpecialAttack": 100,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 191,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Weepinbell",
+    "Bellsprout"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.2
+    }
+  },
+  "weight": 15.5,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Stockpile",
+      "Swallow",
+      "Spit Up",
+      "Vine Whip",
+      "Sleep Powder",
+      "Sweet Scent",
+      "Razor Leaf"
+    ],
+    "27": [
+      "Leaf Tornado"
+    ],
+    "47": [
+      "Leaf Storm",
+      "Leaf Blade"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Gastro Acid",
+    "Knock Off",
+    "Seed Bomb",
+    "Sucker Punch",
+    "Synthesis",
+    "Worry Seed",
+    "Encore",
+    "Growth",
+    "Lovely Kiss",
+    "Morning Sun",
+    "Sweet Kiss",
+    "Teeter Dance",
+    "Tickle",
+    "Weather Ball"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Bullet Seed",
+    "Clear Smog",
+    "Encore",
+    "Giga Drain",
+    "Ingrain",
+    "Leech Life",
+    "Magical Leaf",
+    "Natural Gift",
+    "Power Whip",
+    "Synthesis",
+    "Tickle",
+    "Weather Ball",
+    "Worry Seed",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

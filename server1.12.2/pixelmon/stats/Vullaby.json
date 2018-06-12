@@ -1,0 +1,186 @@
+{
+  "pixelmonName": "Vullaby",
+  "pokemon": "Vullaby",
+  "stats": {
+    "HP": 70,
+    "Attack": 55,
+    "Defence": 75,
+    "Speed": 60,
+    "SpecialAttack": 45,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 0,
+  "spawnLevel": 42,
+  "spawnLevelRange": 11,
+  "baseExp": 74,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 9.0,
+  "evolutions": [
+    {
+      "level": 54,
+      "to": {
+        "name": "Mandibuzz"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 54,
+      "to": {
+        "name": "Mandibuzz"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BigPecks",
+    "Overcoat",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Leer"
+    ],
+    "5": [
+      "Fury Attack"
+    ],
+    "10": [
+      "Pluck"
+    ],
+    "14": [
+      "Nasty Plot"
+    ],
+    "19": [
+      "Flatter"
+    ],
+    "23": [
+      "Faint Attack"
+    ],
+    "28": [
+      "Punishment"
+    ],
+    "32": [
+      "Defog"
+    ],
+    "37": [
+      "Tailwind"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "46": [
+      "Dark Pulse"
+    ],
+    "50": [
+      "Embargo"
+    ],
+    "55": [
+      "Whirlwind"
+    ],
+    "59": [
+      "Brave Bird"
+    ],
+    "64": [
+      "Mirror Move"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Psych Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Snore",
+    "Sleep Talk",
+    "Steel Wing",
+    "Snatch",
+    "Roost",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Foul Play",
+    "Heat Wave",
+    "Iron Defense",
+    "Knock Off",
+    "Tailwind",
+    "Air Slash",
+    "Faint Attack",
+    "Fury Attack",
+    "Gust",
+    "Nasty Plot",
+    "Scary Face",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Fake Tears",
+    "Foul Play",
+    "Knock Off",
+    "Mean Look",
+    "Roost",
+    "Scary Face",
+    "Steel Wing"
+  ],
+  "forms": {},
+  "form": -1
+}

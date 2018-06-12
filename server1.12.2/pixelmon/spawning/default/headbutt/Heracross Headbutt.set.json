@@ -1,0 +1,22 @@
+{
+    "id": "Heracross Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Heracross"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 21,
+            "maxLevel": 34,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle"
+                ]
+            },
+            "rarity": 60.0
+        }
+    ]
+}	

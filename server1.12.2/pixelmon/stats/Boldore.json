@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Boldore",
+  "pokemon": "Boldore",
+  "stats": {
+    "HP": 70,
+    "Attack": 105,
+    "Defence": 105,
+    "Speed": 20,
+    "SpecialAttack": 50,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 137,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Roggenrola"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 102.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gigalith"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden",
+      "Sand-Attack",
+      "Headbutt"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Sand-Attack"
+    ],
+    "10": [
+      "Headbutt"
+    ],
+    "14": [
+      "Rock Blast"
+    ],
+    "17": [
+      "Mud-Slap"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "23": [
+      "Smack Down"
+    ],
+    "25": [
+      "Power Gem"
+    ],
+    "30": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Stealth Rock"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "48": [
+      "Stone Edge"
+    ],
+    "55": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Strength",
+    "Take Down",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Iron Defense",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Curse",
+    "Gravity",
+    "Heavy Slam",
+    "Lock-On",
+    "Magnitude",
+    "Rock Tomb",
+    "Take Down",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

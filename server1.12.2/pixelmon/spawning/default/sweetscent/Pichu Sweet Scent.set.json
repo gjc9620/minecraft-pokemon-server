@@ -1,0 +1,23 @@
+{
+    "id": "Pichu Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Pichu",
+				"form": 1
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 2,
+            "maxLevel": 8,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+            "rarity": 10
+        }
+    ]
+}

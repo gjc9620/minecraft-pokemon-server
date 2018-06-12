@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Donphan",
+  "pokemon": "Donphan",
+  "stats": {
+    "HP": 90,
+    "Attack": 120,
+    "Defence": 120,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Phanpy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 120.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fire Fang",
+      "Thunder Fang",
+      "Horn Attack",
+      "Growl",
+      "Defense Curl",
+      "Bulldoze"
+    ],
+    "6": [
+      "Rapid Spin"
+    ],
+    "10": [
+      "Rollout"
+    ],
+    "15": [
+      "Assurance"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "24": [
+      "Slam"
+    ],
+    "25": [
+      "Fury Attack"
+    ],
+    "30": [
+      "Magnitude"
+    ],
+    "37": [
+      "Scary Face"
+    ],
+    "43": [
+      "Earthquake"
+    ],
+    "50": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Counter",
+    "Fissure",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Bounce",
+    "Earth Power",
+    "Endeavor",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Iron Defense",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Superpower",
+    "Absorb",
+    "Charm",
+    "Encore",
+    "Flail",
+    "Fury Attack",
+    "Rapid Spin",
+    "Scary Face",
+    "Focus Energy",
+    "Horn Attack",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Counter",
+    "Endeavor",
+    "Fissure",
+    "Focus Energy",
+    "Head Smash",
+    "Heavy Slam",
+    "Ice Shard",
+    "Mud-Slap",
+    "Snore",
+    "AncientPower",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

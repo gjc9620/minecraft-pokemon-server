@@ -1,0 +1,28 @@
+{
+	"id": "Shellder",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shellder"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"baseBlocks": [
+					"beach"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"frozen_ocean",
+					"beaches",
+					"cold_beach"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

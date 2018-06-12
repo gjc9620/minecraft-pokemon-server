@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Omanyte",
+  "pokemon": "Omanyte",
+  "stats": {
+    "HP": 35,
+    "Attack": 40,
+    "Defence": 100,
+    "Speed": 35,
+    "SpecialAttack": 90,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.2,
+    "decayRate": 0.97,
+    "refreshRate": 80
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.5,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Omastar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "ShellArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Constrict",
+      "Withdraw"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "10": [
+      "Water Gun"
+    ],
+    "16": [
+      "Rollout"
+    ],
+    "19": [
+      "Leer"
+    ],
+    "25": [
+      "Mud Shot"
+    ],
+    "28": [
+      "Brine"
+    ],
+    "34": [
+      "Protect"
+    ],
+    "37": [
+      "AncientPower"
+    ],
+    "43": [
+      "Tickle"
+    ],
+    "46": [
+      "Rock Blast"
+    ],
+    "50": [
+      "Shell Smash"
+    ],
+    "55": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Rock Polish",
+    "Gyro Ball",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Earth Power",
+    "Iron Defense",
+    "Knock Off",
+    "Bite",
+    "Haze",
+    "Hydro Pump",
+    "Rock Throw",
+    "Tickle",
+    "Horn Attack",
+    "Spike Cannon",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Aurora Beam",
+    "Bide",
+    "Haze",
+    "Knock Off",
+    "Muddy Water",
+    "Reflect Type",
+    "Slam",
+    "Spikes",
+    "Supersonic",
+    "Toxic Spikes",
+    "Water Pulse",
+    "Whirlpool",
+    "Wring Out",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

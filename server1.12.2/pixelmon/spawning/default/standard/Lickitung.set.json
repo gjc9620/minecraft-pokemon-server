@@ -1,0 +1,25 @@
+{
+	"id": "Lickitung",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lickitung"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

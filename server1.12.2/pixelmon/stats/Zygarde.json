@@ -1,0 +1,151 @@
+{
+  "pixelmonName": "Zygarde",
+  "pokemon": "Zygarde",
+  "stats": {
+    "HP": 108,
+    "Attack": 100,
+    "Defence": 121,
+    "Speed": 95,
+    "SpecialAttack": 81,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 1,
+  "spawnLevelRange": 99,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "height": 2.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 305.0,
+  "evolutions": [],
+  "abilities": [
+    "AuraBreak",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Glare",
+      "Bulldoze",
+      "DragonBreath",
+      "Bite"
+    ],
+    "5": [
+      "Safeguard"
+    ],
+    "10": [
+      "Dig"
+    ],
+    "18": [
+      "Bind"
+    ],
+    "26": [
+      "Land\u0027s Wrath"
+    ],
+    "35": [
+      "Sandstorm"
+    ],
+    "44": [
+      "Haze"
+    ],
+    "51": [
+      "Crunch"
+    ],
+    "55": [
+      "Earthquake"
+    ],
+    "59": [
+      "Camouflage"
+    ],
+    "63": [
+      "Dragon Pulse"
+    ],
+    "72": [
+      "Dragon Dance"
+    ],
+    "80": [
+      "Coil"
+    ],
+    "88": [
+      "ExtremeSpeed"
+    ],
+    "93": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Strength",
+    "Rock Smash",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Block",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Outrage",
+    "Pain Split",
+    "Spite",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

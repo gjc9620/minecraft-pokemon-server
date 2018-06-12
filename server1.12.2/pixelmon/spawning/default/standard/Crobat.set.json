@@ -1,0 +1,44 @@
+{
+	"id": "Crobat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Crobat"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 40,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"MIDNIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"taigas",
+					"swamps",
+					"birches",
+					"redwoods"
+				]
+			},
+			"rarity": 50
+		},
+		{
+			"spec": {
+				"name": "Crobat"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 40,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"maxLightLevel": 8
+			},
+			"rarity": 10
+		}
+	]
+}

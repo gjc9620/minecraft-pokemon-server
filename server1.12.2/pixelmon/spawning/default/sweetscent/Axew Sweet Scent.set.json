@@ -1,0 +1,23 @@
+{
+    "id": "Axew Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Axew"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 2,
+            "maxLevel": 8,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas",
+					"mountainous"
+				]
+			},
+            "rarity": 40.0
+        }
+    ]
+}

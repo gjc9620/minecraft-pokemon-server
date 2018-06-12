@@ -1,0 +1,141 @@
+{
+  "pixelmonName": "Cinccino",
+  "pokemon": "Cinccino",
+  "stats": {
+    "HP": 75,
+    "Attack": 95,
+    "Defence": 60,
+    "Speed": 115,
+    "SpecialAttack": 65,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 25,
+  "spawnLevelRange": 12,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Minccino"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 7.5,
+  "evolutions": [],
+  "abilities": [
+    "CuteCharm",
+    "Technician",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bullet Seed",
+      "Rock Blast",
+      "Helping Hand",
+      "Tickle",
+      "Sing",
+      "Tail Slap"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Swift",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Seed Bomb",
+    "Uproar",
+    "Charm",
+    "DoubleSlap",
+    "Encore",
+    "Flail",
+    "Sing",
+    "Tickle",
+    "Charm",
+    "DoubleSlap",
+    "Encore"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Iron Tail",
+    "Knock Off",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Tail Whip"
+  ],
+  "forms": {},
+  "form": -1
+}

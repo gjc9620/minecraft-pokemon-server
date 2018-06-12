@@ -1,0 +1,26 @@
+{
+	"id": "Venusaur",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Venusaur"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 32,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

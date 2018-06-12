@@ -1,0 +1,18 @@
+{
+	"banlist": true,
+	"pokemon": [
+		"Mewtwo",
+		"Mew",
+		"Lugia",
+		"Ho-Oh",
+		"Celebi",
+		"Kyogre",
+		"Groudon",
+		"Rayquaza",
+		"Jirachi",
+		"Deoxys-Normal",
+		"Deoxys-Attack",
+		"Deoxys-Defense",
+		"Deoxys-Speed"
+	]
+}

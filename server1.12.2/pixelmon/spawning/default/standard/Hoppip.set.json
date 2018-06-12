@@ -1,0 +1,26 @@
+{
+	"id": "Hoppip",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hoppip"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"flowery",
+					"plains"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

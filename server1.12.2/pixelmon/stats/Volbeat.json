@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Volbeat",
+  "pokemon": "Volbeat",
+  "stats": {
+    "HP": 65,
+    "Attack": 73,
+    "Defence": 55,
+    "Speed": 85,
+    "SpecialAttack": 47,
+    "SpecialDefence": 75
+  },
+  "catchRate": 150,
+  "malePercent": 100,
+  "spawnLevel": 10,
+  "spawnLevelRange": 5,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 17.7,
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "Swarm",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Humanlike"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Flash",
+      "Tackle"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "8": [
+      "Confuse Ray"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Struggle Bug"
+    ],
+    "19": [
+      "Moonlight"
+    ],
+    "22": [
+      "Tail Glow"
+    ],
+    "26": [
+      "Signal Beam"
+    ],
+    "29": [
+      "Protect"
+    ],
+    "33": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Helping Hand"
+    ],
+    "40": [
+      "Bug Buzz"
+    ],
+    "43": [
+      "Play Rough"
+    ],
+    "47": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Flash",
+    "Thunder Wave",
+    "Struggle Bug",
+    "Psych Up",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Helping Hand",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Trick",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Dizzy Punch",
+    "Encore",
+    "Moonlight",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bug Buzz",
+    "Dizzy Punch",
+    "Encore",
+    "Seismic Toss",
+    "Silver Wind",
+    "Trick"
+  ],
+  "forms": {},
+  "form": -1
+}

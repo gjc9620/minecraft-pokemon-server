@@ -1,0 +1,25 @@
+{
+	"id": "Bibarel",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bibarel"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"river"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

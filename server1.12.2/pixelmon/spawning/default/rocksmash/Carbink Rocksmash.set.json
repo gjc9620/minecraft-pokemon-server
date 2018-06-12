@@ -1,0 +1,17 @@
+{
+    "id": "Carbink Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Carbink"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 25,
+            "maxLevel": 37,
+            "typeID": "pokemon",
+            "rarity": 50.0
+        }
+    ]
+}

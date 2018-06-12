@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Moltres",
+  "pokemon": "Moltres",
+  "stats": {
+    "HP": 90,
+    "Attack": 100,
+    "Defence": 90,
+    "Speed": 90,
+    "SpecialAttack": 125,
+    "SpecialDefence": 85
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 217,
+  "baseFriendship": 35,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 60.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Roost",
+      "Hurricane",
+      "Sky Attack",
+      "Heat Wave",
+      "Wing Attack",
+      "Ember"
+    ],
+    "8": [
+      "Fire Spin"
+    ],
+    "15": [
+      "Agility"
+    ],
+    "22": [
+      "Endure"
+    ],
+    "29": [
+      "AncientPower"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "43": [
+      "Safeguard"
+    ],
+    "50": [
+      "Air Slash"
+    ],
+    "57": [
+      "Sunny Day"
+    ],
+    "64": [
+      "Heat Wave"
+    ],
+    "71": [
+      "SolarBeam"
+    ],
+    "78": [
+      "Sky Attack"
+    ],
+    "85": [
+      "Roost"
+    ],
+    "92": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Sky Drop",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Air Slash",
+    "Extrasensory",
+    "Hurricane",
+    "Morning Sun",
+    "Peck",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,38 @@
+{
+	"id": "Aron",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Aron"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 15,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 8.0
+		},
+		{
+			"spec": {
+				"name": "Aron"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 15,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 60
+		}
+	]
+}

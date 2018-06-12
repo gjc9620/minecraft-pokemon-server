@@ -1,0 +1,26 @@
+{
+	"id": "Tangrowth",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Tangrowth"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 45,
+			"maxLevel": 57,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"swamps",
+					"jungles"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

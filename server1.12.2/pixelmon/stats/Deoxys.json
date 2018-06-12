@@ -1,0 +1,380 @@
+{
+  "pixelmonName": "Deoxys",
+  "pokemon": "Deoxys",
+  "stats": {
+    "HP": 50,
+    "Attack": 150,
+    "Defence": 50,
+    "Speed": 150,
+    "SpecialAttack": 150,
+    "SpecialDefence": 50
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 60.8,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Wrap"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "13": [
+      "Teleport"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "25": [
+      "Pursuit"
+    ],
+    "31": [
+      "Psychic"
+    ],
+    "37": [
+      "Snatch"
+    ],
+    "43": [
+      "Psycho Shift"
+    ],
+    "49": [
+      "Zen Headbutt"
+    ],
+    "55": [
+      "Cosmic Power"
+    ],
+    "61": [
+      "Recover"
+    ],
+    "67": [
+      "Psycho Boost"
+    ],
+    "73": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Ally Switch",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Seismic Toss",
+    "Dark Pulse",
+    "Avalanche",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide",
+    "Dark Pulse"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Wonder Room",
+    "Low Kick",
+    "Trick",
+    "Knock Off",
+    "Zen Headbutt",
+    "Iron Defense",
+    "Superpower",
+    "Magic Coat",
+    "Signal Beam",
+    "Gravity",
+    "Role Play"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 50,
+        "Attack": 180,
+        "Defence": 20,
+        "Speed": 150,
+        "SpecialAttack": 180,
+        "SpecialDefence": 20
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Attack": 2,
+        "SpecialAttack": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Teleport"
+        ],
+        "19": [
+          "Taunt"
+        ],
+        "25": [
+          "Pursuit"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Superpower"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Cosmic Power"
+        ],
+        "61": [
+          "Zap Cannon"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Hyper Beam"
+        ]
+      },
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 50,
+        "Attack": 70,
+        "Defence": 160,
+        "Speed": 90,
+        "SpecialAttack": 70,
+        "SpecialDefence": 160
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Defence": 2,
+        "SpecialDefence": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Teleport"
+        ],
+        "19": [
+          "Knock Off"
+        ],
+        "25": [
+          "Spikes"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Snatch"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Iron Defense",
+          "Amnesia"
+        ],
+        "61": [
+          "Recover"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Counter",
+          "Mirror Coat"
+        ]
+      },
+      "form": 2
+    },
+    "3": {
+      "stats": {
+        "HP": 50,
+        "Attack": 95,
+        "Defence": 90,
+        "Speed": 180,
+        "SpecialAttack": 95,
+        "SpecialDefence": 95
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Speed": 3
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Double Team"
+        ],
+        "19": [
+          "Knock Off"
+        ],
+        "25": [
+          "Pursuit"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Swift"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Agility"
+        ],
+        "61": [
+          "Recover"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "ExtremeSpeed"
+        ]
+      },
+      "form": 3
+    }
+  },
+  "form": 0
+}

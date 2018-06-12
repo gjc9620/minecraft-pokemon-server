@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Clamperl",
+  "pokemon": "Clamperl",
+  "stats": {
+    "HP": 35,
+    "Attack": 64,
+    "Defence": 85,
+    "Speed": 32,
+    "SpecialAttack": 74,
+    "SpecialDefence": 55
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 5,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": -1,
+    "depthRangeEnd": 0,
+    "swimSpeed": 0.0,
+    "decayRate": 0.0,
+    "refreshRate": 0
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 52.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gorebyss"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:deep_sea_scale"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    },
+    {
+      "to": {
+        "name": "Huntail"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:deep_sea_tooth"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "ShellArmour",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Clamp",
+      "Water Gun",
+      "Whirlpool",
+      "Iron Defense"
+    ],
+    "50": [
+      "Shell Smash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Aqua Ring",
+    "Barrier",
+    "Mud Sport",
+    "Refresh"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1
+}

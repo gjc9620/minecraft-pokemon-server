@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Roselia",
+  "pokemon": "Roselia",
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 45,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 80
+  },
+  "catchRate": 150,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 13,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Budew"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Roserade"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "PoisonPoint",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "7": [
+      "Poison Sting"
+    ],
+    "10": [
+      "Stun Spore"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Leech Seed"
+    ],
+    "19": [
+      "Magical Leaf"
+    ],
+    "22": [
+      "GrassWhistle"
+    ],
+    "25": [
+      "Giga Drain"
+    ],
+    "28": [
+      "Toxic Spikes"
+    ],
+    "31": [
+      "Sweet Scent"
+    ],
+    "34": [
+      "Ingrain"
+    ],
+    "37": [
+      "Petal Blizzard"
+    ],
+    "40": [
+      "Toxic"
+    ],
+    "43": [
+      "Aromatherapy"
+    ],
+    "46": [
+      "Synthesis"
+    ],
+    "50": [
+      "Petal Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Body Slam",
+    "Double-Edge",
+    "Mega Drain",
+    "Mimic",
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Nightmare",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Extrasensory",
+    "Growth",
+    "Leech Seed",
+    "Mind Reader",
+    "Petal Dance",
+    "Sweet Kiss",
+    "Water Sport",
+    "Water Sport",
+    "Sweet Kiss"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Cotton Spore",
+    "Extrasensory",
+    "Giga Drain",
+    "Leaf Storm",
+    "Mind Reader",
+    "Natural Gift",
+    "Pin Missile",
+    "Razor Leaf",
+    "Seed Bomb",
+    "Sleep Powder",
+    "Spikes",
+    "Synthesis",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

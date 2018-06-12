@@ -1,0 +1,239 @@
+{
+  "pixelmonName": "Pikachu",
+  "pokemon": "Pikachu",
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defence": 40,
+    "Speed": 90,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 44,
+  "baseExp": 82,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pichu"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 6.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "to": {
+        "name": "Raichu"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "ThunderShock",
+      "Tail Whip"
+    ],
+    "5": [
+      "Growl"
+    ],
+    "7": [
+      "Play Nice"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Electro Ball"
+    ],
+    "18": [
+      "Thunder Wave"
+    ],
+    "21": [
+      "Feint"
+    ],
+    "23": [
+      "Double Team"
+    ],
+    "26": [
+      "Spark"
+    ],
+    "29": [
+      "Nuzzle"
+    ],
+    "34": [
+      "Discharge"
+    ],
+    "37": [
+      "Slam"
+    ],
+    "42": [
+      "Thunderbolt"
+    ],
+    "45": [
+      "Agility"
+    ],
+    "50": [
+      "Wild Charge"
+    ],
+    "53": [
+      "Light Screen"
+    ],
+    "58": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Surf",
+    "Fly",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Pay Day",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Detect",
+    "Focus Punch",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "Uproar",
+    "Agility",
+    "Charm",
+    "Dizzy Punch",
+    "DoubleSlap",
+    "Encore",
+    "ExtremeSpeed",
+    "Fake Out",
+    "Flail",
+    "Follow Me",
+    "Nasty Plot",
+    "Petal Dance",
+    "Reversal",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Teeter Dance",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Volt Tackle",
+    "Electroweb",
+    "Hold Hands",
+    "Celebrate",
+    "Happy Hour",
+    "Heart Stamp"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Bide",
+    "Charge",
+    "Encore",
+    "Endure",
+    "Fake Out",
+    "Flail",
+    "Lucky Chant",
+    "Present",
+    "Reversal",
+    "Thunder Punch",
+    "Tickle",
+    "Wish",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,41 @@
+{
+	"id": "Gastly",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gastly"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 8,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"taigas",
+					"redwoods"
+				]
+			},
+			"rarity": 150.0
+		},
+		{
+			"spec": {
+				"name": "Gastly"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 8,
+			"maxLevel": 25,
+			"condition": {
+				"maxY": 50
+			},
+			"typeID": "pokemon",
+			"rarity": 150.0
+		}	
+	]
+}

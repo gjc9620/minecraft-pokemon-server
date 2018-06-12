@@ -1,0 +1,22 @@
+{
+	"id": "Swanna",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Swanna"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 36,
+			"maxLevel": 47,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

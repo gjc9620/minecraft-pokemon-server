@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Aromatisse",
+  "pokemon": "Aromatisse",
+  "stats": {
+    "HP": 101,
+    "Attack": 72,
+    "Defence": 72,
+    "Speed": 29,
+    "SpecialAttack": 99,
+    "SpecialDefence": 89
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 12,
+  "baseExp": 162,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Spritzee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 15.5,
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    null,
+    "AromaVeil"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aromatic Mist",
+      "Heal Pulse",
+      "Sweet Scent",
+      "Fairy Wind"
+    ],
+    "6": [
+      "Sweet Kiss"
+    ],
+    "8": [
+      "Odor Sleuth"
+    ],
+    "13": [
+      "Echoed Voice"
+    ],
+    "17": [
+      "Calm Mind"
+    ],
+    "21": [
+      "Draining Kiss"
+    ],
+    "25": [
+      "Aromatherapy"
+    ],
+    "29": [
+      "Attract"
+    ],
+    "31": [
+      "Moonblast"
+    ],
+    "35": [
+      "Charm"
+    ],
+    "38": [
+      "Flail"
+    ],
+    "42": [
+      "Misty Terrain"
+    ],
+    "44": [
+      "Skill Swap"
+    ],
+    "48": [
+      "Psychic"
+    ],
+    "53": [
+      "Disarming Voice"
+    ],
+    "57": [
+      "Reflect"
+    ],
+    "64": [
+      "Psych Up"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Drain Punch",
+    "Skill Swap",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Disable",
+    "Refresh",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

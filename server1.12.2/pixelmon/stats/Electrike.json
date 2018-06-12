@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Electrike",
+  "pokemon": "Electrike",
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 104,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 15.2,
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Manectric"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    "LightningRod",
+    "Minus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Thunder Wave"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Howl"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "16": [
+      "Odor Sleuth"
+    ],
+    "19": [
+      "Thunder Fang"
+    ],
+    "24": [
+      "Bite"
+    ],
+    "29": [
+      "Discharge"
+    ],
+    "34": [
+      "Roar"
+    ],
+    "39": [
+      "Wild Charge"
+    ],
+    "44": [
+      "Charge"
+    ],
+    "49": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Snarl",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Bite",
+    "Howl",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Crunch",
+    "Curse",
+    "Discharge",
+    "Electro Ball",
+    "Fire Fang",
+    "Flame Burst",
+    "Headbutt",
+    "Ice Fang",
+    "Shock Wave",
+    "Swift",
+    "Switcheroo",
+    "Thunder Fang",
+    "Uproar",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

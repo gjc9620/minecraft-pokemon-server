@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Charmander",
+  "pokemon": "Charmander",
+  "stats": {
+    "HP": 39,
+    "Attack": 52,
+    "Defence": 43,
+    "Speed": 65,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Charmeleon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Growl"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "10": [
+      "SmokeScreen"
+    ],
+    "16": [
+      "Dragon Rage"
+    ],
+    "19": [
+      "Scary Face"
+    ],
+    "25": [
+      "Fire Fang"
+    ],
+    "28": [
+      "Flame Burst"
+    ],
+    "34": [
+      "Slash"
+    ],
+    "37": [
+      "Flamethrower"
+    ],
+    "43": [
+      "Fire Spin"
+    ],
+    "46": [
+      "Inferno"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Acrobatics",
+    "False Swipe",
+    "Reflect",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Blast Burn",
+    "Block",
+    "Fire Pledge",
+    "Heat Wave",
+    "Air Cutter",
+    "Beat Up",
+    "Belly Drum",
+    "Bite",
+    "Flare Blitz",
+    "Howl",
+    "Scary Face",
+    "Slash",
+    "Inferno",
+    "Leer",
+    "Dragon Pulse",
+    "Quick Attack",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Air Cutter",
+    "Beat Up",
+    "Belly Drum",
+    "Bite",
+    "Counter",
+    "Crunch",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Flare Blitz",
+    "Focus Punch",
+    "Metal Claw",
+    "Outrage",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

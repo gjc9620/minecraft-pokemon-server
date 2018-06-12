@@ -1,0 +1,84 @@
+{
+  "pixelmonName": "Cascoon",
+  "pokemon": "Cascoon",
+  "stats": {
+    "HP": 50,
+    "Attack": 35,
+    "Defence": 55,
+    "Speed": 15,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 5,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wurmple"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 11.5,
+  "evolutions": [
+    {
+      "level": 10,
+      "to": {
+        "name": "Dustox"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Harden"
+    ],
+    "7": [
+      "Harden"
+    ]
+  },
+  "tmMoves": [
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "String Shot",
+    "Harden",
+    "Tackle",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

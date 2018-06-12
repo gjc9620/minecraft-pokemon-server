@@ -1,0 +1,25 @@
+{
+	"id": "Zorua",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Zorua"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"minecraft:plains"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

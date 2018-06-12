@@ -1,0 +1,199 @@
+{
+  "pixelmonName": "Nosepass",
+  "pokemon": "Nosepass",
+  "stats": {
+    "HP": 30,
+    "Attack": 45,
+    "Defence": 135,
+    "Speed": 30,
+    "SpecialAttack": 45,
+    "SpecialDefence": 90
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 108,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 97.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Probopass"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:extreme_hills",
+            "minecraft:smaller_extreme_hills",
+            "minecraft:extreme_hills_with_trees",
+            "minecraft:mutated_extreme_hills",
+            "minecraft:mutated_extreme_hills_with_trees"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "MagnetPull",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Block"
+    ],
+    "10": [
+      "Rock Throw"
+    ],
+    "13": [
+      "Thunder Wave"
+    ],
+    "16": [
+      "Rest"
+    ],
+    "19": [
+      "Spark"
+    ],
+    "22": [
+      "Rock Slide"
+    ],
+    "25": [
+      "Power Gem"
+    ],
+    "28": [
+      "Rock Blast"
+    ],
+    "31": [
+      "Discharge"
+    ],
+    "34": [
+      "Sandstorm"
+    ],
+    "37": [
+      "Earth Power"
+    ],
+    "40": [
+      "Stone Edge"
+    ],
+    "43": [
+      "Lock-On",
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Volt Switch",
+    "Thunder Wave",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Shock Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Gravity",
+    "Helping Hand",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Pain Split",
+    "Rock Throw",
+    "Harden",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Block",
+    "Double-Edge",
+    "Endure",
+    "Magnitude",
+    "Rollout",
+    "Stealth Rock",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

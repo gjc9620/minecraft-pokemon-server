@@ -1,0 +1,23 @@
+{
+	"id": "Mega Lopunny",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lopunny"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"spawnSpecificBossRate": 1,
+			"condition": {
+				"stringBiomes": [
+					"plains",
+					"mountainous"
+				]
+			},
+			"interval": "megaBoss",
+			"typeID": "pokemon",
+			"rarity": 10
+		}
+	]
+}

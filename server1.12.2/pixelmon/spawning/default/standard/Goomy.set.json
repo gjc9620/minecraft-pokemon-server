@@ -1,0 +1,25 @@
+{
+	"id": "Goomy",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Goomy"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 39,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

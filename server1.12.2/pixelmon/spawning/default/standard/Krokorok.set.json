@@ -1,0 +1,25 @@
+{
+	"id": "Krokorok",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Krokorok"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 29,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Pignite",
+  "pokemon": "Pignite",
+  "stats": {
+    "HP": 90,
+    "Attack": 93,
+    "Defence": 55,
+    "Speed": 55,
+    "SpecialAttack": 70,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 17,
+  "spawnLevelRange": 18,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 1.0,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tepig"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 55.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Emboar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip",
+      "Ember",
+      "Odor Sleuth"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Odor Sleuth"
+    ],
+    "13": [
+      "Defense Curl"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "17": [
+      "Arm Thrust"
+    ],
+    "20": [
+      "Smog"
+    ],
+    "23": [
+      "Rollout"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Heat Crash"
+    ],
+    "36": [
+      "Assurance"
+    ],
+    "39": [
+      "Flamethrower"
+    ],
+    "44": [
+      "Head Smash"
+    ],
+    "47": [
+      "Roar"
+    ],
+    "52": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Fire Pledge",
+    "Heat Wave",
+    "Helping Hand",
+    "Low Kick",
+    "Sucker Punch",
+    "Superpower",
+    "Flare Blitz",
+    "Thrash",
+    "Yawn",
+    "Tackle",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Covet",
+    "Curse",
+    "Endeavor",
+    "Heavy Slam",
+    "Magnitude",
+    "Sleep Talk",
+    "Sucker Punch",
+    "Superpower",
+    "Thrash",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

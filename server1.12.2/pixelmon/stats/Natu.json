@@ -1,0 +1,218 @@
+{
+  "pixelmonName": "Natu",
+  "pokemon": "Natu",
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defence": 45,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 45
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 19,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 0.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 8,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Xatu"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "EarlyBird",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Leer"
+    ],
+    "6": [
+      "Night Shade"
+    ],
+    "9": [
+      "Teleport"
+    ],
+    "12": [
+      "Lucky Chant"
+    ],
+    "17": [
+      "Stored Power"
+    ],
+    "20": [
+      "Ominous Wind"
+    ],
+    "23": [
+      "Confuse Ray"
+    ],
+    "28": [
+      "Wish"
+    ],
+    "33": [
+      "Psychic"
+    ],
+    "36": [
+      "Miracle Eye"
+    ],
+    "39": [
+      "Psycho Shift"
+    ],
+    "44": [
+      "Future Sight"
+    ],
+    "47": [
+      "Power Swap",
+      "Guard Swap"
+    ],
+    "50": [
+      "Me First"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Ally Switch",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Double-Edge",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Nightmare",
+    "Skill Swap",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Safeguard",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Magic Coat",
+    "Magic Room",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Sucker Punch",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Faint Attack",
+    "FeatherDance",
+    "Haze",
+    "Night Shade",
+    "Refresh",
+    "Wish",
+    "Peck",
+    "Leer",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Drill Peck",
+    "Haze",
+    "Quick Attack",
+    "Refresh",
+    "Roost",
+    "Simple Beam",
+    "Skill Swap",
+    "Steel Wing",
+    "Sucker Punch",
+    "Synchronoise",
+    "Zen Headbutt",
+    "FeatherDance",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

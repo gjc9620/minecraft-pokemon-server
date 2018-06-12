@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Goodra",
+  "pokemon": "Goodra",
+  "stats": {
+    "HP": 90,
+    "Attack": 100,
+    "Defence": 70,
+    "Speed": 80,
+    "SpecialAttack": 110,
+    "SpecialDefence": 150
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 51,
+  "spawnLevelRange": 13,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sliggoo",
+    "Goomy"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 150.5,
+  "evolutions": [],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Outrage",
+      "Feint",
+      "Tackle",
+      "Bubble"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Protect"
+    ],
+    "13": [
+      "Bide"
+    ],
+    "18": [
+      "DragonBreath"
+    ],
+    "25": [
+      "Rain Dance"
+    ],
+    "28": [
+      "Flail"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "38": [
+      "Muddy Water"
+    ],
+    "47": [
+      "Dragon Pulse"
+    ],
+    "50": [
+      "Aqua Tail"
+    ],
+    "55": [
+      "Power Whip"
+    ],
+    "63": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Incinerate",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Strength",
+    "Rock Smash",
+    "Dragon Pulse",
+    "Fire Punch",
+    "Focus Punch",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Outrage",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Counter",
+    "Curse",
+    "Endure",
+    "Iron Tail",
+    "Poison Tail"
+  ],
+  "forms": {},
+  "form": -1
+}

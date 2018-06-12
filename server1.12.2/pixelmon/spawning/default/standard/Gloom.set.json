@@ -1,0 +1,28 @@
+{
+	"id": "Gloom",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gloom"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 21,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"swamps",
+					"jungles",
+					"flowery"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

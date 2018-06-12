@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Snivy",
+  "pokemon": "Snivy",
+  "stats": {
+    "HP": 45,
+    "Attack": 45,
+    "Defence": 55,
+    "Speed": 63,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 28,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.6,
+  "width": 0.2,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.1,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Servine"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Vine Whip"
+    ],
+    "10": [
+      "Wrap"
+    ],
+    "13": [
+      "Growth"
+    ],
+    "16": [
+      "Leaf Tornado"
+    ],
+    "19": [
+      "Leech Seed"
+    ],
+    "22": [
+      "Mega Drain"
+    ],
+    "25": [
+      "Slam"
+    ],
+    "28": [
+      "Leaf Blade"
+    ],
+    "31": [
+      "Coil"
+    ],
+    "34": [
+      "Giga Drain"
+    ],
+    "37": [
+      "Wring Out"
+    ],
+    "40": [
+      "Gastro Acid"
+    ],
+    "43": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Drain",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Snatch",
+    "Natural Gift",
+    "Captivate",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Gastro Acid",
+    "Grass Pledge",
+    "Knock Off",
+    "Seed Bomb",
+    "Synthesis",
+    "Twister",
+    "Worry Seed",
+    "Aromatherapy",
+    "Growth",
+    "Leech Seed",
+    "Pursuit",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Glare",
+    "Iron Tail",
+    "Magical Leaf",
+    "Mean Look",
+    "Mirror Coat",
+    "Natural Gift",
+    "Pursuit",
+    "Sweet Scent",
+    "Twister",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "gnome_trader.png"
+    },
+    {
+      "name": "spawntrader.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Jorlen"
+    },
+    {
+      "name": "Vincent"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "You there! Pokémon hunter! I have precious items to offer you!",
+      "goodbye": "If you are lucky, you might see me again, Pokémon hunter."
+    },
+    {
+      "hello": "Hello! I see you are a connoisseur of fine Pokémon ware! I have some rare treasures for sale here.",
+      "goodbye": "It's been a pleasure doing business with you."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "Poke Ball",
+      "multi": 0.9
+    },
+    {
+      "name": "Great Ball"
+    },
+    {
+      "name": "Max Potion",
+      "multi": 1.1
+    },
+    {
+      "name": "Rare Candy",
+      "rarity": 0.2
+    }
+  ]
+}

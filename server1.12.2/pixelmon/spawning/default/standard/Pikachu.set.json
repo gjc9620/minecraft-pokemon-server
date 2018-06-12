@@ -1,0 +1,28 @@
+{
+	"id": "Pikachu",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pikachu"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 6,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:light_ball",
+					"percentChance": 12
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"all forests"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

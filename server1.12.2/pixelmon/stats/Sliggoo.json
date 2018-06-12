@@ -1,0 +1,143 @@
+{
+  "pixelmonName": "Sliggoo",
+  "pokemon": "Sliggoo",
+  "stats": {
+    "HP": 68,
+    "Attack": 75,
+    "Defence": 53,
+    "Speed": 60,
+    "SpecialAttack": 83,
+    "SpecialDefence": 113
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 8,
+  "baseExp": 158,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Goomy"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 17.5,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Goodra"
+      },
+      "conditions": [
+        {
+          "weather": "RAIN",
+          "evoConditionType": "weather"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Bubble"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Protect"
+    ],
+    "13": [
+      "Bide"
+    ],
+    "18": [
+      "DragonBreath"
+    ],
+    "25": [
+      "Rain Dance"
+    ],
+    "28": [
+      "Flail"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "38": [
+      "Muddy Water"
+    ],
+    "47": [
+      "Dragon Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Outrage"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Counter",
+    "Curse",
+    "Endure",
+    "Iron Tail",
+    "Poison Tail"
+  ],
+  "forms": {},
+  "form": -1
+}

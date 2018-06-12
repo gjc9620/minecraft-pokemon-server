@@ -1,0 +1,28 @@
+{
+	"id": "Vanillish",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Vanillish"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mutated_ice_flats",
+					"frozen_ocean",
+					"frozen_river",
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

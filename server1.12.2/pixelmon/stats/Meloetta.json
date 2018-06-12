@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Meloetta",
+  "pokemon": "Meloetta",
+  "stats": {
+    "HP": 100,
+    "Attack": 77,
+    "Defence": 77,
+    "Speed": 90,
+    "SpecialAttack": 128,
+    "SpecialDefence": 128
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 100,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "SpecialDefence": 1,
+    "Speed": 1
+  },
+  "weight": 6.5,
+  "evolutions": [],
+  "abilities": [
+    "SereneGrace",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Round"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "11": [
+      "Confusion"
+    ],
+    "16": [
+      "Sing"
+    ],
+    "21": [
+      "Teeter Dance"
+    ],
+    "26": [
+      "Acrobatics"
+    ],
+    "31": [
+      "Psybeam"
+    ],
+    "36": [
+      "Echoed Voice"
+    ],
+    "43": [
+      "U-Turn"
+    ],
+    "50": [
+      "Wake-Up Slap"
+    ],
+    "57": [
+      "Psychic"
+    ],
+    "64": [
+      "Hyper Voice"
+    ],
+    "71": [
+      "Role Play"
+    ],
+    "78": [
+      "Close Combat"
+    ],
+    "85": [
+      "Perish Song"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Rock Smash",
+    "Strength",
+    "Snore",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dual Chop",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Sing",
+    "Teeter Dance",
+    "Relic Song"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 100,
+        "Attack": 128,
+        "Defence": 90,
+        "Speed": 128,
+        "SpecialAttack": 77,
+        "SpecialDefence": 77
+      },
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "spawnLocations": [],
+      "evYields": {
+        "Attack": 1,
+        "Defence": 1,
+        "Speed": 1
+      },
+      "form": 1
+    }
+  },
+  "form": -1
+}

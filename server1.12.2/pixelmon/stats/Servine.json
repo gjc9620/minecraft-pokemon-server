@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Servine",
+  "pokemon": "Servine",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 75,
+    "Speed": 83,
+    "SpecialAttack": 60,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 17,
+  "spawnLevelRange": 18,
+  "baseExp": 145,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.8,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snivy"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 16.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Serperior"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Leer",
+      "Vine Whip",
+      "Wrap"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Vine Whip"
+    ],
+    "10": [
+      "Wrap"
+    ],
+    "13": [
+      "Growth"
+    ],
+    "16": [
+      "Leaf Tornado"
+    ],
+    "20": [
+      "Leech Seed"
+    ],
+    "24": [
+      "Mega Drain"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Leaf Blade"
+    ],
+    "36": [
+      "Coil"
+    ],
+    "40": [
+      "Giga Drain"
+    ],
+    "44": [
+      "Wring Out"
+    ],
+    "48": [
+      "Gastro Acid"
+    ],
+    "52": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Mega Drain",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Snatch",
+    "Natural Gift",
+    "Captivate",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Gastro Acid",
+    "Grass Pledge",
+    "Knock Off",
+    "Seed Bomb",
+    "Synthesis",
+    "Twister",
+    "Worry Seed",
+    "Aromatherapy",
+    "Growth",
+    "Leech Seed",
+    "Pursuit",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Glare",
+    "Iron Tail",
+    "Magical Leaf",
+    "Mean Look",
+    "Mirror Coat",
+    "Natural Gift",
+    "Pursuit",
+    "Sweet Scent",
+    "Twister",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,247 @@
+{
+  "pixelmonName": "Blaziken",
+  "pokemon": "Blaziken",
+  "stats": {
+    "HP": 80,
+    "Attack": 120,
+    "Defence": 70,
+    "Speed": 80,
+    "SpecialAttack": 110,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 209,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 1.9,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Combusken",
+    "Torchic"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 52.0,
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flare Blitz",
+      "Fire Punch",
+      "Hi Jump Kick",
+      "Scratch",
+      "Growl",
+      "Ember",
+      "Sand-Attack"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "10": [
+      "Sand-Attack"
+    ],
+    "14": [
+      "Peck"
+    ],
+    "16": [
+      "Double Kick"
+    ],
+    "20": [
+      "Flame Charge"
+    ],
+    "25": [
+      "Quick Attack"
+    ],
+    "31": [
+      "Bulk Up"
+    ],
+    "36": [
+      "Blaze Kick"
+    ],
+    "37": [
+      "Focus Energy"
+    ],
+    "44": [
+      "Slash"
+    ],
+    "50": [
+      "Brave Bird"
+    ],
+    "57": [
+      "Sky Uppercut"
+    ],
+    "63": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Blast Burn",
+    "Bounce",
+    "Dual Chop",
+    "Fire Pledge",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Role Play",
+    "Superpower",
+    "Vacuum Wave",
+    "Agility",
+    "Baton Pass",
+    "Crush Claw",
+    "FeatherDance",
+    "Flare Blitz",
+    "Reversal",
+    "Peck",
+    "Focus Energy",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Counter",
+    "Crush Claw",
+    "Curse",
+    "Endure",
+    "Feint",
+    "Flame Burst",
+    "Last Resort",
+    "Low Kick",
+    "Night Slash",
+    "Reversal",
+    "FeatherDance",
+    "SmellingSalt"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 160,
+        "Defence": 80,
+        "Speed": 100,
+        "SpecialAttack": 130,
+        "SpecialDefence": 80
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "abilities": [
+        "SpeedBoost",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

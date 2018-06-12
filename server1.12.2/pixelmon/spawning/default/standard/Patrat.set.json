@@ -1,0 +1,27 @@
+{
+	"id": "Patrat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Patrat"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 6,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"savannas",
+					"forest",
+					"minecraft:plains"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

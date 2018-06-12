@@ -1,0 +1,25 @@
+{
+	"id": "Hitmonchan",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hitmonchan"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Hitmonchan",
+  "pokemon": "Hitmonchan",
+  "stats": {
+    "HP": 50,
+    "Attack": 105,
+    "Defence": 79,
+    "Speed": 76,
+    "SpecialAttack": 35,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 140,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tyrogue"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 50.2,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "IronFist",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Close Combat",
+      "Counter",
+      "Focus Punch",
+      "Revenge",
+      "Comet Punch"
+    ],
+    "6": [
+      "Agility"
+    ],
+    "11": [
+      "Pursuit"
+    ],
+    "16": [
+      "Mach Punch",
+      "Bullet Punch"
+    ],
+    "21": [
+      "Feint"
+    ],
+    "26": [
+      "Vacuum Wave"
+    ],
+    "31": [
+      "Quick Guard"
+    ],
+    "36": [
+      "Thunder Punch",
+      "Ice Punch",
+      "Fire Punch"
+    ],
+    "41": [
+      "Sky Uppercut"
+    ],
+    "46": [
+      "Mega Punch"
+    ],
+    "50": [
+      "Detect"
+    ],
+    "56": [
+      "Focus Punch"
+    ],
+    "61": [
+      "Counter"
+    ],
+    "66": [
+      "Close Combat"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Swift",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Uproar",
+    "Vacuum Wave",
+    "Agility",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foresight",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Bullet Punch",
+    "Counter",
+    "Endure",
+    "Feint",
+    "Helping Hand",
+    "Mach Punch",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Vacuum Wave",
+    "Hi Jump Kick"
+  ],
+  "forms": {},
+  "form": -1
+}

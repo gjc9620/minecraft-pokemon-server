@@ -1,0 +1,201 @@
+{
+  "pixelmonName": "Scrafty",
+  "pokemon": "Scrafty",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 115,
+    "Speed": 58,
+    "SpecialAttack": 45,
+    "SpecialDefence": 115
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 0,
+  "baseExp": 171,
+  "baseFriendship": 70,
+  "types": [
+    "Dark",
+    "Fighting"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scraggy"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 30.0,
+  "evolutions": [],
+  "abilities": [
+    "ShedSkin",
+    "Moxie",
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Low Kick",
+      "Sand-Attack",
+      "Faint Attack"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Faint Attack"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "16": [
+      "Swagger"
+    ],
+    "20": [
+      "Brick Break"
+    ],
+    "23": [
+      "Payback"
+    ],
+    "27": [
+      "Chip Away"
+    ],
+    "31": [
+      "Hi Jump Kick"
+    ],
+    "34": [
+      "Scary Face"
+    ],
+    "38": [
+      "Crunch"
+    ],
+    "45": [
+      "Facade"
+    ],
+    "51": [
+      "Rock Climb"
+    ],
+    "58": [
+      "Focus Punch"
+    ],
+    "65": [
+      "Head Smash"
+    ]
+  },
+  "tmMoves": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Rock Slide",
+    "Dragon Tail",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Rock Climb",
+    "Counter",
+    "Headbutt",
+    "Snore",
+    "Iron Tail",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Snatch",
+    "Dragon Pulse",
+    "Drain Punch",
+    "Dark Pulse",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Foul Play",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Outrage",
+    "Spite",
+    "Super Fang",
+    "Zen Headbutt",
+    "Amnesia",
+    "Faint Attack",
+    "Fake Out",
+    "Scary Face",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Counter",
+    "Detect",
+    "Dragon Dance",
+    "Drain Punch",
+    "Fake Out",
+    "Fire Punch",
+    "Ice Punch",
+    "Quick Guard",
+    "Thunder Punch",
+    "Zen Headbutt",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

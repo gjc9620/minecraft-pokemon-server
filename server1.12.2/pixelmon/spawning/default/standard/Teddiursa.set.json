@@ -1,0 +1,30 @@
+{
+	"id": "Teddiursa",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Teddiursa"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 29,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forest_hills",
+					"taiga_hills",
+					"birch_forest_hills",
+					"redwood_taiga_hills",
+					"mutated_taiga",
+					"mutated_birch_forest",
+					"mutated_birch_forest_hills",
+					"mutated_roofed_forest",
+					"mutated_redwood_taiga_hills"
+				]
+			},
+			"rarity": 18.0
+		}
+	]
+}

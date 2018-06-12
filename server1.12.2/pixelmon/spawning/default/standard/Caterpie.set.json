@@ -1,0 +1,28 @@
+{
+	"id": "Caterpie",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Caterpie"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 2,
+			"maxLevel": 7,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

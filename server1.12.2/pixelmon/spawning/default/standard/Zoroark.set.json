@@ -1,0 +1,25 @@
+{
+	"id": "Zoroark",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Zoroark"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"minecraft:plains"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Tyrunt",
+  "pokemon": "Tyrunt",
+  "stats": {
+    "HP": 58,
+    "Attack": 89,
+    "Defence": 77,
+    "Speed": 48,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 22,
+  "spawnLevelRange": 16,
+  "baseExp": 72,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Dragon"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 26.0,
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Tyrantrum"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "StrongJaw",
+    null,
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Tail Whip",
+      "Tackle"
+    ],
+    "6": [
+      "Roar"
+    ],
+    "10": [
+      "Stomp"
+    ],
+    "12": [
+      "Bide"
+    ],
+    "15": [
+      "Stealth Rock"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "20": [
+      "Charm"
+    ],
+    "26": [
+      "AncientPower"
+    ],
+    "30": [
+      "Dragon Tail"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "37": [
+      "Dragon Claw"
+    ],
+    "40": [
+      "Thrash"
+    ],
+    "44": [
+      "Earthquake"
+    ],
+    "49": [
+      "Horn Drill"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Strength",
+    "Rock Smash",
+    "Dragon Pulse",
+    "Iron Tail",
+    "Snore",
+    "Stealth Rock"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Draco Meteor",
+    "Earth Power",
+    "Hyper Voice",
+    "Iron Defense",
+    "Iron Head",
+    "Outrage",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Dragon Dance",
+    "Fire Fang",
+    "Ice Fang",
+    "Poison Fang",
+    "Rock Polish",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

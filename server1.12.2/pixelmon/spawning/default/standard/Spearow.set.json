@@ -1,0 +1,29 @@
+{
+	"id": "Spearow",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Spearow"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"forest",
+					"forest_hills",
+					"mutated_plains"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

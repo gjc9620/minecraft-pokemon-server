@@ -1,0 +1,22 @@
+{
+	"id": "Starmie",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Starmie"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 30,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"deep_ocean"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

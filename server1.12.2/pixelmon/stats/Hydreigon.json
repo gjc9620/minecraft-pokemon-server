@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Hydreigon",
+  "pokemon": "Hydreigon",
+  "stats": {
+    "HP": 92,
+    "Attack": 105,
+    "Defence": 90,
+    "Speed": 98,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 65,
+  "spawnLevelRange": 6,
+  "baseExp": 270,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zweilous",
+    "Deino"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 160.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Outrage",
+      "Hyper Voice",
+      "Tri Attack",
+      "Dragon Rage",
+      "Focus Energy",
+      "Bite"
+    ],
+    "4": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "17": [
+      "DragonBreath"
+    ],
+    "20": [
+      "Roar"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Dragon Pulse"
+    ],
+    "38": [
+      "Work Up"
+    ],
+    "42": [
+      "Dragon Rush"
+    ],
+    "48": [
+      "Body Slam"
+    ],
+    "55": [
+      "Scary Face"
+    ],
+    "68": [
+      "Hyper Voice"
+    ],
+    "79": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Charge Beam",
+    "Incinerate",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Work Up",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Fly",
+    "Surf",
+    "Strength",
+    "Body Slam",
+    "Dragon Rage",
+    "Tri Attack",
+    "Headbutt",
+    "Snore",
+    "Iron Tail",
+    "DragonBreath",
+    "Sleep Talk",
+    "Roost",
+    "Dragon Pulse",
+    "Dark Pulse",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Earth Power",
+    "Heat Wave",
+    "Hyper Voice",
+    "Outrage",
+    "Signal Beam",
+    "Spite",
+    "Superpower",
+    "Tailwind",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Astonish",
+    "Dark Pulse",
+    "Double Hit",
+    "Earth Power",
+    "Fire Fang",
+    "Head Smash",
+    "Ice Fang",
+    "Screech",
+    "Thunder Fang"
+  ],
+  "forms": {},
+  "form": -1
+}

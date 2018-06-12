@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Sandile",
+  "pokemon": "Sandile",
+  "stats": {
+    "HP": 50,
+    "Attack": 72,
+    "Defence": 35,
+    "Speed": 65,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dark"
+  ],
+  "height": 0.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.2,
+  "evolutions": [
+    {
+      "level": 29,
+      "to": {
+        "name": "Krokorok"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "Moxie",
+    "AngerPoint"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Rage"
+    ],
+    "4": [
+      "Bite"
+    ],
+    "7": [
+      "Sand-Attack"
+    ],
+    "10": [
+      "Torment"
+    ],
+    "13": [
+      "Sand Tomb"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "19": [
+      "Mud-Slap"
+    ],
+    "22": [
+      "Embargo"
+    ],
+    "25": [
+      "Swagger"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "31": [
+      "Dig"
+    ],
+    "34": [
+      "Scary Face"
+    ],
+    "37": [
+      "Foul Play"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "43": [
+      "Earthquake"
+    ],
+    "46": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Snarl",
+    "Cut",
+    "Rock Climb",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Snore",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Snatch",
+    "Stealth Rock",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Earth Power",
+    "Foul Play",
+    "Spite",
+    "Uproar",
+    "Beat Up",
+    "Bite",
+    "Pursuit",
+    "Scary Face",
+    "Thrash",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Counter",
+    "Double-Edge",
+    "Fire Fang",
+    "Focus Energy",
+    "Me First",
+    "Mean Look",
+    "Pursuit",
+    "Rock Climb",
+    "Thunder Fang",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Dewott",
+  "pokemon": "Dewott",
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 60,
+    "SpecialAttack": 83,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 17,
+  "spawnLevelRange": 18,
+  "baseExp": 145,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Oshawott"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 24.5,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Samurott"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip",
+      "Water Gun",
+      "Water Sport"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "17": [
+      "Razor Shell"
+    ],
+    "20": [
+      "Fury Cutter"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "28": [
+      "Revenge"
+    ],
+    "33": [
+      "Aqua Jet"
+    ],
+    "36": [
+      "Encore"
+    ],
+    "41": [
+      "Aqua Tail"
+    ],
+    "44": [
+      "Retaliate"
+    ],
+    "49": [
+      "Swords Dance"
+    ],
+    "52": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Water Gun",
+    "Snore",
+    "Icy Wind",
+    "Iron Tail",
+    "Sleep Talk",
+    "Detect",
+    "Fury Cutter",
+    "Water Pulse",
+    "Brine",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Helping Hand",
+    "Water Pledge",
+    "Air Slash",
+    "Encore",
+    "Hydro Pump",
+    "Water Sport",
+    "Focus Energy",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Assurance",
+    "Brine",
+    "Copycat",
+    "Detect",
+    "Night Slash",
+    "Screech",
+    "Trump Card"
+  ],
+  "forms": {},
+  "form": -1
+}

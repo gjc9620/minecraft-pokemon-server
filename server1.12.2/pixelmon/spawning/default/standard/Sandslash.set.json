@@ -1,0 +1,26 @@
+{
+	"id": "Sandslash",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sandslash"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Tranquill",
+  "pokemon": "Tranquill",
+  "stats": {
+    "HP": 62,
+    "Attack": 77,
+    "Defence": 62,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 42
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 9,
+  "baseExp": 125,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pidove"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Unfezant"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 32,
+      "to": {
+        "name": "Unfezant"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Growl",
+      "Leer",
+      "Quick Attack"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Leer"
+    ],
+    "11": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Air Cutter"
+    ],
+    "18": [
+      "Roost"
+    ],
+    "23": [
+      "Detect"
+    ],
+    "27": [
+      "Taunt"
+    ],
+    "32": [
+      "Air Slash"
+    ],
+    "36": [
+      "Razor Wind"
+    ],
+    "41": [
+      "FeatherDance"
+    ],
+    "45": [
+      "Swagger"
+    ],
+    "50": [
+      "Facade"
+    ],
+    "54": [
+      "Tailwind"
+    ],
+    "59": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Razor Wind",
+    "Sky Attack",
+    "Snore",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "FeatherDance",
+    "Gust",
+    "Hypnosis",
+    "Morning Sun",
+    "Wish",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Hypnosis",
+    "Lucky Chant",
+    "Morning Sun",
+    "Night Slash",
+    "Steel Wing",
+    "Uproar",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

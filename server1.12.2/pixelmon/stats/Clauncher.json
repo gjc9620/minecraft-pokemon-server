@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Clauncher",
+  "pokemon": "Clauncher",
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 62,
+    "Speed": 44,
+    "SpecialAttack": 58,
+    "SpecialDefence": 63
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 12,
+  "baseExp": 66,
+  "baseFriendship": 0,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 8.3,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Clawitzer"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "MegaLauncher",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Water Gun"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "9": [
+      "Vice Grip"
+    ],
+    "12": [
+      "Bubble"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "BubbleBeam"
+    ],
+    "25": [
+      "Swords Dance"
+    ],
+    "30": [
+      "Crabhammer"
+    ],
+    "34": [
+      "Water Pulse"
+    ],
+    "39": [
+      "Smack Down"
+    ],
+    "43": [
+      "Aqua Jet"
+    ],
+    "48": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Dragon Pulse",
+    "Icy Wind",
+    "Iron Tail",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Helping Hand"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Crabhammer",
+    "Endure",
+    "Entrainment",
+    "Helping Hand"
+  ],
+  "forms": {},
+  "form": -1
+}

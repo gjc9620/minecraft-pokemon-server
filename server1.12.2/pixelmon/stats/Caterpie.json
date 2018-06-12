@@ -1,0 +1,80 @@
+{
+  "pixelmonName": "Caterpie",
+  "pokemon": "Caterpie",
+  "stats": {
+    "HP": 45,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 45,
+    "SpecialAttack": 20,
+    "SpecialDefence": 20
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 5,
+  "baseExp": 39,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.1,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 2.9,
+  "evolutions": [
+    {
+      "level": 7,
+      "to": {
+        "name": "Metapod"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShieldDust",
+    null,
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "String Shot"
+    ],
+    "15": [
+      "Bug Bite"
+    ]
+  },
+  "tmMoves": [
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "String Shot",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

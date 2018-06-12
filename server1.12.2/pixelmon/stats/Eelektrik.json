@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Eelektrik",
+  "pokemon": "Eelektrik",
+  "stats": {
+    "HP": 65,
+    "Attack": 85,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 75,
+    "SpecialDefence": 70
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 12,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tynamo"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 22.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "to": {
+        "name": "Eelektross"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Headbutt",
+      "Thunder Wave",
+      "Spark",
+      "Charge Beam"
+    ],
+    "9": [
+      "Bind"
+    ],
+    "19": [
+      "Acid"
+    ],
+    "29": [
+      "Discharge"
+    ],
+    "39": [
+      "Crunch"
+    ],
+    "44": [
+      "Thunderbolt"
+    ],
+    "49": [
+      "Acid Spray"
+    ],
+    "54": [
+      "Coil"
+    ],
+    "59": [
+      "Wild Charge"
+    ],
+    "64": [
+      "Gastro Acid"
+    ],
+    "69": [
+      "Zap Cannon"
+    ],
+    "74": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Headbutt",
+    "Zap Cannon",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Gastro Acid",
+    "Knock Off",
+    "Magnet Rise",
+    "Signal Beam",
+    "Super Fang",
+    "Thrash",
+    "Tackle",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

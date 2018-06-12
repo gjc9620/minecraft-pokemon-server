@@ -1,0 +1,28 @@
+{
+	"id": "Masquerain",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Masquerain"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"DAY"
+				],
+				"stringBiomes": [
+					"river",
+					"swamps"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Porygon",
+  "pokemon": "Porygon",
+  "stats": {
+    "HP": 65,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 40,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 130,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 36.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Porygon2"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:up-grade"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Trace",
+    "Download",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Conversion 2",
+      "Tackle",
+      "Conversion",
+      "Sharpen"
+    ],
+    "7": [
+      "Psybeam"
+    ],
+    "12": [
+      "Agility"
+    ],
+    "18": [
+      "Recover"
+    ],
+    "23": [
+      "Magnet Rise"
+    ],
+    "29": [
+      "Signal Beam"
+    ],
+    "34": [
+      "Recycle"
+    ],
+    "40": [
+      "Discharge"
+    ],
+    "45": [
+      "Lock-On"
+    ],
+    "50": [
+      "Tri Attack"
+    ],
+    "56": [
+      "Magic Coat"
+    ],
+    "62": [
+      "Zap Cannon"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Nightmare",
+    "Shock Wave",
+    "Recycle",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Foul Play",
+    "Gravity",
+    "Last Resort",
+    "Magic Coat",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Agility",
+    "Barrier",
+    "Sharpen",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

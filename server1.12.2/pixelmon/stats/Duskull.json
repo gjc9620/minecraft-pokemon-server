@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Duskull",
+  "pokemon": "Duskull",
+  "stats": {
+    "HP": 20,
+    "Attack": 40,
+    "Defence": 90,
+    "Speed": 25,
+    "SpecialAttack": 30,
+    "SpecialDefence": 90
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 8,
+  "baseExp": 97,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 15.0,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Dusclops"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Night Shade"
+    ],
+    "6": [
+      "Disable"
+    ],
+    "9": [
+      "Astonish"
+    ],
+    "14": [
+      "Foresight"
+    ],
+    "17": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Will-O-Wisp"
+    ],
+    "30": [
+      "Confuse Ray"
+    ],
+    "33": [
+      "Curse"
+    ],
+    "38": [
+      "Hex"
+    ],
+    "41": [
+      "Shadow Ball"
+    ],
+    "46": [
+      "Mean Look"
+    ],
+    "49": [
+      "Payback"
+    ],
+    "54": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Skill Swap",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gravity",
+    "Helping Hand",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Wonder Room",
+    "Faint Attack",
+    "Foresight",
+    "Haze",
+    "Night Shade",
+    "Pursuit",
+    "Leer",
+    "Helping Hand"
+  ],
+  "eggMoves": [
+    "Dark Pulse",
+    "Destiny Bond",
+    "Grudge",
+    "Haze",
+    "Imprison",
+    "Memento",
+    "Ominous Wind",
+    "Pain Split",
+    "Skill Swap",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

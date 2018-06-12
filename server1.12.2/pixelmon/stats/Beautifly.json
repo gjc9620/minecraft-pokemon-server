@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Beautifly",
+  "pokemon": "Beautifly",
+  "stats": {
+    "HP": 60,
+    "Attack": 70,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Silcoon",
+    "Wurmple"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 28.4,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    null,
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust"
+    ],
+    "10": [
+      "Gust"
+    ],
+    "12": [
+      "Absorb"
+    ],
+    "15": [
+      "Stun Spore"
+    ],
+    "17": [
+      "Morning Sun"
+    ],
+    "20": [
+      "Air Cutter"
+    ],
+    "22": [
+      "Mega Drain"
+    ],
+    "25": [
+      "Silver Wind"
+    ],
+    "27": [
+      "Attract"
+    ],
+    "30": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Giga Drain"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "37": [
+      "Rage"
+    ],
+    "40": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Mega Drain",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Absorb",
+    "Gust",
+    "Morning Sun",
+    "Harden",
+    "Tackle",
+    "Tackle",
+    "Harden"
+  ],
+  "forms": {},
+  "form": -1
+}

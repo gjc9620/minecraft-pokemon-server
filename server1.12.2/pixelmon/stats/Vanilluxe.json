@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Vanilluxe",
+  "pokemon": "Vanilluxe",
+  "stats": {
+    "HP": 71,
+    "Attack": 95,
+    "Defence": 85,
+    "Speed": 79,
+    "SpecialAttack": 110,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 48,
+  "spawnLevelRange": 11,
+  "baseExp": 241,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vanillish",
+    "Vanillite"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 57.5,
+  "evolutions": [],
+  "abilities": [
+    "IceBody",
+    null,
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sheer Cold",
+      "Freeze-Dry",
+      "Weather Ball",
+      "Icicle Spear",
+      "Harden",
+      "Astonish",
+      "Uproar"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "10": [
+      "Uproar"
+    ],
+    "13": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Mist"
+    ],
+    "19": [
+      "Avalanche"
+    ],
+    "22": [
+      "Taunt"
+    ],
+    "26": [
+      "Mirror Shot"
+    ],
+    "31": [
+      "Acid Armor"
+    ],
+    "36": [
+      "Ice Beam"
+    ],
+    "42": [
+      "Hail"
+    ],
+    "50": [
+      "Mirror Coat"
+    ],
+    "59": [
+      "Blizzard"
+    ],
+    "67": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Frost Breath",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Water Pulse",
+    "Avalanche",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Mist",
+    "Sheer Cold",
+    "Weather Ball",
+    "Harden"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Ice Shard",
+    "Imprison",
+    "Iron Defense",
+    "Magnet Rise",
+    "Natural Gift",
+    "Powder Snow",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1
+}

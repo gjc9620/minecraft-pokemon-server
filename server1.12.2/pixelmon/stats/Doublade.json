@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Doublade",
+  "pokemon": "Doublade",
+  "stats": {
+    "HP": 59,
+    "Attack": 110,
+    "Defence": 150,
+    "Speed": 35,
+    "SpecialAttack": 45,
+    "SpecialDefence": 49
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 13,
+  "baseExp": 157,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Honedge"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 4.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:dusk_stone"
+      },
+      "to": {
+        "name": "Aegislash"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "NoGuard",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Swords Dance"
+    ],
+    "5": [
+      "Fury Cutter"
+    ],
+    "8": [
+      "Metal Sound"
+    ],
+    "13": [
+      "Pursuit"
+    ],
+    "18": [
+      "Autotomize"
+    ],
+    "20": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Aerial Ace"
+    ],
+    "26": [
+      "Retaliate"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Night Slash"
+    ],
+    "41": [
+      "Power Trick"
+    ],
+    "45": [
+      "Iron Head"
+    ],
+    "51": [
+      "Sacred Sword"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "False Swipe",
+    "Shadow Claw",
+    "Retaliate",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Rock Smash",
+    "Shock Wave",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite"
+  ],
+  "eggMoves": [
+    "Destiny Bond",
+    "Metal Sound",
+    "Shadow Sneak",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

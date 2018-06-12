@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Umbreon",
+  "pokemon": "Umbreon",
+  "stats": {
+    "HP": 95,
+    "Attack": 65,
+    "Defence": 110,
+    "Speed": 65,
+    "SpecialAttack": 60,
+    "SpecialDefence": 130
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 27.0,
+  "evolutions": [],
+  "abilities": [
+    "Synchronize",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Pursuit"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Confuse Ray"
+    ],
+    "20": [
+      "Faint Attack"
+    ],
+    "25": [
+      "Assurance"
+    ],
+    "29": [
+      "Screech"
+    ],
+    "33": [
+      "Moonlight"
+    ],
+    "37": [
+      "Mean Look"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Guard Swap"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Snarl",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Nightmare",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Spite",
+    "Sucker Punch",
+    "Wonder Room",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Faint Attack",
+    "Flail",
+    "Growth",
+    "Moonlight",
+    "Pursuit",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Screech",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

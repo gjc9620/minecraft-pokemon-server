@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Nidorina",
+  "pokemon": "Nidorina",
+  "stats": {
+    "HP": 70,
+    "Attack": 62,
+    "Defence": 67,
+    "Speed": 56,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 0,
+  "spawnLevel": 16,
+  "spawnLevelRange": 9,
+  "baseExp": 117,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.8,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nidoranfemale"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Nidoqueen"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Rivalry",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Scratch"
+    ],
+    "7": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Double Kick"
+    ],
+    "13": [
+      "Poison Sting"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "23": [
+      "Bite"
+    ],
+    "28": [
+      "Helping Hand"
+    ],
+    "35": [
+      "Toxic Spikes"
+    ],
+    "38": [
+      "Flatter"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "50": [
+      "Captivate"
+    ],
+    "58": [
+      "Poison Fang"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Super Fang",
+    "Beat Up",
+    "Bite",
+    "Charm",
+    "Lovely Kiss",
+    "Moonlight",
+    "Pursuit",
+    "Sweet Kiss",
+    "Focus Energy",
+    "Tackle",
+    "Sucker Punch"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Charm",
+    "Chip Away",
+    "Counter",
+    "Disable",
+    "Endure",
+    "Focus Energy",
+    "Iron Tail",
+    "Poison Tail",
+    "Pursuit",
+    "Skull Bash",
+    "Supersonic",
+    "Take Down",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Torchic",
+  "pokemon": "Torchic",
+  "stats": {
+    "HP": 45,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 45,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.4,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 2.5,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Combusken"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Growl"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "14": [
+      "Peck"
+    ],
+    "10": [
+      "Sand-Attack"
+    ],
+    "19": [
+      "Fire Spin"
+    ],
+    "23": [
+      "Quick Attack"
+    ],
+    "28": [
+      "Flame Burst"
+    ],
+    "32": [
+      "Focus Energy"
+    ],
+    "37": [
+      "Slash"
+    ],
+    "41": [
+      "Mirror Move"
+    ],
+    "46": [
+      "Flamethrower"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Fire Pledge",
+    "Heat Wave",
+    "Helping Hand",
+    "Last Resort",
+    "Low Kick",
+    "Agility",
+    "Baton Pass",
+    "Crush Claw",
+    "FeatherDance",
+    "Reversal",
+    "Peck",
+    "Focus Energy",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Counter",
+    "Crush Claw",
+    "Curse",
+    "Endure",
+    "Feint",
+    "Flame Burst",
+    "Last Resort",
+    "Low Kick",
+    "Night Slash",
+    "Reversal",
+    "FeatherDance",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

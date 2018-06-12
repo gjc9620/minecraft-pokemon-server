@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Aron",
+  "pokemon": "Aron",
+  "stats": {
+    "HP": 50,
+    "Attack": 70,
+    "Defence": 100,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 12,
+  "baseExp": 96,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 40,
+    "passive": 60,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 60.0,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Lairon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "RockHead",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden"
+    ],
+    "4": [
+      "Mud-Slap"
+    ],
+    "7": [
+      "Headbutt"
+    ],
+    "10": [
+      "Metal Claw"
+    ],
+    "13": [
+      "Rock Tomb"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "19": [
+      "Roar"
+    ],
+    "22": [
+      "Iron Head"
+    ],
+    "25": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Metal Sound"
+    ],
+    "34": [
+      "Iron Tail"
+    ],
+    "37": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "43": [
+      "Autotomize"
+    ],
+    "46": [
+      "Heavy Slam"
+    ],
+    "49": [
+      "Metal Burst"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Water Pulse",
+    "Shock Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Endeavor",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Metal Sound",
+    "Reversal",
+    "Stomp",
+    "Harden",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Dragon Rush",
+    "Endeavor",
+    "Head Smash",
+    "Iron Head",
+    "Reversal",
+    "Screech",
+    "Stealth Rock",
+    "Stomp",
+    "Superpower",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

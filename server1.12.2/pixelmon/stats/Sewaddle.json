@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Sewaddle",
+  "pokemon": "Sewaddle",
+  "stats": {
+    "HP": 45,
+    "Attack": 53,
+    "Defence": 70,
+    "Speed": 42,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 2.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Swadloon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "String Shot"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "22": [
+      "Struggle Bug"
+    ],
+    "29": [
+      "Endure"
+    ],
+    "31": [
+      "Sticky Web"
+    ],
+    "36": [
+      "Bug Buzz"
+    ],
+    "43": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Struggle Bug",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Razor Wind",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Silver Wind",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Magic Coat",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Flail",
+    "Mind Reader",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Camouflage",
+    "Me First",
+    "Mind Reader",
+    "Razor Wind",
+    "Screech",
+    "Silver Wind"
+  ],
+  "forms": {},
+  "form": -1
+}

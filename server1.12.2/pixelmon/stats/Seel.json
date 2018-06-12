@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Seel",
+  "pokemon": "Seel",
+  "stats": {
+    "HP": 65,
+    "Attack": 45,
+    "Defence": 55,
+    "Speed": 45,
+    "SpecialAttack": 45,
+    "SpecialDefence": 70
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 19,
+  "baseExp": 100,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "depthRangeEnd": 10,
+    "swimSpeed": 2.0,
+    "decayRate": 0.99,
+    "refreshRate": 70
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 90.0,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Dewgong"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ThickFat",
+    "Hydration",
+    "IceBody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Headbutt"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "7": [
+      "Water Sport"
+    ],
+    "11": [
+      "Icy Wind"
+    ],
+    "13": [
+      "Encore"
+    ],
+    "17": [
+      "Ice Shard"
+    ],
+    "21": [
+      "Rest"
+    ],
+    "23": [
+      "Aqua Ring"
+    ],
+    "27": [
+      "Aurora Beam"
+    ],
+    "31": [
+      "Aqua Jet"
+    ],
+    "33": [
+      "Brine"
+    ],
+    "37": [
+      "Take Down"
+    ],
+    "41": [
+      "Dive"
+    ],
+    "43": [
+      "Aqua Tail"
+    ],
+    "47": [
+      "Ice Beam"
+    ],
+    "51": [
+      "Safeguard"
+    ],
+    "53": [
+      "Hail"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Strength",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Drill Run",
+    "Helping Hand",
+    "Signal Beam",
+    "Aqua Ring",
+    "Encore",
+    "Fake Out",
+    "Flail",
+    "Water Sport",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Disable",
+    "Encore",
+    "Entrainment",
+    "Fake Out",
+    "Horn Drill",
+    "Icicle Spear",
+    "Iron Tail",
+    "Lick",
+    "Perish Song",
+    "Signal Beam",
+    "Slam",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Water Pulse",
+    "Peck",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

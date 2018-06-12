@@ -1,0 +1,28 @@
+{
+	"id": "Glaceon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Glaceon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 45,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"pixelmon:icyrock"
+				],
+				"weathers": [
+					"RAIN"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 30
+		}
+	]
+}

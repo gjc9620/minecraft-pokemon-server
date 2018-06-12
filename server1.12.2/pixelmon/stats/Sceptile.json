@@ -1,0 +1,266 @@
+{
+  "pixelmonName": "Sceptile",
+  "pokemon": "Sceptile",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 65,
+    "Speed": 120,
+    "SpecialAttack": 105,
+    "SpecialDefence": 85
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 9,
+  "baseExp": 208,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.7,
+  "width": 1.7,
+  "length": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grovyle",
+    "Treecko"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 52.2,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leaf Storm",
+      "Night Slash",
+      "Pound",
+      "Leer",
+      "Absorb",
+      "Quick Attack"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Fury Cutter"
+    ],
+    "18": [
+      "Pursuit"
+    ],
+    "23": [
+      "Leaf Blade"
+    ],
+    "28": [
+      "Agility"
+    ],
+    "33": [
+      "Slam"
+    ],
+    "36": [
+      "Dual Chop"
+    ],
+    "39": [
+      "Detect"
+    ],
+    "45": [
+      "X-Scissor"
+    ],
+    "51": [
+      "False Swipe"
+    ],
+    "57": [
+      "Quick Guard"
+    ],
+    "63": [
+      "Leaf Storm"
+    ],
+    "69": [
+      "Screech"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Razor Wind",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mega Drain",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fury Cutter",
+    "Focus Punch",
+    "Bullet Seed",
+    "Dragon Pulse",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Low Kick",
+    "Outrage",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Agility",
+    "Crush Claw",
+    "Leech Seed",
+    "Mud Sport",
+    "Pursuit",
+    "Leer",
+    "Screech",
+    "Dual Chop"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Crunch",
+    "Crush Claw",
+    "Double Kick",
+    "Endeavor",
+    "Leaf Storm",
+    "Leech Seed",
+    "Magical Leaf",
+    "Mud Sport",
+    "Natural Gift",
+    "Razor Wind",
+    "Synthesis",
+    "Worry Seed",
+    "DragonBreath",
+    "GrassWhistle",
+    "Grassy Terrain"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defence": 75,
+        "Speed": 145,
+        "SpecialAttack": 145,
+        "SpecialDefence": 85
+      },
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "height": 1.9,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 55.2,
+      "abilities": [
+        "LightningRod",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

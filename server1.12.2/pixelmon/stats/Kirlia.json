@@ -1,0 +1,233 @@
+{
+  "pixelmonName": "Kirlia",
+  "pokemon": "Kirlia",
+  "stats": {
+    "HP": 38,
+    "Attack": 35,
+    "Defence": 35,
+    "Speed": 50,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 9,
+  "baseExp": 140,
+  "baseFriendship": 35,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ralts"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 20.2,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Gardevoir"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:dawn_stone"
+      },
+      "to": {
+        "name": "Gallade"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Male"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Confusion",
+      "Double Team",
+      "Teleport"
+    ],
+    "4": [
+      "Confusion"
+    ],
+    "6": [
+      "Double Team"
+    ],
+    "9": [
+      "Teleport"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Lucky Chant"
+    ],
+    "17": [
+      "Magical Leaf"
+    ],
+    "19": [
+      "Heal Pulse"
+    ],
+    "23": [
+      "Draining Kiss"
+    ],
+    "26": [
+      "Calm Mind"
+    ],
+    "30": [
+      "Psychic"
+    ],
+    "33": [
+      "Imprison"
+    ],
+    "37": [
+      "Future Sight"
+    ],
+    "40": [
+      "Charm"
+    ],
+    "44": [
+      "Hypnosis"
+    ],
+    "47": [
+      "Dream Eater"
+    ],
+    "51": [
+      "Stored Power"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Hyper Voice",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Charm",
+    "Encore",
+    "Heal Pulse",
+    "Hypnosis",
+    "Sing",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Encore",
+    "Grudge",
+    "Mean Look",
+    "Memento",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Synchronoise",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

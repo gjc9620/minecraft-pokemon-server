@@ -1,0 +1,40 @@
+{
+	"id": "Bronzor",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bronzor"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 40.0
+		},
+		{
+			"spec": {
+				"name": "Bronzor"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 20,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 40.0
+		}
+	]
+}

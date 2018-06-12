@@ -1,0 +1,243 @@
+{
+  "pixelmonName": "Togetic",
+  "pokemon": "Togetic",
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 85,
+    "Speed": 40,
+    "SpecialAttack": 80,
+    "SpecialDefence": 105
+  },
+  "catchRate": 75,
+  "malePercent": 87,
+  "spawnLevel": 15,
+  "spawnLevelRange": 35,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Togepi"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 3.2,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Togekiss"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "SereneGrace",
+    "SuperLuck"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Magical Leaf",
+      "Growl",
+      "Charm",
+      "Metronome",
+      "Sweet Kiss"
+    ],
+    "5": [
+      "Metronome"
+    ],
+    "9": [
+      "Sweet Kiss"
+    ],
+    "13": [
+      "Yawn"
+    ],
+    "14": [
+      "Fairy Wind"
+    ],
+    "17": [
+      "Encore"
+    ],
+    "21": [
+      "Follow Me"
+    ],
+    "25": [
+      "Bestow"
+    ],
+    "29": [
+      "Wish"
+    ],
+    "33": [
+      "AncientPower"
+    ],
+    "37": [
+      "Safeguard"
+    ],
+    "41": [
+      "Baton Pass"
+    ],
+    "45": [
+      "Double-Edge"
+    ],
+    "49": [
+      "Last Resort"
+    ],
+    "53": [
+      "After You"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Defog",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "Softboiled",
+    "Sky Attack",
+    "Tri Attack",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Steel Wing",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Drain Punch",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Air Cutter",
+    "AncientPower",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Ominous Wind",
+    "Signal Beam",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Uproar",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Charm",
+    "Encore",
+    "Extrasensory",
+    "Follow Me",
+    "Foresight",
+    "Morning Sun",
+    "Nasty Plot",
+    "Sweet Kiss",
+    "Wish",
+    "Yawn",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Foresight",
+    "Future Sight",
+    "Lucky Chant",
+    "Mirror Move",
+    "Morning Sun",
+    "Nasty Plot",
+    "Peck",
+    "Present",
+    "Psycho Shift",
+    "Secret Power",
+    "Stored Power"
+  ],
+  "forms": {},
+  "form": -1
+}

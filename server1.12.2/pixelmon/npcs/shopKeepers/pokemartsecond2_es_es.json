@@ -1,0 +1,128 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Sra. Finnegan"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hola, y bienvenido a la Tienda Pokémon. Tenemos una amplia gama de productos lujosos.",
+      "goodbye": "Gracias por comprar en la Tienda Pokémon."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
+  */
+  "items": [
+    {
+      "name": "pixelmon:PokeMail-air"
+    },
+    {
+      "name": "pixelmon:PokeMail-bloom"
+    },
+    {
+      "name": "pixelmon:PokeMail-brick"
+    },
+    {
+      "name": "pixelmon:PokeMail-bridged"
+    },
+    {
+      "name": "pixelmon:PokeMail-bridgem"
+    },
+    {
+      "name": "pixelmon:PokeMail-bridges"
+    },
+    {
+      "name": "pixelmon:PokeMail-bridgev"
+    },
+    {
+      "name": "pixelmon:PokeMail-bubble"
+    },
+    {
+      "name": "pixelmon:PokeMail-dream"
+    },
+    {
+      "name": "pixelmon:PokeMail-fab"
+    },
+    {
+      "name": "pixelmon:PokeMail-favored"
+    },
+    {
+      "name": "pixelmon:PokeMail-flame"
+    },
+    {
+      "name": "pixelmon:PokeMail-glitter"
+    },
+    {
+      "name": "pixelmon:PokeMail-grass"
+    },
+    {
+      "name": "pixelmon:PokeMail-greet"
+    },
+    {
+      "name": "pixelmon:PokeMail-heart"
+    },
+    {
+      "name": "pixelmon:PokeMail-inquiry"
+    },
+    {
+      "name": "pixelmon:PokeMail-like"
+    },
+    {
+      "name": "pixelmon:PokeMail-mech"
+    },
+    {
+      "name": "pixelmon:PokeMail-mosaic"
+    },
+    {
+      "name": "pixelmon:PokeMail-orange"
+    },
+    {
+      "name": "pixelmon:PokeMail-reply"
+    },
+    {
+      "name": "pixelmon:PokeMail-retro"
+    },
+    {
+      "name": "pixelmon:PokeMail-rsvp"
+    },
+    {
+      "name": "pixelmon:PokeMail-snow"
+    },
+    {
+      "name": "pixelmon:PokeMail-space"
+    },
+    {
+      "name": "pixelmon:PokeMail-steel"
+    },
+    {
+      "name": "pixelmon:PokeMail-thanks"
+    },
+    {
+      "name": "pixelmon:PokeMail-wave"
+    },
+    {
+      "name": "pixelmon:PokeMail-wood"
+    }
+  ]
+}

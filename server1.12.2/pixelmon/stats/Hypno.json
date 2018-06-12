@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Hypno",
+  "pokemon": "Hypno",
+  "stats": {
+    "HP": 85,
+    "Attack": 73,
+    "Defence": 70,
+    "Speed": 67,
+    "SpecialAttack": 73,
+    "SpecialDefence": 115
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 26,
+  "spawnLevelRange": 24,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Drowzee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 75.6,
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "Forewarn",
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Future Sight",
+      "Nasty Plot",
+      "Nightmare",
+      "Switcheroo",
+      "Pound",
+      "Hypnosis",
+      "Disable",
+      "Confusion"
+    ],
+    "5": [
+      "Disable"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "13": [
+      "Headbutt"
+    ],
+    "17": [
+      "Poison Gas"
+    ],
+    "21": [
+      "Meditate"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Headbutt"
+    ],
+    "33": [
+      "Psych Up"
+    ],
+    "37": [
+      "Synchronoise"
+    ],
+    "41": [
+      "Zen Headbutt"
+    ],
+    "45": [
+      "Swagger"
+    ],
+    "49": [
+      "Psychic"
+    ],
+    "53": [
+      "Nasty Plot"
+    ],
+    "57": [
+      "Psyshock"
+    ],
+    "61": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Skill Swap",
+    "Snatch",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Zen Headbutt",
+    "Amnesia",
+    "Baton Pass",
+    "Belly Drum",
+    "Hypnosis",
+    "Nasty Plot",
+    "Wish",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Barrier",
+    "Fire Punch",
+    "Flatter",
+    "Guard Swap",
+    "Ice Punch",
+    "Nasty Plot",
+    "Psycho Cut",
+    "Role Play",
+    "Secret Power",
+    "Skill Swap",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

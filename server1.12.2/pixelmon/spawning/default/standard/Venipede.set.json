@@ -1,0 +1,27 @@
+{
+	"id": "Venipede",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Venipede"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 21,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 160.0
+		}
+	]
+}

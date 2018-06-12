@@ -1,0 +1,217 @@
+{
+  "pixelmonName": "Dusknoir",
+  "pokemon": "Dusknoir",
+  "stats": {
+    "HP": 45,
+    "Attack": 100,
+    "Defence": 135,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 135
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 23,
+  "baseExp": 210,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 2.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dusclops",
+    "Duskull"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "weight": 106.6,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Future Sight",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch",
+      "Gravity",
+      "Bind",
+      "Leer",
+      "Night Shade",
+      "Disable",
+      "Astonish"
+    ],
+    "6": [
+      "Disable"
+    ],
+    "9": [
+      "Astonish"
+    ],
+    "14": [
+      "Foresight"
+    ],
+    "17": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Will-O-Wisp"
+    ],
+    "30": [
+      "Confuse Ray"
+    ],
+    "33": [
+      "Curse"
+    ],
+    "37": [
+      "Shadow Punch"
+    ],
+    "40": [
+      "Hex"
+    ],
+    "45": [
+      "Shadow Ball"
+    ],
+    "52": [
+      "Mean Look"
+    ],
+    "57": [
+      "Payback"
+    ],
+    "64": [
+      "Future Sight"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Rock Smash",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Seismic Toss",
+    "Mimic",
+    "Metronome",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Focus Punch",
+    "Skill Swap",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Helping Hand",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Faint Attack",
+    "Foresight",
+    "Haze",
+    "Night Shade",
+    "Pursuit",
+    "Leer",
+    "Wonder Room",
+    "Helping Hand"
+  ],
+  "eggMoves": [
+    "Dark Pulse",
+    "Destiny Bond",
+    "Grudge",
+    "Haze",
+    "Imprison",
+    "Memento",
+    "Ominous Wind",
+    "Pain Split",
+    "Skill Swap",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,43 @@
+{
+	"id": "Zubat",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Zubat"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 5,
+			"maxLevel": 22,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"all forests",
+					"swamps"
+				],
+				"maxLightLevel": 8
+			},
+			"rarity": 100
+		},
+		{
+			"spec": {
+				"name": "Zubat"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 5,
+			"maxLevel": 22,
+			"typeID": "pokemon",
+			"condition": {
+				"maxLightLevel": 8,
+				"maxY": 50
+			},
+			"rarity": 100
+		}
+	]
+}

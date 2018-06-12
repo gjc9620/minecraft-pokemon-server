@@ -1,0 +1,28 @@
+{
+	"id": "Rayquaza",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Rayquaza",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

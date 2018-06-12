@@ -1,0 +1,25 @@
+{
+	"id": "Altaria",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Altaria"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

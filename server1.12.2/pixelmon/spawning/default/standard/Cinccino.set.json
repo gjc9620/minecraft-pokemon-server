@@ -1,0 +1,22 @@
+{
+	"id": "Cinccino",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cinccino"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"birches"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

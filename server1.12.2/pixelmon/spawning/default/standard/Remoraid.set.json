@@ -1,0 +1,28 @@
+{
+	"id": "Remoraid",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Remoraid"
+			},
+			"stringLocationTypes": [
+				"Water",
+				"Surface Water"
+			],
+			"minLevel": 5,
+			"maxLevel": 24,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"stone_beach"
+				]
+			},
+			"rarity": 400.0
+		}
+	]
+}

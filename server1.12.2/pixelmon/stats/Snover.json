@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Snover",
+  "pokemon": "Snover",
+  "stats": {
+    "HP": 60,
+    "Attack": 62,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 62,
+    "SpecialDefence": 60
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 5,
+  "baseExp": 131,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 50.5,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Abomasnow"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 40,
+      "to": {
+        "name": "Abomasnow"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SnowWarning",
+    null,
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Powder Snow",
+      "Leer"
+    ],
+    "5": [
+      "Razor Leaf"
+    ],
+    "9": [
+      "Icy Wind"
+    ],
+    "13": [
+      "GrassWhistle"
+    ],
+    "17": [
+      "Swagger"
+    ],
+    "21": [
+      "Mist"
+    ],
+    "26": [
+      "Ice Shard"
+    ],
+    "31": [
+      "Ingrain"
+    ],
+    "36": [
+      "Wood Hammer"
+    ],
+    "41": [
+      "Blizzard"
+    ],
+    "46": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Frost Breath",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Double-Edge",
+    "Skull Bash",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Water Pulse",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Role Play",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Growth",
+    "Leech Seed",
+    "Mist",
+    "Sheer Cold",
+    "Stomp",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bullet Seed",
+    "Double-Edge",
+    "Growth",
+    "Leech Seed",
+    "Magical Leaf",
+    "Mist",
+    "Natural Gift",
+    "Seed Bomb",
+    "Skull Bash",
+    "Stomp"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Cubchoo",
+  "pokemon": "Cubchoo",
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defence": 40,
+    "Speed": 40,
+    "SpecialAttack": 60,
+    "SpecialDefence": 40
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Beartic"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 37,
+      "to": {
+        "name": "Beartic"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl"
+    ],
+    "5": [
+      "Powder Snow"
+    ],
+    "9": [
+      "Bide"
+    ],
+    "13": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Play Nice"
+    ],
+    "17": [
+      "Fury Swipes"
+    ],
+    "21": [
+      "Brine"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "29": [
+      "Charm"
+    ],
+    "33": [
+      "Slash"
+    ],
+    "36": [
+      "Flail"
+    ],
+    "41": [
+      "Rest"
+    ],
+    "45": [
+      "Blizzard"
+    ],
+    "49": [
+      "Hail"
+    ],
+    "53": [
+      "Thrash"
+    ],
+    "57": [
+      "Sheer Cold"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Shadow Claw",
+    "Frost Breath",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Bide",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Focus Punch",
+    "Brine",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Low Kick",
+    "Superpower",
+    "Charm",
+    "Encore",
+    "Flail",
+    "Sheer Cold",
+    "Thrash",
+    "Yawn",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Avalanche",
+    "Encore",
+    "Focus Punch",
+    "Ice Punch",
+    "Night Slash",
+    "Sleep Talk",
+    "Yawn",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

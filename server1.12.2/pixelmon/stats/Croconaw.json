@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Croconaw",
+  "pokemon": "Croconaw",
+  "stats": {
+    "HP": 65,
+    "Attack": 80,
+    "Defence": 80,
+    "Speed": 58,
+    "SpecialAttack": 59,
+    "SpecialDefence": 63
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 12,
+  "baseExp": 143,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Totodile"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 25.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Feraligatr"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Leer",
+      "Water Gun"
+    ],
+    "6": [
+      "Water Gun"
+    ],
+    "8": [
+      "Rage"
+    ],
+    "13": [
+      "Bite"
+    ],
+    "15": [
+      "Scary Face"
+    ],
+    "21": [
+      "Ice Fang"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "33": [
+      "Chip Away"
+    ],
+    "39": [
+      "Slash"
+    ],
+    "42": [
+      "Screech"
+    ],
+    "48": [
+      "Thrash"
+    ],
+    "51": [
+      "Aqua Tail"
+    ],
+    "57": [
+      "Superpower"
+    ],
+    "60": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Fling",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Razor Wind",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Detect",
+    "Fury Cutter",
+    "Focus Punch",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Block",
+    "Hydro Cannon",
+    "Low Kick",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Water Pledge",
+    "Bite",
+    "Flail",
+    "Hydro Pump",
+    "Mud Sport",
+    "Scary Face",
+    "Thrash",
+    "Thrash",
+    "Water Sport",
+    "Slash",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Block",
+    "Crunch",
+    "Dragon Dance",
+    "Fake Tears",
+    "Flatter",
+    "Hydro Pump",
+    "Ice Punch",
+    "Metal Claw",
+    "Mud Sport",
+    "Thrash",
+    "Water Pulse",
+    "Water Sport",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

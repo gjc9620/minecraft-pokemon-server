@@ -1,0 +1,23 @@
+{
+	"id": "Marshtomp",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Marshtomp"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 16,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 1.0
+		}
+	]
+}

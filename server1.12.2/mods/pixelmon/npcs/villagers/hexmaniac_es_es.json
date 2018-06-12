@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hexmaniac.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bellatrix"
+        },
+        {
+            "name": "Gyta"
+        },
+        {
+            "name": "Samantha"
+        },
+        {
+            "name": "Piper"
+        },
+        {
+            "name": "Sabrina"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Aw mira, mi Gastly me ha maldecido."
+                },
+                {
+                    "text": "Esperaba un dolor desgarrador del alma, pero sólo me hace cosquillas."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nunca consigo que mi Litwick se quede quieto en mis círculos mágicos."
+                },
+                {
+                    "text": "Siempre me estropean mis rituales."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No..."
+                },
+                {
+                    "text": "Todavía no..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mis amigos no se creen que puedo hacer mágia oscura."
+                },
+                {
+                    "text": "Nunca me creían, de ninguna manera. Ahora ya no tengo ningún amigo."
+                }
+            ]
+        }
+    ]
+}

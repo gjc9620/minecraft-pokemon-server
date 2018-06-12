@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Slurpuff",
+  "pokemon": "Slurpuff",
+  "stats": {
+    "HP": 82,
+    "Attack": 80,
+    "Defence": 86,
+    "Speed": 72,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 12,
+  "baseExp": 168,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Swirlix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 5.0,
+  "evolutions": [],
+  "abilities": [
+    "SweetVeil",
+    null,
+    "Unburden"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sweet Scent",
+      "Tackle"
+    ],
+    "5": [
+      "Fairy Wind"
+    ],
+    "8": [
+      "Play Nice"
+    ],
+    "10": [
+      "Fake Tears"
+    ],
+    "13": [
+      "Round"
+    ],
+    "17": [
+      "Cotton Spore"
+    ],
+    "21": [
+      "Endeavor"
+    ],
+    "26": [
+      "Aromatherapy"
+    ],
+    "31": [
+      "Draining Kiss"
+    ],
+    "36": [
+      "Energy Ball"
+    ],
+    "41": [
+      "Cotton Guard"
+    ],
+    "45": [
+      "Wish"
+    ],
+    "49": [
+      "Play Rough"
+    ],
+    "58": [
+      "Light Screen"
+    ],
+    "67": [
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Surf",
+    "Drain Punch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Gastro Acid",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat"
+  ],
+  "eggMoves": [
+    "After You",
+    "Belly Drum",
+    "Copycat",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

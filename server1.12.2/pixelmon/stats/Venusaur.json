@@ -1,0 +1,247 @@
+{
+  "pixelmonName": "Venusaur",
+  "pokemon": "Venusaur",
+  "stats": {
+    "HP": 80,
+    "Attack": 82,
+    "Defence": 83,
+    "Speed": 80,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 32,
+  "spawnLevelRange": 18,
+  "baseExp": 236,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 2.0,
+  "width": 2.5,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ivysaur",
+    "Bulbasaur"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.45
+    }
+  },
+  "weight": 100.0,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Leech Seed",
+      "Vine Whip"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "7": [
+      "Leech Seed"
+    ],
+    "9": [
+      "Vine Whip"
+    ],
+    "13": [
+      "Poison Powder",
+      "Sleep Powder"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "20": [
+      "Razor Leaf"
+    ],
+    "23": [
+      "Sweet Scent"
+    ],
+    "28": [
+      "Growth"
+    ],
+    "31": [
+      "Double-Edge"
+    ],
+    "32": [
+      "Petal Dance"
+    ],
+    "39": [
+      "Worry Seed"
+    ],
+    "45": [
+      "Synthesis"
+    ],
+    "50": [
+      "Petal Blizzard"
+    ],
+    "53": [
+      "SolarBeam"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Bulldoze",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Nature Power",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Razor Wind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "False Swipe",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Block",
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Knock Off",
+    "Outrage",
+    "Seed Bomb",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Amnesia",
+    "Charm",
+    "Growth",
+    "Leech Seed",
+    "Petal Dance",
+    "Weather Ball",
+    "Tackle",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Charm",
+    "Curse",
+    "Endure",
+    "Giga Drain",
+    "Ingrain",
+    "Leaf Storm",
+    "Magical Leaf",
+    "Nature Power",
+    "Petal Dance",
+    "Power Whip",
+    "Skull Bash",
+    "Sludge",
+    "GrassWhistle",
+    "Grassy Terrain"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defence": 123,
+        "Speed": 80,
+        "SpecialAttack": 122,
+        "SpecialDefence": 120
+      },
+      "height": 2.4,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": 0.8
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": 0.8
+        }
+      },
+      "weight": 155.5,
+      "abilities": [
+        "ThickFat",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

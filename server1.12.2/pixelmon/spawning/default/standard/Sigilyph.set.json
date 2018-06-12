@@ -1,0 +1,26 @@
+{
+	"id": "Sigilyph",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sigilyph"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"mutated_desert"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

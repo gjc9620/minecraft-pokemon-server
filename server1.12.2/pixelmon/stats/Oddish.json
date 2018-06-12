@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Oddish",
+  "pokemon": "Oddish",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 55,
+    "Speed": 30,
+    "SpecialAttack": 75,
+    "SpecialDefence": 65
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.5,
+  "width": 0.1,
+  "length": 0.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.4,
+  "evolutions": [
+    {
+      "level": 21,
+      "to": {
+        "name": "Gloom"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "5": [
+      "Sweet Scent"
+    ],
+    "9": [
+      "Acid"
+    ],
+    "13": [
+      "Poison Powder"
+    ],
+    "14": [
+      "Stun Spore"
+    ],
+    "15": [
+      "Sleep Powder"
+    ],
+    "19": [
+      "Mega Drain"
+    ],
+    "23": [
+      "Lucky Chant"
+    ],
+    "27": [
+      "Moonlight"
+    ],
+    "31": [
+      "Giga Drain"
+    ],
+    "35": [
+      "Toxic"
+    ],
+    "39": [
+      "Natural Gift"
+    ],
+    "43": [
+      "Moonblast"
+    ],
+    "47": [
+      "Grassy Terrain"
+    ],
+    "51": [
+      "Petal Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Flail",
+    "Ingrain",
+    "Nature Power",
+    "Razor Leaf",
+    "Secret Power",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

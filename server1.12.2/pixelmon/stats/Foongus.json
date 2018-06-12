@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Foongus",
+  "pokemon": "Foongus",
+  "stats": {
+    "HP": 69,
+    "Attack": 55,
+    "Defence": 45,
+    "Speed": 15,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 18,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.0,
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "EffectSpore",
+    null,
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb"
+    ],
+    "6": [
+      "Growth"
+    ],
+    "8": [
+      "Astonish"
+    ],
+    "12": [
+      "Bide"
+    ],
+    "15": [
+      "Mega Drain"
+    ],
+    "18": [
+      "Ingrain"
+    ],
+    "20": [
+      "Faint Attack"
+    ],
+    "24": [
+      "Sweet Scent"
+    ],
+    "28": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "35": [
+      "Synthesis"
+    ],
+    "39": [
+      "Clear Smog"
+    ],
+    "43": [
+      "SolarBeam"
+    ],
+    "45": [
+      "Rage Powder"
+    ],
+    "50": [
+      "Spore"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Mega Drain",
+    "Bide",
+    "Rollout",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Foul Play",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Faint Attack",
+    "Growth"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Defense Curl",
+    "Endure",
+    "Gastro Acid",
+    "Growth",
+    "Poison Powder",
+    "Rollout",
+    "Stun Spore"
+  ],
+  "forms": {},
+  "form": -1
+}

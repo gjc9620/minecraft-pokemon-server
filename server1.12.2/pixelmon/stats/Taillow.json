@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Taillow",
+  "pokemon": "Taillow",
+  "stats": {
+    "HP": 40,
+    "Attack": 55,
+    "Defence": 30,
+    "Speed": 85,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.3,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Swellow"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    null,
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl"
+    ],
+    "5": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Wing Attack"
+    ],
+    "17": [
+      "Double Team"
+    ],
+    "21": [
+      "Aerial Ace"
+    ],
+    "25": [
+      "Quick Guard"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "33": [
+      "Air Slash"
+    ],
+    "37": [
+      "Endeavor"
+    ],
+    "41": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Endeavor",
+    "Heat Wave",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Air Slash",
+    "FeatherDance",
+    "Pursuit",
+    "Refresh",
+    "Peck",
+    "Focus Energy",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Brave Bird",
+    "Defog",
+    "Mirror Move",
+    "Pursuit",
+    "Rage",
+    "Refresh",
+    "Roost",
+    "Sky Attack",
+    "Steel Wing",
+    "Supersonic",
+    "Whirlwind",
+    "Boomburst"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "pokefan_m.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Joe"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Bienvenido al gimnasio Voltaje."
+        },
+        {
+          "text": "¡Es posible que quedes en shock cuando conozcas a nuestro lider!"
+        }
+      ]
+    }
+  ]
+}

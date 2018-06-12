@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Druddigon",
+  "pokemon": "Druddigon",
+  "stats": {
+    "HP": 77,
+    "Attack": 120,
+    "Defence": 90,
+    "Speed": 48,
+    "SpecialAttack": 60,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 139.0,
+  "evolutions": [],
+  "abilities": [
+    "RoughSkin",
+    "SheerForce",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Dragon",
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Scratch"
+    ],
+    "5": [
+      "Hone Claws"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "13": [
+      "Scary Face"
+    ],
+    "18": [
+      "Dragon Rage"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Claw"
+    ],
+    "31": [
+      "Chip Away"
+    ],
+    "35": [
+      "Revenge"
+    ],
+    "40": [
+      "Night Slash"
+    ],
+    "45": [
+      "Dragon Tail"
+    ],
+    "49": [
+      "Rock Climb"
+    ],
+    "55": [
+      "Superpower"
+    ],
+    "62": [
+      "Outrage"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Rock Climb",
+    "Dragon Rage",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Snatch",
+    "Dragon Pulse",
+    "Stealth Rock",
+    "Dark Pulse",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Gunk Shot",
+    "Heat Wave",
+    "Iron Head",
+    "Outrage",
+    "Sucker Punch",
+    "Superpower",
+    "Bite",
+    "Crush Claw",
+    "Faint Attack",
+    "Pursuit",
+    "Scary Face",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Fire Fang",
+    "Glare",
+    "Iron Tail",
+    "Metal Claw",
+    "Poison Tail",
+    "Pursuit",
+    "Snatch",
+    "Sucker Punch",
+    "Thunder Fang",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

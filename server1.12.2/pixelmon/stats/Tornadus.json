@@ -1,0 +1,205 @@
+{
+  "pixelmonName": "Tornadus",
+  "pokemon": "Tornadus",
+  "stats": {
+    "HP": 79,
+    "Attack": 115,
+    "Defence": 70,
+    "Speed": 111,
+    "SpecialAttack": 125,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": 100,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 90,
+  "types": [
+    "Flying"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 63.0,
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Hammer Arm",
+      "Thrash",
+      "Hurricane",
+      "Tailwind",
+      "Uproar",
+      "Astonish",
+      "Gust"
+    ],
+    "7": [
+      "Swagger"
+    ],
+    "13": [
+      "Bite"
+    ],
+    "19": [
+      "Revenge"
+    ],
+    "25": [
+      "Air Cutter"
+    ],
+    "31": [
+      "Extrasensory"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "43": [
+      "Air Slash"
+    ],
+    "49": [
+      "Crunch"
+    ],
+    "55": [
+      "Tailwind"
+    ],
+    "61": [
+      "Rain Dance"
+    ],
+    "67": [
+      "Hurricane"
+    ],
+    "73": [
+      "Dark Pulse"
+    ],
+    "79": [
+      "Hammer Arm"
+    ],
+    "85": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Sky Drop",
+    "Incinerate",
+    "Acrobatics",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Strength",
+    "Snore",
+    "Icy Wind",
+    "Iron Tail",
+    "Sleep Talk",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Foul Play",
+    "Heat Wave",
+    "Knock Off",
+    "Role Play",
+    "Superpower",
+    "Tailwind",
+    "Uproar",
+    "Agility",
+    "Air Slash",
+    "Bite",
+    "Extrasensory",
+    "Gust",
+    "Hurricane",
+    "Thrash"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 79,
+        "Attack": 100,
+        "Defence": 80,
+        "Speed": 121,
+        "SpecialAttack": 110,
+        "SpecialDefence": 90
+      },
+      "height": 1.4,
+      "isRideable": true,
+      "canFly": true,
+      "evYields": {
+        "Speed": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -0.3,
+          "z": -0.4
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -0.3,
+          "z": -0.4
+        }
+      },
+      "abilities": [
+        "Regenerator",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

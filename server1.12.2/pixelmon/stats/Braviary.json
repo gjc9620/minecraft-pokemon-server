@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Braviary",
+  "pokemon": "Braviary",
+  "stats": {
+    "HP": 100,
+    "Attack": 123,
+    "Defence": 75,
+    "Speed": 80,
+    "SpecialAttack": 57,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 100,
+  "spawnLevel": 54,
+  "spawnLevelRange": 11,
+  "baseExp": 179,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Rufflet"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 5,
+    "passive": 35,
+    "aggressive": 60
+  },
+  "flyingParameters": {
+    "flyHeightMin": 20,
+    "flyHeightMax": 40,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    }
+  },
+  "weight": 41.0,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "SheerForce",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Thrash",
+      "Brave Bird",
+      "Whirlwind",
+      "Superpower",
+      "Peck",
+      "Leer",
+      "Fury Attack",
+      "Wing Attack"
+    ],
+    "5": [
+      "Fury Attack"
+    ],
+    "10": [
+      "Wing Attack"
+    ],
+    "14": [
+      "Hone Claws"
+    ],
+    "19": [
+      "Scary Face"
+    ],
+    "23": [
+      "Aerial Ace"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "32": [
+      "Defog"
+    ],
+    "37": [
+      "Tailwind"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "46": [
+      "Crush Claw"
+    ],
+    "50": [
+      "Sky Drop"
+    ],
+    "51": [
+      "Superpower"
+    ],
+    "57": [
+      "Whirlwind"
+    ],
+    "63": [
+      "Brave Bird"
+    ],
+    "70": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Sky Drop",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Strength",
+    "Defog",
+    "Whirlwind",
+    "Sky Attack",
+    "Snore",
+    "Sleep Talk",
+    "Roost",
+    "Roost",
+    "Steel Wing",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Superpower",
+    "Tailwind",
+    "Air Slash",
+    "Crush Claw",
+    "Fury Attack",
+    "Scary Face",
+    "Thrash",
+    "Peck",
+    "Slash",
+    "Leer",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

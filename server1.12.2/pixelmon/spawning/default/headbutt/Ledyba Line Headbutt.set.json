@@ -1,0 +1,29 @@
+{
+    "id": "Ledyba Line Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Ledyba"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 7,
+            "maxLevel": 18,
+            "typeID": "pokemon",
+            "rarity": 80.0
+        },
+		{
+            "spec": {
+                "name": "Ledian"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 21,
+            "maxLevel": 32,
+            "typeID": "pokemon",
+            "rarity": 40.0
+        }
+    ]
+}

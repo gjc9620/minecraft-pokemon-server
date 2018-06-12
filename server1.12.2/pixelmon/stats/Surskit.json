@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Surskit",
+  "pokemon": "Surskit",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 32,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 52
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 1,
+    "swimSpeed": 2.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.7,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Masquerain"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bubble"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Sweet Scent"
+    ],
+    "14": [
+      "Water Sport"
+    ],
+    "17": [
+      "BubbleBeam"
+    ],
+    "22": [
+      "Agility"
+    ],
+    "25": [
+      "Mist",
+      "Haze"
+    ],
+    "30": [
+      "Aqua Jet"
+    ],
+    "35": [
+      "Baton Pass"
+    ],
+    "38": [
+      "Sticky Web"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Flash",
+    "Struggle Bug",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Double-Edge",
+    "BubbleBeam",
+    "Mimic",
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Signal Beam",
+    "String Shot",
+    "Agility",
+    "Baton Pass",
+    "Bubble",
+    "Foresight",
+    "Haze",
+    "Hydro Pump",
+    "Mind Reader",
+    "Mist",
+    "Mud Sport",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Bug Bite",
+    "Endure",
+    "Foresight",
+    "Hydro Pump",
+    "Mind Reader",
+    "Mud Shot",
+    "Power Split",
+    "Psybeam",
+    "Signal Beam",
+    "Fell Stinger"
+  ],
+  "forms": {},
+  "form": -1
+}

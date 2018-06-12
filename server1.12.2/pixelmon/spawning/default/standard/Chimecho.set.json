@@ -1,0 +1,32 @@
+{
+	"id": "Chimecho",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Chimecho"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 28,
+			"maxLevel": 33,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:pure_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains",
+					"taigas"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

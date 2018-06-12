@@ -1,0 +1,25 @@
+{
+	"id": "Koffing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Koffing"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

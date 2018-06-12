@@ -1,0 +1,234 @@
+{
+  "pixelmonName": "Gyarados",
+  "pokemon": "Gyarados",
+  "stats": {
+    "HP": 95,
+    "Attack": 125,
+    "Defence": 79,
+    "Speed": 81,
+    "SpecialAttack": 60,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 4.0,
+  "width": 3.0,
+  "length": 6.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Magikarp"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 10,
+    "depthRangeEnd": 100,
+    "swimSpeed": 3.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -3.6,
+      "z": 2.0
+    }
+  },
+  "weight": 235.0,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Water2",
+    "Dragon"
+  ],
+  "eggCycles": 6,
+  "levelUpMoves": {
+    "0": [
+      "Thrash"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "23": [
+      "Dragon Rage"
+    ],
+    "26": [
+      "Leer"
+    ],
+    "29": [
+      "Twister"
+    ],
+    "32": [
+      "Ice Fang"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "38": [
+      "Rain Dance"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "44": [
+      "Hydro Pump"
+    ],
+    "47": [
+      "Dragon Dance"
+    ],
+    "50": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Incinerate",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Bulldoze",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Dragon Pulse",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Reflect",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Iron Head",
+    "Outrage",
+    "Spite",
+    "Twister",
+    "Uproar",
+    "Bite",
+    "Bubble",
+    "Flail",
+    "Hydro Pump",
+    "Reversal",
+    "Splash",
+    "Thrash",
+    "Tackle",
+    "Leer",
+    "Celebrate",
+    "Happy Hour"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 95,
+        "Attack": 155,
+        "Defence": 109,
+        "Speed": 81,
+        "SpecialAttack": 70,
+        "SpecialDefence": 130
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 305.0,
+      "abilities": [
+        "MoldBreaker",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

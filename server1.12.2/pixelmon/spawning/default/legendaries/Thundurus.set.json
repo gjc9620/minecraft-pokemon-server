@@ -1,0 +1,28 @@
+{
+	"id": "Thundurus",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Thundurus",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"STORM"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 4
+		}
+	]
+}

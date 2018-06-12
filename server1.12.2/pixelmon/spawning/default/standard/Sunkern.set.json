@@ -1,0 +1,25 @@
+{
+	"id": "Sunkern",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sunkern"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 2,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 130.0
+		}
+	]
+}

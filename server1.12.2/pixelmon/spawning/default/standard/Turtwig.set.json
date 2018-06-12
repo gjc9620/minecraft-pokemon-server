@@ -1,0 +1,30 @@
+{
+	"id": "Turtwig",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Turtwig"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 13,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"forest_hills",
+					"birch_forest",
+					"birch_forest_hills",
+					"mutated_birch_forest",
+					"mutated_birch_forest_hills"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

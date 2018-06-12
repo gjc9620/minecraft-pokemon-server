@@ -1,0 +1,40 @@
+{
+	"id": "Golett",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Golett"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 120.0
+		},
+		{
+			"spec": {
+				"name": "Golett"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 10,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50
+			},
+			"rarity": 30
+		}
+	]
+}

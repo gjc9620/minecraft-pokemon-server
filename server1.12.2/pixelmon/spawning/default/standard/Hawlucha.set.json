@@ -1,0 +1,25 @@
+{
+	"id": "Hawlucha",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hawlucha"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

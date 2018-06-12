@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Avalugg",
+  "pokemon": "Avalugg",
+  "stats": {
+    "HP": 95,
+    "Attack": 117,
+    "Defence": 184,
+    "Speed": 28,
+    "SpecialAttack": 44,
+    "SpecialDefence": 46
+  },
+  "catchRate": 55,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 11,
+  "baseExp": 180,
+  "baseFriendship": 0,
+  "types": [
+    "Ice"
+  ],
+  "height": 2.0,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Bergmite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.2
+    }
+  },
+  "weight": 505.0,
+  "evolutions": [],
+  "abilities": [
+    "OwnTempo",
+    "IceBody",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Iron Defense",
+      "Skull Bash",
+      "Crunch",
+      "Tackle",
+      "Bite",
+      "Harden"
+    ],
+    "5": [
+      "Powder Snow"
+    ],
+    "10": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "20": [
+      "Sharpen"
+    ],
+    "22": [
+      "Curse"
+    ],
+    "26": [
+      "Ice Fang"
+    ],
+    "30": [
+      "Ice Ball"
+    ],
+    "35": [
+      "Rapid Spin"
+    ],
+    "42": [
+      "Avalanche"
+    ],
+    "46": [
+      "Blizzard"
+    ],
+    "51": [
+      "Recover"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Skull Bash"
+    ],
+    "65": [
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide",
+    "Surf",
+    "Strength",
+    "Rock Smash",
+    "Icy Wind",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Iron Defense",
+    "Iron Head",
+    "Superpower"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Mirror Coat",
+    "Mist",
+    "Recover"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,204 @@
+{
+  "pixelmonName": "Meganium",
+  "pokemon": "Meganium",
+  "stats": {
+    "HP": 80,
+    "Attack": 82,
+    "Defence": 100,
+    "Speed": 80,
+    "SpecialAttack": 83,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 32,
+  "spawnLevelRange": 18,
+  "baseExp": 208,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bayleef",
+    "Chikorita"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    }
+  },
+  "weight": 100.5,
+  "evolutions": [],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Petal Blizzard",
+      "Tackle",
+      "Growl",
+      "Razor Leaf",
+      "Poison Powder"
+    ],
+    "6": [
+      "Razor Leaf"
+    ],
+    "9": [
+      "Poison Powder"
+    ],
+    "12": [
+      "Synthesis"
+    ],
+    "18": [
+      "Reflect"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "26": [
+      "Natural Gift"
+    ],
+    "32": [
+      "Petal Dance"
+    ],
+    "34": [
+      "Sweet Scent"
+    ],
+    "40": [
+      "Light Screen"
+    ],
+    "46": [
+      "Body Slam"
+    ],
+    "54": [
+      "Safeguard"
+    ],
+    "60": [
+      "Aromatherapy"
+    ],
+    "66": [
+      "SolarBeam"
+    ],
+    "70": [
+      "Petal Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Bulldoze",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Fury Cutter",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Frenzy Plant",
+    "Grass Pledge",
+    "Magic Coat",
+    "Outrage",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Aromatherapy",
+    "Flail",
+    "Heal Pulse",
+    "Leech Seed",
+    "Petal Dance",
+    "Refresh",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Body Slam",
+    "Counter",
+    "Flail",
+    "Heal Pulse",
+    "Ingrain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Nature Power",
+    "Refresh",
+    "Vine Whip",
+    "Wring Out",
+    "AncientPower",
+    "GrassWhistle",
+    "Grassy Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

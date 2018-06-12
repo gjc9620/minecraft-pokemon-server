@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Tyrogue",
+  "pokemon": "Tyrogue",
+  "stats": {
+    "HP": 35,
+    "Attack": 35,
+    "Defence": 35,
+    "Speed": 35,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 75,
+  "malePercent": 100,
+  "spawnLevel": 5,
+  "spawnLevelRange": 14,
+  "baseExp": 91,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 21.0,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Hitmonlee"
+      },
+      "conditions": [
+        {
+          "stat1": "Attack",
+          "stat2": "Defence",
+          "ratio": 1.0,
+          "evoConditionType": "statRatio"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 20,
+      "to": {
+        "name": "Hitmonchan"
+      },
+      "conditions": [
+        {
+          "stat1": "Defence",
+          "stat2": "Attack",
+          "ratio": 1.0,
+          "evoConditionType": "statRatio"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 20,
+      "to": {
+        "name": "Hitmontop"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    "Steadfast",
+    "VitalSpirit"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Helping Hand",
+      "Fake Out",
+      "Foresight"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Low Kick",
+    "Role Play",
+    "Uproar",
+    "Vacuum Wave",
+    "Dizzy Punch",
+    "Fake Out",
+    "Foresight",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Bullet Punch",
+    "Counter",
+    "Endure",
+    "Feint",
+    "Helping Hand",
+    "Hi Jump Kick",
+    "Mach Punch",
+    "Mind Reader",
+    "Pursuit",
+    "Rapid Spin",
+    "Vacuum Wave"
+  ],
+  "forms": {},
+  "form": -1
+}

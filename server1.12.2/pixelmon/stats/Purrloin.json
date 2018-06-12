@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Purrloin",
+  "pokemon": "Purrloin",
+  "stats": {
+    "HP": 41,
+    "Attack": 50,
+    "Defence": 37,
+    "Speed": 66,
+    "SpecialAttack": 50,
+    "SpecialDefence": 37
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 9,
+  "spawnLevelRange": 10,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.1,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Liepard"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 20,
+      "to": {
+        "name": "Liepard"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "6": [
+      "Assist"
+    ],
+    "10": [
+      "Sand-Attack"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "19": [
+      "Torment"
+    ],
+    "21": [
+      "Fake Out"
+    ],
+    "24": [
+      "Hone Claws"
+    ],
+    "28": [
+      "Assurance"
+    ],
+    "30": [
+      "Slash"
+    ],
+    "33": [
+      "Captivate"
+    ],
+    "37": [
+      "Night Slash"
+    ],
+    "39": [
+      "Snatch"
+    ],
+    "42": [
+      "Nasty Plot"
+    ],
+    "46": [
+      "Sucker Punch"
+    ],
+    "49": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Snarl",
+    "Cut",
+    "Pay Day",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Snatch",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Knock Off",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Charm",
+    "Encore",
+    "Faint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit",
+    "Yawn",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Copycat",
+    "Covet",
+    "Encore",
+    "Fake Tears",
+    "Foul Play",
+    "Pay Day",
+    "Yawn",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

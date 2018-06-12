@@ -1,0 +1,33 @@
+{
+	"id": "Wormadam",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Wormadam"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests",
+					"flowery"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 1.5,
+					"condition": {
+						"weathers": [
+							"CLEAR"
+						]
+					}
+				}
+			],
+			"rarity": 10
+		}
+	]
+}

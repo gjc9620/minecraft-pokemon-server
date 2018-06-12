@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Solrock",
+  "pokemon": "Solrock",
+  "stats": {
+    "HP": 70,
+    "Attack": 95,
+    "Defence": 85,
+    "Speed": 70,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 154.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Harden",
+      "Confusion",
+      "Rock Throw"
+    ],
+    "5": [
+      "Fire Spin"
+    ],
+    "9": [
+      "Rock Polish"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "17": [
+      "Embargo"
+    ],
+    "21": [
+      "Rock Slide"
+    ],
+    "25": [
+      "Cosmic Power"
+    ],
+    "29": [
+      "Psychic"
+    ],
+    "33": [
+      "Heal Block"
+    ],
+    "37": [
+      "Stone Edge"
+    ],
+    "41": [
+      "SolarBeam"
+    ],
+    "45": [
+      "Explosion"
+    ],
+    "49": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Charge Beam",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "Swift",
+    "Psywave",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Gravity",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Defense",
+    "Iron Head",
+    "Magic Coat",
+    "Pain Split",
+    "Signal Beam",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Morning Sun",
+    "Rock Throw",
+    "Harden",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

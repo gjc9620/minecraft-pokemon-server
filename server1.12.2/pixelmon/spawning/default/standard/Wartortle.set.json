@@ -1,0 +1,24 @@
+{
+	"id": "Wartortle",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Wartortle"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 16,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"river",
+					"beaches"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

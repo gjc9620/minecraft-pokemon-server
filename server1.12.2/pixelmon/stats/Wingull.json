@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Wingull",
+  "pokemon": "Wingull",
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 30,
+    "Speed": 85,
+    "SpecialAttack": 55,
+    "SpecialDefence": 30
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 22,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 9.5,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Pelipper"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    null,
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Water Gun"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "8": [
+      "Wing Attack"
+    ],
+    "12": [
+      "Mist"
+    ],
+    "15": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Quick Attack"
+    ],
+    "22": [
+      "Air Cutter"
+    ],
+    "26": [
+      "Pursuit"
+    ],
+    "29": [
+      "Aerial Ace"
+    ],
+    "33": [
+      "Roost"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "40": [
+      "Air Slash"
+    ],
+    "43": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Knock Off",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Aqua Ring",
+    "Air Slash",
+    "Gust",
+    "Hurricane",
+    "Mist",
+    "Pursuit",
+    "Water Sport",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Ring",
+    "Brine",
+    "Gust",
+    "Knock Off",
+    "Mist",
+    "Roost",
+    "Soak",
+    "Twister",
+    "Water Sport",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

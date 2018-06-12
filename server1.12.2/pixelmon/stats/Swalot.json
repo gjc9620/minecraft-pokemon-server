@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Swalot",
+  "pokemon": "Swalot",
+  "stats": {
+    "HP": 100,
+    "Attack": 73,
+    "Defence": 83,
+    "Speed": 55,
+    "SpecialAttack": 73,
+    "SpecialDefence": 83
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gulpin"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 80.0,
+  "evolutions": [],
+  "abilities": [
+    "LiquidOoze",
+    "StickyHold",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Gunk Shot",
+      "Wring Out",
+      "Pound",
+      "Yawn",
+      "Poison Gas",
+      "Sludge"
+    ],
+    "5": [
+      "Yawn"
+    ],
+    "8": [
+      "Poison Gas"
+    ],
+    "10": [
+      "Sludge"
+    ],
+    "12": [
+      "Amnesia"
+    ],
+    "17": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Encore"
+    ],
+    "25": [
+      "Toxic"
+    ],
+    "26": [
+      "Body Slam"
+    ],
+    "30": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "37": [
+      "Sludge Bomb"
+    ],
+    "42": [
+      "Gastro Acid"
+    ],
+    "49": [
+      "Belch"
+    ],
+    "54": [
+      "Wring Out"
+    ],
+    "61": [
+      "Gunk Shot"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Selfdestruct",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Water Pulse",
+    "Bullet Seed",
+    "Shock Wave",
+    "Snatch",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Gastro Acid",
+    "Gunk Shot",
+    "Pain Split",
+    "Seed Bomb",
+    "Amnesia",
+    "Encore",
+    "Sing",
+    "Yawn",
+    "Sing"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Curse",
+    "Destiny Bond",
+    "Gunk Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Smog",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

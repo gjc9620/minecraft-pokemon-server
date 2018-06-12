@@ -1,0 +1,224 @@
+{
+  "pixelmonName": "Poliwhirl",
+  "pokemon": "Poliwhirl",
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 90,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 131,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 0.7,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Poliwag"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 20.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Poliwrath"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    },
+    {
+      "to": {
+        "name": "Politoed"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:kings_rock"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "WaterAbsorb",
+    "Damp",
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Sport",
+      "Water Gun",
+      "Hypnosis"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "8": [
+      "Hypnosis"
+    ],
+    "11": [
+      "Bubble"
+    ],
+    "15": [
+      "DoubleSlap"
+    ],
+    "18": [
+      "Rain Dance"
+    ],
+    "21": [
+      "Body Slam"
+    ],
+    "27": [
+      "BubbleBeam"
+    ],
+    "32": [
+      "Mud Shot"
+    ],
+    "37": [
+      "Belly Drum"
+    ],
+    "43": [
+      "Wake-Up Slap"
+    ],
+    "48": [
+      "Hydro Pump"
+    ],
+    "53": [
+      "Mud Bomb"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Fling",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "Psywave",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Focus Punch",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Helping Hand",
+    "Amnesia",
+    "Belly Drum",
+    "Bubble",
+    "DoubleSlap",
+    "Encore",
+    "Growth",
+    "Haze",
+    "Hydro Pump",
+    "Hypnosis",
+    "Lovely Kiss",
+    "Mind Reader",
+    "Mist",
+    "Refresh",
+    "Splash",
+    "Sweet Kiss",
+    "Water Sport"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endeavor",
+    "Endure",
+    "Haze",
+    "Ice Ball",
+    "Mind Reader",
+    "Mist",
+    "Mud Shot",
+    "Refresh",
+    "Splash",
+    "Water Pulse",
+    "Water Sport",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

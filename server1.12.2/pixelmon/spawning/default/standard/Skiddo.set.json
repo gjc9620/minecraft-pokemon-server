@@ -1,0 +1,25 @@
+{
+    "id": "Skiddo",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Skiddo"
+            },
+            "stringLocationTypes": [
+                "Land"
+            ],
+            "minLevel": 19,
+            "maxLevel": 31,
+            "typeID": "pokemon",
+            "condition": {
+                "times": [
+                    "DAY"
+                ],
+                "stringBiomes": [
+                    "birches"
+                ]
+            },
+            "rarity": 30.0
+        }
+    ]
+}

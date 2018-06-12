@@ -1,0 +1,189 @@
+{
+  "pixelmonName": "Flareon",
+  "pokemon": "Flareon",
+  "stats": {
+    "HP": 65,
+    "Attack": 130,
+    "Defence": 60,
+    "Speed": 65,
+    "SpecialAttack": 95,
+    "SpecialDefence": 110
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 25.0,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Guts"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Ember"
+    ],
+    "13": [
+      "Quick Attack"
+    ],
+    "17": [
+      "Bite"
+    ],
+    "20": [
+      "Fire Fang"
+    ],
+    "25": [
+      "Fire Spin"
+    ],
+    "29": [
+      "Scary Face"
+    ],
+    "33": [
+      "Smog"
+    ],
+    "37": [
+      "Lava Plume"
+    ],
+    "41": [
+      "Last Resort"
+    ],
+    "45": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Retaliate",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Work Up",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Heat Wave",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Superpower",
+    "Baton Pass",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Flare Blitz",
+    "Growth",
+    "Scary Face",
+    "Sing",
+    "Tickle",
+    "Wish",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Leer",
+    "Celebrate"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Charm",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Endure",
+    "Fake Tears",
+    "Flail",
+    "Natural Gift",
+    "Stored Power",
+    "Synchronoise",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

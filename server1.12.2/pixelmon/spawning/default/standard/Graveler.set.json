@@ -1,0 +1,25 @@
+{
+	"id": "Graveler",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Graveler"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 25,
+			"maxLevel": 36,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"mountainous",
+					"mesas"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

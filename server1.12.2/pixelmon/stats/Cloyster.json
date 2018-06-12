@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Cloyster",
+  "pokemon": "Cloyster",
+  "stats": {
+    "HP": 50,
+    "Attack": 95,
+    "Defence": 180,
+    "Speed": 70,
+    "SpecialAttack": 85,
+    "SpecialDefence": 45
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 203,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Shellder"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 132.5,
+  "evolutions": [],
+  "abilities": [
+    "ShellArmour",
+    "SkillLink",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hydro Pump",
+      "Shell Smash",
+      "Toxic Spikes",
+      "Withdraw",
+      "Supersonic",
+      "Protect",
+      "Aurora Beam"
+    ],
+    "13": [
+      "Spike Cannon"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "50": [
+      "Icicle Crash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Frost Breath",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Swift",
+    "Tri Attack",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Signal Beam",
+    "Aqua Ring",
+    "Barrier",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle",
+    "Spike Cannon",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Avalanche",
+    "Barrier",
+    "Icicle Spear",
+    "Mud Shot",
+    "Rapid Spin",
+    "Rock Blast",
+    "Screech",
+    "Take Down",
+    "Twineedle",
+    "Water Pulse",
+    "BubbleBeam"
+  ],
+  "forms": {},
+  "form": -1
+}

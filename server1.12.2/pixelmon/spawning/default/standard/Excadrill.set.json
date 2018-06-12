@@ -1,0 +1,37 @@
+{
+	"id": "Excadrill",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Excadrill"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 32,
+			"maxLevel": 44,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Excadrill"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"condition": {
+				"maxY": 50
+			},
+			"minLevel": 32,
+			"maxLevel": 44,
+			"typeID": "pokemon",
+			"rarity": 20
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "Magnemite",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Magnemite"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

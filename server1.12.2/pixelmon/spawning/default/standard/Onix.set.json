@@ -1,0 +1,30 @@
+{
+	"id": "Onix",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Onix"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Rock Smash"
+			],
+			"minLevel": 10,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:metal_coat",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"mountainous",
+					"mesas"
+				]
+			},
+			"rarity": 20.0
+		}
+	]
+}

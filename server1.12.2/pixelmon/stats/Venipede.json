@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Venipede",
+  "pokemon": "Venipede",
+  "stats": {
+    "HP": 30,
+    "Attack": 45,
+    "Defence": 59,
+    "Speed": 57,
+    "SpecialAttack": 30,
+    "SpecialDefence": 39
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 52,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 5.3,
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Whirlipede"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Swarm",
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Rollout"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "8": [
+      "Screech"
+    ],
+    "12": [
+      "Pursuit"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "19": [
+      "Poison Tail"
+    ],
+    "22": [
+      "Bug Bite"
+    ],
+    "26": [
+      "Venoshock"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "33": [
+      "Steamroller"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "38": [
+      "Venoshock"
+    ],
+    "40": [
+      "Rock Climb"
+    ],
+    "43": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Gyro Ball",
+    "Struggle Bug",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Rock Climb",
+    "Take Down",
+    "Double-Edge",
+    "Rollout",
+    "Snore",
+    "Sleep Talk",
+    "Defense Curl",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Endeavor",
+    "Iron Defense",
+    "Signal Beam",
+    "Agility",
+    "Pursuit",
+    "Screech",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Pin Missile",
+    "Rock Climb",
+    "Spikes",
+    "Take Down",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "forms": {},
+  "form": -1
+}

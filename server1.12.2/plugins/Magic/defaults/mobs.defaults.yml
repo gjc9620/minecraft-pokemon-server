@@ -1,0 +1,361 @@
+# 
+# !! IMPORTANT !!
+# 
+# If you wish to customize this plugin, edit the "mobs.yml" file instead.
+# 
+# DO NOT JUST COPY THIS WHOLE FILE INTO YOUR mobs.yml !!!!
+# If you do this, updating the plugin in the future may not work as expected.
+# 
+# This file is merged from the files in the following folder:
+# 
+# https://github.com/elBukkit/MagicPlugin/tree/master/Magic/src/main/resources/defaults/mobs
+
+
+archer:
+  type: skeleton
+  item: magicbow
+  cast_requires_item: magicbow
+  chestplate: warlock_chestplate
+  leggings: warlock_leggings
+  helmet: chainmail_helmet
+  boots: warlock_boots
+  name: Archer
+  health: 150
+  default_drops: false
+  protection:
+    fall: 1
+  triggers:
+    launch:
+      cast:
+        arrow_regular: 50
+        arrow_bomb: 20
+        arrow_blink: 20
+        arrow_poison: 50
+        arrow_fire: 50
+        arrow_ice: 50
+        arrow_light: 10
+        arrow_shock: 10
+        none: 30
+  drops:
+  - gold_nugget@16
+  - sp:16
+boomer:
+  name: Boomer
+  type: magma_cube
+  size: 3
+  triggers:
+    spawn:
+      cast: blast pdy -1 pdx 0 pdz 0 radius 4
+dark_spider:
+  type: cave_spider
+  name: Dark Spider
+  health: 100
+  default_drops: false
+  interval: 1000
+  triggers:
+    interval:
+      cast:
+        webbing: 100
+        poison|3: 100
+        none: 50
+  drops:
+  - gold_nugget@8
+  - sp:8
+  potion_effects:
+  - type: speed
+    amplifier: 0
+dark_wizard:
+  name: Dark Wizard
+  type: zombie
+  zombie_type: villager
+  item: wizard_wand
+  chestplate: warlock_chestplate
+  leggings: warlock_leggings
+  helmet: iron_helmet
+  boots: warlock_boots
+  health: 1000
+  default_drops: false
+  interval: 1000
+  triggers:
+    damage1:
+      type: damage
+      min_health: 100
+      cast:
+        push|4: 150
+        push|3: 100
+        none: 50
+    damage2:
+      type: damage
+      max_health: 100
+      cast:
+        missile|4: 150
+        railgun: 100
+        push|4: 70
+        shell: 20
+        none: 20
+    death:
+      cast:
+        neutron: 10
+        fury: 50
+    interval:
+      cast:
+        missile|4: 20
+        railgun: 10
+        poison: 30
+        pull: 100
+        push|4: 150
+        curse: 100
+        blob: 20
+        lava: 10
+        shell: 20
+        torture: 1
+        arrow: 50
+        arrowrain: 20
+        fury: 5
+        chainlightning: 2
+        blink: 10
+        fling: 50
+        blind: 10
+        disarm: 5
+        frost|2: 10
+        gatling: 5
+        homing: 10
+        petrify: 10
+        none: 20
+  drops:
+  - gold_ingot@24
+  - sp:100
+  potion_effects:
+  - type: speed
+    amplifier: 1
+dummy:
+  type: husk
+  name: Dummy
+  health: 100
+  protection:
+    fire: 2
+  weakness:
+    water: 1
+  potion_effects:
+  - type: slow
+    amplifier: 10
+dummynoai:
+  type: husk
+  name: Dummy
+  health: 100
+  protection:
+    fire: 2
+  weakness:
+    water: 1
+  ai: false
+fairy:
+  type: villager
+  name: Fairy
+  health: 100
+  lifetime: 10000
+  mage:
+    effect_color: random
+  potion_effects:
+  - type: levitation
+    amplifier: 1
+  triggers:
+    spawn:
+      effects: butterfly
+    death:
+      effects:
+      - particle: smoke_large
+        particle_count: 50
+        particle_data: 1
+        particle_offset_x: 1.2
+        particle_offset_y: 2.5
+        particle_offset_z: 1.2
+      - particle: smoke_large
+        particle_count: 50
+        particle_offset_x: 1.2
+        particle_offset_y: 2.5
+        particle_offset_z: 1.2
+  drops:
+  - glowstone_dust redstone sulphur
+fire_elemental:
+  type: blaze
+  name: Fire Elemental
+  health: 100
+  default_drops: false
+  protection:
+    fire: 2
+  weakness:
+    water: 1
+  interval: 5000
+  triggers:
+    interval:
+      cast:
+        fire: 100
+        flamethrower: 100
+        none: 50
+  drops:
+  - gold_nugget@8
+  - sp:10
+  potion_effects:
+  - type: speed
+    amplifier: 0
+killer_bunny:
+  type: rabbit
+  rabbit_type: the_killer_bunny
+  name: Killer Bunny
+  health: 100
+  default_drops: false
+  aggro: true
+  drops:
+  - gold_nugget@10
+  - sp:10
+kingslime:
+  name: King Slime
+  type: slime
+  size: 18
+  interval: 3000
+  cast_requires_target: false
+  triggers:
+    interval:
+      cast:
+        none: 100
+        rubberize pdy -1 pdx 0 pdz 0: 50
+madscientist:
+  name: Mad Scientist
+  type: pig_zombie
+  disguise:
+    type: player
+    name: Mad Scientist
+    skin: NathanWolf
+  item: madscientist_wand
+  chestplate: warlock_chestplate
+  leggings: warlock_leggings
+  helmet: madscientist_helmet
+  boots: warlock_boots
+  health: 5000
+  default_drops: false
+  interval: 1000
+  triggers:
+    interval:
+      cast:
+        missile|4: 200
+        none: 20
+  drops:
+  - gold_ingot@30
+  - sp:200
+  potion_effects:
+  - type: speed
+    amplifier: 1
+mega_spider:
+  type: spider
+  name: Mega Spider
+  health: 200
+  default_drops: false
+  interval: 1000
+  triggers:
+    interval:
+      cast:
+        webbing: 100
+        poison|3: 100
+        none: 50
+  drops:
+  - gold_nugget@10
+  - sp:10
+  potion_effects:
+  - type: increase_damage
+    amplifier: 0
+mutant:
+  type: pig_zombie
+  item: iron_sword
+  chestplate: iron_chestplate
+  leggings: iron_leggings
+  helmet: iron_helmet
+  boots: iron_boots
+  name: Mutant
+  health: 50
+  default_drops: false
+  drops:
+  - gold_nugget@5
+mutant_captain:
+  type: pig_zombie
+  item: iron_sword
+  chestplate: gold_chestplate
+  leggings: gold_leggings
+  helmet: gold_helmet
+  boots: gold_boots
+  name: Mutant Captain
+  health: 100
+  default_drops: false
+  drops:
+  - gold_nugget@10
+  - sp:8
+  potion_effects:
+  - type: speed
+    amplifier: 1
+  entity_attributes:
+    generic_knockback_resistance: 1
+    generic_attack_speed: 5
+mutant_spider:
+  type: cave_spider
+  name: Mutant Spider
+  health: 50
+  drops:
+  - gold_nugget@8
+  - spider_eye@2
+polterghast:
+  type: ghast
+  health: 100
+  name: Polterghast
+  drops:
+  - gold_nugget@10
+  - sp:5
+  potion_effects:
+  - type: speed
+    amplifier: 2
+undead_minion:
+  type: skeleton
+  item: iron_sword
+  name: Undead Minion
+  health: 50
+undead_overlord:
+  type: skeleton
+  skeleton_type: wither
+  item: iron_sword
+  name: Undead Overlord
+  health: 150
+  potion_effects:
+  - type: increase_damage
+    amplifier: 1
+warlock:
+  type: zombie
+  villager_profession: butcher
+  item: warlock_wand
+  cast_requires_item: warlock_wand
+  chestplate: warlock_chestplate
+  leggings: warlock_leggings
+  helmet: chainmail_helmet
+  boots: warlock_boots
+  name: Warlock
+  health: 200
+  default_drops: false
+  protection:
+    fall: 1
+  interval: 1000
+  triggers:
+    interval:
+      cast:
+        missile: 20
+        poison: 30
+        pull: 100
+        curse: 100
+        blob: 20
+        lava: 10
+        shell: 20
+        none: 300
+  drops:
+  - diamond: 10
+    emerald: 15
+    gold_nugget@18: 50
+    gold_nugget@16: 100
+    gold_nugget@12: 50
+    gold_nugget@8: 20
+  - sp:16

@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Miltank",
+  "pokemon": "Miltank",
+  "stats": {
+    "HP": 95,
+    "Attack": 80,
+    "Defence": 105,
+    "Speed": 100,
+    "SpecialAttack": 40,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 75.5,
+  "evolutions": [],
+  "abilities": [
+    "ThickFat",
+    "Scrappy",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "5": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Stomp"
+    ],
+    "11": [
+      "Milk Drink"
+    ],
+    "15": [
+      "Bide"
+    ],
+    "19": [
+      "Rollout"
+    ],
+    "24": [
+      "Body Slam"
+    ],
+    "29": [
+      "Zen Headbutt"
+    ],
+    "35": [
+      "Captivate"
+    ],
+    "41": [
+      "Gyro Ball"
+    ],
+    "48": [
+      "Heal Bell"
+    ],
+    "50": [
+      "Wake-Up Slap"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Block",
+    "Heal Bell",
+    "Helping Hand",
+    "Iron Head",
+    "Zen Headbutt",
+    "Dizzy Punch",
+    "Reversal",
+    "Stomp",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Dizzy Punch",
+    "Double-Edge",
+    "Endure",
+    "Hammer Arm",
+    "Heart Stamp",
+    "Helping Hand",
+    "Natural Gift",
+    "Present",
+    "Punishment",
+    "Reversal",
+    "Seismic Toss",
+    "Sleep Talk",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

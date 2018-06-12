@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Masquerain",
+  "pokemon": "Masquerain",
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defence": 62,
+    "Speed": 60,
+    "SpecialAttack": 80,
+    "SpecialDefence": 82
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Surskit"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 3.6,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Quiver Dance",
+      "Bug Buzz",
+      "Whirlwind",
+      "Ominous Wind",
+      "Bubble",
+      "Quick Attack",
+      "Sweet Scent",
+      "Water Sport"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Sweet Scent"
+    ],
+    "14": [
+      "Water Sport"
+    ],
+    "17": [
+      "Gust"
+    ],
+    "22": [
+      "Scary Face",
+      "Air Cutter"
+    ],
+    "26": [
+      "Stun Spore"
+    ],
+    "32": [
+      "Silver Wind"
+    ],
+    "38": [
+      "Air Slash"
+    ],
+    "42": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Whirlwind"
+    ],
+    "52": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Psych Up",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "BubbleBeam",
+    "Mimic",
+    "Swift",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Nightmare",
+    "Water Pulse",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Bubble",
+    "Foresight",
+    "Gust",
+    "Haze",
+    "Hydro Pump",
+    "Mind Reader",
+    "Mist",
+    "Mud Sport",
+    "Scary Face",
+    "Water Sport",
+    "Agility",
+    "Baton Pass",
+    "Haze",
+    "Mist"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Bug Bite",
+    "Endure",
+    "Foresight",
+    "Hydro Pump",
+    "Mind Reader",
+    "Mud Shot",
+    "Power Split",
+    "Psybeam",
+    "Signal Beam",
+    "Fell Stinger"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,17 @@
+{
+    "id": "Dunsparce Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Dunsparce"
+            },
+            "stringLocationTypes": [
+                "Rock Smash"
+            ],
+            "minLevel": 1,
+            "maxLevel": 23,
+            "typeID": "pokemon",
+            "rarity": 160.0
+        }
+    ]
+}

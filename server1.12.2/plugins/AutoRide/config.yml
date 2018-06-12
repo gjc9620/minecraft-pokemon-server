@@ -1,0 +1,11 @@
+# 
+#  MESSAGES
+ride-toggle-on-message: '&7Re-toggled riding to &aON&7.'
+ride-toggle-off-message: '&7Re-toggled riding to &cOFF&7.'
+player-toggle-off-try-to-ride-message: '&9Use ''&fride&9'' to re-toggle riding.'
+ride-occupied: '&cOops! &7That &a%RIDE% &7is already carrying someone!'
+player-ride: '&7You''ve ridden a &a%RIDE%&7!'
+cant-ride-npc-message: '&cOops! &7That''s an NPC!'
+fail-ride-mythicmobs: '&7That mob is too powerful to ride.'
+disable-npc-ride: false
+disable-mythicmobs-ride: true

@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Dodrio",
+  "pokemon": "Dodrio",
+  "stats": {
+    "HP": 60,
+    "Attack": 110,
+    "Defence": 70,
+    "Speed": 100,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 19,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Doduo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 85.2,
+  "evolutions": [],
+  "abilities": [
+    "RunAway",
+    "EarlyBird",
+    "TangledFeet"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl",
+      "Quick Attack",
+      "Rage"
+    ],
+    "5": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Rage"
+    ],
+    "13": [
+      "Fury Attack"
+    ],
+    "17": [
+      "Pursuit"
+    ],
+    "21": [
+      "Pluck"
+    ],
+    "25": [
+      "Tri Attack"
+    ],
+    "29": [
+      "Acupressure"
+    ],
+    "35": [
+      "Agility"
+    ],
+    "41": [
+      "Drill Peck"
+    ],
+    "47": [
+      "Uproar"
+    ],
+    "53": [
+      "Endeavor"
+    ],
+    "59": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Payback",
+    "Giga Impact",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Fly",
+    "Whirlwind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Sky Attack",
+    "Tri Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Endeavor",
+    "Knock Off",
+    "Low Kick",
+    "Uproar",
+    "Agility",
+    "Baton Pass",
+    "Faint Attack",
+    "Flail",
+    "Fury Attack",
+    "Haze",
+    "Pursuit",
+    "Thrash",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Brave Bird",
+    "Endeavor",
+    "Flail",
+    "Haze",
+    "Mirror Move",
+    "Natural Gift",
+    "Quick Attack",
+    "Supersonic",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

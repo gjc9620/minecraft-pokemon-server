@@ -1,0 +1,22 @@
+{
+	"id": "Trapinch",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Trapinch"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 18.0
+		}
+	]
+}

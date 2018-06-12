@@ -1,0 +1,26 @@
+{
+	"id": "Pawniard",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Pawniard"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mutated_extreme_hills",
+					"mutated_extreme_hills_with_trees"
+				]
+			},
+			"rarity": 120.0
+		}
+	]
+}

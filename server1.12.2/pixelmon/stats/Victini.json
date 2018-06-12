@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Victini",
+  "pokemon": "Victini",
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 100,
+  "types": [
+    "Psychic",
+    "Fire"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 4.0,
+  "evolutions": [],
+  "abilities": [
+    "VictoryStar",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Searing Shot",
+      "Focus Energy",
+      "Confusion",
+      "Incinerate",
+      "Quick Attack"
+    ],
+    "9": [
+      "Endure"
+    ],
+    "17": [
+      "Headbutt"
+    ],
+    "25": [
+      "Flame Charge"
+    ],
+    "33": [
+      "Reversal"
+    ],
+    "41": [
+      "Flame Burst"
+    ],
+    "49": [
+      "Zen Headbutt"
+    ],
+    "57": [
+      "Inferno"
+    ],
+    "65": [
+      "Double-Edge"
+    ],
+    "73": [
+      "Flare Blitz"
+    ],
+    "81": [
+      "Final Gambit"
+    ],
+    "89": [
+      "Stored Power"
+    ],
+    "97": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Wild Charge",
+    "Rock Smash",
+    "Double-Edge",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Skill Swap",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Heat Wave",
+    "Helping Hand",
+    "Last Resort",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Flare Blitz",
+    "Reversal",
+    "V-Create",
+    "Focus Energy",
+    "Inferno",
+    "V-Create",
+    "Fusion Flare",
+    "Bolt Strike",
+    "Blue Flare",
+    "Glaciate",
+    "Fusion Bolt"
+  ],
+  "forms": {},
+  "form": -1
+}

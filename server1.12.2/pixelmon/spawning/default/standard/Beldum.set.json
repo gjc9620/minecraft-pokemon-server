@@ -1,0 +1,22 @@
+{
+	"id": "Beldum",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Beldum"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 3.0
+		}
+	]
+}

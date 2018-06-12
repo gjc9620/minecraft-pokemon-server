@@ -1,0 +1,27 @@
+{
+	"id": "Torterra",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Torterra"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"forest_hills",
+					"birches"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

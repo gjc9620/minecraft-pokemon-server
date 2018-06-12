@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Darumaka",
+  "pokemon": "Darumaka",
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 50,
+    "SpecialAttack": 15,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 11,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 37.5,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Darmanitan"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "3": [
+      "Rollout"
+    ],
+    "6": [
+      "Incinerate"
+    ],
+    "9": [
+      "Rage"
+    ],
+    "11": [
+      "Fire Fang"
+    ],
+    "14": [
+      "Headbutt"
+    ],
+    "17": [
+      "Uproar"
+    ],
+    "19": [
+      "Facade"
+    ],
+    "22": [
+      "Fire Punch"
+    ],
+    "25": [
+      "Work Up"
+    ],
+    "27": [
+      "Thrash"
+    ],
+    "30": [
+      "Belly Drum"
+    ],
+    "33": [
+      "Flare Blitz"
+    ],
+    "35": [
+      "Taunt"
+    ],
+    "39": [
+      "Superpower"
+    ],
+    "42": [
+      "Overheat"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Gyro Ball",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Take Down",
+    "Rage",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Fire Punch",
+    "Focus Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Heat Wave",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Belly Drum",
+    "Encore",
+    "Flare Blitz",
+    "Thrash",
+    "Yawn",
+    "Focus Energy",
+    "Tackle",
+    "Snatch"
+  ],
+  "eggMoves": [
+    "Encore",
+    "Endure",
+    "Flame Wheel",
+    "Focus Energy",
+    "Focus Punch",
+    "Hammer Arm",
+    "Sleep Talk",
+    "Snatch",
+    "Take Down",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

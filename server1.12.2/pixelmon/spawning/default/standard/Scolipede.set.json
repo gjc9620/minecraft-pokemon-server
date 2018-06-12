@@ -1,0 +1,27 @@
+{
+	"id": "Scolipede",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Scolipede"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

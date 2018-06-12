@@ -1,0 +1,27 @@
+{
+	"id": "Seaking",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Seaking"
+			},
+			"stringLocationTypes": [
+				"Surface Water",
+				"Water"
+			],
+			"minLevel": 33,
+			"maxLevel": 38,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"plains",
+					"mountainous",
+					"river",
+					"mushroom",
+					"all forests"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Krabby",
+  "pokemon": "Krabby",
+  "stats": {
+    "HP": 30,
+    "Attack": 105,
+    "Defence": 90,
+    "Speed": 50,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 13,
+  "baseExp": 115,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 6.5,
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Kingler"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "ShellArmour",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mud Sport",
+      "Bubble"
+    ],
+    "5": [
+      "Vice Grip"
+    ],
+    "9": [
+      "Leer"
+    ],
+    "11": [
+      "Harden"
+    ],
+    "15": [
+      "BubbleBeam"
+    ],
+    "19": [
+      "Mud Shot"
+    ],
+    "21": [
+      "Metal Claw"
+    ],
+    "25": [
+      "Stomp"
+    ],
+    "29": [
+      "Protect"
+    ],
+    "31": [
+      "Guillotine"
+    ],
+    "35": [
+      "Slam"
+    ],
+    "39": [
+      "Brine"
+    ],
+    "41": [
+      "Crabhammer"
+    ],
+    "45": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Dive",
+    "Whirlpool",
+    "Ally Switch",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Iron Defense",
+    "Knock Off",
+    "Superpower",
+    "Agility",
+    "Amnesia",
+    "Bubble",
+    "Flail",
+    "Haze",
+    "Mud Sport",
+    "Tickle",
+    "Stomp",
+    "Harden",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Ally Switch",
+    "Amnesia",
+    "Bide",
+    "Chip Away",
+    "Endure",
+    "Flail",
+    "Haze",
+    "Knock Off",
+    "Slam",
+    "Tickle",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

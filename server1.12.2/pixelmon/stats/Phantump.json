@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Phantump",
+  "pokemon": "Phantump",
+  "stats": {
+    "HP": 43,
+    "Attack": 70,
+    "Defence": 48,
+    "Speed": 38,
+    "SpecialAttack": 50,
+    "SpecialDefence": 60
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 62,
+  "baseFriendship": 0,
+  "types": [
+    "Ghost",
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 7.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Trevenant"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "Frisk",
+    "Harvest"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Confuse Ray"
+    ],
+    "5": [
+      "Astonish"
+    ],
+    "8": [
+      "Growth"
+    ],
+    "13": [
+      "Ingrain"
+    ],
+    "19": [
+      "Faint Attack"
+    ],
+    "23": [
+      "Leech Seed"
+    ],
+    "28": [
+      "Curse"
+    ],
+    "31": [
+      "Will-O-Wisp"
+    ],
+    "35": [
+      "Forest\u0027s Curse"
+    ],
+    "39": [
+      "Destiny Bond"
+    ],
+    "45": [
+      "Phantom Force"
+    ],
+    "49": [
+      "Wood Hammer"
+    ],
+    "54": [
+      "Horn Leech"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Strength",
+    "Rock Smash",
+    "Giga Drain",
+    "Skill Swap",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Trick",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Grudge",
+    "Imprison",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,25 @@
+{
+	"id": "Mamoswine",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mamoswine"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"STORM"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

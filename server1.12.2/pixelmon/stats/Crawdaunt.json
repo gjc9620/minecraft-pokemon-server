@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Crawdaunt",
+  "pokemon": "Crawdaunt",
+  "stats": {
+    "HP": 63,
+    "Attack": 120,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 90,
+    "SpecialDefence": 55
+  },
+  "catchRate": 155,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Corphish"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 32.8,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "ShellArmour",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Harden",
+      "Vice Grip",
+      "Leer"
+    ],
+    "5": [
+      "Harden"
+    ],
+    "7": [
+      "Vice Grip"
+    ],
+    "10": [
+      "Leer"
+    ],
+    "14": [
+      "BubbleBeam"
+    ],
+    "17": [
+      "Protect"
+    ],
+    "20": [
+      "Double Hit"
+    ],
+    "23": [
+      "Knock Off"
+    ],
+    "26": [
+      "Night Slash"
+    ],
+    "30": [
+      "Swift"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Taunt"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "43": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Crabhammer"
+    ],
+    "54": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Water Pulse",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Endeavor",
+    "Iron Defense",
+    "Knock Off",
+    "Spite",
+    "Superpower",
+    "Bubble",
+    "Mud Sport",
+    "Water Sport",
+    "Harden",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Body Slam",
+    "Chip Away",
+    "Double-Edge",
+    "Dragon Dance",
+    "Endeavor",
+    "Knock Off",
+    "Metal Claw",
+    "Mud Sport",
+    "Superpower",
+    "Switcheroo",
+    "Trump Card",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

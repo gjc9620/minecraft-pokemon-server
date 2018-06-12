@@ -1,0 +1,23 @@
+{
+    "id": "Exeggcute Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Exeggcute"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 13,
+            "maxLevel": 24,
+            "typeID": "pokemon",
+            "condition": {
+                "variant" : [
+                    "jungle",
+					"palm"
+                ]
+            },
+            "rarity": 60.0
+        }
+    ]
+}

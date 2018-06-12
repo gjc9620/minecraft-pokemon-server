@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Bronzong",
+  "pokemon": "Bronzong",
+  "stats": {
+    "HP": 67,
+    "Attack": 89,
+    "Defence": 116,
+    "Speed": 33,
+    "SpecialAttack": 79,
+    "SpecialDefence": 116
+  },
+  "catchRate": 90,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 188,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bronzor"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 187.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    "Heatproof",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sunny Day",
+      "Rain Dance",
+      "Tackle",
+      "Confusion",
+      "Hypnosis",
+      "Imprison"
+    ],
+    "5": [
+      "Hypnosis"
+    ],
+    "9": [
+      "Imprison"
+    ],
+    "11": [
+      "Confuse Ray"
+    ],
+    "15": [
+      "Psywave"
+    ],
+    "19": [
+      "Iron Defense"
+    ],
+    "21": [
+      "Faint Attack"
+    ],
+    "25": [
+      "Safeguard"
+    ],
+    "29": [
+      "Future Sight"
+    ],
+    "31": [
+      "Metal Sound"
+    ],
+    "33": [
+      "Block"
+    ],
+    "36": [
+      "Gyro Ball"
+    ],
+    "42": [
+      "Extrasensory"
+    ],
+    "46": [
+      "Payback"
+    ],
+    "52": [
+      "Heal Block"
+    ],
+    "58": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Rock Smash",
+    "Strength",
+    "Psywave",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Faint Attack",
+    "Hypnosis",
+    "Metal Sound",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

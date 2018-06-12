@@ -1,0 +1,26 @@
+{
+	"id": "Braviary",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Braviary"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 54,
+			"maxLevel": 65,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mesas",
+					"mountainous"
+				]
+			},
+			"rarity": 5
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "Buneary",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Buneary"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 7,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"taigas",
+					"birches",
+					"forests",
+					"mountainous"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

@@ -1,0 +1,260 @@
+{
+  "pixelmonName": "Altaria",
+  "pokemon": "Altaria",
+  "stats": {
+    "HP": 75,
+    "Attack": 70,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 70,
+    "SpecialDefence": 105
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 20,
+  "baseExp": 188,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Swablu"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 24,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    }
+  },
+  "weight": 20.6,
+  "evolutions": [],
+  "abilities": [
+    "NaturalCure",
+    null,
+    "CloudNine"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sky Attack",
+      "Pluck",
+      "Peck",
+      "Growl",
+      "Astonish",
+      "Sing"
+    ],
+    "3": [
+      "Astonish"
+    ],
+    "5": [
+      "Sing"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "9": [
+      "Safeguard"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Mist"
+    ],
+    "17": [
+      "Round"
+    ],
+    "20": [
+      "Natural Gift"
+    ],
+    "23": [
+      "Take Down"
+    ],
+    "26": [
+      "Refresh"
+    ],
+    "30": [
+      "Dragon Dance"
+    ],
+    "34": [
+      "Cotton Guard"
+    ],
+    "35": [
+      "DragonBreath"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "46": [
+      "Perish Song"
+    ],
+    "52": [
+      "Moonblast"
+    ],
+    "59": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Incinerate",
+    "Giga Impact",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Rock Smash",
+    "Fly",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Roost",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "False Swipe",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Draco Meteor",
+    "Heal Bell",
+    "Heat Wave",
+    "Hyper Voice",
+    "Ominous Wind",
+    "Outrage",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Wonder Room",
+    "Agility",
+    "FeatherDance",
+    "Fury Attack",
+    "Haze",
+    "Mist",
+    "Pursuit",
+    "Refresh",
+    "Sing",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Dragon Rush",
+    "Haze",
+    "Hyper Voice",
+    "Power Swap",
+    "Pursuit",
+    "Rage",
+    "Roost",
+    "Steel Wing",
+    "FeatherDance"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 75,
+        "Attack": 110,
+        "Defence": 110,
+        "Speed": 80,
+        "SpecialAttack": 110,
+        "SpecialDefence": 105
+      },
+      "height": 1.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 3.8,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 3.8,
+          "z": -0.6
+        }
+      },
+      "abilities": [
+        "Pixilate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

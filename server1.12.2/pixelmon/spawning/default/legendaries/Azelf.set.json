@@ -1,0 +1,34 @@
+{
+	"id": "Azelf",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Azelf",
+				"level": 50
+			},
+			"stringLocationTypes": [
+				"Surface Water"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"minecraft:roofed_forest",
+					"minecraft:mutated_roofed_forest"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

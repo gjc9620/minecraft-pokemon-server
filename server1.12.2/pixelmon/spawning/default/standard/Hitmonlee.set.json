@@ -1,0 +1,25 @@
+{
+	"id": "Hitmonlee",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Hitmonlee"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

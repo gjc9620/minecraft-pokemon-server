@@ -1,0 +1,184 @@
+{
+    "data": {
+        "trainerType": "FemaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "FemaleRocketGrunt"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Butch"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Paul"
+        },
+        {
+            "name": "Chazz"
+        },
+        {
+            "name": "Jayden"
+        },
+        {
+            "name": "Zain"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        },
+        {
+            "name": "Rolf"
+        },
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡Oye chaval, trae aquí a tus Pokémon!",
+            "win": "He ganado. Ahora dame tus Pokémon.",
+            "lose": "¡Urgh, como me has derrotado!"
+	    },        
+        {
+            "opening": "¡No puedes pasar sin derrotarme!",
+            "win": "¡No te permitiré pasar!",
+            "lose": "Sigue tu camino, si te atreves."
+        },
+        {
+            "opening": "¡¿Qué estás haciendo aquí?!",
+            "win": "Fuera de aquí.",
+            "lose": "¡Oh no! ¡He perdido!"
+        },
+        {
+            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando por aquí!",
+            "win": "¡Fuera de mi vista ahora mismo!",
+            "lose": "¡Imposible!"
+        },
+        {
+            "opening": "¡El Team Rocket es el mejor!",
+            "win": "¡Te advertí de que somos los mejores!",
+            "lose": "Tendría que haberme unido al Equipo Magma."
+        },
+        {
+            "opening": "¡Preparate para los problemas!",
+            "win": "Y me puedo hacer este doble.",
+            "lose": "¡Los Pokémon son porquería!"
+        },
+        {
+            "opening": "Los Pokémon son herramientas. ¿Cómo se les trata bien?",
+            "win": "¿Ves? Son inútiles.",
+            "lose": "¡Inútiles!"
+        },
+        {
+            "opening": "¡Somos el Team Rocket!",
+            "win": "¿Quién eres?",
+            "lose": "¿Por qué estás aquí?"
+        },
+        {
+            "opening": "¿Que piensas que estás haciendo aquí?",
+            "win": "¡Vete, ahora!",
+            "lose": "¡Vete antes de que se lo diga al jefe!"
+        },
+        {
+            "opening": "¡Apartate de mi camino!",
+            "win": "¡He dicho que te muevas!",
+            "lose": "¡No puede ser!"
+        },
+        {
+            "opening": "¡Tienes valor si piensas que puedes derrotarme!",
+            "win": "Nunca me vas a vencer.",
+            "lose": "¡¿Me has ganado!? ¡Noooooo!"
+	    },       
+        {
+            "opening": "No puedes derrotarme. ¡Estoy en el puesto 27 de los soldados más fuertes!",
+            "win": "¡Si, ahora seguramente estaré en el puesto 26 de los más fuertes!",
+            "lose": "¡Oh no, ahora me llamarán el 28 de los más fuertes!"
+        },
+        {
+            "opening": "¡Tus Pokémon valdrán muy baratos en el mercado negro!",
+            "win": "¡Tus Pokémon son muy malos!",
+            "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
+	    },       
+        {
+            "opening": "No hay nada sospechoso por aquí. ¡Muevete!",
+            "win": "¡No tienes ni idea de con quien estás tratando chaval!",
+            "lose": "El jefe no estará contento contigo."
+        },
+    ]
+}

@@ -1,0 +1,213 @@
+{
+  "pixelmonName": "Ambipom",
+  "pokemon": "Ambipom",
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defence": 66,
+    "Speed": 115,
+    "SpecialAttack": 60,
+    "SpecialDefence": 66
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 12,
+  "baseExp": 186,
+  "baseFriendship": 100,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Aipom"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 20.3,
+  "evolutions": [],
+  "abilities": [
+    "Technician",
+    "Pickup",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Tail Whip",
+      "Sand-Attack",
+      "Astonish"
+    ],
+    "4": [
+      "Sand-Attack"
+    ],
+    "8": [
+      "Astonish"
+    ],
+    "11": [
+      "Baton Pass"
+    ],
+    "15": [
+      "Tickle"
+    ],
+    "18": [
+      "Fury Swipes"
+    ],
+    "22": [
+      "Swift"
+    ],
+    "25": [
+      "Screech"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "32": [
+      "Double Hit"
+    ],
+    "36": [
+      "Fling"
+    ],
+    "39": [
+      "Nasty Plot"
+    ],
+    "43": [
+      "Last Resort"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Seismic Toss",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Nightmare",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Snatch",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Foul Play",
+    "Gunk Shot",
+    "Knock Off",
+    "Last Resort",
+    "Low Kick",
+    "Role Play",
+    "Seed Bomb",
+    "Spite",
+    "Uproar",
+    "Agility",
+    "Baton Pass",
+    "Beat Up",
+    "DoubleSlap",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit",
+    "Tickle",
+    "Screech",
+    "Spite"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Beat Up",
+    "Bounce",
+    "Counter",
+    "Covet",
+    "Fake Out",
+    "Pursuit",
+    "Quick Guard",
+    "Revenge",
+    "Screech",
+    "Slam",
+    "Spite",
+    "Switcheroo",
+    "DoubleSlap"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Vileplume",
+  "pokemon": "Vileplume",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 85,
+    "Speed": 50,
+    "SpecialAttack": 110,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 1.2,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gloom",
+    "Oddish"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 18.6,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "EffectSpore"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mega Drain",
+      "Aromatherapy",
+      "Poison Powder",
+      "Stun Spore"
+    ],
+    "49": [
+      "Petal Blizzard"
+    ],
+    "59": [
+      "Petal Dance"
+    ],
+    "64": [
+      "SolarBeam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Safeguard"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Aromatherapy",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle",
+    "Moonblast"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Flail",
+    "Ingrain",
+    "Nature Power",
+    "Razor Leaf",
+    "Secret Power",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

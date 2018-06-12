@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "firebreather1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Escupefuego"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¡Estás rojo! ¿Es por el calor, o es que estás nervioso?",
+      "win": "¡Esfúmate, chaval!",
+      "lose": "¡Me has calcinado!"
+    }
+  ]
+}

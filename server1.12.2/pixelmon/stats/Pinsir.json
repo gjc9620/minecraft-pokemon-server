@@ -1,0 +1,222 @@
+{
+  "pixelmonName": "Pinsir",
+  "pokemon": "Pinsir",
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 85,
+    "SpecialAttack": 55,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 55.0,
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "MoldBreaker",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Vice Grip",
+      "Focus Energy"
+    ],
+    "4": [
+      "Bind"
+    ],
+    "8": [
+      "Seismic Toss"
+    ],
+    "11": [
+      "Harden"
+    ],
+    "15": [
+      "Revenge"
+    ],
+    "18": [
+      "Vital Throw"
+    ],
+    "22": [
+      "Double Hit"
+    ],
+    "26": [
+      "Brick Break"
+    ],
+    "29": [
+      "Submission"
+    ],
+    "33": [
+      "X-Scissor"
+    ],
+    "36": [
+      "Storm Throw"
+    ],
+    "40": [
+      "Swords Dance"
+    ],
+    "43": [
+      "Thrash"
+    ],
+    "47": [
+      "Superpower"
+    ],
+    "50": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Helping Hand",
+    "Iron Defense",
+    "Knock Off",
+    "String Shot",
+    "Superpower",
+    "Faint Attack",
+    "Flail",
+    "Fury Attack",
+    "Rock Throw",
+    "Thrash",
+    "Harden",
+    "Focus Energy",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Close Combat",
+    "Feint",
+    "Flail",
+    "Fury Attack",
+    "Me First",
+    "Quick Attack",
+    "Superpower",
+    "Faint Attack"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 155,
+        "Defence": 120,
+        "Speed": 105,
+        "SpecialAttack": 65,
+        "SpecialDefence": 90
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.7,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 59.0,
+      "abilities": [
+        "Aerilate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Basculin",
+  "pokemon": "Basculin",
+  "stats": {
+    "HP": 70,
+    "Attack": 92,
+    "Defence": 65,
+    "Speed": 98,
+    "SpecialAttack": 80,
+    "SpecialDefence": 55
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 18.0,
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "Adaptability",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Thrash",
+      "Flail",
+      "Tail Whip",
+      "Tackle",
+      "Water Gun"
+    ],
+    "4": [
+      "Uproar"
+    ],
+    "7": [
+      "Headbutt"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Aqua Jet"
+    ],
+    "16": [
+      "Chip Away"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "28": [
+      "Aqua Tail"
+    ],
+    "32": [
+      "Soak"
+    ],
+    "36": [
+      "Double-Edge"
+    ],
+    "41": [
+      "Scary Face"
+    ],
+    "46": [
+      "Flail"
+    ],
+    "50": [
+      "Final Gambit"
+    ],
+    "56": [
+      "Thrash"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Brine",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Endeavor",
+    "Superpower",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Bite",
+    "Flail",
+    "Scary Face",
+    "Thrash",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Brine",
+    "Mud Shot",
+    "Muddy Water",
+    "Rage",
+    "Revenge",
+    "Swift",
+    "Whirlpool",
+    "BubbleBeam"
+  ],
+  "forms": {
+    "1": {
+      "abilities": [
+        "RockHead",
+        "Adaptability",
+        "MoldBreaker"
+      ],
+      "form": 1
+    }
+  },
+  "form": 0
+}

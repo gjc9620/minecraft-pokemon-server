@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Scolipede",
+  "pokemon": "Scolipede",
+  "stats": {
+    "HP": 60,
+    "Attack": 100,
+    "Defence": 89,
+    "Speed": 112,
+    "SpecialAttack": 55,
+    "SpecialDefence": 69
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 214,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.8,
+  "width": 0.8,
+  "length": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Whirlipede",
+    "Venipede"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.4
+    }
+  },
+  "weight": 200.5,
+  "evolutions": [],
+  "abilities": [
+    "PoisonPoint",
+    "Swarm",
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Megahorn",
+      "Defense Curl",
+      "Rollout",
+      "Poison Sting",
+      "Screech"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "8": [
+      "Screech"
+    ],
+    "12": [
+      "Pursuit"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "19": [
+      "Poison Tail"
+    ],
+    "23": [
+      "Bug Bite"
+    ],
+    "28": [
+      "Venoshock"
+    ],
+    "30": [
+      "Baton Pass"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "39": [
+      "Steamroller"
+    ],
+    "44": [
+      "Toxic"
+    ],
+    "47": [
+      "Venom Drench"
+    ],
+    "50": [
+      "Rock Climb"
+    ],
+    "55": [
+      "Double-Edge"
+    ],
+    "65": [
+      "Megahorn"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Giga Impact",
+    "Gyro Ball",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Take Down",
+    "Double-Edge",
+    "Rollout",
+    "Snore",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Snatch",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bug Bite",
+    "Endeavor",
+    "Iron Defense",
+    "Signal Beam",
+    "Superpower",
+    "Agility",
+    "Baton Pass",
+    "Pursuit",
+    "Screech",
+    "Signal Beam"
+  ],
+  "eggMoves": [
+    "Pin Missile",
+    "Rock Climb",
+    "Spikes",
+    "Take Down",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "forms": {},
+  "form": -1
+}

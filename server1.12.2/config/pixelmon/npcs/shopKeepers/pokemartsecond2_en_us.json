@@ -1,0 +1,114 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Finnegan"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+    variation - optional field, true or false, if true the items price will vary between 0.9 and 1.1 times the default price. Defaults as True
+  */
+  "items": [
+    {
+      "name": "pixelmon:item.Water_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Fire_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Thunder_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Dawn_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Shiny_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Dusk_Stone",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Weight",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Bracer",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Belt",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Lens",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Band",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Power_Anklet",
+	  "rarity": 0.4
+    },
+	{
+      "name": "pixelmon:item.HP_Up",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Protein",
+      "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Iron",
+	  "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:item.Carbos",
+      "rarity": 0.4
+	},
+    {
+      "name": "pixelmon:item.Zinc",
+      "rarity": 0.4
+    },
+	{
+      "name": "pixelmon:item.Calcium",
+      "rarity": 0.8
+    },
+    {
+      "name": "pixelmon:item.ranchupgrade",
+      "rarity": 0.4
+    }
+  ]
+}

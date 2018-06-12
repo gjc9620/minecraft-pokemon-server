@@ -1,0 +1,24 @@
+{
+	"id": "Tentacool",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Tentacool"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 8,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"stone_beach"
+				]
+			},
+			"rarity": 470.0
+		}
+	]
+}

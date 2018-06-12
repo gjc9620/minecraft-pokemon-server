@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Entei",
+  "pokemon": "Entei",
+  "stats": {
+    "HP": 115,
+    "Attack": 115,
+    "Defence": 85,
+    "Speed": 100,
+    "SpecialAttack": 90,
+    "SpecialDefence": 75
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 217,
+  "baseFriendship": 35,
+  "types": [
+    "Fire"
+  ],
+  "height": 2.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.08
+    }
+  },
+  "weight": 198.0,
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "FlashFire"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Sacred Fire",
+      "Eruption",
+      "Extrasensory",
+      "Lava Plume",
+      "Bite",
+      "Leer"
+    ],
+    "8": [
+      "Ember"
+    ],
+    "15": [
+      "Roar"
+    ],
+    "22": [
+      "Fire Spin"
+    ],
+    "29": [
+      "Stomp"
+    ],
+    "36": [
+      "Flamethrower"
+    ],
+    "43": [
+      "Swagger"
+    ],
+    "50": [
+      "Fire Fang"
+    ],
+    "57": [
+      "Lava Plume"
+    ],
+    "64": [
+      "Extrasensory"
+    ],
+    "71": [
+      "Fire Blast"
+    ],
+    "78": [
+      "Calm Mind"
+    ],
+    "85": [
+      "Eruption"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Quash",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Psych Up",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Iron Head",
+    "Bite",
+    "Crush Claw",
+    "Extrasensory",
+    "ExtremeSpeed",
+    "Flare Blitz",
+    "Howl",
+    "Stomp",
+    "Leer"
+  ],
+  "forms": {},
+  "form": -1
+}

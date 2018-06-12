@@ -1,0 +1,252 @@
+{
+  "pixelmonName": "Latias",
+  "pokemon": "Latias",
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 90,
+    "Speed": 110,
+    "SpecialAttack": 110,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": 0,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 211,
+  "baseFriendship": 90,
+  "types": [
+    "Dragon",
+    "Psychic"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 10,
+    "landingMaterials": "NONE"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": 0.0
+    }
+  },
+  "weight": 40.0,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Healing Wish",
+      "Helping Hand",
+      "Wish",
+      "Psywave",
+      "Safeguard"
+    ],
+    "4": [
+      "Water Sport"
+    ],
+    "7": [
+      "Charm"
+    ],
+    "10": [
+      "Stored Power"
+    ],
+    "13": [
+      "Refresh"
+    ],
+    "16": [
+      "Heal Pulse"
+    ],
+    "20": [
+      "DragonBreath"
+    ],
+    "24": [
+      "Mist Ball"
+    ],
+    "28": [
+      "Psycho Shift"
+    ],
+    "32": [
+      "Recover"
+    ],
+    "36": [
+      "Reflect Type"
+    ],
+    "41": [
+      "Zen Headbutt"
+    ],
+    "46": [
+      "Guard Split"
+    ],
+    "51": [
+      "Psychic"
+    ],
+    "56": [
+      "Dragon Pulse"
+    ],
+    "61": [
+      "Healing Wish"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Fly",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Defog",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Psywave",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Fury Cutter",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Draco Meteor",
+    "Helping Hand",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Outrage",
+    "Role Play",
+    "Sucker Punch",
+    "Tailwind",
+    "Trick",
+    "Twister",
+    "Zen Headbutt",
+    "Charm",
+    "Heal Pulse",
+    "Refresh",
+    "Water Sport",
+    "Wish"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defence": 120,
+        "Speed": 110,
+        "SpecialAttack": 140,
+        "SpecialDefence": 150
+      },
+      "height": 1.8,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 1.4,
+          "z": 0.0
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 1.4,
+          "z": 0.0
+        }
+      },
+      "weight": 52.0,
+      "form": 1
+    }
+  },
+  "form": -1
+}

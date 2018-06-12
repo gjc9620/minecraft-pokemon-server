@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Pichu",
+  "pokemon": "Pichu",
+  "stats": {
+    "HP": 20,
+    "Attack": 40,
+    "Defence": 15,
+    "Speed": 60,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 7,
+  "spawnLevelRange": 43,
+  "baseExp": 42,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Pikachu"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "ThunderShock",
+      "Charm"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "10": [
+      "Sweet Kiss"
+    ],
+    "13": [
+      "Nasty Plot"
+    ],
+    "18": [
+      "Thunder Wave"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "Uproar",
+    "Charm",
+    "Dizzy Punch",
+    "DoubleSlap",
+    "Encore",
+    "Fake Out",
+    "Flail",
+    "Follow Me",
+    "Nasty Plot",
+    "Petal Dance",
+    "Reversal",
+    "Scary Face",
+    "Sing",
+    "Sweet Kiss",
+    "Teeter Dance",
+    "Tickle",
+    "Wish",
+    "Volt Tackle",
+    "Thunder Punch",
+    "Electroweb"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Bide",
+    "Charge",
+    "DoubleSlap",
+    "Encore",
+    "Endure",
+    "Fake Out",
+    "Flail",
+    "Lucky Chant",
+    "Present",
+    "Reversal",
+    "Tickle",
+    "Wish",
+    "Thunder Punch",
+    "Disarming Voice"
+  ],
+  "forms": {
+    "1": {
+      "malePercent": 0,
+      "evolutions": [],
+      "levelUpMoves": {
+        "0": [
+          "ThunderShock",
+          "Charm",
+          "Volt Tackle",
+          "Pain Split"
+        ],
+        "5": [
+          "Tail Whip"
+        ],
+        "10": [
+          "Sweet Kiss"
+        ],
+        "13": [
+          "Nasty Plot"
+        ],
+        "18": [
+          "Thunder Wave"
+        ]
+      },
+      "form": 1
+    }
+  },
+  "form": -1
+}

@@ -1,0 +1,27 @@
+{
+	"id": "Chespin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Chespin"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"roofed_forest",
+					"mutated_roofed_forest",
+					"flowery"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

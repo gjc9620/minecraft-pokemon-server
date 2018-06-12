@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Happiny",
+  "pokemon": "Happiny",
+  "stats": {
+    "HP": 100,
+    "Attack": 5,
+    "Defence": 5,
+    "Speed": 30,
+    "SpecialAttack": 15,
+    "SpecialDefence": 65
+  },
+  "catchRate": 130,
+  "malePercent": 0,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 255,
+  "baseFriendship": 140,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 24.4,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Chansey"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:oval_stone"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "SereneGrace",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Charm"
+    ],
+    "5": [
+      "Copycat"
+    ],
+    "9": [
+      "Refresh"
+    ],
+    "12": [
+      "Sweet Kiss"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Counter",
+    "Metronome",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Shock Wave",
+    "Drain Punch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Uproar",
+    "Zen Headbutt",
+    "Aromatherapy",
+    "Charm",
+    "Refresh",
+    "Sweet Kiss"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Counter",
+    "Endure",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Last Resort",
+    "Metronome",
+    "Mud Bomb",
+    "Natural Gift",
+    "Present"
+  ],
+  "forms": {},
+  "form": -1
+}

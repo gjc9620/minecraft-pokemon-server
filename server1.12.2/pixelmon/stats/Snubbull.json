@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Snubbull",
+  "pokemon": "Snubbull",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 17,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 7.8,
+  "evolutions": [
+    {
+      "level": 23,
+      "to": {
+        "name": "Granbull"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "RunAway",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ice Fang",
+      "Fire Fang",
+      "Thunder Fang",
+      "Tackle",
+      "Scary Face",
+      "Tail Whip",
+      "Charm"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "13": [
+      "Lick"
+    ],
+    "19": [
+      "Headbutt"
+    ],
+    "25": [
+      "Roar"
+    ],
+    "31": [
+      "Rage"
+    ],
+    "37": [
+      "Play Rough"
+    ],
+    "43": [
+      "Payback"
+    ],
+    "49": [
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Retaliate",
+    "Thunder Wave",
+    "Bulldoze",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Metronome",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Hyper Voice",
+    "Last Resort",
+    "Low Kick",
+    "Super Fang",
+    "Superpower",
+    "Bite",
+    "Charm",
+    "Faint Attack",
+    "Lovely Kiss",
+    "Scary Face",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Close Combat",
+    "Crunch",
+    "Double-Edge",
+    "Fake Tears",
+    "Fire Fang",
+    "Focus Punch",
+    "Heal Bell",
+    "Ice Fang",
+    "Metronome",
+    "Mimic",
+    "Present",
+    "Snore",
+    "Thunder Fang",
+    "Faint Attack",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

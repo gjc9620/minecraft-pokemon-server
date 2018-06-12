@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Haunter",
+  "pokemon": "Haunter",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 45,
+    "Speed": 95,
+    "SpecialAttack": 115,
+    "SpecialDefence": 55
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gastly"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 0.1,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gengar"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hypnosis",
+      "Lick",
+      "Spite"
+    ],
+    "5": [
+      "Spite"
+    ],
+    "8": [
+      "Mean Look"
+    ],
+    "12": [
+      "Curse"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Confuse Ray"
+    ],
+    "22": [
+      "Sucker Punch"
+    ],
+    "25": [
+      "Shadow Punch"
+    ],
+    "28": [
+      "Payback"
+    ],
+    "33": [
+      "Shadow Ball"
+    ],
+    "39": [
+      "Dream Eater"
+    ],
+    "44": [
+      "Dark Pulse"
+    ],
+    "50": [
+      "Destiny Bond"
+    ],
+    "55": [
+      "Hex"
+    ],
+    "61": [
+      "Nightmare"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Will-O-Wisp",
+    "Embargo",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Psych Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Sludge Wave",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Psywave",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Skill Swap",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Thunder",
+    "Secret Power",
+    "Infestation",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Knock Off",
+    "Ominous Wind",
+    "Pain Split",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Haze",
+    "Hypnosis",
+    "Night Shade",
+    "Scary Face"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Clear Smog",
+    "Disable",
+    "Fire Punch",
+    "Grudge",
+    "Haze",
+    "Ice Punch",
+    "Perish Song",
+    "Psywave",
+    "Reflect Type",
+    "Scary Face",
+    "Smog",
+    "Thunder Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Gastrodon",
+  "pokemon": "Gastrodon",
+  "stats": {
+    "HP": 111,
+    "Attack": 83,
+    "Defence": 68,
+    "Speed": 39,
+    "SpecialAttack": 92,
+    "SpecialDefence": 82
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 20,
+  "baseExp": 176,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Shellos"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 29.9,
+  "evolutions": [],
+  "abilities": [
+    "StickyHold",
+    "StormDrain",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mud-Slap",
+      "Mud Sport",
+      "Harden",
+      "Water Pulse"
+    ],
+    "2": [
+      "Mud Sport"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Water Pulse"
+    ],
+    "11": [
+      "Mud Bomb"
+    ],
+    "16": [
+      "Hidden Power"
+    ],
+    "22": [
+      "Rain Dance"
+    ],
+    "29": [
+      "Body Slam"
+    ],
+    "41": [
+      "Muddy Water"
+    ],
+    "54": [
+      "Recover"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Counter",
+    "Fissure",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Pain Split",
+    "String Shot",
+    "Amnesia",
+    "Mist",
+    "Mud Sport",
+    "Yawn",
+    "Harden"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Amnesia",
+    "Brine",
+    "Clear Smog",
+    "Counter",
+    "Curse",
+    "Fissure",
+    "Memento",
+    "Mirror Coat",
+    "Mist",
+    "Sludge",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Trump Card",
+    "Yawn"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": -1
+}

@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Stantler",
+  "pokemon": "Stantler",
+  "stats": {
+    "HP": 73,
+    "Attack": 95,
+    "Defence": 62,
+    "Speed": 85,
+    "SpecialAttack": 85,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "width": 0.6,
+  "length": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    }
+  },
+  "weight": 71.2,
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "Frisk",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Me First",
+      "Tackle"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "10": [
+      "Hypnosis"
+    ],
+    "13": [
+      "Stomp"
+    ],
+    "16": [
+      "Sand-Attack"
+    ],
+    "21": [
+      "Take Down"
+    ],
+    "23": [
+      "Confuse Ray"
+    ],
+    "27": [
+      "Calm Mind"
+    ],
+    "33": [
+      "Role Play"
+    ],
+    "38": [
+      "Zen Headbutt"
+    ],
+    "43": [
+      "Jump Kick"
+    ],
+    "49": [
+      "Imprison"
+    ],
+    "50": [
+      "Captivate"
+    ],
+    "55": [
+      "Me First"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Wild Charge",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Captivate",
+    "Natural Gift",
+    "Safeguard",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Gravity",
+    "Last Resort",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Spite",
+    "Sucker Punch",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Extrasensory",
+    "Hypnosis",
+    "Mud Sport",
+    "Thrash",
+    "Stomp",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Disable",
+    "Double Kick",
+    "Extrasensory",
+    "Me First",
+    "Megahorn",
+    "Mud Sport",
+    "Rage",
+    "Spite",
+    "Thrash",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

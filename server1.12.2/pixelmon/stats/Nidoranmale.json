@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Nidoranmale",
+  "pokemon": "Nidoranmale",
+  "stats": {
+    "HP": 46,
+    "Attack": 57,
+    "Defence": 40,
+    "Speed": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 235,
+  "malePercent": 100,
+  "spawnLevel": 3,
+  "spawnLevelRange": 13,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.5,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 9.0,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Nidorino"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Rivalry",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Peck"
+    ],
+    "7": [
+      "Focus Energy"
+    ],
+    "9": [
+      "Double Kick"
+    ],
+    "13": [
+      "Poison Sting"
+    ],
+    "19": [
+      "Fury Attack"
+    ],
+    "21": [
+      "Horn Attack"
+    ],
+    "25": [
+      "Helping Hand"
+    ],
+    "31": [
+      "Toxic Spikes"
+    ],
+    "33": [
+      "Flatter"
+    ],
+    "37": [
+      "Poison Jab"
+    ],
+    "43": [
+      "Captivate"
+    ],
+    "45": [
+      "Horn Drill"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Protect",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drill Run",
+    "Helping Hand",
+    "Sucker Punch",
+    "Super Fang",
+    "Amnesia",
+    "Beat Up",
+    "Fury Attack",
+    "Lovely Kiss",
+    "Morning Sun",
+    "Sweet Kiss",
+    "Peck",
+    "Focus Energy",
+    "Horn Attack",
+    "Tackle",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Beat Up",
+    "Chip Away",
+    "Confusion",
+    "Counter",
+    "Disable",
+    "Endure",
+    "Head Smash",
+    "Iron Tail",
+    "Poison Tail",
+    "Sucker Punch",
+    "Supersonic",
+    "Take Down",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Zoroark",
+  "pokemon": "Zoroark",
+  "stats": {
+    "HP": 60,
+    "Attack": 105,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 120,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 179,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.6,
+  "width": 0.8,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zorua"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 81.1,
+  "evolutions": [],
+  "abilities": [
+    "Illusion",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Night Daze",
+      "Imprison",
+      "U-Turn",
+      "Scratch",
+      "Leer",
+      "Pursuit",
+      "Hone Claws"
+    ],
+    "5": [
+      "Pursuit"
+    ],
+    "9": [
+      "Hone Claws"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Faint Attack"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "25": [
+      "Taunt"
+    ],
+    "29": [
+      "Foul Play"
+    ],
+    "30": [
+      "Night Slash"
+    ],
+    "34": [
+      "Torment"
+    ],
+    "39": [
+      "Agility"
+    ],
+    "44": [
+      "Embargo"
+    ],
+    "49": [
+      "Punishment"
+    ],
+    "54": [
+      "Nasty Plot"
+    ],
+    "59": [
+      "Imprison"
+    ],
+    "64": [
+      "Night Daze"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Counter",
+    "Snore",
+    "Sleep Talk",
+    "Detect",
+    "Snatch",
+    "Dark Pulse",
+    "Captivate",
+    "Secret Power",
+    "Confide",
+    "Psych Up",
+    "Sludge Bomb"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Knock Off",
+    "Low Kick",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Uproar",
+    "Agility",
+    "Extrasensory",
+    "Faint Attack",
+    "Nasty Plot",
+    "Pursuit",
+    "Scary Face",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Copycat",
+    "Counter",
+    "Dark Pulse",
+    "Detect",
+    "Extrasensory",
+    "Memento",
+    "Snatch",
+    "Sucker Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

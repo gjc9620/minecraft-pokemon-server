@@ -1,0 +1,26 @@
+{
+	"id": "Sandshrew",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sandshrew"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 12,
+			"maxLevel": 22,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 190.0
+		}
+	]
+}

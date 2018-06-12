@@ -1,0 +1,23 @@
+{
+	"id": "Stunfisk",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Stunfisk"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 34,
+			"maxLevel": 48,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

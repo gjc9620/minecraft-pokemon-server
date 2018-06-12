@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Sigilyph",
+  "pokemon": "Sigilyph",
+  "stats": {
+    "HP": 72,
+    "Attack": 58,
+    "Defence": 80,
+    "Speed": 97,
+    "SpecialAttack": 103,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 1.4,
+  "width": 0.7,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 14.0,
+  "evolutions": [],
+  "abilities": [
+    "WonderSkin",
+    "MagicGuard",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Miracle Eye"
+    ],
+    "4": [
+      "Hypnosis"
+    ],
+    "8": [
+      "Psywave"
+    ],
+    "11": [
+      "Tailwind"
+    ],
+    "14": [
+      "Whirlwind"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "21": [
+      "Air Cutter"
+    ],
+    "24": [
+      "Light Screen"
+    ],
+    "28": [
+      "Reflect"
+    ],
+    "31": [
+      "Synchronoise"
+    ],
+    "34": [
+      "Mirror Move"
+    ],
+    "38": [
+      "Gravity"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "44": [
+      "Psychic"
+    ],
+    "48": [
+      "Cosmic Power"
+    ],
+    "50": [
+      "Sky Attack"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Fly",
+    "Whirlwind",
+    "Sky Attack",
+    "Psywave",
+    "Snore",
+    "Icy Wind",
+    "Sleep Talk",
+    "Steel Wing",
+    "Skill Swap",
+    "Roost",
+    "Dark Pulse",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Gravity",
+    "Heat Wave",
+    "Magic Coat",
+    "Magic Room",
+    "Signal Beam",
+    "Tailwind",
+    "Trick",
+    "Zen Headbutt",
+    "Air Slash",
+    "Gust",
+    "Hypnosis"
+  ],
+  "eggMoves": [
+    "Future Sight",
+    "Psycho Shift",
+    "Roost",
+    "Skill Swap",
+    "Steel Wing",
+    "Stored Power",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

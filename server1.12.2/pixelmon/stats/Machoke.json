@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Machoke",
+  "pokemon": "Machoke",
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 50,
+    "SpecialDefence": 60
+  },
+  "catchRate": 90,
+  "malePercent": 75,
+  "spawnLevel": 28,
+  "spawnLevelRange": 11,
+  "baseExp": 146,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Machop"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 70.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Machamp"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    "NoGuard",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Low Kick",
+      "Leer",
+      "Focus Energy",
+      "Karate Chop"
+    ],
+    "3": [
+      "Focus Energy"
+    ],
+    "7": [
+      "Karate Chop"
+    ],
+    "9": [
+      "Foresight"
+    ],
+    "13": [
+      "Low Sweep"
+    ],
+    "15": [
+      "Seismic Toss"
+    ],
+    "19": [
+      "Revenge"
+    ],
+    "21": [
+      "Knock Off"
+    ],
+    "25": [
+      "Vital Throw"
+    ],
+    "27": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Dual Chop"
+    ],
+    "37": [
+      "Submission"
+    ],
+    "43": [
+      "Bulk Up"
+    ],
+    "47": [
+      "Cross Chop"
+    ],
+    "53": [
+      "Scary Face"
+    ],
+    "57": [
+      "DynamicPunch"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Metronome",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "False Swipe",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Superpower",
+    "Vacuum Wave",
+    "Encore",
+    "Foresight",
+    "Scary Face",
+    "Thrash",
+    "Tickle",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Bullet Punch",
+    "Close Combat",
+    "Counter",
+    "Encore",
+    "Fire Punch",
+    "Heavy Slam",
+    "Ice Punch",
+    "Knock Off",
+    "Meditate",
+    "Power Trick",
+    "Quick Guard",
+    "Rolling Kick",
+    "Thunder Punch",
+    "Tickle",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

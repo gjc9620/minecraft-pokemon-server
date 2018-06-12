@@ -1,0 +1,81 @@
+{
+	"id": "Cherrim",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cherrim",
+				"form": 0
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 25.0
+		},
+		{
+			"spec": {
+				"name": "Cherrim",
+				"form": 0
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+                    "RAIN",
+					"STORM"
+                ],
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 25.0
+		},
+		{
+			"spec": {
+				"name": "Cherrim",
+				"form": 1
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+                    "CLEAR"
+                ],
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"plains",
+					"flowery"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

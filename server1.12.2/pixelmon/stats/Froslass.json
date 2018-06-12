@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Froslass",
+  "pokemon": "Froslass",
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 70,
+    "Speed": 110,
+    "SpecialAttack": 80,
+    "SpecialDefence": 70
+  },
+  "catchRate": 75,
+  "malePercent": 0,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 187,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ghost"
+  ],
+  "height": 1.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snorunt"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 30,
+    "aggressive": 70
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 26.6,
+  "evolutions": [],
+  "abilities": [
+    "SnowCloak",
+    null,
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Destiny Bond",
+      "Powder Snow",
+      "Leer",
+      "Double Team",
+      "Ice Shard"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Ice Shard"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "19": [
+      "Astonish"
+    ],
+    "23": [
+      "Draining Kiss"
+    ],
+    "28": [
+      "Ominous Wind"
+    ],
+    "32": [
+      "Confuse Ray"
+    ],
+    "37": [
+      "Wake-Up Slap"
+    ],
+    "41": [
+      "Captivate"
+    ],
+    "42": [
+      "Shadow Ball"
+    ],
+    "48": [
+      "Blizzard"
+    ],
+    "54": [
+      "Hail"
+    ],
+    "61": [
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Frost Breath",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Water Pulse",
+    "Shock Wave",
+    "Snatch",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Ominous Wind",
+    "Pain Split",
+    "Signal Beam",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Bite",
+    "Sing",
+    "Weather Ball",
+    "Leer",
+    "Bite",
+    "Sing"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bide",
+    "Block",
+    "Disable",
+    "Fake Tears",
+    "Hex",
+    "Rollout",
+    "Spikes",
+    "Switcheroo",
+    "Weather Ball"
+  ],
+  "forms": {},
+  "form": -1
+}

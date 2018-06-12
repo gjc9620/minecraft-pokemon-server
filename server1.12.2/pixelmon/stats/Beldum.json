@@ -1,0 +1,79 @@
+{
+  "pixelmonName": "Beldum",
+  "pokemon": "Beldum",
+  "stats": {
+    "HP": 40,
+    "Attack": 55,
+    "Defence": 80,
+    "Speed": 30,
+    "SpecialAttack": 35,
+    "SpecialDefence": 60
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 103,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.3,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 95.2,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Metang"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ClearBody",
+    null,
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Take Down"
+    ]
+  },
+  "tmMoves": [
+    "Take Down",
+    "Headbutt"
+  ],
+  "tutorMoves": [
+    "Iron Defense",
+    "Iron Head",
+    "Zen Headbutt",
+    "Hold Back"
+  ],
+  "forms": {},
+  "form": -1
+}

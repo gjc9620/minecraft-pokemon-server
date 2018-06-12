@@ -1,0 +1,33 @@
+{
+	"id": "Marill",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Marill"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:sea_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"beaches",
+					"river"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

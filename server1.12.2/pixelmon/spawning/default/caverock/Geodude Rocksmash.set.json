@@ -1,0 +1,17 @@
+{
+    "id": "Geodude Rocksmash",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Geodude"
+            },
+            "stringLocationTypes": [
+                "Cave Rock"
+            ],
+            "minLevel": 2,
+            "maxLevel": 15,
+            "typeID": "pokemon",
+            "rarity": 150.0
+        }
+    ]
+}

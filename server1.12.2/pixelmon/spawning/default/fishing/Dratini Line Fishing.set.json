@@ -1,0 +1,85 @@
+{
+	"id": "Dratini Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dratini"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 10,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests",
+					"jungles",
+					"birches",
+					"deep_ocean"
+				]
+			},
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Dratini"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests",
+					"jungles",
+					"birches",
+					"deep_ocean"
+				]
+			},
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Dragonair"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests",
+					"jungles",
+					"birches",
+					"deep_ocean"
+				]
+			},
+			"rarity": 15
+		},
+		{
+			"spec": {
+				"name": "Dragonite"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests",
+					"jungles",
+					"birches",
+					"deep_ocean"
+				]
+			},
+			"rarity": 5
+		}
+	]
+}

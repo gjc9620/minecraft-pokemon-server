@@ -1,0 +1,34 @@
+{
+	"id": "Latias",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Latias",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:soul_dew",
+					"percentChance": 50
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Dwebble",
+  "pokemon": "Dwebble",
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 29,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 14.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Crustle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "ShellArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter"
+    ],
+    "5": [
+      "Rock Blast"
+    ],
+    "7": [
+      "Withdraw"
+    ],
+    "11": [
+      "Sand-Attack"
+    ],
+    "13": [
+      "Faint Attack"
+    ],
+    "17": [
+      "Smack Down"
+    ],
+    "19": [
+      "Rock Polish"
+    ],
+    "23": [
+      "Bug Bite"
+    ],
+    "24": [
+      "Stealth Rock"
+    ],
+    "29": [
+      "Rock Slide"
+    ],
+    "31": [
+      "Slash"
+    ],
+    "35": [
+      "X-Scissor"
+    ],
+    "37": [
+      "Shell Smash"
+    ],
+    "41": [
+      "Flail"
+    ],
+    "43": [
+      "Rock Wrecker"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Counter",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Stealth Rock",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Bug Bite",
+    "Iron Defense",
+    "Knock Off",
+    "Faint Attack",
+    "Flail",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Block",
+    "Counter",
+    "Curse",
+    "Endure",
+    "Iron Defense",
+    "Night Slash",
+    "Sand Tomb",
+    "Spikes",
+    "Wide Guard",
+    "Rototiller"
+  ],
+  "forms": {},
+  "form": -1
+}

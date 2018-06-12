@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Durant",
+  "pokemon": "Durant",
+  "stats": {
+    "HP": 58,
+    "Attack": 109,
+    "Defence": 112,
+    "Speed": 109,
+    "SpecialAttack": 48,
+    "SpecialDefence": 48
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 33.0,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Hustle",
+    "Truant"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Guillotine",
+      "Iron Defense",
+      "Metal Sound",
+      "Vice Grip",
+      "Sand-Attack"
+    ],
+    "6": [
+      "Fury Cutter"
+    ],
+    "11": [
+      "Bite"
+    ],
+    "16": [
+      "Agility"
+    ],
+    "21": [
+      "Metal Claw"
+    ],
+    "26": [
+      "Bug Bite"
+    ],
+    "31": [
+      "Crunch"
+    ],
+    "36": [
+      "Iron Head"
+    ],
+    "41": [
+      "Dig"
+    ],
+    "46": [
+      "Entrainment"
+    ],
+    "51": [
+      "X-Scissor"
+    ],
+    "56": [
+      "Iron Defense"
+    ],
+    "61": [
+      "Guillotine"
+    ],
+    "66": [
+      "Metal Sound"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Struggle Bug",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Endeavor",
+    "Iron Defense",
+    "Iron Head",
+    "Superpower",
+    "Agility",
+    "Baton Pass",
+    "Bite",
+    "Faint Attack",
+    "Metal Sound",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Endure",
+    "Rock Climb",
+    "Screech",
+    "Thunder Fang",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

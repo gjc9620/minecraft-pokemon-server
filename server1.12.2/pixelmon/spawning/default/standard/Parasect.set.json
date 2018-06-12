@@ -1,0 +1,29 @@
+{
+	"id": "Parasect",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Parasect"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 24,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"swamps",
+					"mushroom",
+					"roofed_forest",
+					"mutated_roofed_forest"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

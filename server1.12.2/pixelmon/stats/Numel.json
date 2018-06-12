@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Numel",
+  "pokemon": "Numel",
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 28,
+  "baseExp": 88,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "height": 0.5,
+  "width": 0.3,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 24.0,
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Camerupt"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Oblivious",
+    "Simple",
+    "OwnTempo"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Magnitude"
+    ],
+    "15": [
+      "Flame Burst"
+    ],
+    "19": [
+      "Amnesia"
+    ],
+    "22": [
+      "Lava Plume"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Curse"
+    ],
+    "31": [
+      "Take Down"
+    ],
+    "36": [
+      "Yawn"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "43": [
+      "Flamethrower"
+    ],
+    "47": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Head",
+    "Amnesia",
+    "Charm",
+    "Growth",
+    "Howl",
+    "Scary Face",
+    "Yawn",
+    "Yawn",
+    "Stomp",
+    "Focus Energy",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Defense Curl",
+    "Endure",
+    "Growth",
+    "Heat Wave",
+    "Howl",
+    "Iron Head",
+    "Mud Bomb",
+    "Rollout",
+    "Scary Face",
+    "Spit Up",
+    "Stockpile",
+    "Stomp",
+    "Swallow",
+    "Yawn",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

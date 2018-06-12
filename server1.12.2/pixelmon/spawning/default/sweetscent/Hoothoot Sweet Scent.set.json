@@ -1,0 +1,17 @@
+{
+    "id": "Hoothoot Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Hoothoot"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 9,
+            "maxLevel": 15,
+            "typeID": "pokemon",
+            "rarity": 70.0
+        }
+    ]
+}

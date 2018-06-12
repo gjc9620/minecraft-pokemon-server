@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Pansage",
+  "pokemon": "Pansage",
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 48,
+    "Speed": 64,
+    "SpecialAttack": 53,
+    "SpecialDefence": 48
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 11,
+  "spawnLevelRange": 12,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Simisage"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Overgrow"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Play Nice"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Lick"
+    ],
+    "10": [
+      "Vine Whip"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Leech Seed"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "22": [
+      "Seed Bomb"
+    ],
+    "25": [
+      "Torment"
+    ],
+    "28": [
+      "Fling"
+    ],
+    "31": [
+      "Acrobatics"
+    ],
+    "34": [
+      "Grass Knot"
+    ],
+    "37": [
+      "Recycle"
+    ],
+    "40": [
+      "Natural Gift"
+    ],
+    "43": [
+      "Crunch"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Flash",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Snore",
+    "Giga Drain",
+    "Iron Tail",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Recycle",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Bite",
+    "Leech Seed",
+    "Nasty Plot",
+    "Tickle",
+    "Leer",
+    "Gastro Acid"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Bullet Seed",
+    "Covet",
+    "Leaf Storm",
+    "Low Kick",
+    "Magical Leaf",
+    "Nasty Plot",
+    "Role Play",
+    "Tickle",
+    "GrassWhistle",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

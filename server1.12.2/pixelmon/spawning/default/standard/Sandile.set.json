@@ -1,0 +1,25 @@
+{
+	"id": "Sandile",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Sandile"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 29,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 140.0
+		}
+	]
+}

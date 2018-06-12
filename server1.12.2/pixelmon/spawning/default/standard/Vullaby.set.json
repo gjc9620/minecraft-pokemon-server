@@ -1,0 +1,25 @@
+{
+	"id": "Vullaby",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Vullaby"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 42,
+			"maxLevel": 53,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Galvantula",
+  "pokemon": "Galvantula",
+  "stats": {
+    "HP": 70,
+    "Attack": 77,
+    "Defence": 60,
+    "Speed": 108,
+    "SpecialAttack": 97,
+    "SpecialDefence": 60
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Joltik"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 14.3,
+  "evolutions": [],
+  "abilities": [
+    "CompoundEyes",
+    "Unnerve",
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "String Shot",
+      "Leech Life",
+      "Spider Web",
+      "Thunder Wave",
+      "Sticky Web"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "7": [
+      "Screech"
+    ],
+    "12": [
+      "Fury Cutter"
+    ],
+    "15": [
+      "Electroweb"
+    ],
+    "18": [
+      "Bug Bite"
+    ],
+    "23": [
+      "Gastro Acid"
+    ],
+    "26": [
+      "Slash"
+    ],
+    "29": [
+      "Electro Ball"
+    ],
+    "34": [
+      "Signal Beam"
+    ],
+    "40": [
+      "Agility"
+    ],
+    "46": [
+      "Sucker Punch"
+    ],
+    "54": [
+      "Discharge"
+    ],
+    "60": [
+      "Bug Buzz"
+    ],
+    "65": [
+      "Sticky Web"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Cut",
+    "Rock Climb",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Infestation",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Gastro Acid",
+    "Magnet Rise",
+    "Signal Beam",
+    "String Shot",
+    "Sucker Punch",
+    "Agility",
+    "Faint Attack",
+    "Pursuit",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Cross Poison",
+    "Disable",
+    "Pin Missile",
+    "Poison Sting",
+    "Pursuit",
+    "Rock Climb",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Cresselia",
+  "pokemon": "Cresselia",
+  "stats": {
+    "HP": 120,
+    "Attack": 70,
+    "Defence": 120,
+    "Speed": 85,
+    "SpecialAttack": 75,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": 0,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 210,
+  "baseFriendship": 100,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.2
+    }
+  },
+  "weight": 85.6,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Lunar Dance",
+      "Psycho Shift",
+      "Psycho Cut",
+      "Moonlight",
+      "Confusion",
+      "Double Team"
+    ],
+    "11": [
+      "Safeguard"
+    ],
+    "20": [
+      "Mist"
+    ],
+    "29": [
+      "Aurora Beam"
+    ],
+    "38": [
+      "Future Sight"
+    ],
+    "47": [
+      "Slash"
+    ],
+    "57": [
+      "Moonlight"
+    ],
+    "66": [
+      "Psycho Cut"
+    ],
+    "75": [
+      "Psycho Shift"
+    ],
+    "84": [
+      "Lunar Dance"
+    ],
+    "93": [
+      "Psychic"
+    ],
+    "99": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Skill Swap",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gravity",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Signal Beam",
+    "Trick",
+    "Zen Headbutt",
+    "Mist",
+    "Moonlight",
+    "Slash"
+  ],
+  "forms": {},
+  "form": -1
+}

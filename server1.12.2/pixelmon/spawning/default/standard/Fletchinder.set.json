@@ -1,0 +1,26 @@
+{
+	"id": "Fletchinder",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Fletchinder"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 18,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

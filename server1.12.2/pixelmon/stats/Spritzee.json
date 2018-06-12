@@ -1,0 +1,165 @@
+{
+  "pixelmonName": "Spritzee",
+  "pokemon": "Spritzee",
+  "stats": {
+    "HP": 78,
+    "Attack": 52,
+    "Defence": 60,
+    "Speed": 23,
+    "SpecialAttack": 63,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 68,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Aromatisse"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:sachet"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Healer",
+    null,
+    "AromaVeil"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sweet Scent",
+      "Fairy Wind"
+    ],
+    "6": [
+      "Sweet Kiss"
+    ],
+    "8": [
+      "Odor Sleuth"
+    ],
+    "13": [
+      "Echoed Voice"
+    ],
+    "17": [
+      "Calm Mind"
+    ],
+    "21": [
+      "Draining Kiss"
+    ],
+    "25": [
+      "Aromatherapy"
+    ],
+    "29": [
+      "Attract"
+    ],
+    "31": [
+      "Moonblast"
+    ],
+    "35": [
+      "Charm"
+    ],
+    "38": [
+      "Flail"
+    ],
+    "42": [
+      "Misty Terrain"
+    ],
+    "44": [
+      "Skill Swap"
+    ],
+    "48": [
+      "Psychic"
+    ],
+    "50": [
+      "Disarming Voice"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide",
+    "Skill Swap",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Disable",
+    "Refresh",
+    "Wish"
+  ],
+  "forms": {},
+  "form": -1
+}

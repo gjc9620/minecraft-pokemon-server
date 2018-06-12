@@ -1,0 +1,25 @@
+{
+	"id": "Delphox",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Delphox"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 36,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

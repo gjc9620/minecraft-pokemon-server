@@ -1,0 +1,34 @@
+{
+	"id": "Foongus",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Foongus"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 20,
+			"maxLevel": 38,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"water"
+				],
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"birches",
+					"taigas",
+					"swamps",
+					"mushroom"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

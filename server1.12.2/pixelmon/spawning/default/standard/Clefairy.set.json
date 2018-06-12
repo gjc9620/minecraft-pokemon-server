@@ -1,0 +1,28 @@
+{
+	"id": "Clefairy",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Clefairy"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Underground"
+			],
+			"minLevel": 15,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

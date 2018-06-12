@@ -1,0 +1,199 @@
+{
+  "pixelmonName": "Cleffa",
+  "pokemon": "Cleffa",
+  "stats": {
+    "HP": 50,
+    "Attack": 25,
+    "Defence": 28,
+    "Speed": 15,
+    "SpecialAttack": 45,
+    "SpecialDefence": 55
+  },
+  "catchRate": 150,
+  "malePercent": 25,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 37,
+  "baseFriendship": 140,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 3.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Clefairy"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "MagicGuard",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Charm"
+    ],
+    "4": [
+      "Encore"
+    ],
+    "7": [
+      "Sing"
+    ],
+    "10": [
+      "Sweet Kiss"
+    ],
+    "13": [
+      "Copycat"
+    ],
+    "16": [
+      "Magical Leaf"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Softboiled",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Endeavor",
+    "Gravity",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Charm",
+    "Dizzy Punch",
+    "Encore",
+    "Heal Pulse",
+    "Petal Dance",
+    "Scary Face",
+    "Sing",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Aromatherapy",
+    "Belly Drum",
+    "Covet",
+    "Fake Tears",
+    "Metronome",
+    "Mimic",
+    "Present",
+    "Splash",
+    "Stored Power",
+    "Tickle",
+    "Wish",
+    "Heal Pulse",
+    "Misty Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

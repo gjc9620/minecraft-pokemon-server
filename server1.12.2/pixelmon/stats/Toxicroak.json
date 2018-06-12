@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Toxicroak",
+  "pokemon": "Toxicroak",
+  "stats": {
+    "HP": 83,
+    "Attack": 106,
+    "Defence": 65,
+    "Speed": 85,
+    "SpecialAttack": 86,
+    "SpecialDefence": 65
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 11,
+  "baseExp": 181,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "height": 1.3,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Croagunk"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 44.4,
+  "evolutions": [],
+  "abilities": [
+    "Anticipation",
+    "DrySkin",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Mud-Slap",
+      "Poison Sting"
+    ],
+    "3": [
+      "Mud-Slap"
+    ],
+    "8": [
+      "Poison Sting"
+    ],
+    "10": [
+      "Taunt"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "17": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Revenge"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "29": [
+      "Mud Bomb"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Venoshock"
+    ],
+    "41": [
+      "Nasty Plot"
+    ],
+    "49": [
+      "Poison Jab"
+    ],
+    "54": [
+      "Sludge Bomb"
+    ],
+    "58": [
+      "Belch"
+    ],
+    "62": [
+      "Flatter"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Counter",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Snatch",
+    "Drain Punch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Foul Play",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Spite",
+    "Sucker Punch",
+    "Super Fang",
+    "Vacuum Wave",
+    "Faint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Bullet Punch",
+    "Counter",
+    "Cross Chop",
+    "Drain Punch",
+    "Fake Out",
+    "Feint",
+    "Headbutt",
+    "Me First",
+    "Meditate",
+    "Quick Guard",
+    "Vacuum Wave",
+    "Wake-Up Slap",
+    "DynamicPunch",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

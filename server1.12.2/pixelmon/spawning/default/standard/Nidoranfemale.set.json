@@ -1,0 +1,25 @@
+{
+	"id": "Nidoranfemale",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Nidoranfemale"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 3,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

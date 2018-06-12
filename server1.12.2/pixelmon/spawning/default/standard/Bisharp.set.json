@@ -1,0 +1,25 @@
+{
+	"id": "Bisharp",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Bisharp"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 52,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "Beautifly",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Beautifly"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"DAY"
+				],
+				"stringBiomes": [
+					"birches",
+					"flowery"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

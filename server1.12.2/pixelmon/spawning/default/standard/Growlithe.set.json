@@ -1,0 +1,28 @@
+{
+	"id": "Growlithe",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Growlithe"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"weathers": [
+					"CLEAR"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

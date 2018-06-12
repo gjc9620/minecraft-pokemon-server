@@ -1,0 +1,28 @@
+{
+	"id": "Leafeon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Leafeon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 45,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"pixelmon:mossyrock"
+				],
+				"stringBiomes": [
+					"all forests"
+				]
+			},
+			"anticondition": {
+				"temperature": "COLD"
+			},
+			"rarity": 10
+		}
+	]
+}

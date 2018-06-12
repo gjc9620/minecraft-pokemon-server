@@ -1,0 +1,25 @@
+{
+	"id": "Maractus",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Maractus"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 14,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Dunsparce",
+  "pokemon": "Dunsparce",
+  "stats": {
+    "HP": 100,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 125,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 14.0,
+  "evolutions": [],
+  "abilities": [
+    "SereneGrace",
+    "RunAway",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rage",
+      "Defense Curl"
+    ],
+    "4": [
+      "Rollout"
+    ],
+    "7": [
+      "Spite"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "13": [
+      "Screech"
+    ],
+    "16": [
+      "Yawn"
+    ],
+    "19": [
+      "AncientPower"
+    ],
+    "22": [
+      "Take Down"
+    ],
+    "25": [
+      "Roost"
+    ],
+    "28": [
+      "Glare"
+    ],
+    "31": [
+      "Dig"
+    ],
+    "34": [
+      "Double-Edge"
+    ],
+    "37": [
+      "Coil"
+    ],
+    "40": [
+      "Endure"
+    ],
+    "43": [
+      "Drill Run"
+    ],
+    "46": [
+      "Endeavor"
+    ],
+    "49": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Incinerate",
+    "Retaliate",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Nightmare",
+    "Water Pulse",
+    "Shock Wave",
+    "Roost",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Bind",
+    "Drill Run",
+    "Endeavor",
+    "Last Resort",
+    "Magic Coat",
+    "Pain Split",
+    "Spite",
+    "Zen Headbutt",
+    "Agility",
+    "Bite",
+    "Flail",
+    "Fury Attack",
+    "Pursuit",
+    "Yawn",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Astonish",
+    "Bide",
+    "Bite",
+    "Curse",
+    "Headbutt",
+    "Hex",
+    "Magic Coat",
+    "Secret Power",
+    "Sleep Talk",
+    "Snore",
+    "Trump Card",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

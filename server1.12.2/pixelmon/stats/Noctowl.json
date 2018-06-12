@@ -1,0 +1,217 @@
+{
+  "pixelmonName": "Noctowl",
+  "pokemon": "Noctowl",
+  "stats": {
+    "HP": 100,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 76,
+    "SpecialDefence": 96
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 162,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hoothoot"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 10,
+    "flightTimeMax": 30,
+    "flapRate": 2,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.5
+    },
+    "moving": {
+      "x": -0.15,
+      "y": -1.6,
+      "z": -0.4
+    }
+  },
+  "weight": 40.8,
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "KeenEye",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Dream Eater",
+      "Sky Attack",
+      "Tackle",
+      "Growl",
+      "Foresight",
+      "Hypnosis"
+    ],
+    "5": [
+      "Hypnosis"
+    ],
+    "9": [
+      "Peck"
+    ],
+    "13": [
+      "Uproar"
+    ],
+    "17": [
+      "Reflect"
+    ],
+    "22": [
+      "Confusion"
+    ],
+    "27": [
+      "Echoed Voice"
+    ],
+    "32": [
+      "Take Down"
+    ],
+    "37": [
+      "Air Slash"
+    ],
+    "42": [
+      "Zen Headbutt"
+    ],
+    "47": [
+      "Synchronoise"
+    ],
+    "52": [
+      "Extrasensory"
+    ],
+    "57": [
+      "Psycho Shift"
+    ],
+    "62": [
+      "Roost"
+    ],
+    "67": [
+      "Dream Eater"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Nightmare",
+    "Roost",
+    "Silver Wind",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Flash",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Hyper Voice",
+    "Magic Coat",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Zen Headbutt",
+    "Agility",
+    "Air Slash",
+    "Extrasensory",
+    "Faint Attack",
+    "FeatherDance",
+    "Foresight",
+    "Hypnosis",
+    "Night Shade",
+    "Peck",
+    "Tackle",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Defog",
+    "Mirror Move",
+    "Night Shade",
+    "Sky Attack",
+    "Supersonic",
+    "Whirlwind",
+    "Wing Attack",
+    "FeatherDance",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

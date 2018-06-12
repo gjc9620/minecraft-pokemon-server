@@ -1,0 +1,42 @@
+{
+	"id": "Gible",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gible"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 14,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 25.0
+		},
+		{
+			"spec": {
+				"name": "Gible"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"maxY": 50,
+			"minLevel": 14,
+			"maxLevel": 23,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50,
+				"maxLightLevel": 10
+			},
+			"rarity": 15.0
+		}
+	]
+}

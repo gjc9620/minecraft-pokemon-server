@@ -1,0 +1,28 @@
+{
+	"id": "Ferroseed",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ferroseed"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"hills"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"arid",
+					"freezing"
+				]
+			},
+			"rarity": 30
+		}
+	]
+}

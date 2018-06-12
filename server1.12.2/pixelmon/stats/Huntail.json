@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Huntail",
+  "pokemon": "Huntail",
+  "stats": {
+    "HP": 55,
+    "Attack": 104,
+    "Defence": 105,
+    "Speed": 52,
+    "SpecialAttack": 94,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Clamperl"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 15,
+    "swimSpeed": 0.9,
+    "decayRate": 0.8,
+    "refreshRate": 150
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 27.0,
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Whirlpool",
+      "Bite"
+    ],
+    "5": [
+      "Screech"
+    ],
+    "9": [
+      "Scary Face"
+    ],
+    "11": [
+      "Faint Attack"
+    ],
+    "14": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Ice Fang"
+    ],
+    "19": [
+      "Brine"
+    ],
+    "23": [
+      "Sucker Punch"
+    ],
+    "26": [
+      "Dive"
+    ],
+    "29": [
+      "Baton Pass"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "39": [
+      "Aqua Tail"
+    ],
+    "45": [
+      "Coil"
+    ],
+    "50": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Snatch",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Sucker Punch",
+    "Super Fang",
+    "Aqua Ring",
+    "Barrier",
+    "Baton Pass",
+    "Bite",
+    "Faint Attack",
+    "Hydro Pump",
+    "Mud Sport",
+    "Refresh",
+    "Scary Face",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "forms": {},
+  "form": -1
+}

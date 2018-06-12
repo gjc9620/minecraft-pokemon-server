@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Klang",
+  "pokemon": "Klang",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 50,
+    "SpecialAttack": 70,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 38,
+  "spawnLevelRange": 10,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Klink"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 51.0,
+  "evolutions": [
+    {
+      "level": 49,
+      "to": {
+        "name": "Klinklang"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Vice Grip",
+      "Charge",
+      "ThunderShock",
+      "Gear Grind"
+    ],
+    "6": [
+      "Charge"
+    ],
+    "11": [
+      "ThunderShock"
+    ],
+    "16": [
+      "Gear Grind"
+    ],
+    "21": [
+      "Bind"
+    ],
+    "26": [
+      "Charge Beam"
+    ],
+    "31": [
+      "Autotomize"
+    ],
+    "36": [
+      "Mirror Shot"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Discharge"
+    ],
+    "48": [
+      "Metal Sound"
+    ],
+    "52": [
+      "Shift Gear"
+    ],
+    "56": [
+      "Lock-On"
+    ],
+    "60": [
+      "Zap Cannon"
+    ],
+    "64": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Rock Polish",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Rock Smash",
+    "Zap Cannon",
+    "Snore",
+    "Sleep Talk",
+    "Recycle",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Gravity",
+    "Iron Defense",
+    "Magic Coat",
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Metal Sound",
+    "Screech"
+  ],
+  "forms": {},
+  "form": -1
+}

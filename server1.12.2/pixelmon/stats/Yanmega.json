@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Yanmega",
+  "pokemon": "Yanmega",
+  "stats": {
+    "HP": 86,
+    "Attack": 76,
+    "Defence": 86,
+    "Speed": 95,
+    "SpecialAttack": 116,
+    "SpecialDefence": 56
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 11,
+  "baseExp": 198,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 1.7,
+  "length": 1.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yanma"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 51.5,
+  "evolutions": [],
+  "abilities": [
+    "SpeedBoost",
+    "TintedLens",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bug Buzz",
+      "Air Slash",
+      "Night Slash",
+      "Bug Bite",
+      "Tackle",
+      "Foresight",
+      "Quick Attack",
+      "Double Team"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "11": [
+      "Double Team"
+    ],
+    "14": [
+      "SonicBoom"
+    ],
+    "17": [
+      "Detect"
+    ],
+    "22": [
+      "Supersonic"
+    ],
+    "27": [
+      "Uproar"
+    ],
+    "30": [
+      "Pursuit"
+    ],
+    "33": [
+      "AncientPower"
+    ],
+    "38": [
+      "Feint"
+    ],
+    "43": [
+      "Slash"
+    ],
+    "46": [
+      "Screech"
+    ],
+    "49": [
+      "U-Turn"
+    ],
+    "54": [
+      "Air Slash"
+    ],
+    "57": [
+      "Bug Buzz"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "AncientPower",
+    "Bug Bite",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Uproar",
+    "Air Slash",
+    "Faint Attack",
+    "Foresight",
+    "Hypnosis",
+    "Pursuit",
+    "Pursuit",
+    "Reversal",
+    "SonicBoom",
+    "Sweet Kiss",
+    "Tackle",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Leech Life",
+    "Pursuit",
+    "Reversal",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "Whirlwind",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

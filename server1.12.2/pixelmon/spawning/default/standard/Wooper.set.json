@@ -1,0 +1,26 @@
+{
+	"id": "Wooper",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Wooper"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 19,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 240.0
+		}
+	]
+}

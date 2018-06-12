@@ -1,0 +1,26 @@
+{
+	"id": "Carnivine",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Carnivine"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 21,
+			"maxLevel": 32,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles",
+					"swamps"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

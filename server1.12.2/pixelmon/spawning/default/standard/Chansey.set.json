@@ -1,0 +1,35 @@
+{
+	"id": "Chansey",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Chansey"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:luck_incense",
+					"percentChance": 5
+				},
+				{
+					"itemID": "pixelmon:lucky_punch",
+					"percentChance": 12
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

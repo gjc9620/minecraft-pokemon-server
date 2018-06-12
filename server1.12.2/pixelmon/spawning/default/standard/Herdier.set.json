@@ -1,0 +1,26 @@
+{
+	"id": "Herdier",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Herdier"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 17,
+			"maxLevel": 31,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"plains",
+					"forests"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

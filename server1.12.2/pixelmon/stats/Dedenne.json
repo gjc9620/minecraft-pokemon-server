@@ -1,0 +1,156 @@
+{
+  "pixelmonName": "Dedenne",
+  "pokemon": "Dedenne",
+  "stats": {
+    "HP": 67,
+    "Attack": 58,
+    "Defence": 57,
+    "Speed": 101,
+    "SpecialAttack": 81,
+    "SpecialDefence": 67
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 11,
+  "baseExp": 151,
+  "baseFriendship": 0,
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "height": 0.2,
+  "width": 0.2,
+  "length": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 2.2,
+  "evolutions": [],
+  "abilities": [
+    "CheekPouch",
+    "Pickup",
+    "Plus"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "7": [
+      "ThunderShock"
+    ],
+    "11": [
+      "Charge"
+    ],
+    "14": [
+      "Charm"
+    ],
+    "17": [
+      "Parabolic Charge"
+    ],
+    "20": [
+      "Nuzzle"
+    ],
+    "23": [
+      "Thunder Wave"
+    ],
+    "26": [
+      "Volt Switch"
+    ],
+    "30": [
+      "Rest"
+    ],
+    "31": [
+      "Snore"
+    ],
+    "34": [
+      "Charge Beam"
+    ],
+    "39": [
+      "Entrainment"
+    ],
+    "42": [
+      "Play Rough"
+    ],
+    "45": [
+      "Thunder"
+    ],
+    "50": [
+      "Discharge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide",
+    "Cut",
+    "Iron Tail",
+    "Recycle",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Electroweb",
+    "Helping Hand",
+    "Last Resort",
+    "Magnet Rise",
+    "Signal Beam",
+    "Super Fang"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Eerie Impulse",
+    "Helping Hand",
+    "Natural Gift"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,249 @@
+{
+  "pixelmonName": "Gardevoir",
+  "pokemon": "Gardevoir",
+  "stats": {
+    "HP": 68,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 80,
+    "SpecialAttack": 125,
+    "SpecialDefence": 115
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 35,
+  "baseExp": 208,
+  "baseFriendship": 35,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.58,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Kirlia",
+    "Ralts"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 48.4,
+  "evolutions": [],
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Moonblast",
+      "Stored Power",
+      "Misty Terrain",
+      "Healing Wish",
+      "Growl",
+      "Confusion",
+      "Double Team",
+      "Teleport"
+    ],
+    "4": [
+      "Confusion"
+    ],
+    "6": [
+      "Double Team"
+    ],
+    "9": [
+      "Teleport"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Wish"
+    ],
+    "17": [
+      "Magical Leaf"
+    ],
+    "19": [
+      "Heal Pulse"
+    ],
+    "23": [
+      "Draining Kiss"
+    ],
+    "26": [
+      "Calm Mind"
+    ],
+    "31": [
+      "Psychic"
+    ],
+    "35": [
+      "Imprison"
+    ],
+    "40": [
+      "Future Sight"
+    ],
+    "44": [
+      "Captivate"
+    ],
+    "49": [
+      "Hypnosis"
+    ],
+    "53": [
+      "Dream Eater"
+    ],
+    "58": [
+      "Stored Power"
+    ],
+    "62": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Teleport",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Charm",
+    "Encore",
+    "Heal Pulse",
+    "Hypnosis",
+    "Sing",
+    "Wish"
+  ],
+  "eggMoves": [
+    "Ally Switch",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Encore",
+    "Grudge",
+    "Mean Look",
+    "Memento",
+    "Shadow Sneak",
+    "Skill Swap",
+    "Synchronoise",
+    "Misty Terrain"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 68,
+        "Attack": 85,
+        "Defence": 65,
+        "Speed": 100,
+        "SpecialAttack": 165,
+        "SpecialDefence": 135
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "abilities": [
+        "Pixilate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

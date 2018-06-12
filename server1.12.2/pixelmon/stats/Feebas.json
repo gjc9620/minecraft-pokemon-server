@@ -1,0 +1,150 @@
+{
+  "pixelmonName": "Feebas",
+  "pokemon": "Feebas",
+  "stats": {
+    "HP": 20,
+    "Attack": 15,
+    "Defence": 20,
+    "Speed": 80,
+    "SpecialAttack": 10,
+    "SpecialDefence": 55
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 150
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 7.4,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Milotic"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:prism_scale"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Oblivious",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "15": [
+      "Tackle"
+    ],
+    "30": [
+      "Flail"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Sleep Talk",
+    "Water Pulse",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Flail",
+    "Haze",
+    "Hypnosis",
+    "Mist",
+    "Mud Sport",
+    "Splash",
+    "Tickle",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Brine",
+    "Captivate",
+    "Confuse Ray",
+    "Dragon Pulse",
+    "Haze",
+    "Hypnosis",
+    "Iron Tail",
+    "Mirror Coat",
+    "Mist",
+    "Mud Sport",
+    "Tickle",
+    "DragonBreath"
+  ],
+  "forms": {},
+  "form": -1
+}

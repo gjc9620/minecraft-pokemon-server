@@ -1,0 +1,41 @@
+{
+	"id": "Haunter",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Haunter"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"taigas",
+					"redwoods"
+				]
+			},
+			"rarity": 45.0
+		},
+		{
+			"spec": {
+				"name": "Haunter"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 25,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"maxLightLevel": 10
+			},
+			"rarity": 45.0
+		}
+	]
+}

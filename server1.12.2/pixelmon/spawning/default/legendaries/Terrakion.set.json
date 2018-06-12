@@ -1,0 +1,29 @@
+{
+	"id": "Terrakion",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Terrakion",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"temperature": "MEDIUM",
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"hills"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

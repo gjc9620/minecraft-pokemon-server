@@ -1,0 +1,215 @@
+{
+  "pixelmonName": "Ursaring",
+  "pokemon": "Ursaring",
+  "stats": {
+    "HP": 90,
+    "Attack": 130,
+    "Defence": 75,
+    "Speed": 55,
+    "SpecialAttack": 75,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Teddiursa"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 125.8,
+  "evolutions": [],
+  "abilities": [
+    "Guts",
+    "QuickFeet",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Hammer Arm",
+      "Covet",
+      "Scratch",
+      "Leer",
+      "Lick",
+      "Fake Tears"
+    ],
+    "8": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Sweet Scent"
+    ],
+    "25": [
+      "Play Nice"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "38": [
+      "Scary Face"
+    ],
+    "47": [
+      "Rest"
+    ],
+    "49": [
+      "Snore"
+    ],
+    "58": [
+      "Thrash"
+    ],
+    "67": [
+      "Hammer Arm"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Sweet Scent",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Avalanche",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Hyper Voice",
+    "Last Resort",
+    "Low Kick",
+    "Seed Bomb",
+    "Superpower",
+    "Uproar",
+    "Belly Drum",
+    "Charm",
+    "Faint Attack",
+    "Refresh",
+    "Scary Face",
+    "Thrash",
+    "Yawn",
+    "Focus Energy",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Chip Away",
+    "Close Combat",
+    "Counter",
+    "Cross Chop",
+    "Crunch",
+    "Double-Edge",
+    "Fake Tears",
+    "Metal Claw",
+    "Night Slash",
+    "Seismic Toss",
+    "Sleep Talk",
+    "Take Down",
+    "Yawn",
+    "Play Rough"
+  ],
+  "forms": {},
+  "form": -1
+}

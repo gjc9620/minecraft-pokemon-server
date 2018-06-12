@@ -1,0 +1,75 @@
+{
+  "data": {
+    /* Type options are:
+      "PokemartMain" - Spawns as the primary seller in a Poké Mart. Sells main items.
+      "PokemartSecond" - Spawns as the secondary seller in a Poké Mart. Sells luxury items.
+      "Spawn" - Spawns in the wild as a very rare seller.
+
+      More will be added as new shop types are added.
+    */
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mme. Benoit"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Bien venu à notre belle magasin. La qualité de ce Pokémart est insurpassable.",
+      "goodbye": "Je vous remercie pour le shopping à Pokémart."
+    }
+  ],
+  /*
+    Only items listed in the items array will show up in the shop for sale. Any item can be sold to the shop however.
+    Items layout:
+    name - reference to the name entry in shopItems.json.
+    multi - optional field, defaults to 1, changes cost of buying that item by that multiplier.
+    rarity - optional field, from 0 - 1, if set the item set there will have a percentage chance of turning up at this shopkeeper. Refreshed every MC day.
+  */
+  "items": [
+    {
+      "name": "TM9 - Venoshock",
+      "multi": 1.2
+    },
+    {
+      "name": "EnergyPowder",
+      "multi": 1.1
+    },
+    {
+      "name": "EnergyRoot",
+      "rarity": 0.3,
+      "multi": 1.1
+    },
+    {
+      "name": "HealPowder",
+      "multi": 1.1
+    },
+    {
+      "name": "RevivalHerb",
+      "rarity": 0.3,
+      "multi": 1.1
+    },
+    {
+      "name": "Fire Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Leaf Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Thunder Stone",
+      "multi": 1.1
+    }
+    {
+      "name": "Water Stone",
+      "multi": 1.1
+    }
+  ]
+}

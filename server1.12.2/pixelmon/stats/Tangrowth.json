@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Tangrowth",
+  "pokemon": "Tangrowth",
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 125,
+    "Speed": 50,
+    "SpecialAttack": 110,
+    "SpecialDefence": 50
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 45,
+  "spawnLevelRange": 12,
+  "baseExp": 211,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 2.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tangela"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 128.6,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "LeafGuard",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Block",
+      "Ingrain",
+      "Constrict"
+    ],
+    "4": [
+      "Sleep Powder"
+    ],
+    "7": [
+      "Vine Whip"
+    ],
+    "10": [
+      "Absorb"
+    ],
+    "14": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Bind"
+    ],
+    "20": [
+      "Growth"
+    ],
+    "23": [
+      "Mega Drain"
+    ],
+    "27": [
+      "Knock Off"
+    ],
+    "30": [
+      "Stun Spore"
+    ],
+    "33": [
+      "Natural Gift"
+    ],
+    "36": [
+      "Giga Drain"
+    ],
+    "40": [
+      "AncientPower"
+    ],
+    "43": [
+      "Slam"
+    ],
+    "46": [
+      "Tickle"
+    ],
+    "49": [
+      "Wring Out"
+    ],
+    "50": [
+      "Grassy Terrain"
+    ],
+    "53": [
+      "Power Whip"
+    ],
+    "56": [
+      "Block"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Bind",
+    "Block",
+    "Endeavor",
+    "Knock Off",
+    "Pain Split",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Amnesia",
+    "Flail",
+    "Growth",
+    "Leech Seed",
+    "Morning Sun",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Confusion",
+    "Endeavor",
+    "Flail",
+    "Giga Drain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Mega Drain",
+    "Natural Gift",
+    "Nature Power",
+    "Power Swap",
+    "Rage Powder"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,234 @@
+{
+  "pixelmonName": "Banette",
+  "pokemon": "Banette",
+  "stats": {
+    "HP": 64,
+    "Attack": 115,
+    "Defence": 65,
+    "Speed": 65,
+    "SpecialAttack": 83,
+    "SpecialDefence": 63
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 179,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 1.1,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Shuppet"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 12.5,
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "Frisk",
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Phantom Force",
+      "Knock Off",
+      "Screech",
+      "Night Shade",
+      "Spite"
+    ],
+    "4": [
+      "Screech"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "10": [
+      "Spite"
+    ],
+    "13": [
+      "Shadow Sneak"
+    ],
+    "16": [
+      "Will-O-Wisp"
+    ],
+    "19": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Hex"
+    ],
+    "26": [
+      "Curse"
+    ],
+    "30": [
+      "Shadow Ball"
+    ],
+    "34": [
+      "Embargo"
+    ],
+    "40": [
+      "Sucker Punch"
+    ],
+    "46": [
+      "Snatch"
+    ],
+    "52": [
+      "Grudge"
+    ],
+    "58": [
+      "Trick"
+    ],
+    "64": [
+      "Phantom Force"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Metronome",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Nightmare",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Sucker Punch",
+    "Trick",
+    "Faint Attack",
+    "Foresight",
+    "Night Shade",
+    "Pursuit",
+    "Screech",
+    "Magic Room",
+    "Snore",
+    "Helping Hand",
+    "Cotton Guard"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Foresight",
+    "Gunk Shot",
+    "Imprison",
+    "Ominous Wind",
+    "Pursuit",
+    "Shadow Sneak",
+    "Phantom Force"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 64,
+        "Attack": 165,
+        "Defence": 75,
+        "Speed": 75,
+        "SpecialAttack": 95,
+        "SpecialDefence": 83
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 13.0,
+      "abilities": [
+        "Prankster",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

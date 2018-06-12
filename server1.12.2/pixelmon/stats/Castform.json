@@ -1,0 +1,178 @@
+{
+  "pixelmonName": "Castform",
+  "pokemon": "Castform",
+  "stats": {
+    "HP": 70,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.8,
+  "evolutions": [],
+  "abilities": [
+    "Forecast",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "10": [
+      "Water Gun",
+      "Ember",
+      "Powder Snow"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "20": [
+      "Rain Dance",
+      "Sunny Day",
+      "Hail"
+    ],
+    "25": [
+      "Weather Ball"
+    ],
+    "35": [
+      "Hydro Pump",
+      "Fire Blast",
+      "Blizzard"
+    ],
+    "45": [
+      "Hurricane"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Incinerate",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Last Resort",
+    "Ominous Wind",
+    "Tailwind",
+    "Amnesia",
+    "Hydro Pump",
+    "Weather Ball",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Clear Smog",
+    "Cosmic Power",
+    "Disable",
+    "Future Sight",
+    "Guard Swap",
+    "Hex",
+    "Lucky Chant",
+    "Ominous Wind",
+    "Reflect Type"
+  ],
+  "forms": {
+    "1": {
+      "types": [
+        "Ice"
+      ],
+      "spawnLocations": [],
+      "form": 1
+    },
+    "2": {
+      "types": [
+        "Water"
+      ],
+      "spawnLocations": [],
+      "form": 2
+    },
+    "3": {
+      "types": [
+        "Fire"
+      ],
+      "spawnLocations": [],
+      "form": 3
+    }
+  },
+  "form": 0
+}

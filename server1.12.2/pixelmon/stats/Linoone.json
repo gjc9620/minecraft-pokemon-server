@@ -1,0 +1,195 @@
+{
+  "pixelmonName": "Linoone",
+  "pokemon": "Linoone",
+  "stats": {
+    "HP": 78,
+    "Attack": 70,
+    "Defence": 61,
+    "Speed": 100,
+    "SpecialAttack": 50,
+    "SpecialDefence": 61
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 10,
+  "baseExp": 128,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zigzagoon"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 32.5,
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "Gluttony",
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Play Rough",
+      "Rototiller",
+      "Switcheroo",
+      "Tackle",
+      "Growl",
+      "Tail Whip",
+      "Sand-Attack"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Sand-Attack"
+    ],
+    "11": [
+      "Headbutt"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "17": [
+      "Mud Sport"
+    ],
+    "19": [
+      "Fury Swipes"
+    ],
+    "24": [
+      "Covet"
+    ],
+    "27": [
+      "Bestow"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "35": [
+      "Double-Edge"
+    ],
+    "40": [
+      "Rest"
+    ],
+    "43": [
+      "Belly Drum"
+    ],
+    "48": [
+      "Fling"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Gunk Shot",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Seed Bomb",
+    "Super Fang",
+    "Trick",
+    "Belly Drum",
+    "Charm",
+    "ExtremeSpeed",
+    "Mud Sport",
+    "Pursuit",
+    "Tickle",
+    "Tackle",
+    "Slash",
+    "Flail"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Helping Hand",
+    "Mud-Slap",
+    "Pursuit",
+    "Rock Climb",
+    "Simple Beam",
+    "Sleep Talk",
+    "Tickle",
+    "Trick"
+  ],
+  "forms": {},
+  "form": -1
+}

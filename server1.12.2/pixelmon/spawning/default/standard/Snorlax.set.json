@@ -1,0 +1,30 @@
+{
+	"id": "Snorlax",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Snorlax"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:full_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"mountainous",
+					"taigas",
+					"redwoods"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

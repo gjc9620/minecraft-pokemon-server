@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Shieldon",
+  "pokemon": "Shieldon",
+  "stats": {
+    "HP": 30,
+    "Attack": 42,
+    "Defence": 118,
+    "Speed": 30,
+    "SpecialAttack": 42,
+    "SpecialDefence": 88
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "height": 0.5,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 57.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Bastiodon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    null,
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Protect"
+    ],
+    "6": [
+      "Taunt"
+    ],
+    "10": [
+      "Metal Sound"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "28": [
+      "AncientPower"
+    ],
+    "33": [
+      "Endure"
+    ],
+    "37": [
+      "Metal Burst"
+    ],
+    "42": [
+      "Iron Head"
+    ],
+    "46": [
+      "Heavy Slam"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Fissure",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Metal Sound",
+    "Scary Face",
+    "Focus Energy",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Fissure",
+    "Focus Energy",
+    "Guard Split",
+    "Headbutt",
+    "Rock Blast",
+    "Scary Face",
+    "Screech",
+    "Stealth Rock",
+    "Wide Guard"
+  ],
+  "forms": {},
+  "form": -1
+}

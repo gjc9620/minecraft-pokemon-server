@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Farfetchd",
+  "pokemon": "Farfetchd",
+  "stats": {
+    "HP": 52,
+    "Attack": 65,
+    "Defence": 55,
+    "Speed": 60,
+    "SpecialAttack": 58,
+    "SpecialDefence": 62
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 26,
+  "baseExp": 94,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.0,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "InnerFocus",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Brave Bird",
+      "Poison Jab",
+      "Peck",
+      "Sand-Attack",
+      "Leer",
+      "Fury Cutter"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "9": [
+      "Aerial Ace"
+    ],
+    "13": [
+      "Knock Off"
+    ],
+    "19": [
+      "Slash"
+    ],
+    "21": [
+      "Air Cutter"
+    ],
+    "25": [
+      "Swords Dance"
+    ],
+    "31": [
+      "Agility"
+    ],
+    "33": [
+      "Night Slash"
+    ],
+    "37": [
+      "Acrobatics"
+    ],
+    "43": [
+      "Feint"
+    ],
+    "45": [
+      "False Swipe"
+    ],
+    "49": [
+      "Air Slash"
+    ],
+    "55": [
+      "Brave Bird"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Acrobatics",
+    "Retaliate",
+    "Swords Dance",
+    "Psych Up",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Cut",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Sky Attack",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Covet",
+    "Heat Wave",
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "FeatherDance",
+    "Flail",
+    "Foresight",
+    "Fury Attack",
+    "Gust",
+    "Wish",
+    "Yawn",
+    "Peck",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Curse",
+    "Flail",
+    "Foresight",
+    "Gust",
+    "Leaf Blade",
+    "Mirror Move",
+    "Mud-Slap",
+    "Night Slash",
+    "Quick Attack",
+    "Revenge",
+    "Roost",
+    "Simple Beam",
+    "Steel Wing",
+    "Trump Card",
+    "FeatherDance"
+  ],
+  "forms": {},
+  "form": -1
+}

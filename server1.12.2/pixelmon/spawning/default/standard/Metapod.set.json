@@ -1,0 +1,27 @@
+{
+	"id": "Metapod",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Metapod"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 7,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"forests"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

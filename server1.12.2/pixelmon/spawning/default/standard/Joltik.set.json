@@ -1,0 +1,44 @@
+{
+	"id": "Joltik",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Joltik"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 25.0
+		},
+		{
+			"spec": {
+				"name": "Joltik"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 10,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"neededNearbyBlocks": [
+					"minecraft:cobweb",
+					"minecraft:web"
+				],
+				"maxY": 50
+			},
+			"rarity": 25.0
+		}
+	]
+}

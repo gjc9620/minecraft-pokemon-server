@@ -1,0 +1,25 @@
+{
+	"id": "Lampent",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lampent"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 41,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

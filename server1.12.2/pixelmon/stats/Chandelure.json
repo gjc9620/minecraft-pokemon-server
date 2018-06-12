@@ -1,0 +1,132 @@
+{
+  "pixelmonName": "Chandelure",
+  "pokemon": "Chandelure",
+  "stats": {
+    "HP": 60,
+    "Attack": 55,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 145,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 19,
+  "baseExp": 234,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Fire"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Lampent",
+    "Litwick"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "hoverHeight": 1.0,
+  "weight": 34.3,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    "FlameBody",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pain Split",
+      "Smog",
+      "Confuse Ray",
+      "Flame Burst",
+      "Hex"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Energy Ball",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Sleep Talk",
+    "Dark Pulse",
+    "Captivate",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Pain Split",
+    "Spite",
+    "Trick",
+    "Haze",
+    "Imprison"
+  ],
+  "eggMoves": [
+    "Acid",
+    "Acid Armor",
+    "Captivate",
+    "Clear Smog",
+    "Endure",
+    "Haze",
+    "Heat Wave",
+    "Power Split"
+  ],
+  "forms": {},
+  "form": -1
+}

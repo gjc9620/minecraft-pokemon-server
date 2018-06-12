@@ -1,0 +1,153 @@
+{
+  "pixelmonName": "Bellossom",
+  "pokemon": "Bellossom",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 50,
+    "SpecialAttack": 90,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 15,
+  "baseExp": 184,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gloom",
+    "Oddish"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 5.8,
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    "Healer"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leaf Storm",
+      "Leaf Blade",
+      "Mega Drain",
+      "Sweet Scent",
+      "Stun Spore",
+      "Sunny Day"
+    ],
+    "24": [
+      "Magical Leaf"
+    ],
+    "49": [
+      "Petal Blizzard"
+    ],
+    "64": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Bullet Seed",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Gastro Acid",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Flail",
+    "Leech Seed",
+    "Moonlight",
+    "Petal Dance",
+    "Teeter Dance",
+    "Tickle",
+    "Moonblast"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Flail",
+    "Ingrain",
+    "Nature Power",
+    "Razor Leaf",
+    "Secret Power",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

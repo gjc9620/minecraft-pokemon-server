@@ -1,0 +1,187 @@
+{
+  "pixelmonName": "Shelgon",
+  "pokemon": "Shelgon",
+  "stats": {
+    "HP": 65,
+    "Attack": 95,
+    "Defence": 100,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 144,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.1,
+  "width": 1.1,
+  "length": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bagon"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 110.5,
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Salamence"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RockHead",
+    null,
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Rage",
+      "Ember",
+      "Leer",
+      "Bite"
+    ],
+    "4": [
+      "Ember"
+    ],
+    "7": [
+      "Leer"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "DragonBreath"
+    ],
+    "17": [
+      "Headbutt"
+    ],
+    "21": [
+      "Focus Energy"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "29": [
+      "Dragon Claw"
+    ],
+    "30": [
+      "Protect"
+    ],
+    "35": [
+      "Zen Headbutt"
+    ],
+    "42": [
+      "Scary Face"
+    ],
+    "49": [
+      "Flamethrower"
+    ],
+    "56": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Shadow Claw",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Endure",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Fury Cutter",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Draco Meteor",
+    "Hyper Voice",
+    "Iron Defense",
+    "Outrage",
+    "Twister",
+    "Zen Headbutt",
+    "Bite",
+    "Hydro Pump",
+    "Scary Face",
+    "Thrash",
+    "Wish",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rage",
+    "Dragon Rush",
+    "Endure",
+    "Fire Fang",
+    "Hydro Pump",
+    "Thrash",
+    "Twister"
+  ],
+  "forms": {},
+  "form": -1
+}

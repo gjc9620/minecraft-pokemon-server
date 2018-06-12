@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Duosion",
+  "pokemon": "Duosion",
+  "stats": {
+    "HP": 65,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 125,
+    "SpecialDefence": 60
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 8,
+  "baseExp": 130,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Solosis"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 8.0,
+  "evolutions": [
+    {
+      "level": 41,
+      "to": {
+        "name": "Reuniclus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overcoat",
+    "MagicGuard",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Psywave",
+      "Reflect",
+      "Rollout",
+      "Snatch"
+    ],
+    "3": [
+      "Reflect"
+    ],
+    "7": [
+      "Rollout"
+    ],
+    "10": [
+      "Snatch"
+    ],
+    "14": [
+      "Hidden Power"
+    ],
+    "16": [
+      "Light Screen"
+    ],
+    "19": [
+      "Charm"
+    ],
+    "24": [
+      "Recover"
+    ],
+    "25": [
+      "Psyshock"
+    ],
+    "28": [
+      "Endeavor"
+    ],
+    "31": [
+      "Future Sight"
+    ],
+    "34": [
+      "Pain Split"
+    ],
+    "39": [
+      "Psychic"
+    ],
+    "43": [
+      "Skill Swap"
+    ],
+    "50": [
+      "Heal Block"
+    ],
+    "53": [
+      "Wonder Room"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Embargo",
+    "Explosion",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Psywave",
+    "Rollout",
+    "Snore",
+    "Sleep Talk",
+    "Skill Swap",
+    "Snatch",
+    "Secret Power",
+    "Infestation",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Endeavor",
+    "Gravity",
+    "Magic Coat",
+    "Pain Split",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Helping Hand",
+    "Charm",
+    "Night Shade",
+    "Gravity",
+    "Helping Hand",
+    "Iron Defense"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Astonish",
+    "Confuse Ray",
+    "Helping Hand",
+    "Imprison",
+    "Night Shade",
+    "Secret Power",
+    "Trick"
+  ],
+  "forms": {},
+  "form": -1
+}

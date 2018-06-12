@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Marshtomp",
+  "pokemon": "Marshtomp",
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 70,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 19,
+  "baseExp": 143,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Mudkip"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Swampert"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "Damp"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Water Gun",
+      "Mud-Slap"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "9": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Foresight"
+    ],
+    "16": [
+      "Mud Shot"
+    ],
+    "18": [
+      "Bide"
+    ],
+    "22": [
+      "Mud Bomb"
+    ],
+    "28": [
+      "Rock Slide"
+    ],
+    "32": [
+      "Protect"
+    ],
+    "38": [
+      "Muddy Water"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "48": [
+      "Earthquake"
+    ],
+    "52": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Water Gun",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Avalanche",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Aqua Tail",
+    "Earth Power",
+    "Endeavor",
+    "Low Kick",
+    "Superpower",
+    "Water Pledge",
+    "Barrier",
+    "Bite",
+    "Foresight",
+    "Hydro Pump",
+    "Mud Sport",
+    "Refresh",
+    "Yawn",
+    "Stomp",
+    "Tackle",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Barrier",
+    "Bite",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Ice Ball",
+    "Mirror Coat",
+    "Mud Bomb",
+    "Refresh",
+    "Sludge",
+    "Stomp",
+    "Uproar",
+    "Whirlpool",
+    "Wide Guard",
+    "Yawn",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

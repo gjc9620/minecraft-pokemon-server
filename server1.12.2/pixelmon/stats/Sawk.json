@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Sawk",
+  "pokemon": "Sawk",
+  "stats": {
+    "HP": 75,
+    "Attack": 125,
+    "Defence": 75,
+    "Speed": 85,
+    "SpecialAttack": 30,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 100,
+  "spawnLevel": 34,
+  "spawnLevelRange": 14,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 51.0,
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "InnerFocus",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rock Smash",
+      "Leer"
+    ],
+    "5": [
+      "Bide"
+    ],
+    "9": [
+      "Focus Energy"
+    ],
+    "13": [
+      "Double Kick"
+    ],
+    "17": [
+      "Low Sweep"
+    ],
+    "21": [
+      "Counter"
+    ],
+    "25": [
+      "Karate Chop"
+    ],
+    "29": [
+      "Brick Break"
+    ],
+    "33": [
+      "Bulk Up"
+    ],
+    "37": [
+      "Retaliate"
+    ],
+    "41": [
+      "Endure"
+    ],
+    "45": [
+      "Quick Guard"
+    ],
+    "48": [
+      "Close Combat"
+    ],
+    "50": [
+      "Reversal"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Counter",
+    "Bide",
+    "Snore",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Dual Chop",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Pain Split",
+    "Superpower",
+    "Reversal",
+    "Focus Energy",
+    "Leer",
+    "Zen Headbutt"
+  ],
+  "forms": {},
+  "form": -1
+}

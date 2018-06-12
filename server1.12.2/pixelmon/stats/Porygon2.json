@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Porygon2",
+  "pokemon": "Porygon2",
+  "stats": {
+    "HP": 85,
+    "Attack": 80,
+    "Defence": 90,
+    "Speed": 60,
+    "SpecialAttack": 105,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 180,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Porygon"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 32.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Porygon-Z"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:dubious_disc"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Trace",
+    "Download",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Zap Cannon",
+      "Magic Coat",
+      "Conversion 2",
+      "Tackle",
+      "Conversion",
+      "Defense Curl"
+    ],
+    "7": [
+      "Psybeam"
+    ],
+    "12": [
+      "Agility"
+    ],
+    "18": [
+      "Recover"
+    ],
+    "23": [
+      "Magnet Rise"
+    ],
+    "29": [
+      "Signal Beam"
+    ],
+    "34": [
+      "Recycle"
+    ],
+    "40": [
+      "Discharge"
+    ],
+    "45": [
+      "Lock-On"
+    ],
+    "50": [
+      "Tri Attack"
+    ],
+    "56": [
+      "Magic Coat"
+    ],
+    "62": [
+      "Zap Cannon"
+    ],
+    "67": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Nightmare",
+    "Shock Wave",
+    "Recycle",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Electroweb",
+    "Foul Play",
+    "Gravity",
+    "Last Resort",
+    "Magic Coat",
+    "Magnet Rise",
+    "Pain Split",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Agility",
+    "Barrier",
+    "Sharpen",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

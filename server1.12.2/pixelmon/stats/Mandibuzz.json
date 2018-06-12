@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Mandibuzz",
+  "pokemon": "Mandibuzz",
+  "stats": {
+    "HP": 110,
+    "Attack": 65,
+    "Defence": 105,
+    "Speed": 80,
+    "SpecialAttack": 55,
+    "SpecialDefence": 95
+  },
+  "catchRate": 60,
+  "malePercent": 0,
+  "spawnLevel": 55,
+  "spawnLevelRange": 8,
+  "baseExp": 179,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vullaby"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 39.5,
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "Overcoat",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mirror Move",
+      "Brave Bird",
+      "Whirlwind",
+      "Bone Rush",
+      "Gust",
+      "Leer",
+      "Fury Attack",
+      "Pluck"
+    ],
+    "5": [
+      "Fury Attack"
+    ],
+    "10": [
+      "Pluck"
+    ],
+    "14": [
+      "Nasty Plot"
+    ],
+    "19": [
+      "Flatter"
+    ],
+    "23": [
+      "Faint Attack"
+    ],
+    "28": [
+      "Punishment"
+    ],
+    "32": [
+      "Defog"
+    ],
+    "37": [
+      "Tailwind"
+    ],
+    "41": [
+      "Air Slash"
+    ],
+    "46": [
+      "Dark Pulse"
+    ],
+    "50": [
+      "Embargo"
+    ],
+    "51": [
+      "Bone Rush"
+    ],
+    "57": [
+      "Whirlwind"
+    ],
+    "63": [
+      "Brave Bird"
+    ],
+    "70": [
+      "Mirror Move"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Psych Up",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Sky Attack",
+    "Snore",
+    "Sleep Talk",
+    "Steel Wing",
+    "Snatch",
+    "Roost",
+    "Dark Pulse",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Foul Play",
+    "Heat Wave",
+    "Iron Defense",
+    "Knock Off",
+    "Tailwind",
+    "Air Slash",
+    "Faint Attack",
+    "Fury Attack",
+    "Gust",
+    "Nasty Plot",
+    "Scary Face",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Fake Tears",
+    "Foul Play",
+    "Knock Off",
+    "Mean Look",
+    "Roost",
+    "Scary Face",
+    "Steel Wing"
+  ],
+  "forms": {},
+  "form": -1
+}

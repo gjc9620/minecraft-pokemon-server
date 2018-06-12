@@ -1,0 +1,84 @@
+{
+  "pixelmonName": "Wynaut",
+  "pokemon": "Wynaut",
+  "stats": {
+    "HP": 95,
+    "Attack": 23,
+    "Defence": 48,
+    "Speed": 23,
+    "SpecialAttack": 23,
+    "SpecialDefence": 48
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 44,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 14.0,
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Wobbuffet"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShadowTag",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Charm",
+      "Encore"
+    ],
+    "15": [
+      "Counter",
+      "Mirror Coat",
+      "Safeguard",
+      "Destiny Bond"
+    ]
+  },
+  "tmMoves": [
+    "Counter"
+  ],
+  "tutorMoves": [
+    "Charm",
+    "Encore",
+    "Splash",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

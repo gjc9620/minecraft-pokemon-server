@@ -1,0 +1,20 @@
+{
+  "id": "Bronzong",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bronzong"
+      },
+      "stringLocationTypes": [
+          "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+	  "condition": {
+		"maxY": 50
+	  },
+      "rarity": 10
+    }
+  ]
+}

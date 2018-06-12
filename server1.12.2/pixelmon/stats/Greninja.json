@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Greninja",
+  "pokemon": "Greninja",
+  "stats": {
+    "HP": 72,
+    "Attack": 95,
+    "Defence": 67,
+    "Speed": 122,
+    "SpecialAttack": 103,
+    "SpecialDefence": 71
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 239,
+  "baseFriendship": 0,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Frogadier",
+    "Froakie"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "weight": 40.0,
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "Protean"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Night Slash",
+      "Role Play",
+      "Mat Block",
+      "Pound",
+      "Growl"
+    ],
+    "5": [
+      "Bubble"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Lick"
+    ],
+    "14": [
+      "Water Pulse"
+    ],
+    "20": [
+      "SmokeScreen"
+    ],
+    "23": [
+      "Shadow Sneak"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "33": [
+      "Faint Attack"
+    ],
+    "36": [
+      "Water Shuriken"
+    ],
+    "43": [
+      "Substitute"
+    ],
+    "49": [
+      "Extrasensory"
+    ],
+    "52": [
+      "Double Team"
+    ],
+    "56": [
+      "Haze"
+    ],
+    "60": [
+      "Hydro Pump"
+    ],
+    "70": [
+      "Night Slash"
+    ],
+    "75": [
+      "Water Shuriken"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide",
+    "Cut",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Rock Smash",
+    "Dive",
+    "Ice Punch",
+    "Icy Wind",
+    "Snatch",
+    "Snore",
+    "Water Pulse"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Gunk Shot",
+    "Hydro Cannon",
+    "Low Kick",
+    "Role Play",
+    "Spite",
+    "Water Pledge"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Camouflage",
+    "Mind Reader",
+    "Mud Sport",
+    "Toxic Spikes",
+    "Water Sport"
+  ],
+  "forms": {
+    "1": {
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 1
+    },
+    "2": {
+      "stats": {
+        "HP": 72,
+        "Attack": 145,
+        "Defence": 67,
+        "Speed": 132,
+        "SpecialAttack": 153,
+        "SpecialDefence": 71
+      },
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "form": 2
+    }
+  },
+  "form": -1
+}

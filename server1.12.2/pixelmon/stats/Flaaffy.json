@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Flaaffy",
+  "pokemon": "Flaaffy",
+  "stats": {
+    "HP": 70,
+    "Attack": 55,
+    "Defence": 55,
+    "Speed": 45,
+    "SpecialAttack": 80,
+    "SpecialDefence": 60
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 117,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.8,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Mareep"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 13.3,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Ampharos"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "Plus"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl",
+      "Thunder Wave",
+      "ThunderShock"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "8": [
+      "ThunderShock"
+    ],
+    "11": [
+      "Cotton Spore"
+    ],
+    "16": [
+      "Charge"
+    ],
+    "20": [
+      "Take Down"
+    ],
+    "25": [
+      "Electro Ball"
+    ],
+    "29": [
+      "Confuse Ray"
+    ],
+    "34": [
+      "Power Gem"
+    ],
+    "38": [
+      "Discharge"
+    ],
+    "43": [
+      "Cotton Guard"
+    ],
+    "47": [
+      "Signal Beam"
+    ],
+    "52": [
+      "Light Screen"
+    ],
+    "56": [
+      "Thunder"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Strength",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Reflect"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Heal Bell",
+    "Magnet Rise",
+    "Signal Beam",
+    "Agility",
+    "Tackle",
+    "Screech",
+    "Electroweb",
+    "Hold Back"
+  ],
+  "eggMoves": [
+    "After You",
+    "Agility",
+    "Body Slam",
+    "Charge",
+    "Flatter",
+    "Iron Tail",
+    "Odor Sleuth",
+    "Screech",
+    "Take Down",
+    "Sand-Attack",
+    "Eerie Impulse",
+    "Electric Terrain"
+  ],
+  "forms": {},
+  "form": -1
+}

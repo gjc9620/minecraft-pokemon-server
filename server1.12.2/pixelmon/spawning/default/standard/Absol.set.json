@@ -1,0 +1,26 @@
+{
+	"id": "Absol",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Absol"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"minecraft:extreme_hills_with_trees",
+					"minecraft:mutated_extreme_hills_with_trees"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

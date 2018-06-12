@@ -1,0 +1,34 @@
+{
+	"id": "Spritzee",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Spritzee"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:sachet",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"birches",
+					"forests"
+				]
+			},
+			"rarity": 40.0
+		}
+	]
+}

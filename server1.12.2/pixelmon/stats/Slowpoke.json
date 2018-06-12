@@ -1,0 +1,232 @@
+{
+  "pixelmonName": "Slowpoke",
+  "pokemon": "Slowpoke",
+  "stats": {
+    "HP": 90,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 15,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 22,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 36.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Slowking"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:kings_rock"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    },
+    {
+      "level": 37,
+      "to": {
+        "name": "Slowbro"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Oblivious",
+    "OwnTempo",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Curse",
+      "Yawn",
+      "Tackle"
+    ],
+    "5": [
+      "Growl"
+    ],
+    "9": [
+      "Water Gun"
+    ],
+    "14": [
+      "Confusion"
+    ],
+    "19": [
+      "Disable"
+    ],
+    "23": [
+      "Headbutt"
+    ],
+    "28": [
+      "Water Pulse"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "36": [
+      "Slack Off"
+    ],
+    "41": [
+      "Amnesia"
+    ],
+    "45": [
+      "Psychic"
+    ],
+    "49": [
+      "Rain Dance"
+    ],
+    "54": [
+      "Psych Up"
+    ],
+    "58": [
+      "Heal Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Incinerate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Surf",
+    "Strength",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Pay Day",
+    "Rage",
+    "Fissure",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Psywave",
+    "Tri Attack",
+    "Headbutt",
+    "Curse",
+    "Zap Cannon",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Nightmare",
+    "Water Pulse",
+    "Skill Swap",
+    "Brine",
+    "Recycle",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Block",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Belly Drum",
+    "Heal Pulse",
+    "Mud Sport",
+    "Yawn",
+    "Stomp",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Block",
+    "Future Sight",
+    "Me First",
+    "Mud Sport",
+    "Sleep Talk",
+    "Snore",
+    "Stomp",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

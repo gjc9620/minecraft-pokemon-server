@@ -1,0 +1,27 @@
+{
+	"id": "Abra",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Abra"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 16,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"taigas",
+					"redwoods"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

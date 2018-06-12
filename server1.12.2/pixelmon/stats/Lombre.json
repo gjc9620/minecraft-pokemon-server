@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Lombre",
+  "pokemon": "Lombre",
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Grass"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Lotad"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 32.5,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Ludicolo"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "RainDish",
+    "OwnTempo"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Astonish"
+    ],
+    "3": [
+      "Growl"
+    ],
+    "6": [
+      "Absorb"
+    ],
+    "9": [
+      "Bubble"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Fake Out"
+    ],
+    "20": [
+      "Water Sport"
+    ],
+    "24": [
+      "BubbleBeam"
+    ],
+    "28": [
+      "Nature Power"
+    ],
+    "32": [
+      "Uproar"
+    ],
+    "36": [
+      "Knock Off"
+    ],
+    "40": [
+      "Zen Headbutt"
+    ],
+    "44": [
+      "Hydro Pump"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Scald",
+    "Fling",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Strength",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Counter",
+    "Mega Drain",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Sweet Scent",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Water Pulse",
+    "Bullet Seed",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Hyper Voice",
+    "Seed Bomb",
+    "Synthesis",
+    "Uproar",
+    "Zen Headbutt",
+    "Absorb",
+    "Fake Out",
+    "Flail",
+    "Hydro Pump",
+    "Leech Seed",
+    "Mist",
+    "Teeter Dance",
+    "Tickle",
+    "Water Sport",
+    "Knock Off",
+    "Mist"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Flail",
+    "Giga Drain",
+    "Leech Seed",
+    "Razor Leaf",
+    "Sweet Scent",
+    "Synthesis",
+    "Teeter Dance",
+    "Tickle",
+    "Water Gun"
+  ],
+  "forms": {},
+  "form": -1
+}

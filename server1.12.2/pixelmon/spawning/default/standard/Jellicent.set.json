@@ -1,0 +1,22 @@
+{
+	"id": "Jellicent",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Jellicent"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 41,
+			"maxLevel": 57,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

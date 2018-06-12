@@ -1,0 +1,22 @@
+{
+	"id": "Jolteon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Jolteon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 35,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

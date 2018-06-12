@@ -1,0 +1,25 @@
+{
+	"id": "Machop",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Machop"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 90.0
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"id": "Shaymin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shaymin",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary",
+				"mythical"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"flowery"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

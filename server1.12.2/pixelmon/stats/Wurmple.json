@@ -1,0 +1,96 @@
+{
+  "pixelmonName": "Wurmple",
+  "pokemon": "Wurmple",
+  "stats": {
+    "HP": 45,
+    "Attack": 45,
+    "Defence": 35,
+    "Speed": 20,
+    "SpecialAttack": 20,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 4,
+  "spawnLevelRange": 4,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 3.6,
+  "evolutions": [
+    {
+      "level": 7,
+      "to": {
+        "name": "Silcoon"
+      },
+      "conditions": [
+        {
+          "chance": 0.5,
+          "evoConditionType": "chance"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 7,
+      "to": {
+        "name": "Cascoon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShieldDust",
+    null,
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "String Shot"
+    ],
+    "5": [
+      "Poison Sting"
+    ],
+    "15": [
+      "Bug Bite"
+    ]
+  },
+  "tmMoves": [
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "String Shot",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

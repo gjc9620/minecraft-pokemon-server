@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Rattata",
+  "pokemon": "Rattata",
+  "stats": {
+    "HP": 30,
+    "Attack": 56,
+    "Defence": 35,
+    "Speed": 72,
+    "SpecialAttack": 25,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 18,
+  "baseExp": 51,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 3.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Raticate"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Guts",
+    "Hustle"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "4": [
+      "Quick Attack"
+    ],
+    "7": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Pursuit"
+    ],
+    "16": [
+      "Hyper Fang"
+    ],
+    "19": [
+      "Sucker Punch"
+    ],
+    "22": [
+      "Crunch"
+    ],
+    "25": [
+      "Assurance"
+    ],
+    "28": [
+      "Super Fang"
+    ],
+    "31": [
+      "Double-Edge"
+    ],
+    "34": [
+      "Endeavor"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Retaliate",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Cut",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Counter",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Last Resort",
+    "Sucker Punch",
+    "Super Fang",
+    "Uproar",
+    "Zen Headbutt",
+    "Bite",
+    "Pursuit",
+    "Reversal",
+    "Focus Energy",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Counter",
+    "Final Gambit",
+    "Flame Wheel",
+    "Fury Swipes",
+    "Last Resort",
+    "Me First",
+    "Revenge",
+    "Reversal",
+    "Screech",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1
+}

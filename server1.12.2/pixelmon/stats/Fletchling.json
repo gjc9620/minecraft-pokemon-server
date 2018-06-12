@@ -1,0 +1,143 @@
+{
+  "pixelmonName": "Fletchling",
+  "pokemon": "Fletchling",
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 43,
+    "Speed": 62,
+    "SpecialAttack": 40,
+    "SpecialDefence": 38
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 56,
+  "baseFriendship": 0,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.7,
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Fletchinder"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BigPecks",
+    null,
+    "GaleWings"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Peck"
+    ],
+    "13": [
+      "Agility"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "21": [
+      "Roost"
+    ],
+    "25": [
+      "Razor Wind"
+    ],
+    "29": [
+      "Natural Gift"
+    ],
+    "34": [
+      "Flame Charge"
+    ],
+    "39": [
+      "Acrobatics"
+    ],
+    "41": [
+      "Me First"
+    ],
+    "45": [
+      "Tailwind"
+    ],
+    "48": [
+      "Steel Wing"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Steel Wing",
+    "Acrobatics",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-Turn",
+    "Substitute",
+    "Secret Power",
+    "Confide",
+    "Fly",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Heat Wave",
+    "Tailwind"
+  ],
+  "eggMoves": [
+    "Quick Guard",
+    "Snatch",
+    "Tailwind"
+  ],
+  "forms": {},
+  "form": -1
+}

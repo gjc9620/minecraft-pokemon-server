@@ -1,0 +1,86 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 7,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 200,
+        "rarity": 6,
+        "spawnBiomes": "Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Grimer"
+        }
+    ],
+    "names": [
+        {
+            "name": "Winston"
+        },
+        {
+            "name": "Robert"
+        },        
+        {
+            "name": "Rupert"
+        },        
+        {
+            "name": "Hienrich"
+        },        
+        {
+            "name": "Bertram"
+        },        
+        {
+            "name": "Montague"
+        },        
+        {
+            "name": "Kenneth"
+        },        
+        {
+            "name": "Wallice"
+        },        
+        {
+            "name": "Randolph"
+        },        
+        {
+            "name": "Wilfred"
+        },
+        {
+            "name": "William"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Lincoln"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I own a mansion.",
+            "win": "That was a gentleman's game.",
+            "lose": "How rude of you."
+        },        
+        {
+            "opening": "Good day to you.",
+            "win": "It seems it is a finer day for me.",
+            "lose": "How rude of you not to reply."
+        },        
+        {
+            "opening": "Fancy a gentlemanly duel?",
+            "win": "It seems that I have bested you.",
+            "lose": "How brutish of you."
+        },
+        {
+            "opening": "Making money isn't my only skill.",
+            "win": "There's plenty more where that came from.",
+            "lose": "Perhaps I need more practice."
+        }
+    ]
+}

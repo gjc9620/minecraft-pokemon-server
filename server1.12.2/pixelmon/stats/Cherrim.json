@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Cherrim",
+  "pokemon": "Cherrim",
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 85,
+    "SpecialAttack": 87,
+    "SpecialDefence": 78
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cherubi"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 9.3,
+  "evolutions": [],
+  "abilities": [
+    "FlowerGift",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Morning Sun",
+      "Tackle",
+      "Growth"
+    ],
+    "7": [
+      "Growth"
+    ],
+    "10": [
+      "Leech Seed"
+    ],
+    "13": [
+      "Helping Hand"
+    ],
+    "19": [
+      "Magical Leaf"
+    ],
+    "22": [
+      "Sunny Day"
+    ],
+    "25": [
+      "Petal Dance"
+    ],
+    "30": [
+      "Worry Seed"
+    ],
+    "35": [
+      "Take Down"
+    ],
+    "43": [
+      "SolarBeam"
+    ],
+    "48": [
+      "Lucky Chant"
+    ],
+    "50": [
+      "Petal Blizzard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Take Down",
+    "Rollout",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Bullet Seed",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Aromatherapy",
+    "Growth",
+    "Heal Pulse",
+    "Leech Seed",
+    "Morning Sun",
+    "Petal Dance",
+    "Tickle",
+    "Weather Ball",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Defense Curl",
+    "Heal Pulse",
+    "Healing Wish",
+    "Natural Gift",
+    "Nature Power",
+    "Razor Leaf",
+    "Rollout",
+    "Seed Bomb",
+    "Sweet Scent",
+    "Tickle",
+    "Weather Ball",
+    "GrassWhistle",
+    "Flower Shield"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  },
+  "form": -1
+}

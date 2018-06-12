@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Hippopotas",
+  "pokemon": "Hippopotas",
+  "stats": {
+    "HP": 68,
+    "Attack": 72,
+    "Defence": 78,
+    "Speed": 32,
+    "SpecialAttack": 38,
+    "SpecialDefence": 42
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 11,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.8,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 49.5,
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Hippowdon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 34,
+      "to": {
+        "name": "Hippowdon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandStream",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Sand-Attack"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "13": [
+      "Yawn"
+    ],
+    "19": [
+      "Take Down",
+      "Dig"
+    ],
+    "25": [
+      "Sand Tomb"
+    ],
+    "31": [
+      "Crunch"
+    ],
+    "37": [
+      "Earthquake"
+    ],
+    "44": [
+      "Double-Edge"
+    ],
+    "50": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Whirlwind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Fissure",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Water Pulse",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Superpower",
+    "Bite",
+    "Yawn",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Revenge",
+    "Sand Tomb",
+    "Slack Off",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": -1
+}

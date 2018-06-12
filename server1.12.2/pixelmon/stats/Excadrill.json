@@ -1,0 +1,176 @@
+{
+  "pixelmonName": "Excadrill",
+  "pokemon": "Excadrill",
+  "stats": {
+    "HP": 110,
+    "Attack": 135,
+    "Defence": 60,
+    "Speed": 88,
+    "SpecialAttack": 50,
+    "SpecialDefence": 65
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 12,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Steel"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Drilbur"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 40.4,
+  "evolutions": [],
+  "abilities": [
+    "SandRush",
+    "SandForce",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Rototiller",
+      "Scratch",
+      "Mud Sport",
+      "Rapid Spin",
+      "Mud-Slap"
+    ],
+    "5": [
+      "Rapid Spin"
+    ],
+    "8": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Metal Claw"
+    ],
+    "19": [
+      "Dig"
+    ],
+    "22": [
+      "Hone Claws"
+    ],
+    "26": [
+      "Slash"
+    ],
+    "29": [
+      "Rock Slide"
+    ],
+    "31": [
+      "Horn Drill"
+    ],
+    "36": [
+      "Earthquake"
+    ],
+    "42": [
+      "Swords Dance"
+    ],
+    "49": [
+      "Sandstorm"
+    ],
+    "55": [
+      "Drill Run"
+    ],
+    "62": [
+      "Fissure"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Rock Climb",
+    "Horn Drill",
+    "Submission",
+    "Fissure",
+    "Skull Bash",
+    "Snore",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Stealth Rock",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Drill Run",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Crush Claw",
+    "Metal Sound",
+    "Mud Sport",
+    "Rapid Spin",
+    "Slash"
+  ],
+  "eggMoves": [
+    "Crush Claw",
+    "Earth Power",
+    "Iron Defense",
+    "Metal Sound",
+    "Rapid Spin",
+    "Rock Climb",
+    "Skull Bash",
+    "Submission"
+  ],
+  "forms": {},
+  "form": -1
+}

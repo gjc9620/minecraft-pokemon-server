@@ -1,0 +1,25 @@
+{
+	"id": "Chatot",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Chatot"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"jungles"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

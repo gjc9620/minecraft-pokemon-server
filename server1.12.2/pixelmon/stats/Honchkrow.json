@@ -1,0 +1,204 @@
+{
+  "pixelmonName": "Honchkrow",
+  "pokemon": "Honchkrow",
+  "stats": {
+    "HP": 100,
+    "Attack": 125,
+    "Defence": 52,
+    "Speed": 71,
+    "SpecialAttack": 105,
+    "SpecialDefence": 52
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 187,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Murkrow"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 30,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.9
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.9
+    }
+  },
+  "weight": 27.3,
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "SuperLuck",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Night Slash",
+      "Sucker Punch",
+      "Astonish",
+      "Pursuit",
+      "Haze",
+      "Wing Attack"
+    ],
+    "25": [
+      "Swagger"
+    ],
+    "35": [
+      "Nasty Plot"
+    ],
+    "45": [
+      "Foul Play"
+    ],
+    "55": [
+      "Night Slash"
+    ],
+    "65": [
+      "Quash"
+    ],
+    "75": [
+      "Dark Pulse"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Quash",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Snarl",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Nightmare",
+    "Snatch",
+    "Roost",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Spite",
+    "Sucker Punch",
+    "Superpower",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Beat Up",
+    "Faint Attack",
+    "FeatherDance",
+    "Haze",
+    "Haze",
+    "Nasty Plot",
+    "Night Shade",
+    "Pursuit",
+    "Peck",
+    "Screech",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Brave Bird",
+    "Confuse Ray",
+    "Drill Peck",
+    "Flatter",
+    "Mirror Move",
+    "Perish Song",
+    "Psycho Shift",
+    "Roost",
+    "Screech",
+    "Sky Attack",
+    "Whirlwind",
+    "Wing Attack",
+    "FeatherDance",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

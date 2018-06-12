@@ -1,0 +1,29 @@
+{
+	"id": "Jirachi",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Jirachi",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary",
+				"mythical"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DUSK"
+				],
+				"stringBiomes": [
+					"mountainous forests"
+				]
+			},
+			"rarity": 4
+		}
+	]
+}

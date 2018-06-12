@@ -1,0 +1,25 @@
+{
+	"id": "Skitty",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Skitty"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 2,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"plains"
+				]
+			},
+			"rarity": 180.0
+		}
+	]
+}

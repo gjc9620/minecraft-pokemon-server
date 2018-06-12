@@ -1,0 +1,177 @@
+{
+  "pixelmonName": "Cottonee",
+  "pokemon": "Cottonee",
+  "stats": {
+    "HP": 40,
+    "Attack": 27,
+    "Defence": 60,
+    "Speed": 66,
+    "SpecialAttack": 37,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.6,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Whimsicott"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Prankster",
+    "Infiltrator",
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Fairy Wind"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "8": [
+      "Leech Seed"
+    ],
+    "10": [
+      "Stun Spore"
+    ],
+    "13": [
+      "Mega Drain"
+    ],
+    "17": [
+      "Cotton Spore"
+    ],
+    "19": [
+      "Razor Leaf"
+    ],
+    "22": [
+      "Poison Powder"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "28": [
+      "Charm"
+    ],
+    "31": [
+      "Helping Hand"
+    ],
+    "35": [
+      "Energy Ball"
+    ],
+    "37": [
+      "Cotton Guard"
+    ],
+    "40": [
+      "Sunny Day"
+    ],
+    "44": [
+      "Endeavor"
+    ],
+    "46": [
+      "SolarBeam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Mega Drain",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Natural Gift",
+    "Captivate",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Knock Off",
+    "Seed Bomb",
+    "Tailwind",
+    "Worry Seed",
+    "Absorb",
+    "Beat Up",
+    "Charm",
+    "Encore",
+    "Growth",
+    "Leech Seed",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Captivate",
+    "Encore",
+    "Fake Tears",
+    "Memento",
+    "Natural Gift",
+    "Switcheroo",
+    "Tickle",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

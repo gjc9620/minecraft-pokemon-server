@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Malamar",
+  "pokemon": "Malamar",
+  "stats": {
+    "HP": 86,
+    "Attack": 92,
+    "Defence": 88,
+    "Speed": 73,
+    "SpecialAttack": 68,
+    "SpecialDefence": 75
+  },
+  "catchRate": 80,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 14,
+  "baseExp": 169,
+  "baseFriendship": 0,
+  "types": [
+    "Dark",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "width": 1.5,
+  "length": 1.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Inkay"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 47.0,
+  "evolutions": [],
+  "abilities": [
+    "SuctionCups",
+    "Contrary",
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Superpower",
+      "Reversal",
+      "Tackle",
+      "Peck",
+      "Constrict"
+    ],
+    "4": [
+      "Reflect"
+    ],
+    "8": [
+      "Foul Play"
+    ],
+    "12": [
+      "Swagger"
+    ],
+    "13": [
+      "Psywave"
+    ],
+    "15": [
+      "Topsy-Turvy"
+    ],
+    "18": [
+      "Hypnosis"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "23": [
+      "Switcheroo"
+    ],
+    "27": [
+      "Payback"
+    ],
+    "31": [
+      "Light Screen"
+    ],
+    "35": [
+      "Pluck"
+    ],
+    "39": [
+      "Psycho Cut"
+    ],
+    "43": [
+      "Slash"
+    ],
+    "46": [
+      "Night Slash"
+    ],
+    "48": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Cut",
+    "Snatch",
+    "Snore"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Block",
+    "Foul Play",
+    "Knock Off",
+    "Role Play",
+    "Signal Beam",
+    "Spite",
+    "Superpower",
+    "Happy Hour"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Destiny Bond",
+    "Flatter",
+    "Power Split",
+    "Simple Beam"
+  ],
+  "forms": {},
+  "form": -1
+}

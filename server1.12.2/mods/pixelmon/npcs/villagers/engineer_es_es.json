@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "engineer.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gustavo"
+        },
+        {
+            "name": "Graham"
+        },
+        {
+            "name": "Seymur"
+        },
+        {
+            "name": "Tomás"
+        },
+        {
+            "name": "Kees"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Con mi traje, estoy protegido de las descargas eléctricas!"
+                },
+                {
+                    "text": "Eso quiere decir que puedo adoptar un Pikachu salvaje sin ningún problema."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tengo que arreglar un poste de electricidad, pero no lo encuentro por ningún lado."
+                },
+                {
+                    "text": "Estoy empezando a pensar que me han hecho una novatada."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Va a haber un corte de luz mañana."
+                },
+                {
+                    "text": "Tranquilo, es sólo un mantenimiento."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No, no estoy enfadado contigo. Siempre tengo esta cara."
+                },
+                {
+                    "text": "¡Es mi cara normal! Mi cara neutral. ¿Tienes algún problema?"
+                }
+            ]
+        }
+    ]
+}

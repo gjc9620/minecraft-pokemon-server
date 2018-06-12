@@ -1,0 +1,214 @@
+{
+  "pixelmonName": "Murkrow",
+  "pokemon": "Murkrow",
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 42,
+    "Speed": 91,
+    "SpecialAttack": 85,
+    "SpecialDefence": 42
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 107,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 0.5,
+  "width": 0.2,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.1,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:dusk_stone"
+      },
+      "to": {
+        "name": "Honchkrow"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Insomnia",
+    "SuperLuck",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Astonish"
+    ],
+    "5": [
+      "Pursuit"
+    ],
+    "11": [
+      "Haze"
+    ],
+    "15": [
+      "Wing Attack"
+    ],
+    "21": [
+      "Night Shade"
+    ],
+    "25": [
+      "Assurance"
+    ],
+    "31": [
+      "Taunt"
+    ],
+    "35": [
+      "Faint Attack"
+    ],
+    "41": [
+      "Mean Look"
+    ],
+    "45": [
+      "Foul Play"
+    ],
+    "50": [
+      "Tailwind"
+    ],
+    "55": [
+      "Sucker Punch"
+    ],
+    "61": [
+      "Torment"
+    ],
+    "65": [
+      "Quash"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Quash",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Snarl",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Nightmare",
+    "Snatch",
+    "Roost",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Spite",
+    "Sucker Punch",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Beat Up",
+    "Faint Attack",
+    "FeatherDance",
+    "Haze",
+    "Night Shade",
+    "Pursuit",
+    "Peck",
+    "Screech",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Brave Bird",
+    "Confuse Ray",
+    "Drill Peck",
+    "Flatter",
+    "Mirror Move",
+    "Perish Song",
+    "Psycho Shift",
+    "Roost",
+    "Screech",
+    "Sky Attack",
+    "Whirlwind",
+    "Wing Attack",
+    "FeatherDance",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

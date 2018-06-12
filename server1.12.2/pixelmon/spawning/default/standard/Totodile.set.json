@@ -1,0 +1,26 @@
+{
+	"id": "Totodile",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Totodile"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 18,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"river",
+					"beaches"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

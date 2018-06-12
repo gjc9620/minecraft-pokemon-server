@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Pineco",
+  "pokemon": "Pineco",
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 90,
+    "Speed": 15,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 25,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.6,
+  "width": 0.4,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.2,
+  "evolutions": [
+    {
+      "level": 31,
+      "to": {
+        "name": "Forretress"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    null,
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Protect"
+    ],
+    "6": [
+      "Selfdestruct"
+    ],
+    "9": [
+      "Bug Bite"
+    ],
+    "12": [
+      "Take Down"
+    ],
+    "17": [
+      "Rapid Spin"
+    ],
+    "20": [
+      "Bide"
+    ],
+    "23": [
+      "Natural Gift"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "31": [
+      "Payback"
+    ],
+    "34": [
+      "Explosion"
+    ],
+    "39": [
+      "Iron Defense"
+    ],
+    "42": [
+      "Gyro Ball"
+    ],
+    "45": [
+      "Double-Edge"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Gyro Ball",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Bide",
+    "Selfdestruct",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Drill Run",
+    "Gravity",
+    "Iron Defense",
+    "Pain Split",
+    "String Shot",
+    "Flail",
+    "Rapid Spin",
+    "Refresh",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Double-Edge",
+    "Endure",
+    "Flail",
+    "Pin Missile",
+    "Power Trick",
+    "Revenge",
+    "Sand Tomb",
+    "Stealth Rock",
+    "Swift",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,223 @@
+{
+  "pixelmonName": "Golbat",
+  "pokemon": "Golbat",
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 70,
+    "Speed": 90,
+    "SpecialAttack": 65,
+    "SpecialDefence": 75
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 28,
+  "baseExp": 171,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "height": 1.6,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zubat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "hoverHeight": 1.0,
+  "weight": 55.0,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Crobat"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Screech",
+      "Leech Life",
+      "Supersonic",
+      "Astonish",
+      "Bite"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "11": [
+      "Bite"
+    ],
+    "13": [
+      "Wing Attack"
+    ],
+    "17": [
+      "Confuse Ray"
+    ],
+    "19": [
+      "Air Cutter"
+    ],
+    "24": [
+      "Swift"
+    ],
+    "27": [
+      "Poison Fang"
+    ],
+    "32": [
+      "Mean Look"
+    ],
+    "35": [
+      "Acrobatics"
+    ],
+    "40": [
+      "Haze"
+    ],
+    "43": [
+      "Venoshock"
+    ],
+    "48": [
+      "Air Slash"
+    ],
+    "51": [
+      "Quick Guard"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Swagger",
+    "Pluck",
+    "U-Turn",
+    "Substitute",
+    "Fly",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Snatch",
+    "Roost",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heat Wave",
+    "Ominous Wind",
+    "Super Fang",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Zen Headbutt",
+    "Air Slash",
+    "Bite",
+    "Faint Attack",
+    "Flail",
+    "Gust",
+    "Haze",
+    "Hypnosis",
+    "Nasty Plot",
+    "Pursuit",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Brave Bird",
+    "Curse",
+    "Defog",
+    "Giga Drain",
+    "Gust",
+    "Hypnosis",
+    "Nasty Plot",
+    "Pursuit",
+    "Quick Attack",
+    "Steel Wing",
+    "Whirlwind",
+    "Zen Headbutt",
+    "Faint Attack",
+    "Venom Drench"
+  ],
+  "forms": {},
+  "form": -1
+}

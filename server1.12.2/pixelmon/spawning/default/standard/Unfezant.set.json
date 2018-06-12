@@ -1,0 +1,28 @@
+{
+	"id": "Unfezant",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Unfezant"
+			},
+			"stringLocationTypes": [
+				"Air"
+			],
+			"minLevel": 33,
+			"maxLevel": 47,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forest",
+					"forest_hills",
+					"birch_forest",
+					"birch_forest_hills"
+				]
+			},
+			"rarity": 60
+		}
+	]
+}

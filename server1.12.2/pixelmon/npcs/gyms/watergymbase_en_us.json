@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "swimmer_m.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Swimmer"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Did you have fun getting up here?",
+      "win": "I'm invincible in my natural habitat.",
+      "lose": "No way!"
+    }
+  ]
+}

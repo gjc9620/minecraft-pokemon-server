@@ -1,0 +1,28 @@
+{
+	"id": "Tranquill",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Tranquill"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 31,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"forests",
+					"birch_forest",
+					"birch_forest_hills",
+					"minecraft:plains"
+				]
+			},
+			"rarity": 75.0
+		}
+	]
+}

@@ -1,0 +1,211 @@
+{
+  "pixelmonName": "Marowak",
+  "pokemon": "Marowak",
+  "stats": {
+    "HP": 60,
+    "Attack": 80,
+    "Defence": 110,
+    "Speed": 45,
+    "SpecialAttack": 50,
+    "SpecialDefence": 80
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 22,
+  "baseExp": 124,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cubone"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 45.0,
+  "evolutions": [],
+  "abilities": [
+    "RockHead",
+    "LightningRod",
+    "BattleArmour"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tail Whip",
+      "Bone Club",
+      "Headbutt"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Bone Club"
+    ],
+    "11": [
+      "Headbutt"
+    ],
+    "13": [
+      "Leer"
+    ],
+    "17": [
+      "Focus Energy"
+    ],
+    "21": [
+      "Bonemerang"
+    ],
+    "23": [
+      "Rage"
+    ],
+    "27": [
+      "False Swipe"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "37": [
+      "Fling"
+    ],
+    "43": [
+      "Bone Rush"
+    ],
+    "49": [
+      "Endeavor"
+    ],
+    "53": [
+      "Double-Edge"
+    ],
+    "59": [
+      "Retaliate"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Submission",
+    "Counter",
+    "Rage",
+    "Fissure",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Earth Power",
+    "Endeavor",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Outrage",
+    "Uproar",
+    "Belly Drum",
+    "Fury Attack",
+    "Sing",
+    "Thrash",
+    "Focus Energy",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Belly Drum",
+    "Chip Away",
+    "Detect",
+    "Double Kick",
+    "Endure",
+    "Iron Head",
+    "Perish Song",
+    "Screech",
+    "Skull Bash",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Azelf",
+  "pokemon": "Azelf",
+  "stats": {
+    "HP": 75,
+    "Attack": 125,
+    "Defence": 70,
+    "Speed": 115,
+    "SpecialAttack": 125,
+    "SpecialDefence": 70
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 210,
+  "baseFriendship": 140,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": -1,
+    "depthRangeEnd": 0,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "SpecialAttack": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Natural Gift",
+      "Last Resort",
+      "Rest",
+      "Confusion"
+    ],
+    "6": [
+      "Imprison"
+    ],
+    "16": [
+      "Detect"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "31": [
+      "Uproar"
+    ],
+    "36": [
+      "Future Sight"
+    ],
+    "46": [
+      "Nasty Plot"
+    ],
+    "50": [
+      "Extrasensory"
+    ],
+    "61": [
+      "Last Resort"
+    ],
+    "66": [
+      "Natural Gift"
+    ],
+    "76": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Incinerate",
+    "Acrobatics",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Knock Off",
+    "Last Resort",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Nasty Plot"
+  ],
+  "forms": {},
+  "form": -1
+}

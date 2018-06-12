@@ -1,0 +1,25 @@
+{
+	"id": "Gulpin",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gulpin"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

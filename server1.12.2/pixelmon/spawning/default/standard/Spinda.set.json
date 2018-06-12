@@ -1,0 +1,26 @@
+{
+	"id": "Spinda",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Spinda"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 200.0
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Palpitoad",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Palpitoad"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

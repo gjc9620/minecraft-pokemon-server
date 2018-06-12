@@ -1,0 +1,203 @@
+{
+  "pixelmonName": "Octillery",
+  "pokemon": "Octillery",
+  "stats": {
+    "HP": 75,
+    "Attack": 105,
+    "Defence": 75,
+    "Speed": 45,
+    "SpecialAttack": 105,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 30,
+  "baseExp": 164,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.9,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Remoraid"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 20,
+    "swimSpeed": 1.2,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 28.5,
+  "evolutions": [],
+  "abilities": [
+    "SuctionCups",
+    "Sniper",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Gunk Shot",
+      "Rock Blast",
+      "Water Gun",
+      "Constrict",
+      "Psybeam",
+      "Aurora Beam"
+    ],
+    "6": [
+      "Constrict"
+    ],
+    "10": [
+      "Psybeam"
+    ],
+    "14": [
+      "Aurora Beam"
+    ],
+    "18": [
+      "BubbleBeam"
+    ],
+    "22": [
+      "Focus Energy"
+    ],
+    "25": [
+      "Octazooka"
+    ],
+    "28": [
+      "Wring Out"
+    ],
+    "34": [
+      "Signal Beam"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "46": [
+      "Bullet Seed"
+    ],
+    "52": [
+      "Hydro Pump"
+    ],
+    "58": [
+      "Hyper Beam"
+    ],
+    "64": [
+      "Soak"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Charge Beam",
+    "Incinerate",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Bullet Seed",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bounce",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Amnesia",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Octazooka",
+    "Focus Energy",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Aurora Beam",
+    "Entrainment",
+    "Flail",
+    "Haze",
+    "Mud Shot",
+    "Octazooka",
+    "Rock Blast",
+    "Screech",
+    "Snore",
+    "Supersonic",
+    "Swift",
+    "Water Pulse",
+    "Water Spout"
+  ],
+  "forms": {},
+  "form": -1
+}

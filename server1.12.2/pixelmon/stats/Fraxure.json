@@ -1,0 +1,200 @@
+{
+  "pixelmonName": "Fraxure",
+  "pokemon": "Fraxure",
+  "stats": {
+    "HP": 66,
+    "Attack": 117,
+    "Defence": 70,
+    "Speed": 67,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 39,
+  "spawnLevelRange": 8,
+  "baseExp": 144,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.0,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Axew"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 36.0,
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Haxorus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 48,
+      "to": {
+        "name": "Haxorus"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "MoldBreaker",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Leer",
+      "Assurance",
+      "Dragon Rage"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Assurance"
+    ],
+    "10": [
+      "Dragon Rage"
+    ],
+    "13": [
+      "Dual Chop"
+    ],
+    "16": [
+      "Scary Face"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "False Swipe"
+    ],
+    "28": [
+      "Dragon Claw"
+    ],
+    "32": [
+      "Dragon Dance"
+    ],
+    "36": [
+      "Taunt"
+    ],
+    "42": [
+      "Dragon Pulse"
+    ],
+    "48": [
+      "Swords Dance"
+    ],
+    "54": [
+      "Guillotine"
+    ],
+    "60": [
+      "Outrage"
+    ],
+    "66": [
+      "Giga Impact"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Incinerate",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Dragon Tail",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Razor Wind",
+    "Counter",
+    "Dragon Rage",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Dragon Pulse",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Draco Meteor",
+    "Dual Chop",
+    "Endeavor",
+    "Low Kick",
+    "Outrage",
+    "Superpower",
+    "Reversal",
+    "Scary Face",
+    "Harden",
+    "Focus Energy",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Dragon Pulse",
+    "Endeavor",
+    "Endure",
+    "Focus Energy",
+    "Harden",
+    "Iron Tail",
+    "Night Slash",
+    "Razor Wind",
+    "Reversal"
+  ],
+  "forms": {},
+  "form": -1
+}

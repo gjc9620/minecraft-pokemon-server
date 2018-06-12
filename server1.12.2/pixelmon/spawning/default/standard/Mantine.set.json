@@ -1,0 +1,31 @@
+{
+	"id": "Mantine",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Mantine"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 5,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:wave_incense",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 360.0
+		}
+	]
+}

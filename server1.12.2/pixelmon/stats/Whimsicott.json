@@ -1,0 +1,149 @@
+{
+  "pixelmonName": "Whimsicott",
+  "pokemon": "Whimsicott",
+  "stats": {
+    "HP": 60,
+    "Attack": 67,
+    "Defence": 85,
+    "Speed": 116,
+    "SpecialAttack": 77,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cottonee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 6.6,
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    "Infiltrator",
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growth",
+      "Leech Seed",
+      "Mega Drain",
+      "Cotton Spore"
+    ],
+    "10": [
+      "Gust"
+    ],
+    "28": [
+      "Tailwind"
+    ],
+    "46": [
+      "Hurricane"
+    ],
+    "50": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Mega Drain",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Natural Gift",
+    "Captivate",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Helping Hand",
+    "Knock Off",
+    "Seed Bomb",
+    "Tailwind",
+    "Worry Seed",
+    "Absorb",
+    "Beat Up",
+    "Charm",
+    "Encore",
+    "Growth",
+    "Gust",
+    "Hurricane",
+    "Leech Seed",
+    "Tickle",
+    "Cotton Guard"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Captivate",
+    "Encore",
+    "Fake Tears",
+    "Memento",
+    "Natural Gift",
+    "Switcheroo",
+    "Tickle",
+    "Worry Seed",
+    "GrassWhistle"
+  ],
+  "forms": {},
+  "form": -1
+}

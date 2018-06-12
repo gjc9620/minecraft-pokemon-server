@@ -1,0 +1,201 @@
+{
+  "pixelmonName": "Growlithe",
+  "pokemon": "Growlithe",
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defence": 45,
+    "Speed": 60,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 75,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 91,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "width": 0.3,
+  "length": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 19.0,
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:fire_stone"
+      },
+      "to": {
+        "name": "Arcanine"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "FlashFire",
+    "Justified"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Roar"
+    ],
+    "6": [
+      "Ember"
+    ],
+    "8": [
+      "Leer"
+    ],
+    "10": [
+      "Odor Sleuth"
+    ],
+    "12": [
+      "Helping Hand"
+    ],
+    "17": [
+      "Flame Wheel"
+    ],
+    "19": [
+      "Reversal"
+    ],
+    "21": [
+      "Fire Fang"
+    ],
+    "23": [
+      "Take Down"
+    ],
+    "28": [
+      "Flame Burst"
+    ],
+    "30": [
+      "Agility"
+    ],
+    "32": [
+      "Retaliate"
+    ],
+    "34": [
+      "Flamethrower"
+    ],
+    "39": [
+      "Crunch"
+    ],
+    "41": [
+      "Heat Wave"
+    ],
+    "43": [
+      "Outrage"
+    ],
+    "45": [
+      "Flare Blitz"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Dragon Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "DragonBreath",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Heat Wave",
+    "Helping Hand",
+    "Outrage",
+    "Agility",
+    "Bite",
+    "Charm",
+    "Flare Blitz",
+    "Howl",
+    "Morning Sun",
+    "Reversal",
+    "Thrash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Close Combat",
+    "Covet",
+    "Crunch",
+    "Double-Edge",
+    "Double Kick",
+    "Fire Spin",
+    "Flare Blitz",
+    "Heat Wave",
+    "Howl",
+    "Iron Tail",
+    "Morning Sun",
+    "Thrash"
+  ],
+  "forms": {},
+  "form": -1
+}

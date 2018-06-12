@@ -1,0 +1,25 @@
+{
+	"id": "Golurk",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Golurk"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 43,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 10.0
+		}
+	]
+}

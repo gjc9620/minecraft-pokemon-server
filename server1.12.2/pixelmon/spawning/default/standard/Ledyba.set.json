@@ -1,0 +1,30 @@
+{
+	"id": "Ledyba",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Ledyba"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"forests",
+					"birches",
+					"flowery"
+				]
+			},
+			"rarity": 150.0
+		}
+	]
+}

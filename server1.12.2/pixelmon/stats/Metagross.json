@@ -1,0 +1,237 @@
+{
+  "pixelmonName": "Metagross",
+  "pokemon": "Metagross",
+  "stats": {
+    "HP": 80,
+    "Attack": 135,
+    "Defence": 130,
+    "Speed": 70,
+    "SpecialAttack": 95,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 10,
+  "baseExp": 210,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 1.6,
+  "width": 2.0,
+  "length": 2.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Metang",
+    "Beldum"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": -0.3
+    }
+  },
+  "weight": 550.0,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Magnet Rise",
+      "Take Down",
+      "Metal Claw",
+      "Confusion"
+    ],
+    "20": [
+      "Confusion",
+      "Metal Claw"
+    ],
+    "23": [
+      "Pursuit"
+    ],
+    "26": [
+      "Bullet Punch"
+    ],
+    "29": [
+      "Miracle Eye"
+    ],
+    "32": [
+      "Zen Headbutt"
+    ],
+    "35": [
+      "Scary Face"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "41": [
+      "Agility"
+    ],
+    "44": [
+      "Meteor Mash"
+    ],
+    "45": [
+      "Hammer Arm"
+    ],
+    "52": [
+      "Iron Defense"
+    ],
+    "60": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Mimic",
+    "Selfdestruct",
+    "Swift",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fury Cutter",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Gravity",
+    "Iron Defense",
+    "Iron Head",
+    "Magnet Rise",
+    "Signal Beam",
+    "Trick",
+    "Zen Headbutt",
+    "Agility",
+    "Pursuit",
+    "Refresh",
+    "Scary Face",
+    "Hold Back"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 80,
+        "Attack": 145,
+        "Defence": 150,
+        "Speed": 110,
+        "SpecialAttack": 105,
+        "SpecialDefence": 110
+      },
+      "height": 2.5,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 0.5,
+          "z": 0.0
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 0.5,
+          "z": 0.0
+        }
+      },
+      "weight": 942.9,
+      "abilities": [
+        "ToughClaws",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

@@ -1,0 +1,17 @@
+# Whether or not to include the Snoopy prefix in the notification message
+usePrefix: true
+
+# The blocks that will trigger the message, and their corresponding friendly and plural name
+blocks:
+  -
+    type: 'DIAMOND_ORE'
+    name: 'diamond'
+    pluralName: 'diamonds'
+  -
+    type: 'GOLD_ORE'
+    name: 'gold'
+    pluralName: 'gold'
+  -
+    type: 'EMERALD_ORE'
+    name: 'emerald'
+    pluralName: 'emeralds'

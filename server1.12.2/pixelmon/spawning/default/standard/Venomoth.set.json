@@ -1,0 +1,28 @@
+{
+	"id": "Venomoth",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Venomoth"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 31,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps",
+					"jungles"
+				]
+			},
+			"rarity": 60.0
+		}
+	]
+}

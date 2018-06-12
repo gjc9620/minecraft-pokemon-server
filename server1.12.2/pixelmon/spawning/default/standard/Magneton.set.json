@@ -1,0 +1,22 @@
+{
+	"id": "Magneton",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Magneton"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 30,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 1.0
+		}
+	]
+}

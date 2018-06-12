@@ -1,0 +1,26 @@
+{
+	"id": "Toxicroak",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Toxicroak"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 38,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps",
+					"river"
+				]
+			},
+			"rarity": 15.0
+		}
+	]
+}

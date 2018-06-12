@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "flyingleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Icarus"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¡De modo que un aspirante alcanza la cima... solo para ser devuelto a su sitio!",
+      "win": "¡Sí, victoria! ¡Qué te lo pases bien en la bajada, chaval!",
+      "lose": "Vaya... parece que soy yo el que ha caído..."
+    }
+  ]
+}

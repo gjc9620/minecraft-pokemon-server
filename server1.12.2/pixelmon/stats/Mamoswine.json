@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Mamoswine",
+  "pokemon": "Mamoswine",
+  "stats": {
+    "HP": 110,
+    "Attack": 130,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 70,
+    "SpecialDefence": 60
+  },
+  "catchRate": 50,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 207,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "height": 2.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Piloswine",
+    "Swinub"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    }
+  },
+  "weight": 291.0,
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "SnowCloak",
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Scary Face",
+      "AncientPower",
+      "Peck",
+      "Odor Sleuth",
+      "Mud Sport",
+      "Powder Snow"
+    ],
+    "5": [
+      "Mud Sport"
+    ],
+    "8": [
+      "Powder Snow"
+    ],
+    "11": [
+      "Mud-Slap"
+    ],
+    "14": [
+      "Endure"
+    ],
+    "18": [
+      "Mud Bomb"
+    ],
+    "21": [
+      "Hail"
+    ],
+    "24": [
+      "Ice Fang"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "33": [
+      "Double Hit"
+    ],
+    "37": [
+      "Mist"
+    ],
+    "41": [
+      "Thrash"
+    ],
+    "46": [
+      "Earthquake"
+    ],
+    "52": [
+      "Blizzard"
+    ],
+    "58": [
+      "Scary Face"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Whirlwind",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Fissure",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Stealth Rock",
+    "Captivate",
+    "Natural Gift",
+    "Avalanche",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Block",
+    "Earth Power",
+    "Endeavor",
+    "Iron Head",
+    "Knock Off",
+    "Superpower",
+    "Amnesia",
+    "Bite",
+    "Charm",
+    "Flail",
+    "Fury Attack",
+    "Mist",
+    "Mud Sport",
+    "Scary Face",
+    "Thrash",
+    "Peck",
+    "Tackle",
+    "Horn Attack"
+  ],
+  "eggMoves": [
+    "Avalanche",
+    "Bite",
+    "Body Slam",
+    "Curse",
+    "Double-Edge",
+    "Fissure",
+    "Icicle Crash",
+    "Icicle Spear",
+    "Mud Shot",
+    "Stealth Rock",
+    "Take Down",
+    "AncientPower",
+    "Freeze-Dry"
+  ],
+  "forms": {},
+  "form": -1
+}

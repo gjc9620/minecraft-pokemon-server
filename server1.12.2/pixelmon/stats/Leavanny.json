@@ -1,0 +1,179 @@
+{
+  "pixelmonName": "Leavanny",
+  "pokemon": "Leavanny",
+  "stats": {
+    "HP": 75,
+    "Attack": 103,
+    "Defence": 80,
+    "Speed": 92,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 1.2,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Swadloon",
+    "Sewaddle"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 20.5,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "False Swipe",
+      "Tackle",
+      "String Shot",
+      "Bug Bite",
+      "Razor Leaf"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "22": [
+      "Struggle Bug"
+    ],
+    "29": [
+      "Slash"
+    ],
+    "32": [
+      "Helping Hand"
+    ],
+    "34": [
+      "Fell Stinger"
+    ],
+    "36": [
+      "Leaf Blade"
+    ],
+    "39": [
+      "X-Scissor"
+    ],
+    "43": [
+      "Entrainment"
+    ],
+    "46": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Leaf Storm"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Silver Wind",
+    "Razor Wind",
+    "Steel Wing",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Heal Bell",
+    "Helping Hand",
+    "Iron Defense",
+    "Knock Off",
+    "Magic Coat",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Flail",
+    "Mind Reader",
+    "Tackle",
+    "Slash",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Camouflage",
+    "Me First",
+    "Mind Reader",
+    "Razor Wind",
+    "Screech",
+    "Silver Wind"
+  ],
+  "forms": {},
+  "form": -1
+}

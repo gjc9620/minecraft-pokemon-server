@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Skarmory",
+  "pokemon": "Skarmory",
+  "stats": {
+    "HP": 65,
+    "Attack": 80,
+    "Defence": 140,
+    "Speed": 70,
+    "SpecialAttack": 40,
+    "SpecialDefence": 70
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "height": 1.7,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 30,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.2
+    }
+  },
+  "weight": 50.5,
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "Sturdy",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Peck"
+    ],
+    "6": [
+      "Sand-Attack"
+    ],
+    "9": [
+      "Metal Claw"
+    ],
+    "12": [
+      "Air Cutter"
+    ],
+    "17": [
+      "Fury Attack"
+    ],
+    "20": [
+      "Feint"
+    ],
+    "23": [
+      "Swift"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "31": [
+      "Agility"
+    ],
+    "34": [
+      "Steel Wing"
+    ],
+    "39": [
+      "Slash"
+    ],
+    "42": [
+      "Metal Sound"
+    ],
+    "45": [
+      "Air Slash"
+    ],
+    "50": [
+      "Autotomize"
+    ],
+    "53": [
+      "Night Slash"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Sky Drop",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash",
+    "Cut",
+    "Fly",
+    "Defog",
+    "Whirlwind",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Steel Wing",
+    "Fury Cutter",
+    "Roost",
+    "Stealth Rock",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Iron Defense",
+    "Iron Head",
+    "Ominous Wind",
+    "Tailwind",
+    "Twister",
+    "Agility",
+    "Air Slash",
+    "Fury Attack",
+    "Metal Sound",
+    "Pursuit",
+    "Peck",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Brave Bird",
+    "Curse",
+    "Drill Peck",
+    "Endure",
+    "Guard Swap",
+    "Pursuit",
+    "Sky Attack",
+    "Stealth Rock",
+    "Whirlwind"
+  ],
+  "forms": {},
+  "form": -1
+}

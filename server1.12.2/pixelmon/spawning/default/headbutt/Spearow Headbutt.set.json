@@ -1,0 +1,29 @@
+{
+    "id": "Spearow Headbutt",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Spearow"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 6,
+            "maxLevel": 14,
+            "typeID": "pokemon",
+            "rarity": 120.0
+        },
+        {
+            "spec": {
+                "name": "Fearow"
+            },
+            "stringLocationTypes": [
+                "Headbutt"
+            ],
+            "minLevel": 6,
+            "maxLevel": 14,
+            "typeID": "pokemon",
+            "rarity": 120.0
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Volcarona",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Volcarona"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 59,
+			"maxLevel": 65,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK"
+				],
+				"stringBiomes": [
+					"desert_hills"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "Mega Abomasnow",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Abomasnow"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"spawnSpecificBossRate": 1,
+			"condition": {
+				"temperature": "COLD"
+			},
+			"interval": "megaBoss",
+			"typeID": "pokemon",
+			"rarity": 10.0
+		}
+	]
+}

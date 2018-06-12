@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kasai"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "¡Hola, chaval! Soy el Lider de Gimnasio de esta zona. ¿Crees que puedes apagar mi llama? ¡Eso lo veremos!",
+      "win": "¡Lo siento por tu plan de derrotarme entre las llamas!",
+      "lose": "¡No puede ser! Supongo que no he brillado lo suficiente..."
+    }
+  ]
+}

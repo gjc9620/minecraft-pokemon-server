@@ -1,0 +1,216 @@
+{
+  "pixelmonName": "Togepi",
+  "pokemon": "Togepi",
+  "stats": {
+    "HP": 35,
+    "Attack": 20,
+    "Defence": 65,
+    "Speed": 20,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.5,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Togetic"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "SereneGrace",
+    "SuperLuck"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Charm"
+    ],
+    "5": [
+      "Metronome"
+    ],
+    "9": [
+      "Sweet Kiss"
+    ],
+    "13": [
+      "Yawn"
+    ],
+    "17": [
+      "Encore"
+    ],
+    "21": [
+      "Follow Me"
+    ],
+    "25": [
+      "Bestow"
+    ],
+    "29": [
+      "Wish"
+    ],
+    "33": [
+      "AncientPower"
+    ],
+    "37": [
+      "Safeguard"
+    ],
+    "41": [
+      "Baton Pass"
+    ],
+    "45": [
+      "Double-Edge"
+    ],
+    "49": [
+      "Last Resort"
+    ],
+    "53": [
+      "After You"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "Metronome",
+    "Swift",
+    "Softboiled",
+    "Tri Attack",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Zap Cannon",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Detect",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "AncientPower",
+    "Covet",
+    "Endeavor",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Magic Coat",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Baton Pass",
+    "Charm",
+    "Encore",
+    "Extrasensory",
+    "Follow Me",
+    "Foresight",
+    "Morning Sun",
+    "Nasty Plot",
+    "Sweet Kiss",
+    "Wish",
+    "Yawn",
+    "Peck"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Foresight",
+    "Future Sight",
+    "Lucky Chant",
+    "Mirror Move",
+    "Morning Sun",
+    "Nasty Plot",
+    "Peck",
+    "Present",
+    "Psycho Shift",
+    "Secret Power",
+    "Stored Power"
+  ],
+  "forms": {},
+  "form": -1
+}

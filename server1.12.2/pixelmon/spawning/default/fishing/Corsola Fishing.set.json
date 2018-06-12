@@ -1,0 +1,23 @@
+{
+	"id": "Corsola Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Corsola"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 18,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarity": 30
+		}
+	]
+}

@@ -1,0 +1,170 @@
+{
+  "pixelmonName": "Garbodor",
+  "pokemon": "Garbodor",
+  "stats": {
+    "HP": 80,
+    "Attack": 95,
+    "Defence": 82,
+    "Speed": 75,
+    "SpecialAttack": 60,
+    "SpecialDefence": 82
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 12,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.9,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Trubbish"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 107.3,
+  "evolutions": [],
+  "abilities": [
+    "Stench",
+    "WeakArmor",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Poison Gas",
+      "Recycle",
+      "Toxic Spikes"
+    ],
+    "3": [
+      "Recycle"
+    ],
+    "7": [
+      "Toxic Spikes"
+    ],
+    "12": [
+      "Acid Spray"
+    ],
+    "14": [
+      "DoubleSlap"
+    ],
+    "18": [
+      "Sludge"
+    ],
+    "23": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "25": [
+      "Body Slam"
+    ],
+    "29": [
+      "Sludge Bomb"
+    ],
+    "34": [
+      "Clear Smog"
+    ],
+    "39": [
+      "Toxic"
+    ],
+    "46": [
+      "Amnesia"
+    ],
+    "49": [
+      "Belch"
+    ],
+    "54": [
+      "Gunk Shot"
+    ],
+    "59": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Smack Down",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Selfdestruct",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Drain Punch",
+    "Recycle",
+    "Dark Pulse",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gunk Shot",
+    "Pain Split",
+    "Seed Bomb",
+    "Spite",
+    "Amnesia",
+    "DoubleSlap",
+    "Haze",
+    "Mud Sport"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Haze",
+    "Mud Sport",
+    "Rock Blast",
+    "Rollout",
+    "Spikes",
+    "Sand-Attack",
+    "Selfdestruct"
+  ],
+  "forms": {},
+  "form": -1
+}

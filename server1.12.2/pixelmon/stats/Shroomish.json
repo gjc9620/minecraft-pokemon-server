@@ -1,0 +1,167 @@
+{
+  "pixelmonName": "Shroomish",
+  "pokemon": "Shroomish",
+  "stats": {
+    "HP": 60,
+    "Attack": 40,
+    "Defence": 60,
+    "Speed": 35,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 20,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 4.5,
+  "evolutions": [
+    {
+      "level": 23,
+      "to": {
+        "name": "Breloom"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "EffectSpore",
+    "PoisonHeal",
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle"
+    ],
+    "5": [
+      "Stun Spore"
+    ],
+    "8": [
+      "Leech Seed"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "19": [
+      "Poison Powder"
+    ],
+    "22": [
+      "Worry Seed"
+    ],
+    "26": [
+      "Giga Drain"
+    ],
+    "29": [
+      "Growth"
+    ],
+    "33": [
+      "Toxic"
+    ],
+    "36": [
+      "Seed Bomb"
+    ],
+    "40": [
+      "Spore"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Double-Edge",
+    "Mega Drain",
+    "Mimic",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Focus Punch",
+    "Bullet Seed",
+    "Snatch",
+    "Drain Punch",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Helping Hand",
+    "Seed Bomb",
+    "Synthesis",
+    "Worry Seed",
+    "Absorb",
+    "Charm",
+    "Growth",
+    "Leech Seed",
+    "Refresh",
+    "Tackle"
+  ],
+  "eggMoves": [
+    "Bullet Seed",
+    "Charm",
+    "Drain Punch",
+    "Fake Tears",
+    "Focus Punch",
+    "Helping Hand",
+    "Natural Gift",
+    "Seed Bomb",
+    "Wake-Up Slap",
+    "Worry Seed"
+  ],
+  "forms": {},
+  "form": -1
+}

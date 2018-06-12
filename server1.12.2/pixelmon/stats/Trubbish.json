@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Trubbish",
+  "pokemon": "Trubbish",
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 62,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 62
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 12,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 31.0,
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Garbodor"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 36,
+      "to": {
+        "name": "Garbodor"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Poison Gas"
+    ],
+    "3": [
+      "Recycle"
+    ],
+    "7": [
+      "Toxic Spikes"
+    ],
+    "12": [
+      "Acid Spray"
+    ],
+    "14": [
+      "DoubleSlap"
+    ],
+    "18": [
+      "Sludge"
+    ],
+    "23": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "29": [
+      "Sludge Bomb"
+    ],
+    "34": [
+      "Clear Smog"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Amnesia"
+    ],
+    "42": [
+      "Belch"
+    ],
+    "45": [
+      "Gunk Shot"
+    ],
+    "47": [
+      "Explosion"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Substitute",
+    "Take Down",
+    "Selfdestruct",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Drain Punch",
+    "Recycle",
+    "Dark Pulse",
+    "Infestation",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Gunk Shot",
+    "Pain Split",
+    "Seed Bomb",
+    "Spite",
+    "Amnesia",
+    "DoubleSlap",
+    "Haze",
+    "Mud Sport"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Haze",
+    "Mud Sport",
+    "Rock Blast",
+    "Rollout",
+    "Spikes",
+    "Sand-Attack",
+    "Selfdestruct"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,182 @@
+{
+  "pixelmonName": "Whismur",
+  "pokemon": "Whismur",
+  "stats": {
+    "HP": 64,
+    "Attack": 51,
+    "Defence": 23,
+    "Speed": 28,
+    "SpecialAttack": 51,
+    "SpecialDefence": 23
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 16.3,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Loudred"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Soundproof",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "4": [
+      "Echoed Voice"
+    ],
+    "8": [
+      "Astonish"
+    ],
+    "11": [
+      "Howl"
+    ],
+    "15": [
+      "Screech"
+    ],
+    "18": [
+      "Supersonic"
+    ],
+    "22": [
+      "Stomp"
+    ],
+    "25": [
+      "Uproar"
+    ],
+    "29": [
+      "Roar"
+    ],
+    "32": [
+      "Rest"
+    ],
+    "36": [
+      "Sleep Talk"
+    ],
+    "39": [
+      "Hyper Voice"
+    ],
+    "43": [
+      "Synchronoise"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Thunder Punch",
+    "Fire Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Endeavor",
+    "Hyper Voice",
+    "Uproar",
+    "Zen Headbutt",
+    "Extrasensory",
+    "Howl",
+    "Teeter Dance",
+    "Stomp",
+    "Screech",
+    "Icy Wind"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Endeavor",
+    "Extrasensory",
+    "Fake Tears",
+    "Hammer Arm",
+    "SmokeScreen",
+    "Snore",
+    "Take Down",
+    "SmellingSalt",
+    "Disarming Voice"
+  ],
+  "forms": {},
+  "form": -1
+}

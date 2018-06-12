@@ -1,0 +1,28 @@
+{
+	"id": "Seel",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Seel"
+			},
+			"stringLocationTypes": [
+				"Water",
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"minY": 50,
+				"maxY": 70,
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 240.0
+		}
+	]
+}

@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Butterfree",
+  "pokemon": "Butterfree",
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 90,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.1,
+  "width": 0.6,
+  "length": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Metapod",
+    "Caterpie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 300,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2,
+    "SpecialDefence": 1
+  },
+  "weight": 32.0,
+  "evolutions": [],
+  "abilities": [
+    "CompoundEyes",
+    null,
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Confusion"
+    ],
+    "10": [
+      "Confusion"
+    ],
+    "12": [
+      "Poison Powder",
+      "Stun Spore",
+      "Sleep Powder"
+    ],
+    "16": [
+      "Gust"
+    ],
+    "18": [
+      "Supersonic"
+    ],
+    "22": [
+      "Whirlwind"
+    ],
+    "24": [
+      "Psybeam"
+    ],
+    "28": [
+      "Silver Wind"
+    ],
+    "30": [
+      "Tailwind"
+    ],
+    "34": [
+      "Rage Powder"
+    ],
+    "36": [
+      "Safeguard"
+    ],
+    "40": [
+      "Captivate"
+    ],
+    "42": [
+      "Bug Buzz"
+    ],
+    "46": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Psywave",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Nightmare",
+    "Skill Swap",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Gust",
+    "Morning Sun",
+    "Harden",
+    "Tackle"
+  ],
+  "forms": {},
+  "form": -1
+}

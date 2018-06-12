@@ -1,0 +1,214 @@
+{
+  "pixelmonName": "Swablu",
+  "pokemon": "Swablu",
+  "stats": {
+    "HP": 45,
+    "Attack": 40,
+    "Defence": 60,
+    "Speed": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 75
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 29,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 8,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 1.2,
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Altaria"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 35,
+      "to": {
+        "name": "Altaria"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    null,
+    "CloudNine"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Growl"
+    ],
+    "3": [
+      "Astonish"
+    ],
+    "5": [
+      "Sing"
+    ],
+    "7": [
+      "Fury Attack"
+    ],
+    "9": [
+      "Safeguard"
+    ],
+    "11": [
+      "Disarming Voice"
+    ],
+    "14": [
+      "Mist"
+    ],
+    "17": [
+      "Round"
+    ],
+    "20": [
+      "Natural Gift"
+    ],
+    "23": [
+      "Take Down"
+    ],
+    "26": [
+      "Refresh"
+    ],
+    "30": [
+      "Mirror Move"
+    ],
+    "34": [
+      "Cotton Guard"
+    ],
+    "38": [
+      "Dragon Pulse"
+    ],
+    "42": [
+      "Perish Song"
+    ],
+    "46": [
+      "Moonblast"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Fly",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Swift",
+    "Sky Attack",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Steel Wing",
+    "Roost",
+    "Dragon Pulse",
+    "Captivate",
+    "Natural Gift",
+    "False Swipe",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Heal Bell",
+    "Heat Wave",
+    "Hyper Voice",
+    "Ominous Wind",
+    "Outrage",
+    "Tailwind",
+    "Twister",
+    "Uproar",
+    "Agility",
+    "FeatherDance",
+    "Fury Attack",
+    "Haze",
+    "Mist",
+    "Pursuit",
+    "Refresh",
+    "Sing",
+    "Peck",
+    "Sky Attack"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Dragon Rush",
+    "Haze",
+    "Hyper Voice",
+    "Power Swap",
+    "Pursuit",
+    "Rage",
+    "Roost",
+    "Steel Wing",
+    "FeatherDance"
+  ],
+  "forms": {},
+  "form": -1
+}

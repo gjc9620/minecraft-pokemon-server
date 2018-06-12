@@ -1,0 +1,25 @@
+{
+	"id": "Krookodile",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Krookodile"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 55,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 5.0
+		}
+	]
+}

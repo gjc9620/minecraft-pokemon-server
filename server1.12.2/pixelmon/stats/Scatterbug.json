@@ -1,0 +1,88 @@
+{
+  "pixelmonName": "Scatterbug",
+  "pokemon": "Scatterbug",
+  "stats": {
+    "HP": 38,
+    "Attack": 35,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 27,
+    "SpecialDefence": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 3,
+  "spawnLevelRange": 5,
+  "baseExp": 40,
+  "baseFriendship": 0,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.3,
+  "width": 0.3,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 2.5,
+  "evolutions": [
+    {
+      "level": 9,
+      "to": {
+        "name": "Spewpa"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 9,
+      "to": {
+        "name": "Spewpa"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ShieldDust",
+    "CompoundEyes",
+    "FriendGuard"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "String Shot"
+    ],
+    "6": [
+      "Stun Spore"
+    ],
+    "15": [
+      "Bug Bite"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite"
+  ],
+  "eggMoves": [
+    "Poison Powder",
+    "Rage Powder",
+    "Stun Spore"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Swadloon",
+  "pokemon": "Swadloon",
+  "stats": {
+    "HP": 55,
+    "Attack": 63,
+    "Defence": 90,
+    "Speed": 42,
+    "SpecialAttack": 50,
+    "SpecialDefence": 80
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 12,
+  "baseExp": 133,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 0.5,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sewaddle"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 7.3,
+  "evolutions": [
+    {
+      "to": {
+        "name": "Leavanny"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "GrassWhistle",
+      "Tackle",
+      "String Shot",
+      "Bug Bite",
+      "Razor Leaf"
+    ],
+    "20": [
+      "Protect"
+    ]
+  },
+  "tmMoves": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Struggle Bug",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Silver Wind",
+    "Razor Wind",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Iron Defense",
+    "Magic Coat",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Synthesis",
+    "Worry Seed",
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Flail",
+    "Mind Reader",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Camouflage",
+    "Me First",
+    "Mind Reader",
+    "Razor Wind",
+    "Screech",
+    "Silver Wind"
+  ],
+  "forms": {},
+  "form": -1
+}

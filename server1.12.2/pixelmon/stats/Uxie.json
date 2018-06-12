@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Uxie",
+  "pokemon": "Uxie",
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 130,
+    "Speed": 95,
+    "SpecialAttack": 75,
+    "SpecialDefence": 130
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 210,
+  "baseFriendship": 140,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.3,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2,
+    "SpecialDefence": 1
+  },
+  "weight": 0.3,
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Memento",
+      "Natural Gift",
+      "Flail",
+      "Rest",
+      "Confusion"
+    ],
+    "6": [
+      "Imprison"
+    ],
+    "16": [
+      "Endure"
+    ],
+    "21": [
+      "Swift"
+    ],
+    "31": [
+      "Yawn"
+    ],
+    "36": [
+      "Future Sight"
+    ],
+    "46": [
+      "Amnesia"
+    ],
+    "50": [
+      "Extrasensory"
+    ],
+    "61": [
+      "Flail"
+    ],
+    "66": [
+      "Natural Gift"
+    ],
+    "76": [
+      "Memento"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Trick Room",
+    "Swift",
+    "Headbutt",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Water Pulse",
+    "Shock Wave",
+    "Skill Swap",
+    "Recycle",
+    "Stealth Rock",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Foul Play",
+    "Heal Bell",
+    "Helping Hand",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt",
+    "Amnesia",
+    "Extrasensory",
+    "Flail",
+    "Yawn"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,17 @@
+{
+    "id": "Fletchling Grass",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Fletchling"
+            },
+            "stringLocationTypes": [
+                "Grass"
+            ],
+            "minLevel": 2,
+            "maxLevel": 5,
+            "typeID": "pokemon",
+            "rarity": 150.0
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "Shinx",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shinx"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"savannas"
+				]
+			},
+			"rarity": 18.0
+		}
+	]
+}

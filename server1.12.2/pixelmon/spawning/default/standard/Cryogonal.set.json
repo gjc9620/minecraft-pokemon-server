@@ -1,0 +1,25 @@
+{
+	"id": "Cryogonal",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cryogonal"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 10,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mutated_ice_flats"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

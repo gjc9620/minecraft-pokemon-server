@@ -1,0 +1,207 @@
+{
+  "pixelmonName": "Beedrill",
+  "pokemon": "Beedrill",
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defence": 40,
+    "Speed": 75,
+    "SpecialAttack": 45,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.0,
+  "width": 0.5,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Kakuna",
+    "Weedle"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2,
+    "SpecialDefence": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 29.5,
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Fury Attack"
+    ],
+    "10": [
+      "Fury Attack"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "16": [
+      "Twineedle"
+    ],
+    "19": [
+      "Rage"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Toxic Spikes"
+    ],
+    "28": [
+      "Pin Missile"
+    ],
+    "31": [
+      "Agility"
+    ],
+    "34": [
+      "Assurance"
+    ],
+    "37": [
+      "Poison Jab"
+    ],
+    "40": [
+      "Endeavor"
+    ],
+    "45": [
+      "Fell Stinger"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Defog",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Drill Run",
+    "Electroweb",
+    "Endeavor",
+    "Iron Defense",
+    "Knock Off",
+    "Ominous Wind",
+    "String Shot",
+    "Tailwind",
+    "Agility",
+    "Baton Pass",
+    "Fury Attack",
+    "Pursuit",
+    "Harden",
+    "Focus Energy"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 65,
+        "Attack": 150,
+        "Defence": 40,
+        "Speed": 145,
+        "SpecialAttack": 15,
+        "SpecialDefence": 145
+      },
+      "height": 1.4,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 40.5,
+      "abilities": [
+        "Adaptability",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

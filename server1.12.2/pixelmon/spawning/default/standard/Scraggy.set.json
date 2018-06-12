@@ -1,0 +1,25 @@
+{
+	"id": "Scraggy",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Scraggy"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 15,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"arid"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

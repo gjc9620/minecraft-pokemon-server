@@ -1,0 +1,183 @@
+{
+  "pixelmonName": "Lillipup",
+  "pokemon": "Lillipup",
+  "stats": {
+    "HP": 45,
+    "Attack": 60,
+    "Defence": 45,
+    "Speed": 55,
+    "SpecialAttack": 25,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 4,
+  "spawnLevelRange": 11,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 4.1,
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Herdier"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 16,
+      "to": {
+        "name": "Herdier"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "VitalSpirit",
+    "Pickup",
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Tackle"
+    ],
+    "5": [
+      "Odor Sleuth"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "10": [
+      "Baby-Doll Eyes"
+    ],
+    "12": [
+      "Helping Hand"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Work Up"
+    ],
+    "22": [
+      "Crunch"
+    ],
+    "26": [
+      "Roar"
+    ],
+    "29": [
+      "Retaliate"
+    ],
+    "33": [
+      "Reversal"
+    ],
+    "36": [
+      "Last Resort"
+    ],
+    "40": [
+      "Giga Impact"
+    ],
+    "45": [
+      "Play Rough"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl",
+    "Take Down",
+    "Snore",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Secret Power",
+    "Confide",
+    "Shock Wave"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Helping Hand",
+    "Hyper Voice",
+    "Last Resort",
+    "Uproar",
+    "After You",
+    "Bite",
+    "Charm",
+    "Howl",
+    "Pursuit",
+    "Reversal",
+    "Yawn",
+    "Tackle",
+    "Leer",
+    "After You"
+  ],
+  "eggMoves": [
+    "After You",
+    "Charm",
+    "Endure",
+    "Fire Fang",
+    "Howl",
+    "Ice Fang",
+    "Lick",
+    "Mud-Slap",
+    "Pursuit",
+    "Thunder Fang",
+    "Yawn",
+    "Sand-Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

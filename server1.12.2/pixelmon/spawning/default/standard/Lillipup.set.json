@@ -1,0 +1,26 @@
+{
+	"id": "Lillipup",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lillipup"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 4,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"minecraft:plains",
+					"forest"
+				]
+			},
+			"rarity": 125.0
+		}
+	]
+}

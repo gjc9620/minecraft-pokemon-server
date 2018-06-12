@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Magby",
+  "pokemon": "Magby",
+  "stats": {
+    "HP": 45,
+    "Attack": 75,
+    "Defence": 37,
+    "Speed": 83,
+    "SpecialAttack": 70,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 75,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 117,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 21.4,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Magmar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "FlameBody",
+    null,
+    "VitalSpirit"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Smog",
+      "Leer"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "SmokeScreen"
+    ],
+    "12": [
+      "Faint Attack"
+    ],
+    "15": [
+      "Fire Spin"
+    ],
+    "19": [
+      "Clear Smog"
+    ],
+    "22": [
+      "Flame Burst"
+    ],
+    "26": [
+      "Confuse Ray"
+    ],
+    "29": [
+      "Fire Punch"
+    ],
+    "33": [
+      "Lava Plume"
+    ],
+    "36": [
+      "Sunny Day"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "43": [
+      "Fire Blast"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Mega Punch",
+    "Mega Kick",
+    "Body Slam",
+    "Double-Edge",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Captivate",
+    "Natural Gift",
+    "Seismic Toss",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Dual Chop",
+    "Heat Wave",
+    "Helping Hand",
+    "Uproar",
+    "Barrier",
+    "Belly Drum",
+    "Dizzy Punch",
+    "Faint Attack",
+    "Flare Blitz",
+    "Focus Energy",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Barrier",
+    "Belly Drum",
+    "Cross Chop",
+    "DynamicPunch",
+    "Flare Blitz",
+    "Focus Energy",
+    "Iron Tail",
+    "Karate Chop",
+    "Mach Punch",
+    "Mega Punch",
+    "Screech",
+    "Thunder Punch",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

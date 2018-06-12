@@ -1,0 +1,37 @@
+{
+	"id": "Lairon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Lairon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Lairon"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 40
+			},
+			"rarity": 10
+		}
+	]
+}

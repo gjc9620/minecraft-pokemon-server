@@ -1,0 +1,27 @@
+{
+	"id": "Taillow",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Taillow"
+			},
+			"stringLocationTypes": [
+				"Land",
+				"Headbutt"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"minecraft:plains",
+					"forests"
+				]
+			},
+			"rarity": 80.0
+		}
+	]
+}

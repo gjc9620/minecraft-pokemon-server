@@ -1,0 +1,41 @@
+{
+	"id": "Drilbur",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Drilbur"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 23,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas",
+					"arid"
+				]
+			},
+			"rarity": 50.0
+		},
+		{
+			"spec": {
+				"name": "Drilbur"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 23,
+			"maxLevel": 30,
+			"condition": {
+				"maxY": 50
+			},
+			"typeID": "pokemon",
+			"rarity": 50.0
+		}
+	]
+}

@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "Tentacruel",
+  "pokemon": "Tentacruel",
+  "stats": {
+    "HP": 80,
+    "Attack": 70,
+    "Defence": 65,
+    "Speed": 100,
+    "SpecialAttack": 80,
+    "SpecialDefence": 120
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 205,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "height": 1.6,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Tentacool"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 3,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.5,
+    "decayRate": 0.95,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.1,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 55.0,
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    "LiquidOoze",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Reflect Type",
+      "Wring Out",
+      "Poison Sting",
+      "Supersonic",
+      "Constrict",
+      "Acid"
+    ],
+    "4": [
+      "Supersonic"
+    ],
+    "7": [
+      "Constrict"
+    ],
+    "10": [
+      "Acid"
+    ],
+    "13": [
+      "Toxic Spikes"
+    ],
+    "16": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Wrap"
+    ],
+    "22": [
+      "Acid Spray"
+    ],
+    "25": [
+      "BubbleBeam"
+    ],
+    "28": [
+      "Barrier"
+    ],
+    "32": [
+      "Poison Jab"
+    ],
+    "36": [
+      "Brine"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Hex"
+    ],
+    "48": [
+      "Sludge Wave"
+    ],
+    "52": [
+      "Hydro Pump"
+    ],
+    "56": [
+      "Wring Out"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Cut",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Take Down",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Bide",
+    "Skull Bash",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Water Pulse",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Knock Off",
+    "Magic Coat",
+    "Aqua Ring",
+    "Barrier",
+    "Bubble",
+    "Haze",
+    "Hydro Pump",
+    "Rapid Spin",
+    "Tickle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Aqua Ring",
+    "Aurora Beam",
+    "Bubble",
+    "Confuse Ray",
+    "Haze",
+    "Knock Off",
+    "Mirror Coat",
+    "Muddy Water",
+    "Rapid Spin",
+    "Tickle"
+  ],
+  "forms": {},
+  "form": -1
+}

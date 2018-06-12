@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "doctor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Doc"
+        },
+        {
+            "name": "Dr. Pill"
+        },
+        {
+            "name": "Dr. Smith"
+        },
+        {
+            "name": "Dr. Vacaciones"
+        },
+        {
+            "name": "Dr. Feelbetter"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Saca la lengua y di aah."
+                },
+                {
+                    "text": "Estás un poco pálido. ¿Quieres beber algo?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dios mío, deberías de tomar más el sol. Es bueno para los huesos, ¿lo sabías?."
+                },
+                {
+                    "text": "¿Eres mi siguiente paciente? Ahora mismo estoy muy ocupado."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sólo yo tengo la mejor medicina. ¡La he hecho yo mismo!"
+                },
+                {
+                    "text": "Debería de haber estudiado para convertirme en doctor Pokémon. Es mucho más interesante."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No olvides tomarte la medicina dos veces al día. Puede que tres veces. O cuatro..."
+                },
+                {
+                    "text": "¡La mejor medicina es la sonrisa! ¿Te sabes algún chiste?"
+                }
+            ]
+        }
+    ]
+}

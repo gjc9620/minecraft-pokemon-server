@@ -1,0 +1,185 @@
+{
+  "pixelmonName": "Conkeldurr",
+  "pokemon": "Conkeldurr",
+  "stats": {
+    "HP": 105,
+    "Attack": 140,
+    "Defence": 95,
+    "Speed": 45,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 75,
+  "spawnLevel": 40,
+  "spawnLevelRange": 12,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gurdurr",
+    "Timburr"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 87.0,
+  "evolutions": [],
+  "abilities": [
+    "Guts",
+    "SheerForce",
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Leer",
+      "Focus Energy",
+      "Bide"
+    ],
+    "4": [
+      "Focus Energy"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "12": [
+      "Low Kick"
+    ],
+    "16": [
+      "Rock Throw"
+    ],
+    "20": [
+      "Wake-Up Slap"
+    ],
+    "24": [
+      "Chip Away"
+    ],
+    "29": [
+      "Bulk Up"
+    ],
+    "33": [
+      "Rock Slide"
+    ],
+    "37": [
+      "DynamicPunch"
+    ],
+    "41": [
+      "Scary Face"
+    ],
+    "45": [
+      "Hammer Arm"
+    ],
+    "49": [
+      "Stone Edge"
+    ],
+    "53": [
+      "Focus Punch"
+    ],
+    "57": [
+      "Superpower"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Counter",
+    "Bide",
+    "DynamicPunch",
+    "Snore",
+    "Endure",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Detect",
+    "Fire Punch",
+    "Focus Punch",
+    "Drain Punch",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Block",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Superpower",
+    "Foresight",
+    "Reversal",
+    "Rock Throw",
+    "Scary Face",
+    "Focus Energy",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Comet Punch",
+    "Counter",
+    "Detect",
+    "Drain Punch",
+    "Endure",
+    "Force Palm",
+    "Foresight",
+    "Mach Punch",
+    "Reversal",
+    "Wide Guard",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

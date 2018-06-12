@@ -1,0 +1,197 @@
+{
+  "pixelmonName": "Venomoth",
+  "pokemon": "Venomoth",
+  "stats": {
+    "HP": 70,
+    "Attack": 65,
+    "Defence": 60,
+    "Speed": 90,
+    "SpecialAttack": 90,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 19,
+  "baseExp": 138,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.5,
+  "width": 0.9,
+  "length": 0.3,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Venonat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "hoverHeight": 1.0,
+  "weight": 12.5,
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    "TintedLens",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Quiver Dance",
+      "Bug Buzz",
+      "Silver Wind",
+      "Tackle",
+      "Disable",
+      "Foresight",
+      "Supersonic"
+    ],
+    "5": [
+      "Supersonic"
+    ],
+    "11": [
+      "Confusion"
+    ],
+    "13": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Leech Life"
+    ],
+    "23": [
+      "Stun Spore"
+    ],
+    "25": [
+      "Psybeam"
+    ],
+    "29": [
+      "Sleep Powder"
+    ],
+    "31": [
+      "Gust"
+    ],
+    "37": [
+      "Signal Beam"
+    ],
+    "41": [
+      "Zen Headbutt"
+    ],
+    "47": [
+      "Poison Fang"
+    ],
+    "55": [
+      "Psychic"
+    ],
+    "59": [
+      "Bug Buzz"
+    ],
+    "63": [
+      "Quiver Dance"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Swagger",
+    "U-Turn",
+    "Substitute",
+    "Defog",
+    "Razor Wind",
+    "Whirlwind",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Teleport",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Psywave",
+    "Curse",
+    "Sweet Scent",
+    "Snore",
+    "Giga Drain",
+    "Endure",
+    "Sleep Talk",
+    "Skill Swap",
+    "Roost",
+    "Silver Wind",
+    "Captivate",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Air Cutter",
+    "Bug Bite",
+    "Ominous Wind",
+    "Signal Beam",
+    "String Shot",
+    "Tailwind",
+    "Twister",
+    "Zen Headbutt",
+    "Agility",
+    "Baton Pass",
+    "Foresight",
+    "Gust",
+    "Morning Sun",
+    "Refresh",
+    "Tackle",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Baton Pass",
+    "Bug Bite",
+    "Giga Drain",
+    "Morning Sun",
+    "Rage Powder",
+    "Screech",
+    "Secret Power",
+    "Signal Beam",
+    "Skill Swap",
+    "Toxic Spikes"
+  ],
+  "forms": {},
+  "form": -1
+}

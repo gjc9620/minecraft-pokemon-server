@@ -1,0 +1,190 @@
+{
+  "pixelmonName": "Larvitar",
+  "pokemon": "Larvitar",
+  "stats": {
+    "HP": 50,
+    "Attack": 64,
+    "Defence": 50,
+    "Speed": 41,
+    "SpecialAttack": 45,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 67,
+  "baseFriendship": 35,
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 72.0,
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Pupitar"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Guts",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Leer"
+    ],
+    "5": [
+      "Sandstorm"
+    ],
+    "10": [
+      "Screech"
+    ],
+    "14": [
+      "Chip Away"
+    ],
+    "19": [
+      "Rock Slide"
+    ],
+    "23": [
+      "Scary Face"
+    ],
+    "28": [
+      "Thrash"
+    ],
+    "32": [
+      "Dark Pulse"
+    ],
+    "37": [
+      "Payback"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "46": [
+      "Earthquake"
+    ],
+    "50": [
+      "Stone Edge"
+    ],
+    "55": [
+      "Hyper Beam"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Body Slam",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Detect",
+    "Stealth Rock",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "AncientPower",
+    "Earth Power",
+    "Iron Defense",
+    "Iron Head",
+    "Outrage",
+    "Spite",
+    "Superpower",
+    "Uproar",
+    "Bite",
+    "Pursuit",
+    "Scary Face",
+    "Thrash",
+    "Stomp",
+    "Focus Energy",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Curse",
+    "Dragon Dance",
+    "Focus Energy",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Outrage",
+    "Pursuit",
+    "Stealth Rock",
+    "Stomp",
+    "AncientPower"
+  ],
+  "forms": {},
+  "form": -1
+}

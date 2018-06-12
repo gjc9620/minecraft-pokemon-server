@@ -1,0 +1,31 @@
+{
+	"id": "Druddigon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Druddigon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 50,
+			"maxLevel": 62,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"hills",
+					"mutated_mesa"
+				]
+			},
+			"anticondition": {
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

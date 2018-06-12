@@ -1,0 +1,24 @@
+{
+	"id": "Durant",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Durant"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 34,
+			"maxLevel": 46,
+			"typeID": "pokemon",
+			"condition": {
+				"minY": 70,
+				"maxLightLevel": 10,
+				"stringBiomes": [
+					"mountainous"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

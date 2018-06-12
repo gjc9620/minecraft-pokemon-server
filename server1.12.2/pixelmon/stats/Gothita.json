@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Gothita",
+  "pokemon": "Gothita",
+  "stats": {
+    "HP": 45,
+    "Attack": 30,
+    "Defence": 50,
+    "Speed": 45,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 25,
+  "spawnLevel": 20,
+  "spawnLevelRange": 11,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.4,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 5.8,
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Gothorita"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 32,
+      "to": {
+        "name": "Gothorita"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Frisk",
+    "Competitive",
+    "ShadowTag"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound"
+    ],
+    "3": [
+      "Confusion"
+    ],
+    "7": [
+      "Tickle"
+    ],
+    "8": [
+      "Play Nice"
+    ],
+    "10": [
+      "Fake Tears"
+    ],
+    "14": [
+      "DoubleSlap"
+    ],
+    "16": [
+      "Psybeam"
+    ],
+    "19": [
+      "Embargo"
+    ],
+    "24": [
+      "Faint Attack"
+    ],
+    "25": [
+      "Psyshock"
+    ],
+    "28": [
+      "Flatter"
+    ],
+    "31": [
+      "Future Sight"
+    ],
+    "33": [
+      "Heal Block"
+    ],
+    "37": [
+      "Psychic"
+    ],
+    "40": [
+      "Telekinesis"
+    ],
+    "46": [
+      "Charm"
+    ],
+    "48": [
+      "Magic Room"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Snore",
+    "Sleep Talk",
+    "Skill Swap",
+    "Snatch",
+    "Recycle",
+    "Captivate",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide",
+    "Shock Wave",
+    "Dark Pulse"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Gravity",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Magic Room",
+    "Role Play",
+    "Signal Beam",
+    "Trick",
+    "Uproar",
+    "Zen Headbutt",
+    "Charm",
+    "DoubleSlap",
+    "Faint Attack",
+    "Heal Pulse",
+    "Tickle"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Dark Pulse",
+    "Heal Pulse",
+    "Mean Look",
+    "Miracle Eye",
+    "Mirror Coat",
+    "Uproar"
+  ],
+  "forms": {},
+  "form": -1
+}

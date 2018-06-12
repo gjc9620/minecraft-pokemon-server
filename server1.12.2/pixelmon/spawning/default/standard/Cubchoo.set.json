@@ -1,0 +1,27 @@
+{
+	"id": "Cubchoo",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Cubchoo"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 22,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"freezing forests",
+					"ice_flats",
+					"frozen_ocean"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

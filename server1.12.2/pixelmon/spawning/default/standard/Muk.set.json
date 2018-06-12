@@ -1,0 +1,25 @@
+{
+	"id": "Muk",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Muk"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 38,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 30.0
+		}
+	]
+}

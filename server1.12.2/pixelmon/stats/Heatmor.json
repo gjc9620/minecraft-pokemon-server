@@ -1,0 +1,175 @@
+{
+  "pixelmonName": "Heatmor",
+  "pokemon": "Heatmor",
+  "stats": {
+    "HP": 85,
+    "Attack": 97,
+    "Defence": 66,
+    "Speed": 65,
+    "SpecialAttack": 105,
+    "SpecialDefence": 66
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.4,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 58.0,
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    "FlashFire",
+    "WhiteSmoke"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Inferno",
+      "Hone Claws",
+      "Tackle",
+      "Incinerate",
+      "Lick"
+    ],
+    "6": [
+      "Odor Sleuth"
+    ],
+    "11": [
+      "Bind"
+    ],
+    "16": [
+      "Fire Spin"
+    ],
+    "21": [
+      "Fury Swipes"
+    ],
+    "26": [
+      "Snatch"
+    ],
+    "31": [
+      "Flame Burst"
+    ],
+    "36": [
+      "Bug Bite"
+    ],
+    "41": [
+      "Slash"
+    ],
+    "44": [
+      "Amnesia"
+    ],
+    "47": [
+      "Flamethrower"
+    ],
+    "50": [
+      "Stockpile",
+      "Spit Up",
+      "Swallow"
+    ],
+    "61": [
+      "Inferno"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Body Slam",
+    "Curse",
+    "Snore",
+    "Giga Drain",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fire Punch",
+    "Snatch",
+    "Recycle",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide",
+    "Focus Punch"
+  ],
+  "tutorMoves": [
+    "Bind",
+    "Bug Bite",
+    "Gastro Acid",
+    "Heat Wave",
+    "Knock Off",
+    "Low Kick",
+    "Sucker Punch",
+    "Superpower",
+    "Amnesia",
+    "Faint Attack",
+    "Pursuit",
+    "Tickle",
+    "Slash",
+    "Inferno"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Curse",
+    "Heat Wave",
+    "Night Slash",
+    "Pursuit",
+    "Sleep Talk",
+    "Sucker Punch",
+    "Tickle",
+    "Wrap",
+    "Faint Attack",
+    "Belch"
+  ],
+  "forms": {},
+  "form": -1
+}

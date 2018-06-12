@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Skorupi",
+  "pokemon": "Skorupi",
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defence": 90,
+    "Speed": 65,
+    "SpecialAttack": 30,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Bug"
+  ],
+  "height": 0.8,
+  "width": 0.6,
+  "length": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Drapion"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    "Sniper",
+    "KeenEye"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Poison Sting",
+      "Leer"
+    ],
+    "5": [
+      "Knock Off"
+    ],
+    "9": [
+      "Pin Missile"
+    ],
+    "13": [
+      "Acupressure"
+    ],
+    "16": [
+      "Pursuit"
+    ],
+    "20": [
+      "Bug Bite"
+    ],
+    "23": [
+      "Poison Fang"
+    ],
+    "27": [
+      "Venoshock"
+    ],
+    "30": [
+      "Hone Claws"
+    ],
+    "34": [
+      "Toxic Spikes"
+    ],
+    "38": [
+      "Night Slash"
+    ],
+    "41": [
+      "Scary Face"
+    ],
+    "45": [
+      "Crunch"
+    ],
+    "47": [
+      "Fell Stinger"
+    ],
+    "49": [
+      "Cross Poison"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Cut",
+    "Strength",
+    "Whirlwind",
+    "Headbutt",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bug Bite",
+    "Knock Off",
+    "Agility",
+    "Bite",
+    "Faint Attack",
+    "Pursuit",
+    "Scary Face",
+    "Slash",
+    "Leer",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Confuse Ray",
+    "Iron Tail",
+    "Night Slash",
+    "Poison Tail",
+    "Pursuit",
+    "Screech",
+    "Slash",
+    "Twineedle",
+    "Whirlwind",
+    "Faint Attack",
+    "Sand-Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

@@ -1,0 +1,26 @@
+{
+	"id": "Gastrodon",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Gastrodon"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 40,
+			"maxLevel": 60,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"RAIN"
+				],
+				"stringBiomes": [
+					"oceanic",
+					"swamps"
+				]
+			},
+			"rarity": 50
+		}
+	]
+}

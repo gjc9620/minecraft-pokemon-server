@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Ninetales",
+  "pokemon": "Ninetales",
+  "stats": {
+    "HP": 73,
+    "Attack": 76,
+    "Defence": 75,
+    "Speed": 100,
+    "SpecialAttack": 81,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 25,
+  "spawnLevel": 20,
+  "spawnLevelRange": 30,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.1,
+  "width": 0.4,
+  "length": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vulpix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.1
+    }
+  },
+  "weight": 19.9,
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "Drought"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Imprison",
+      "Nasty Plot",
+      "Flamethrower",
+      "Quick Attack",
+      "Confuse Ray",
+      "Safeguard"
+    ]
+  },
+  "tmMoves": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "SolarBeam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Energy Ball",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Payback",
+    "Giga Impact",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Sleep Talk",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Heat Wave",
+    "Ominous Wind",
+    "Pain Split",
+    "Role Play",
+    "Spite",
+    "Zen Headbutt",
+    "Charm",
+    "Extrasensory",
+    "Faint Attack",
+    "Flail",
+    "Flare Blitz",
+    "Howl",
+    "Hypnosis",
+    "Nasty Plot"
+  ],
+  "eggMoves": [
+    "Captivate",
+    "Disable",
+    "Extrasensory",
+    "Flail",
+    "Flare Blitz",
+    "Heat Wave",
+    "Hex",
+    "Howl",
+    "Hypnosis",
+    "Power Swap",
+    "Secret Power",
+    "Spite",
+    "Tail Slap",
+    "Faint Attack"
+  ],
+  "forms": {},
+  "form": -1
+}

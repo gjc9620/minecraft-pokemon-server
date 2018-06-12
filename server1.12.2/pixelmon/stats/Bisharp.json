@@ -1,0 +1,194 @@
+{
+  "pixelmonName": "Bisharp",
+  "pokemon": "Bisharp",
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 52,
+  "spawnLevelRange": 8,
+  "baseExp": 172,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Steel"
+  ],
+  "height": 1.6,
+  "width": 1.6,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pawniard"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 70.0,
+  "evolutions": [],
+  "abilities": [
+    "Defiant",
+    "InnerFocus",
+    "Pressure"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Guillotine",
+      "Iron Head",
+      "Metal Burst",
+      "Scratch",
+      "Leer",
+      "Fury Cutter",
+      "Torment"
+    ],
+    "6": [
+      "Leer"
+    ],
+    "9": [
+      "Fury Cutter"
+    ],
+    "14": [
+      "Torment"
+    ],
+    "17": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Scary Face"
+    ],
+    "25": [
+      "Metal Claw"
+    ],
+    "30": [
+      "Slash"
+    ],
+    "33": [
+      "Assurance"
+    ],
+    "38": [
+      "Metal Sound"
+    ],
+    "41": [
+      "Embargo"
+    ],
+    "46": [
+      "Iron Defense"
+    ],
+    "49": [
+      "Night Slash"
+    ],
+    "57": [
+      "Iron Head"
+    ],
+    "63": [
+      "Swords Dance"
+    ],
+    "71": [
+      "Guillotine"
+    ]
+  },
+  "tmMoves": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl",
+    "Cut",
+    "Headbutt",
+    "Snore",
+    "Sleep Talk",
+    "Fury Cutter",
+    "Snatch",
+    "Stealth Rock",
+    "Dark Pulse",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Dual Chop",
+    "Foul Play",
+    "Iron Defense",
+    "Iron Head",
+    "Knock Off",
+    "Low Kick",
+    "Magnet Rise",
+    "Role Play",
+    "Spite",
+    "Sucker Punch",
+    "Faint Attack",
+    "Metal Sound",
+    "Pursuit",
+    "Scary Face",
+    "Slash",
+    "Leer"
+  ],
+  "eggMoves": [
+    "Headbutt",
+    "Mean Look",
+    "Psycho Cut",
+    "Pursuit",
+    "Quick Guard",
+    "Revenge",
+    "Stealth Rock",
+    "Sucker Punch"
+  ],
+  "forms": {},
+  "form": -1
+}

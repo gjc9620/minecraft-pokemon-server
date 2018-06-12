@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Wooper",
+  "pokemon": "Wooper",
+  "stats": {
+    "HP": 55,
+    "Attack": 45,
+    "Defence": 45,
+    "Speed": 15,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 14,
+  "baseExp": 52,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.4,
+  "width": 0.3,
+  "length": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.79,
+    "refreshRate": 70
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 8.5,
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Quagsire"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Damp",
+    "WaterAbsorb",
+    "Unaware"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun",
+      "Tail Whip"
+    ],
+    "5": [
+      "Mud Sport"
+    ],
+    "9": [
+      "Mud Shot"
+    ],
+    "15": [
+      "Slam"
+    ],
+    "19": [
+      "Mud Bomb"
+    ],
+    "23": [
+      "Amnesia"
+    ],
+    "29": [
+      "Yawn"
+    ],
+    "33": [
+      "Earthquake"
+    ],
+    "37": [
+      "Rain Dance"
+    ],
+    "43": [
+      "Mist",
+      "Haze"
+    ],
+    "47": [
+      "Muddy Water"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Flash",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Body Slam",
+    "Double-Edge",
+    "Water Gun",
+    "Counter",
+    "Mimic",
+    "DynamicPunch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Infestation",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "After You",
+    "AncientPower",
+    "Aqua Tail",
+    "Earth Power",
+    "Amnesia",
+    "Belly Drum",
+    "Encore",
+    "Haze",
+    "Mist",
+    "Mud Sport",
+    "Scary Face",
+    "Yawn"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "After You",
+    "Body Slam",
+    "Counter",
+    "Curse",
+    "Double Kick",
+    "Encore",
+    "Guard Swap",
+    "Mud Sport",
+    "Recover",
+    "Sleep Talk",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "AncientPower",
+    "Eerie Impulse"
+  ],
+  "forms": {},
+  "form": -1
+}

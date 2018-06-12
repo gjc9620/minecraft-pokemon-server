@@ -1,0 +1,218 @@
+{
+  "pixelmonName": "Croagunk",
+  "pokemon": "Croagunk",
+  "stats": {
+    "HP": 48,
+    "Attack": 61,
+    "Defence": 40,
+    "Speed": 50,
+    "SpecialAttack": 61,
+    "SpecialDefence": 40
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 11,
+  "baseExp": 83,
+  "baseFriendship": 100,
+  "types": [
+    "Poison",
+    "Fighting"
+  ],
+  "height": 0.7,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 23.0,
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Toxicroak"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    },
+    {
+      "level": 37,
+      "to": {
+        "name": "Toxicroak"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Anticipation",
+    "DrySkin",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Astonish"
+    ],
+    "3": [
+      "Mud-Slap"
+    ],
+    "8": [
+      "Poison Sting"
+    ],
+    "10": [
+      "Taunt"
+    ],
+    "15": [
+      "Pursuit"
+    ],
+    "17": [
+      "Faint Attack"
+    ],
+    "22": [
+      "Revenge"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "29": [
+      "Mud Bomb"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Venoshock"
+    ],
+    "38": [
+      "Nasty Plot"
+    ],
+    "43": [
+      "Poison Jab"
+    ],
+    "45": [
+      "Sludge Bomb"
+    ],
+    "47": [
+      "Belch"
+    ],
+    "50": [
+      "Flatter"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Strength",
+    "Rock Climb",
+    "Counter",
+    "DynamicPunch",
+    "Headbutt",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Ice Punch",
+    "Sleep Talk",
+    "Thunder Punch",
+    "Fury Cutter",
+    "Focus Punch",
+    "Snatch",
+    "Drain Punch",
+    "Captivate",
+    "Dark Pulse",
+    "Natural Gift",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Dual Chop",
+    "Foul Play",
+    "Gunk Shot",
+    "Helping Hand",
+    "Knock Off",
+    "Low Kick",
+    "Role Play",
+    "Spite",
+    "Sucker Punch",
+    "Super Fang",
+    "Vacuum Wave",
+    "Faint Attack",
+    "Fake Out",
+    "Nasty Plot",
+    "Pursuit"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Bullet Punch",
+    "Counter",
+    "Cross Chop",
+    "Drain Punch",
+    "Fake Out",
+    "Feint",
+    "Headbutt",
+    "Me First",
+    "Meditate",
+    "Quick Guard",
+    "Vacuum Wave",
+    "Wake-Up Slap",
+    "DynamicPunch",
+    "SmellingSalt"
+  ],
+  "forms": {},
+  "form": -1
+}

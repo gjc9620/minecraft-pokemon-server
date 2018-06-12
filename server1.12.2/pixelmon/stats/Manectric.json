@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Manectric",
+  "pokemon": "Manectric",
+  "stats": {
+    "HP": 70,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 105,
+    "SpecialAttack": 105,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.5,
+  "width": 1.0,
+  "length": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Electrike"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 40.2,
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    "LightningRod",
+    "Minus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Electric Terrain",
+      "Fire Fang",
+      "Tackle",
+      "Thunder Wave",
+      "Leer",
+      "Howl"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Howl"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "13": [
+      "Spark"
+    ],
+    "16": [
+      "Odor Sleuth"
+    ],
+    "19": [
+      "Thunder Fang"
+    ],
+    "24": [
+      "Bite"
+    ],
+    "30": [
+      "Discharge"
+    ],
+    "36": [
+      "Roar"
+    ],
+    "42": [
+      "Wild Charge"
+    ],
+    "48": [
+      "Charge"
+    ],
+    "54": [
+      "Thunder"
+    ],
+    "60": [
+      "Electric Terrain"
+    ]
+  },
+  "tmMoves": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Snarl",
+    "Strength",
+    "Body Slam",
+    "Double-Edge",
+    "Mimic",
+    "Swift",
+    "Headbutt",
+    "Curse",
+    "Snore",
+    "Endure",
+    "Iron Tail",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Shock Wave",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Magnet Rise",
+    "Signal Beam",
+    "Uproar",
+    "Bite",
+    "Howl",
+    "Refresh",
+    "Tackle",
+    "Leer",
+    "Refresh"
+  ],
+  "eggMoves": [
+    "Crunch",
+    "Curse",
+    "Discharge",
+    "Electro Ball",
+    "Fire Fang",
+    "Flame Burst",
+    "Headbutt",
+    "Ice Fang",
+    "Shock Wave",
+    "Swift",
+    "Switcheroo",
+    "Thunder Fang",
+    "Uproar",
+    "Eerie Impulse"
+  ],
+  "forms": {
+    "1": {
+      "stats": {
+        "HP": 70,
+        "Attack": 75,
+        "Defence": 80,
+        "Speed": 135,
+        "SpecialAttack": 135,
+        "SpecialDefence": 80
+      },
+      "height": 1.8,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 44.0,
+      "abilities": [
+        "Intimidate",
+        null,
+        null
+      ],
+      "form": 1
+    }
+  },
+  "form": -1
+}

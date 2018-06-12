@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Anabel"
+        },
+        {
+            "name": "Zoe"
+        },
+        {
+            "name": "Chloe"
+        },
+        {
+            "name": "Babs"
+        },
+        {
+            "name": "Tasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oh, ¿dónde estabas esperando? No te había visto."
+                },
+                {
+                    "text": "¡Vale, vale, espera un segundo! ¿Qué quieres comprar, de todos modos?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bienvenido a la tienda. *Bostezo..."
+                },
+                {
+                    "text": "¿Porqué tendría que saber si tenemos ese tamaño en nuestras existencias? ¿No te puedes conformar con una pequeña?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Puedo hacer algo por tí? ...*Suspiro."
+                },
+                {
+                    "text": "Si, bueno, estoy un poco ocupada. Decídete y coje algo, ¿vale?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si, se que has estado esperando. ¡Todos estamos esperando algo!"
+                },
+                {
+                    "text": "¿Qué debería escojer? Demonios, ¡no compraría aquí ni por un millón de dolares!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hola, ¿vas a comprar eso?"
+                },
+                {
+                    "text": "Bueno, ¡pues no lo dejes ahí! ¡Colocalo de nuevo en su estante tú mismo!"
+                }
+            ]
+        }
+    ]
+}

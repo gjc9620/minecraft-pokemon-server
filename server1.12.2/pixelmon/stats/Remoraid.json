@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Remoraid",
+  "pokemon": "Remoraid",
+  "stats": {
+    "HP": 35,
+    "Attack": 65,
+    "Defence": 35,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 19,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "width": 0.7,
+  "length": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 12.0,
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Octillery"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    "Sniper",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun"
+    ],
+    "6": [
+      "Lock-On"
+    ],
+    "10": [
+      "Psybeam"
+    ],
+    "14": [
+      "Aurora Beam"
+    ],
+    "18": [
+      "BubbleBeam"
+    ],
+    "22": [
+      "Focus Energy"
+    ],
+    "26": [
+      "Water Pulse"
+    ],
+    "30": [
+      "Signal Beam"
+    ],
+    "34": [
+      "Ice Beam"
+    ],
+    "38": [
+      "Bullet Seed"
+    ],
+    "42": [
+      "Hydro Pump"
+    ],
+    "46": [
+      "Hyper Beam"
+    ],
+    "50": [
+      "Soak"
+    ]
+  },
+  "tmMoves": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Charge Beam",
+    "Incinerate",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dive",
+    "Whirlpool",
+    "Double-Edge",
+    "BubbleBeam",
+    "Water Gun",
+    "Mimic",
+    "Swift",
+    "Curse",
+    "Snore",
+    "Icy Wind",
+    "Endure",
+    "Mud-Slap",
+    "Sleep Talk",
+    "Defense Curl",
+    "Water Pulse",
+    "Bullet Seed",
+    "Brine",
+    "Captivate",
+    "Natural Gift",
+    "Secret Power",
+    "Confide"
+  ],
+  "tutorMoves": [
+    "Bounce",
+    "Gunk Shot",
+    "Seed Bomb",
+    "Signal Beam",
+    "String Shot",
+    "Amnesia",
+    "Flail",
+    "Haze",
+    "Hydro Pump",
+    "Mist",
+    "Octazooka",
+    "Focus Energy",
+    "Screech"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Aurora Beam",
+    "Entrainment",
+    "Flail",
+    "Haze",
+    "Mud Shot",
+    "Octazooka",
+    "Rock Blast",
+    "Screech",
+    "Snore",
+    "Supersonic",
+    "Swift",
+    "Water Pulse",
+    "Water Spout"
+  ],
+  "forms": {},
+  "form": -1
+}
