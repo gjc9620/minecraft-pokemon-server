@@ -1,4 +1,4 @@
-# minecraft-pokemon-server
+# Minecraft-pokemon-server
 A simple minecraft pokemon server
 
 * Support version 1.12.2
