@@ -9,7 +9,7 @@ A simple minecraft pokemon server
 * Install java8
 * Clone ro download the the resprepository
 * download (Pixelmon.jar)[Pixelmon-1.12.2-6.3.0-universal.jar]
-* put in server1.12.2/mods/
+* put `in server1.12.2/mods/`
 * Run `./startPM.sh`
 
 ## Follow these steps if you want a Spigot server:
